@@ -1,0 +1,293 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITR No. 193 of 1988
+Judgment reserved on: April 02, 2008
+
+%
+
+Judgment delivered on: April 11, 2008
+The Commissioner of Income Tax
+Delhi-XIII,
+New Delhi
+…. Petitioner
+Through Mr. J.R. Goel, Advocate.
+Versus
+Dr. Yogender Sharma,
+E-34, Krishan Nagar,
+Delhi-110051
+…. Respondent
+Through Ms. Kavita Jha with Mr. Sandeep
+S. Karhail, Advocates.
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+MADAN B. LOKUR, J.
+In this reference under Section 256(1) of the Income Tax
+ITR No.193/1988
+
+Page 1 of 8
+
+Act, 1961 (for short the Act), the following question of law has been
+referred for our opinion: “Whether on the facts and in the circumstances of the case,
+the ITAT was correct in law in directing the ITO to grant
+investment allowance to the assessee in terms of Section 32A
+of the Income-tax Act, 1961?”
+2.
+
+The Assessee is a practicing Radiologist and he had installed
+
+an X-ray machine on which he claimed a deduction by way of an
+investment allowance under Section 32A of the Act.
+
+This was
+
+disallowed by the Assessing Officer and also by the Commissioner of
+Income Tax (Appeals). However, the Income Tax Appellate Tribunal
+(for short the Tribunal) while relying upon an order passed by the
+Nagpur Bench of the Tribunal in some other case came to the
+conclusion that the Assessee was entitled to the deduction under Section
+32A of the Act. It is in these circumstances that the present reference is
+made to this Court.
+3.
+
+It is not clear from the statement of the case whether the
+
+Assessee had purchased the X-ray machine for installation in his clinic
+or somewhere else. Learned counsel for the parties say that we may
+proceed on the basis that X-ray machine was installed in the clinic of the
+Assessee.
+
+ITR No.193/1988
+
+Page 2 of 8
+
+4.
+
+Section 32(A) (1) of the Act provides that an Assessee may
+
+claim a deduction (under certain conditions) in respect of machinery or
+plant specified in sub-section (2), which is owned by the Assessee and is
+wholly used for the purposes of the business carried on by him.
+5.
+
+Section 32A (2) of the Act provides that the machinery or
+
+plant referred to in sub-Section (1) would, inter-alia, be the following
+namely: “any new machinery or plant installed after 31 st March,1976
+in a small-scale industrial undertaking for the purposes of
+business of manufacture or production of any article or
+thing.”
+6.
+
+A reading of the above provision shows (as far as we are
+
+concerned) that the machinery or plant should first of all be installed in
+a small scale industrial undertaking. The second requirement is that the
+machinery or plant must be used for the purposes of business of
+manufacture or production of any article or thing.
+7.
+
+We have been told by learned counsel for the parties that an
+
+issue similar to the present, had arisen in several High Courts and all the
+High Courts except the Bombay High Court have taken a view that in a
+clinic or a hospital or a diagnostic centre, such machinery or plant
+would be entitled to the benefit of investment allowance. Unfortunately,
+we are not in agreement with the High Courts other than the Bombay
+ITR No.193/1988
+
+Page 3 of 8
+
+High Court.
+8.
+
+In Commissioner of Income Tax v. Trinity Hospital, [1997]
+
+225 ITR 178, the Rajasthan High Court dealt with X-ray machines,
+ultrasound scanner etc. installed in a hospital/nursing home.
+
+The
+
+Rajasthan High Court proceeded to consider whether an X-ray machine,
+ultrasound scanner etc. produces or manufactures any article or thing.
+This question was answered in the affirmative and with regard to the
+question whether the hospital was a small scale industrial undertaking,
+reliance was placed upon Explanation (2) to Section 32A(2) of the Act,
+which provides as follows: “An industrial undertaking shall be deemed to be a “smallscale undertaking”, if the aggregate value of the machinery
+and plant (other than tools, jigs, dies and moulds) installed,
+as on the last day of previous year, for the purposes of the
+business of the undertaking, does not exceed……….”
+9.
+
+The Rajasthan High Court held that for being classified as a
+
+small scale undertaking, it is necessary that the investment made should
+be less than the prescribed financial limit provided in the Act and since
+the Assessee had spent less than that limit on the installation of
+machines, it is a small scale industrial undertaking.
+10.
+
+In Commissioner of Income Tax v. Upasana Hospital,
+
+[1997] 225 ITR 845 the Kerala High Court dealt with an X-ray machine
+
+ITR No.193/1988
+
+Page 4 of 8
+
+and other accessories such as I.C.C.U. and E.C.G. equipment in a
+hospital.
+
+The Kerala High Court proceeded on the basis that the
+
+Assessee in that case was carrying on a business and reliance was again
+placed upon Explanation (2) to Section 32A(2) of the Act for coming to
+the conclusion that the Assessee was a small scale industrial
+undertaking since the cost of the plant and machinery installed was
+below the prescribed financial limit.
+11.
+
+The Andhra Pradesh High Court in Commissioner of
+
+Income Tax v. Dr. S.Surender Reddy, [2000] 243 ITR 110 held that an
+X-ray machine produces a different article from what is put into the
+machine, namely, an X-ray film and, therefore, the Assessee in that case
+would be entitled to the benefit of investment allowance since the
+machine is used for the manufacture or production of an article or thing.
+12.
+
+The Gauhati High Court in Commissioner of Income Tax v.
+
+Dr. M.L. Agarwalla, [2002] 258 ITR 102 followed the view expressed
+by the aforesaid three High Courts as well as the view expressed by the
+Madras High Court in Commissioner of Income Tax v. Prasad
+Productions (P.) Ltd., [2001] 247 ITR 445. The same view has been
+expressed by the Kerala High Court in Mar Gregorious Memorial
+Muthood Medical Centre v. Commissioner of Income Tax, [2003] 261
+
+ITR No.193/1988
+
+Page 5 of 8
+
+ITR 443 and by the Gujarat High Court in Commissioner of Income
+Tax v. Suresh and Family Trust, [2007] 288 ITR 101.
+13.
+
+As mentioned above, the Bombay High Court has taken a
+
+different view in Insight Diagnostic and Oncological Research
+Institute Pvt. Ltd. v. Deputy Commissioner of Income Tax, [2003] 262
+ITR 41. In this case, a CT Scan machine was installed in a diagnostic
+centre and it was held that a diagnostic centre is not an industrial
+undertaking in the context of the Income Tax Act. In fact the expression
+“industrial undertaking” must be read in the context of the Income Tax
+Act and not in the context of the Industrial Disputes Act.
+14.
+
+As mentioned above, we are in agreement with the view
+
+taken by the Bombay High Court. What is required to be seen is that the
+machinery or plant must be installed first of all in a small scale
+industrial undertaking and secondly it must be used for the purposes of
+business of manufacture or production of any article or thing. The
+primary question is, therefore, whether a clinic or a diagnostic centre is
+at all a small scale industrial undertaking. Explanation (2) to Section
+32A(2) is a deeming provision and an industrial undertaking shall be
+deemed to be a small scale industrial undertaking, if it satisfies certain
+conditions. But, first of all, it must be an industrial undertaking before
+
+ITR No.193/1988
+
+Page 6 of 8
+
+the deeming provision with regard to the financial limits can be invoked.
+In other words, if a unit is not an industrial undertaking then, even if it
+fulfills the financial requirements, it cannot be deemed to be a small
+scale industrial undertaking.
+
+Therefore, what is to be first seen is
+
+whether a unit is an industrial undertaking or not. If the answer is in the
+negative then the deeming provision cannot be invoked.
+15.
+
+In our opinion the expression “industrial undertaking” is to
+
+be used in the context in which it is used in the Income Tax Act and not
+in the context in which it is used in other laws such as the Industrial
+Disputes Act. If so understood, it cannot be said by any stretch of
+imagination or by the use of common English language, that a hospital
+or a clinic or a diagnostic centre or any such unit is an industrial
+undertaking.
+
+It may be that a machine or a plant within a clinic or a
+
+hospital or a diagnostic centre may manufacture or produce an article or
+thing; but that would not convert a clinic or a hospital or a diagnostic
+centre into an industrial undertaking. The unit must first be an industrial
+undertaking and it is then that we have to see whether it can be deemed
+to be a small scale industrial undertaking and then if it is involved in the
+production or manufacture of an article or thing.
+16.
+
+The primary condition in the present case is not met
+
+ITR No.193/1988
+
+Page 7 of 8
+
+inasmuch as the clinic of the Assessee cannot be said to be an industrial
+undertaking. If that be so, it is of no consequence whether the X-ray
+machine manufactures or produces an article or a thing. The primary
+condition is not met in the first place
+17.
+
+In our opinion, the question of law referred to us is required
+
+to be answered in the negative in favour of the Revenue and against the
+Assessee.
+18.
+
+We wish to express our gratitude to Ms. Kavita Jha,
+
+Advocate who spent so much time and effort on the case as an amicus
+and assisted us unflinchingly.
+19.
+
+The reference is disposed of.
+
+MADAN B. LOKUR, J
+
+April 11, 2008
+vk
+
+V.B. GUPTA, J
+
+Certified that the corrected
+copy of the judgment has been
+transmitted in the main Server.
+
+ITR No.193/1988
+
+Page 8 of 8
+
+

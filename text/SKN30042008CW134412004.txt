@@ -1,0 +1,588 @@
+WP(C) No.13441/2005
+
+Page No. 1
+
+REPORTABLE
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+WRIT PETITION (CIVIL) NO.13441 OF 2004
+
+%
+
+Date of Decision : April 30, 2008.
+
+VINOD KUMAR JAIN
+
+.... Petitioner.
+Through Mr. Arvind Sah, Advocate.
+VERSUS
+
+BSES RAJDHANI POWER LTD.
+
+.... Respondent.
+
+Through Mr. Amit Kapur, Mr.Apoorva
+Misra and Mr. Mohit Jolly, Advocates
+
+CORAM:
+HON'BLE MR. JUSTICE SANJIV KHANNA
+
+1. Whether Reporters of local papers may be
+allowed to see the judgment?
+2. To be referred to the Reporter or not ?
+3. Whether the judgment should be reported
+in the Digest ?
+
+SANJIV KHANNA, J:
+1. The petitioner, Mr. Vinod Kumar Jain is owner and occupant of
+property bearing no. 47/3, Jonapur, Vindhyachal Farms,
+Mehrauli which is energized by an electricity connection
+
+WP(C) No.13441/2005
+
+Page No. 2
+
+through licensee BSES Rajdhani Power Ltd. (hereinafter
+referred to as respondent-distcom, for short).
+2. Petitioner claims that after installation of the electronic meter,
+he started receiving exorbitant bills w.e.f. 28th February, 2003.
+He relies upon consumption pattern from 30th December, 2001
+onwards. As per the said consumption pattern, the maximum
+consumption was of 1930 units in February, 2002 but w.e.f. 28th
+February, 2003 the consumption for each billing circle was
+between 6596-10638 units.
+
+The petitioner, however, paid
+
+these bills. On 18th February, 2004 he received an electricity bill
+of Rs.79,370/- on the basis of consumption of 19832 units
+between the period October, 2003 to February, 2004.
+Subsequently,
+
+he
+
+also
+
+received
+
+another
+
+bill
+
+showing
+
+consumption of 9517 units for the period February-April, 2004.
+On 20th March, 2004 he wrote to respondent-distcom to change
+the electricity meter. In this letter he gave details of the earlier
+billing pattern and stated that the electricity meter was running
+fast and not recording correct reading as per actual
+consumption.
+3. On 24th April, 2004 the electricity meter was inspected and
+tested by the respondent-distcom and was found to be running
+fast by 5.07%. I need not in this case examine the question
+whether the electricity meter was faulty and defective as both
+
+WP(C) No.13441/2005
+
+Page No. 3
+
+the parties admit that the error of +5.07% recorded and found at
+the time of inspection is beyond permissible limits.
+4. It is stated in the writ petition that the respondent-distcom did
+not correct the bill and thereafter issued a disconnection notice
+dated 5th August, 2004, which prompted the petitioner to
+approach this Court. It is the case of the petitioner that he is not
+liable to pay the electricity bill in question because it was raised
+on the basis of a faulty meter. The respondent-distcom on the
+other hand, have stated that the petitioner is liable to pay the
+electricity bill for the period in question after reducing the
+consumption as recorded by 5.07% i.e. for 18225 units.
+5. Both the parties have relied upon The Delhi Electricity
+Regulatory Commission (Performance Standards-Metering and
+Billing) Regulations, 2002 (hereinafter referred to as the
+Regulations, for short) as the said Regulations were applicable
+at the given point of time. Relevant Regulations being nos. 19,
+20 and 21 (excluding the portion which is not relevant), read as
+under :19. Testing of meters.- (i) The licensee shall conduct
+periodical inspection/testing and calibration of the meters
+as per rule 57 of Electricity Rules, in the following
+manner:(a) Periodicity of meter tests
+The licensee shall observe following time schedule for
+regular meter testing:-
+
+WP(C) No.13441/2005
+
+Page No. 4
+
+Category
+
+Interval of testing
+
+NDMC, MES, Railways
+
+6 months
+
+Bulk supply meters (HT)
+
+1 year
+
+LT meters (11kW-100kW)
+
+3 years
+
+LT meters (upto 11 kW)
+
+6 years
+
+Wherever applicable, CT and PT shall also be tested
+along with meters.
+(b) When the meter is found to be fast beyond limits
+specified in rule 57(1) of the Electricity Rules, the
+licensee/consumer, as the case may be, shall
+replace/rectify the defective meter within 30 days of
+testing. The licensee shall adjust/refund the excess
+amount collected on account of the said defect, based on
+percentage error, for a period not more than 6 months
+from the date of test and charge the cost of
+replacement/repair of the meter in the next bill sent to the
+consumer.
+(c)
+When the meter is found to be slow beyond
+permissible limits, as specified in rule 57(1) of the
+Electricity Rules and the consumer does not dispute the
+accuracy of the test, the licensee/consumer, as the case
+may be, shall replace/rectify the defective meter within
+30 days of testing. The consumer shall pay the difference
+due to the defect in the meter at normal rates, based on
+percentage error, for a period of not more than 6 months
+prior to date of test with due regard being paid to
+conditions of working, occupancy, etc., of the premises
+during this period and up to the date on which defective
+meter is replaced/recitified.
+(d) If the consumer or his representative refuses to
+sign the test report and pay due billing charges, the
+defective meter shall not be replaced/rectified and the
+licensee shall approach the designated electrical
+inspector, who shall test the correctness of the meter and
+give results within one month. The decision of the
+Inspector shall be final and binding on the licensee as as
+well as the consumer.
+
+WP(C) No.13441/2005
+
+Page No. 5
+
+(ii) The licensee shall keep record of all such meter
+tests and submit to the Commission exception report
+every six months.
+20.
+
+Meter complaints.- (i) Correctness of meter-
+
+(a) Should the consumer dispute the accuracy of the
+meter, he may, upon giving notice/complaint to that
+effect and paying prescribed testing fee, have the meter
+tested by the licensee.
+(b) The licensee shall, within 15 working days of
+receiving the complaint, carry out testing of the meter
+and shall furnish duly authenticated test results to the
+consumer.
+(c) If the meter is found to have error beyond the limits
+of accuracy as specified in rule 57 of Electricity Rules,
+and the meter has not been tested within the meter testing
+schedule as prescribed in regulation 19, the amount of
+past energy bill shall be adjusted in accordance with the
+result of test with respect to the meter readings of the 3
+billing cycles prior to the billing cycle in which dispute
+has arisen and upto the date of replacement of meter.
+(d) The consumer shall not be liable to pay any demand
+violation charges if the demand computed on the basis of
+test results of the meter exceeds his contract demand.
+(ii)
+
+Meter not recording-
+
+(a)
+
+If the meter is not recording/stuck as reported by
+the consumer, the licensee shall check the meter and if
+found stuck, the meter shall be replaced by the
+licensee/consumer, as the case may be, within 30 days of
+receipt of complaint.
+(b)
+If the meter is not recording/stuck as noticed by
+the licensee, the licensee shall notify the consumer.
+Thereafter, the licensee shall check the meter and if
+found stuck, the meter shall be replaced within 30 days.
+(c)
+The consumer shall then be billed on provisional
+basis on average consumption of last three billing cycles
+for a period between the date of last reading and the date
+of replacement/repair of the stuck meter.
+(iii) Burnt meter –
+(a) x x x x
+
+WP(C) No.13441/2005
+
+Page No. 6
+
+(b) x x x x
+(c) x x x x
+(d) x x x x
+21. Billing during the period defective/burnt meter
+remained at site.- (i) The consumer shall be billed (for
+the period meter remained defective) based on the
+estimated energy consumption by taking the consumption
+pattern of the consumer for the 6 months prior to and 6
+months after the period, during which the meter remained
+defective. The amount already paid by the consumer by
+way of provisional bills for the period meter remained
+non-functional or defective, shall be adjusted in this bill.
+(ii) In cases where the recorded consumption of past six
+months prior to the date meter became defective, is either
+not available or partially available, the consumption
+pattern as obtained from such lesser period along with the
+above mentioned subsequent six months’ pattern shall be
+deemed sufficient for estimation of consumption.
+(iii) In case, the Maximum Demand Indicator (MDI) of
+the meter at the consumer’s installation is found to be
+faulty or not recording at all (unless tampered), the
+demand charges shall be calculated based on billing
+demand during corresponding months/billing cycle of
+previous year, when the meter was functional and
+recording correctly. In case the recorded MDI of
+corresponding month/billing cycle of past year is also not
+available, the highest of the billing demand during 6
+months succeeding meter replacement shall be
+considered.”
+6.
+
+The above Regulations are not self evident and clear but
+
+somewhat
+
+confusing
+
+and
+
+at
+
+the
+
+first
+
+blush
+
+overlapping
+
+and
+
+contradictory. It is the case of the respondent-distcom that Regulation
+19 will apply to the present case as the meter was found to be defective
+and Regulation 20 will not apply as it is not the case of the petitioner
+that the meter in question was not tested within the time schedule
+prescribed in Regulation 19. It is stated that Regulation 21, which is for
+
+WP(C) No.13441/2005
+
+Page No. 7
+
+computation of demand/consumption, applies only when meter is
+defective and also when meter was not tested within the testing
+schedule under Regulation 19. Both the conditions of Regulation 20(1)
+(c) should be satisfied for Regulation 21 to apply. On the other hand,
+the petitioner claims that Regulation 19 applies only in case of suo moto
+testing by respondent-distcom pursuant to the schedule fixed in
+Regulations 19 and Regulation 20 applies when consumer makes a
+complaint and on testing the meter is found to be defective or running
+fast.
+7.
+
+Regulation 19, as per the heading, deals with testing of meter.
+
+Normally, heading given to a Section does not determine and is not
+used as a tool to interpret the Section but the heading of the Section is
+certainly useful and can give insight into the scope and ambit of the
+provision, if the language employed in the Section is ambiguous.
+Reference in this regard can be made to the case of Uttam Das Chela
+Sunder Das versus Shiromani Gurdwara Parbandhak Committee
+reported in (1996) 5 SCC 71 wherein it has been observed as under:“18. We have strong reservations to such
+unpurposive view of the High Court for more
+than one reason. The marginal note/caption to
+Section 16 is the foremost pointer that the issue
+whether the institution in question is a Sikh
+Gurdwara or not, has to be decided first and
+other questions later. The marginal notes or
+captions are, undoubtedly, part and parcel of
+legislative exercise and the language employed
+therein provides the key to the legislative intent.
+The words so employed are not mere
+surplusage.”
+8.
+
+Similarly, in the case of Iqbal Singh Marwah versus Meenakshi
+
+WP(C) No.13441/2005
+
+Page No. 8
+
+Marwah reported in (2005) 4 SCC 370, it has been held as under:“…. Though, as a general rule, the language
+employed in a heading cannot be used to give a
+different effect to clear words of the section where
+there cannot be any doubt as to their ordinary
+meaning, but they are not to be treated as if they
+were marginal notes or were introduced into the
+Act merely for the purpose of classifying the
+enactments. They constitute an important part of
+the Act itself, and may be read not only as
+explaining the sections which immediately follow
+them, as a preamble to a statute may be looked to
+explain its enactments, but as affording a better
+key to the constructions of the sections which
+follow them than might be afforded by a mere
+preamble. (See Craies on Statute Law, 7th Edn.,
+pp. 207, 209)”
+
+9.
+
+A heading of a section therefore provides an insight into the
+
+factors to be considered. In case of ambiguity and doubt these can be
+always referred to as a key or as an opening into the mind of the
+draftsman and the clauses arranged thereunder. Where however the
+language is clear and discernible, normally the heading or the title
+should not be referred to and cannot form the basis for interpreting the
+subject matter dealt with in the relevant clause. Thus it is permissible to
+assign a limited role to a heading or title of a section. (See,
+Raichurmatham Prabhakar versus Rawatmal Dugar reported in
+(2004) 4 SCC 766).
+10.
+
+Heading of Section 19 states that the said provision deals with
+
+testing of meters as per Rule 57 of the Electricity Rules, 1956. Subclause (a) of Clause (i) stipulates that periodicity of testing and intervals
+during which a meter must be tested. Sub-clause (b) of Clause (i)
+
+WP(C) No.13441/2005
+
+Page No. 9
+
+stipulates that in case a meter is found to be beyond limits (it should be
+excessive) as specified in Rule 57 (1) of the Electricity Rules, 1956, the
+defective meter will be replaced within 30 days and the licensee will
+adjust or refund the excess amount collected on account of defective
+meter based upon percentage of error. The period for correction will not
+be more than six months from the date of testing. The consumer will
+bear the cost of replacement. The said Clause does not permit the
+distcom to collect any additional amount in case the meter was running
+slow. In such cases, when the consumer admits that the meter is slow,
+clause (c) applies but when there is a dispute, the matter has to be
+referred to an electrical inspector as stipulated in clause (d). Thus,
+under Regulation 19 when on inspection, a meter is found to be fast,
+two results will follow. Firstly, the meter must be replaced by the
+Distcom within 30 days and secondly the bills paid by the consumer till
+the date of inspection will be corrected and the excess amount paid,
+depending upon the percentage of error, will be refunded to the
+consumer or adjusted in future bills to be paid by the consumer. This
+correction will be for a period of six months from the date of the test.
+Thus the meter is presumed to be defective and recording excess
+energy charge for a period of six months. No penalty is imposed upon
+the distcom and the adjustment is as per the percentage of error in the
+testing. Only benefit which the consumer gets is retrospective benefit for
+a period of six months. This may not be of any advantage as the meter
+may have been defective for a longer time, but the consumer cannot
+
+WP(C) No.13441/2005
+
+Page No. 10
+
+claim benefit beyond six months.
+11.
+
+Regulation 20, on the other hand, begins with the heading “meter
+
+complaints”. Clause (i)(a) relates to complaints made by a consumer
+about the accuracy of a meter. Sub-clause (b) requires meter to be
+tested within 15 days of the complaint and sub-clause (c) deals with a
+situation where a meter is found to be defective. Sub-clause (d)
+however states that in such cases the consumer will not be liable to pay
+any demand violation charges if the demand computed on the basis of
+the test results of the meter exceeds the contract demand.
+12.
+
+We are concerned with Regulation 19(i)(b) and 20(1)(c) and have
+
+to decide, which one of the two regulations will apply in the present
+case. It is an admitted case of the parties that the meter was found to
+be defective on the testing done on 24th April, 2004. It is the case of the
+respondent-distcom that Sub-clause 20(1)(c) will not apply as the
+second condition, namely, “meter was not tested within the meter
+testing schedule as prescribed in Regulation 19” is not satisfied. I have
+given my consideration to the said contention but I am unable to agree
+with the respondent-distcom. At the outset I may state that the
+Regulation 20(1)(c) is rather loosely worded and could have been more
+certain. Regulation 20(i) deals with complaints made by consumer and
+the effect thereof in case the meter is found to be defective to the
+disadvantage of the consumer. If the interpretation given by the
+respondent-distcom is accepted then neither Regulation 19(i)(b) or
+20(i)(c) will apply. Regulation 19(i)(b) as interpreted above applies only
+
+WP(C) No.13441/2005
+
+Page No. 11
+
+to cases where on self-testing by the respondent-distcom, a meter is
+found to be recording excess consumption. Clause (b) of Regulation
+19(i)
+
+applies
+
+to
+
+suo moto inspection and testing by the Distcom.
+
+The said Regulation does not apply when a consumer makes a
+complaint. A more plausible and reasonable interpretation will be to
+read the word “and” used in Regulation 20(i)(c) as “or”. Normally, the
+use of the word “and” is in cumulative sense, that is, requiring fulfillment
+of conditions that are adjoined, but sometimes by force of the context
+“and” is read as “or”. This is required to carry out the intention of the
+legislature and only in such cases where it is found necessary, the plain
+natural meaning of the word “and” is given go bye to and the word
+“and” is read as “or” as in a disjunctive fashion. This is done to prevent
+the provision from becoming unintelligible, unworkable or totally
+irreconcilable to the rest of the statute. (See, in this regard the
+observations of the Supreme Court in Faqir Mohd. Versus Sita Ram
+reported in (2002) 1 SCC 741 and Ishwar Singh Bindra versus State
+of U.P. reported in (1969) 1 SCR 219.)
+13.
+
+In other words, if on a complaint made by a consumer, a meter is
+
+tested and found beyond the limit of accuracy or the meter has not been
+tested within the time schedule fixed in Regulation 19(i)(a) and is found
+to be defective, then in either case Regulation 20(i)(c) will be applicable.
+Cases of complaints covered by Regulation 20(i)(a), Clause (c) will
+apply. Thus, when a complaint is made by a consumer and the meter is
+found to be defective, Clause (c) of Regulation 20(i)(a) will apply.
+
+WP(C) No.13441/2005
+
+Page No. 12
+
+Refund or adjustment under Regulation 19(i)(b) is not applicable as the
+said Regulation relates to suo moto testing of meters by Dictcom.
+Similarly, Sub-Clause (c) of Regulation 20(i) will apply where a meter
+has not been tested within the prescribed schedule fixed under
+Regulation 19 and the meter is found to be fast. In such cases also
+Regulation 19(i)(b) will not apply and Regulation 20(i)(c) will apply. In
+such cases Clause 19(i)(c) or (d) will also not apply.
+14.
+
+Regulation 20(i)(c) stipulates that the meter reading for the past
+
+three billing cycles prior to the billing cycle in which dispute has arisen
+and upto the date of replacement of the meter will be adjusted in
+accordance with the test. Thus, for the last three billing cycles prior to
+the billing cycle when test was conducted, are required to be adjusted
+and the petitioner given benefit and refund of the excessive charges
+claimed from him. Regulation 20(i)(c) also stipulates that “the
+adjustment” will be “in accordance with” the result of the testing. The
+adjustment, therefore, to be made is limited to the result of the test i.e.
+the defect or the percentage by which the meter was found to be
+running faster. Thus, Regulation 20(i)(c) also stipulates the calculation
+or adjustment to be made if the meter is found to be running faster. The
+consumer gets the benefit of adjustment in accordance with the test
+report and for the period of the billing cycle in which the complaint is
+made and retrospectively for the last three billing cycles and thereafter
+till the date the meter is replaced. Regulation 20(i) does not have a
+similar provision as Regulation 19(i)(c) or (d) i.e. when meter is found to
+be running slow. Thus, where a meter is found to be running slow on a
+complaint made by the consumer or has not been tested within the time
+schedule, no past arrears can be claimed by the Distcom. The reason is
+obvious. The calibration of the meter is done by the distcom. It is the
+responsibility of the distcom to ensure that the meter is properly
+calibrated and tested within the time schedule. The consumer or
+
+WP(C) No.13441/2005
+
+Page No. 13
+
+licensee has hardly any say in the matter and neither does he possess
+the necessary technical expertise. Public utility service must meet the
+exacting standards.
+15.
+
+I may note here that Regulation 20(i)(c) does not in fact levy any
+
+penalty on the distcom in case the meters are defective or records
+excessive consumption. Regulation 20(i)(a) and (c) can hardly be
+regarded a penal provision against any wrong calibration resulting in
+meters being faster. As already stated above, it is the duty of the
+distcom to calibrate the meters and ensure that the same are within
+prescribed limits. It is for the regulators and authorities to examine this
+aspect and take corrective steps, if required.
+16.
+
+Regulation 21 will apply when a meter is burnt. The said
+
+Regulation also stipulates that it will apply when a meter is defective.
+Learned counsel for the petitioner had submitted that Regulation 21 will
+apply to cases where on a complaint made by a consumer under
+Regulation 20(i)(a), a meter is found to be defective and beyond the
+limit of accuracy. An incorrect meter can be also regarded as a
+defective meter but I do not think Regulation 21 will apply to cases
+where a consumer has raised a dispute about accuracy of a meter
+under Regulation 20(i)(a) and the same is found to be incorrect. In such
+cases, Regulation 20(i) is a complete Code and also stipulates how
+adjustment is to be made as provided in sub-Clause (c). A specific
+Regulation i.e. 20(i)(c) will prevail and apply over a general Regulation
+21. In cases covered by Regulation 20(i) calculation will have to be
+done in terms of Sub-clause (c). In such cases adjustment in favour of
+
+WP(C) No.13441/2005
+
+Page No. 14
+
+the consumer for the period specified on the basis of the test will have
+to be made as stipulated in Clause (c). Regulation 21 will apply when a
+meter is not recording any consumption as stipulated in Regulation
+20(ii). In other words Regulation 21 applies when a meter is defective in
+the sense that it is dead or stuck. This becomes clear if we examine the
+language of Regulation 20(ii)(c) which provides for provisional billing.
+The term “provisional billing” also finds mention in Regulation 21(i). SubClause (ii) of Regulation 21 is also an indicator that the said Regulation
+applies when a meter is defective in the manner it does not record
+electricity consumption or is stuck and not to cases covered by
+Regulation 20(i).
+17.
+
+The Writ Petition is accordingly partly allowed to the extent
+
+indicated above. It is directed that the respondent-distcom shall
+calculate and grant benefit to the petitioner under Regulation 20(i)(c) for
+the past three billing cycles and the billing cycle in dispute shall be
+adjusted according to the test report. A fresh bill will be issued to the
+petitioner within a period of three weeks from today. No late
+payment/surcharge will be charged in the said bill. In case the petitioner
+is entitled to any refund, the same shall also be paid to him within three
+weeks.
+In the facts and circumstances of the case there will be no order
+as to costs.
+
+(SANJIV KHANNA)
+JUDGE
+
+WP(C) No.13441/2005
+
+APRIL
+P/VKR
+
+30 , 2008.
+
+Page No. 15
+
+

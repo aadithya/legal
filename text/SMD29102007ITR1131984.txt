@@ -1,0 +1,597 @@
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+Reserved on October 10, 2007
+Date of Decision : October 29, 2007
+ITR Nos. 113-115 of 1986
+COMMISSIONER OF INCOME TAX
+.......Petitioner
+Through : Mr. J.R.Goel, Advocate.
+versus
+M/S ALL INDIA FILMS CORPN.
+....Respondent
+Through: Mr. P.N. Monga, Advocate.
+
+CORAM:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S. MURALIDHAR
+1. Whether Reporters of local papers may be allowed
+to see the judgment?
+2. To be referred to the Reporter or not?
+
+Yes
+Yes
+
+3. Whether the judgment should be reported in Digest?Yes
+Dr. S. MURALIDHAR, J.
+1.
+
+A question that frequently engages the attention of our tax courts has been
+
+referred for our opinion by the Income Tax Appellate Tribunal, Delhi Bench
+“D”, New Delhi ('Tribunal') under Section 256(1) of the Income Tax Act, 1961
+('the Act') for the Assessment Years 1975-76 and 1980-81 arising out of the
+Tribunal's order dated 20th April, 1985 in ITA No. 5404& 5405 (Del)/1983.
+While ITR No. 113 of 1986 is a reference at the instance of the Revenue, ITR
+Nos. 114 and 115 of 1986 are references at the instance of the Assessee. That
+question is whether a sum received by an Assessee should be treated for the
+purposes of the Act as a capital receipt or a revenue receipt. The large volume of
+precedents of the High Courts and the Supreme Court on the point underscores
+
+ITR Nos. 113-115 of 1986
+
+page 1 of 15
+
+the difficulty in easily answering what appears to be a fairly simple question.
+The precedent volume grows larger with this judgment.
+
+2.
+
+First, the facts. The Assessee took on lease two cinema halls, „Capital‟
+
+and „Minerva‟ at Ambala. Since 1952 it was exhibiting films in them and
+earning a part of its income from that activity. The cinema halls were owned by
+one Lala Beli Ram Sarin. The last time the lease was renewed was in 1968 for a
+term of six years and three months from 1st December, 1968 to 28th February,
+1975 on a consolidated sum of Rs.72,000/- per year. From a copy of the lease
+deed which has been included in the paper book it appears that the lease was of
+not only the cinema halls. It included the stalls, godowns and cinema
+equipments. The lease deed acknowledged that the Assessee had renovated the
+cinema halls and that future repairs would be at the cost of lessee subject to the
+condition that the lessee would inform the lessor in advance of his proposal to
+carry out repairs, renovations and additions.
+
+The lessee was to hand over
+
+peaceful possession of the cinema halls along with its equipments to the lessor
+on the expiry of the lease. The lessee was prohibited from transferring or subletting the leasehold rights to any third party except for the stalls where
+contractors could be appointed.
+
+3.
+
+On 1st December, 1975 the owner of the two cinema halls, Lala Beli Ram
+
+Sarin, wrote to the Assessee reminding it that the lease was to expire on 28 th
+February, 1975 but that the lessor was willing to extend the period of lease for
+another five years commencing from 1 st March, 1975 and ending on 28th
+February, 1980 at a consolidated rent of Rs.10,000/- per month. However it
+appears that during the further negotiations that took place, the parties agreed
+that the Assessee would hand over the possession the cinema halls to the lessor
+ITR Nos. 113-115 of 1986
+
+page 2 of 15
+
+on or before 28th February, 1975 and to treat the letter dated 1st February, 1975
+written by the lessor as cancelled. The terms of this arrangement were reduced
+to writing in a letter dated 21st February, 1975 written by the landlord to the
+Assessee which, inter alia, stated that the lessor would pay the lessee a sum of
+Rs.1,24,000/- in lieu of the loss of business and by way of compensation for
+handing back the possession of the two cinema halls. It was further agreed that
+apart from this, the lessor would pay the lessee a further sum of Rs.2,00,000/- in
+five equal instalments of Rs.40,000/- each ending with 28th February, 1980.
+
+4. The relevant portion of the aforementioned letter dated 21 st February, 1975
+written by the landlord to the Assessee reads as under:
+“I write this to confirm my agreement that in consideration of
+your agreeing to treat my said letter dated 1st February, 1975, as
+cancelled and the said extension of lease as revoked and agreeing
+to hand back the possession of both the cinemas to me on or
+before and as on 28th February, 1975, I have agreed to pay to you
+a sum of Rs.1,24,000/- (Rupees one lac twenty four thousand) in
+lieu of your loss of business and by way of compensation for
+handing back the possession of the said two cinemas as on the
+28th February, 1975, and also a sum of Rs.40,000/- (Rupees forty
+thousand) for every year of the extended lease period of five
+years as under:1.Rs.40,000/- for period from 1st March, 1975 to 28th Feby. 1976.
+2.Rs.40,000/- for period from 1st March, 1976 to 28th Feby. 1977.
+3.Rs.40,000/- for period from 1st March, 1977 to 28th Feby. 1978.
+4.Rs.40,000/- for period from 1st March, 1978 to 28th Feby. 1979.
+5.Rs.40,000/- for period from 1st March, 1979 to 28th Feby.1980.”
+
+5.
+
+It was further undertaken by the landlord as under:
+“In case I do not pay this money to you on or before 1 st April,
+1975, you are at liberty to file a suit for its recovery in the Courts
+at Delhi. I agree to give you proper receipt for all the machinery,
+equipment, furniture, etc. and also receipt for having taken
+possession of the said cinema premises. I confirm that with the
+signing of the said receipt for the machinery, equipment, furniture
+etc., I have no claim against you for anything whatsoever and this
+
+ITR Nos. 113-115 of 1986
+
+page 3 of 15
+
+handing over of the cinemas in the manner provided above is in
+full and final settlement.”
+6.
+
+It is not in dispute that during the Assessment Year 1975-76 the sum of
+
+Rs.1,24,000/- was in fact paid to the Assessee and the balance of Rs.2,00,000/was paid in five equal instalments in the succeeding years i.e. from the
+Assessment Year 1976-77 onwards. In the accounts prepared for the year ending
+on 28th February, 1975 the Assessee showed the sum of Rs.1,24,000/- in the
+credit side of the Profit & Loss Account ('P&L Account') under the heading
+“compensation for premature closure of the cinema halls at Ambala”. In the
+accounts for each of the subsequent years beginning from 1976-77 and ending
+with the Assessment Year 1980-81, the Assessee showed the sum of Rs.40,000/payable to it by Lala Beli Ram Sarin on the credit side of its P&L Account.
+Therefore for the Assessment Year 1975-76 a sum of Rs. 1,24,000/- was offered
+by the Assessee for taxation as a revenue receipt whereas for the Assessment
+Year 1980-81, Rs. 40,000/- was offered for taxation.
+
+7.
+
+In the Assessment Order dated 29th September, 1977 the Income Tax
+
+Officer ('ITO') assessed the entire sum of Rs.3,24,000/- as a revenue receipt in
+the hands of the Assessee for the Assessment Year 1975-76 on accrual basis.
+Aggrieved by the order of the ITO, the Assessee filed an appeal before the
+Commissioner of Income Tax (Appeals) ['CIT(A)']. It was the Assessee's case
+that no part of the sum of Rs.3,24,000/- was chargeable to tax since this
+constituted compensation received for the loss of the profit or income yielding
+apparatus and therefore the sum received as compensation for the
+extinguishment of such right would only be a capital receipt. By an order dated
+15th September, the CIT(A) accepted this plea and allowed the appeal of the
+Assessee. The CIT (A) held that the sum of Rs.3,24,000/- was a capital receipt
+ITR Nos. 113-115 of 1986
+
+page 4 of 15
+
+and therefore not taxable.
+
+8.
+
+The Revenue then appealed to the Tribunal. Relying on the decision of the
+
+Supreme Court in Commissioner of Income Tax v. Shamsher Printing Press
+(1960) 39 ITR 90 (SC), the Revenue contended that the sum of Rs. 1,24,000/was only a revenue receipt since admittedly the sum was given to it as
+compensation for the loss of business. The case of the Assessee was that the
+mere fact that the Assessee had offered Rs.1,24,000/- for tax ought not be seen
+as a concession by it that the said sum constituted a revenue receipt.
+
+9.
+
+The Tribunal by its judgment dated 20th April, 1985 reversed the order of
+
+the CIT(A) and directed that Rs.1,24,000/- be included in the Assessee‟s taxable
+income for the Assessment Year 1975-76. It further directed that an addition of
+Rs.40,000/- should be made to the Assessee's taxable income for the Assessment
+Year 1980-81. This order has given rise to the present rerferences to this Court.
+
+10.
+
+The question that has been referred to us at the instance of the Revenue,
+
+is:
+“Whether on the facts and in the circumstances of the case the
+Tribunal was justified in holding that even though Rs.3,24,000/was a revenue receipt, the entire of it did not become assessable in
+the assessment year 1975-76 only Rs.1,24,000/- became assessable
+and that the remaining sum of Rs.2,00,000/- accrued to the
+assessee company to terms of the aforesaid agreement at the
+expiry of the following accounting periods:(i)
+
+For the period from 1st March, 1975 to 28th Feb., 1976
+Rs.40,000
+
+(ii)
+
+For the period from 1st March, 1976 to 28th Feb., 1977
+Rs.40,000
+
+(iii) For the period from 1st March, 1977 to 28th Feb., 1978
+Rs.40,000
+
+ITR Nos. 113-115 of 1986
+
+page 5 of 15
+
+(iv) For the period from 1st March, 1978 to 28th Feb., 1979
+Rs.40,000
+(v)
+
+11.
+
+For the period from 1st March, 1979 to 28th Feb., 1980
+Rs.40,000”
+
+The two questions referred to us at the instance of the Assessee are:
+“(i) Whether on the facts and in the circumstances of the
+case, the Tribunal was right in holding that the sum of Rs.
+3,24,000/- realised by the assessee by way of compensation
+for the termination of the lease of the two cinemas namely
+Minerva and Capital at Ambala by the lessor constituted a
+revenue receipt thereby resulting in the income of
+Rs.1,24,000/- chargeable to tax in the assessment year 197576?
+(ii) Whether on the facts and in the circumstances of the
+case, the Tribunal was right in holding that the sum of Rs.
+3,24,000/- realised by the assessee by way of compensation
+for the termination of the lease of the two cinemas namely
+Minerva and Capital at Ambala by the lessor constituted a
+revenue receipt thereby resulting in the income of
+Rs.40,000/- chargeable to tax in the assessment year 198081?”
+
+12.
+
+Appearing for the Revenue Mr. J.R.Goel, learned senior standing counsel
+
+submitted that the sum of Rs.3.24 lakhs received by the Assessee from the
+lessor for loss of business was a revenue receipt as the entire income had
+accrued during the Assessment Year 1975-76 itself. In other words, as per the
+mercantile system of accounting, which the Assessee undoubtedly followed, the
+said income had accrued in this very year notwithstanding the fact that the sum
+of Rs.1.24 lakhs was received in the previous year and the remaining sum of
+Rs.2 lakhs was received in five equal instalments of Rs.40,000/- each in the
+subsequent years. He further submitted that the extinguishment of the lease of
+the cinema halls did not bring the entire business of the Assessee to a halt. The
+Assessee was exhibiting films in cinema halls in other places and earning
+income and therefore the compensation received for extinguishment of the lease
+of the two cinema halls at Ambala cannot be treated as a capital receipt. He
+ITR Nos. 113-115 of 1986
+
+page 6 of 15
+
+placed reliance on a decision of the Supreme Court in Shamsher Printing Press
+to contend that the compensation received for termination of lease is not liable
+to be treated as a capital receipt in the facts of the present case.
+
+13.
+
+Mr. P.N.Monga, learned counsel appearing for the Assessee on the other
+
+hand contended that the profit making apparatus of the Assessee had been totally
+crippled and the source of income had been rendered sterile. Relying on the
+decisions in Chunduri Venkata Reddi v. Commissioner of Income-Tax,
+Madras (1959) 35 ITR 87 (AP), Commissioner of Income-Tax, Mysore v.
+Canara Bank Ltd. (1967) 63 ITR 328 (SC), Lakshmi Insurance Co. (P.) Ltd. v.
+Commissioner of Income-Tax, New Delhi (1971) 80 ITR 575 (Del), Bombay
+Burma Trading Corp. Ltd v. CIT, Bombay (1971) 81 ITR 777 (affirmed by the
+Supreme Court in 1986 161 ITR 386), Bawa Shivcharan Singh v. CIT, Delhi
+(1984) 149 ITR 29 (Del), B.G.Shah v. CIT (1986) 162 ITR 23 (Bom),
+H.L.Sidappa v. CIT (1980) 126 ITR 641 (Kar) and K.Eapen Jacob v.
+Commissioner of Income Tax (1987) 166 ITR 199 (Mad).
+
+Mr. Monga
+
+contended that the sum of Rs.3,24,000/- had to be necessarily treated as a capital
+receipt which is not available to tax. According to Mr.Monga, the mere fact that
+there were other cinema halls elsewhere from which the Assessee was earning
+income by exhibiting films did not change the character of the compensation
+received by the Assessee; it continued to remain a capital receipt.
+
+14.
+
+Without prejudice to the above contention, Mr.Monga submits that the
+
+sum of Rs.1,24,000/- alone is liable to be treated as revenue receipt in the hands
+of the Assessee for the relevant Assessment Year 1975-76. He points to the
+letter dated 21st February, 1975 in which it is clearly indicated that it is only the
+sum of Rs.1,24,000/- which has been offered as compensation for the business
+ITR Nos. 113-115 of 1986
+
+page 7 of 15
+
+loss and that the remainder sum of Rs. 2 lakhs was payable in five equal
+instalments of Rs.40,000/- each in the years folling the Assessment Year 197576. In fact, the Assessee did offer for tax the said sum of Rs.40,000/- in the
+subsequent Assessmemt Years. The stand of the Revenue that the entire sum of
+Rs.3.24 lakhs should be taxed in the Assessment year 1975-76 is contrary to
+what it submitted to the Tribunal. Referring to the judgment in Shamsher
+Printing Press Mr. Monga points out that if the case of the Revenue were to be
+accepted and the entire amount of Rs. 3.24 lakhs is brought to tax in the
+Assessment Year 1975-76, the component of Rs.2 lakhs which has already been
+subjected to tax in the subsequent Assessment Years will again have to be taxed
+in the Assessment Year 1975-76 which is contrary to the settled legal position
+that no income can be subjected to tax twice over.
+
+15. The first question that requires to be answered is whether the sum of
+Rs.3,24,000/- constituted a revenue receipt thereby resulting in the income of
+Rs. 1,24,000/- being chargeable to tax in the Assessment Year 1975-76 and the
+sum of Rs.40,000/- being chargeable to tax in the Assessment Year 1980-81.
+
+16.
+
+Among the early decisions in which the question whether a sum received
+
+by way of compensation was a revenue receipt or a capital receipt was
+considered was that handed down by the Privy Council in Commissioner of
+Income-tax v. Shaw Wallace and Company AIR 1932 PC 138. The question
+there was whether a sum of Rs.9,83,361/- which had been included in the total
+income of the Assessee and received as compensation for cessation of the
+agency or loss of office was a capital receipt or a revenue receipt. In holding
+that it was a capital receipt, the Privy Council observed (AIR, p.141):
+“If the business had been sold – even if that somewhat
+ITR Nos. 113-115 of 1986
+
+page 8 of 15
+
+indeterminate asset known as the “goodwill” had been
+assigned to the employing companies, as the High Court
+seems to have thought it had – it is conceded that the price
+paid would not have been taxable. But why? Plainly because
+it could not be regarded as profit or gain from carrying on
+the business, and their Lordships think that the same
+reasoning must apply when the sum received is in the nature
+of a solatium for cessation.”
+What weighed the Privy Council was whether there was a complete cessation of
+business. That would determine whether the compensation received was a
+capital receipt or a revenue receipt.
+
+17.
+
+In Commissioner of Income Tax v. South India Pictures Ltd. (1956) 29
+
+ITR 910 (SC), the Assessee was carrying on the business of distribution of
+films. For this purpose it had entered into three agreements for advancing
+moneys to certain motion picture producers towards production of three films
+and acquiring the rights of distribution thereof. After the Assessee had exploited
+to a certain extent its right of distribution of three films, the agreements were
+cancelled and the producers paid an aggregate sum of Rs.26,000/- to the
+Assessee towards commission. In the relevant accounting year the Assessee had
+distribution rights in respect of 11 films including 3 films for which it had
+advanced moneys to the producers. The question then arose whether the sum of
+Rs.26,000/- was a revenue receipt in the hands of the Assessee. By a 2:1 the
+Supreme Court held that the sum paid to the Assessee was in the ordinary course
+of business and that the termination of the agreement did not radically affect or
+alter the structure of the Assessee's business. It clarified that the amount was not
+received by the Assessee as the price of any capital asset sold or surrendered or
+destroyed. It was held that the decision in Shaw Wallace would not apply in
+such a case. Again, what appears to have weighed with the Court in South India
+Pictures Ltd. was that there was no total cessation of the Asseessee's business
+ITR Nos. 113-115 of 1986
+
+page 9 of 15
+
+and that the termination of the agreements “did not radically or at all affect or
+alter the structure of the Assessee's business.” This then appears to be the
+critical test for determining whether the amount received by way of
+compensation is a revenue receipt or a capital receipt.
+
+18.
+
+The question was again addressed by the Supreme Court in Shamsher
+
+Printing Press. The Assessee had for the purposes of his business housed a
+printing press in a premises which came to be requisitioned by the Government
+in September 1943 for the duration of war. This compelled the Assessee to shift
+and restart its business in another place. A sum of Rs.57,435/- was paid by the
+Government towards the claim made by the Assessee “on account of the
+compulsory vacation of the premises, disturbance and loss of business.” The
+Supreme Court held that the compensation received was not towards loss of
+goodwill. It noted that the claim of the Assessee was under three distinct heads:
+(a) compulsory vacation of premises (b) disturbance of business and (c) loss of
+business. The Supreme Court then concluded as under (ITR, pp.93-94):
+“It seems to us for the reasons aforesaid that the sum of
+Rs.57,435/- had not been received by the respondent for any
+injury to any of its capital assets. In our view, the sum was
+received as compensation for loss of profits for the period
+during which, it was imagined, the respondent's business
+would remain stopped before it could be re-started at a new
+premises. That being so, it was clearly a revenue receipt; it
+has not been disputed that if the amount in question was paid
+as compensation for loss of profit, it would be a revenue
+receipt and liable to tax.”
+19.
+
+It appears to us that the facts in Shamsher Printing Press are not very
+
+different from the facts on hand. The slight difference is that here the Assessee
+has been compensated by the landlord towards the business loss resulting from it
+having to vacate premises which did not belong to it but which were in its
+possession pursuant to a lease. Coupled with this is the undisputed fact that the
+ITR Nos. 113-115 of 1986
+
+page 10 of 15
+
+Assessee had been carrying on the business of distribution and exhibition of
+films in other cinema halls located in the cities of Jagraon, Yamuna Nagar and
+Moga. In the circumstances, following the dictum in Shamsher Printing Press
+it must be held that the compensation amount received by the Assessee towards
+the business loss was in fact a revenue receipt.
+
+20.
+
+Reliance was placed by the learned counsel for the Assessee on the
+
+decision of the Andhra Pradesh High Court in Chunduri Venkata Reddi.
+
+It
+
+was held by the High Court in that case that the test for determining whether a
+sum of money is a capital receipt or a revenue receipt was as under (ITR,p.96):
+“The amount should have been paid for parting with something which
+could be described as an enduring asset of the business. The cessation of
+the business or the cancellation of the agreement should affect the profitmaking structure. To quote the words “it should materially destroy or
+cripple the structure of the profit-making apparatus.”
+
+The decision in Chunduri Venkata Reddi, apart from reiterating the well settled
+law does not particularly help the case of the Assessee since it is distinguishable
+on facts. Unless the Assessee here is able to demonstrate that there was a
+compulsory cessation of Assessee's business and that the source of income was
+rendered sterile, it will not be able to demonstrate that the sum paid by the
+landlord to the Assessee was a capital receipt.
+
+21. Reliance was also place on the decision of the Supreme Court in Canara
+Bank Ltd. The facts in that case were that the Respondent Assessee had opened
+the branch of its Bank in Karachi on 15th November, 1946. After the partition of
+India in 1947 the currencies of the two countries i.e. India and Pakistan,
+continued to be at par until 18th September, 1949 when there was a devaluation
+ITR Nos. 113-115 of 1986
+
+page 11 of 15
+
+of the Indian rupee. On that day the Assessee had a sum of Rs.3,97,221/- at the
+Karachi branch which belonged to its Head Office. The exchange ratio between
+the two countries was not determined until 27 th November, 1951. The Bank in
+any event did not carry on any business and in particular foreign exchange
+business. The State Bank of Pakistan granted permission on 1st July, 1953 to the
+Assessee to remit the amount to India. In that process, the Assessee made a
+profit of Rs.1,73,487/- in view of the difference in the value of the currencies. It
+was held on those facts that the realisation of the profit was not in the course of
+any trading operation.
+
+It was a capital receipt since even if the amount
+
+represented stock-in-trade, it was blocked and sterilised. It was clarified that if
+the profit was earned by exchange operations and “not by way of business of the
+Assessee, the profit would be capital.” In the instant case however the Assessee
+had received sum as compensation for business loss and therefore the receipt of
+the said sum is clearly only a revenue receipt.
+
+22.
+
+The question that arose in Lakshmi Insurance Co. (P.) Ltd. was whether
+
+the sum of Rs.56,028/- paid as compensation by the Central Government to the
+Assessee Company which conducted a life insurance business was a revenue
+receipt in its hands. This Court held that on the facts of that case there was a
+complete cessation of the activity of the management and that “the divesting of
+its management was really divesting the assessee-company of its property, the
+compensation paid was, therefore, was for a loss of a capital asset.” It was
+therefore held that “compensation paid to the Assessee company is not income.”
+The contention of the Revenue that the continuation of the business of the
+Assessee company would disable it from claiming the sum received as capital
+receipt was negatived by the Court. It was observed as under (ITR, p.581):
+“The significant point to be noticed is that there was no
+ITR Nos. 113-115 of 1986
+
+page 12 of 15
+
+complete cessation of the business of the assessee even upon
+the termination of the two agencies of the assessee.
+Therefore, even if the revenue is right in saying that the
+business of the assessee-company in the present case
+continued despite the divesting of its management as a result
+of the said Ordinance and the said Act, it is to be seen
+whether the compensation paid was income or whether it
+was for the divesting of a part of its profit-making apparatus.
+The compensation paid cannot be said to be in respect of the
+profits or gains of any business carried on by the assesseecompany nor can it be profit earned by a process of
+production according to the test laid down by the Privy
+Council.”
+The above decision was peculiar to the facts of the case. The important
+distinguishing feature in the present case is that the correspondence between the
+parties itself indicates that the sum paid by way of compensation was clearly for
+the loss of business.
+
+23.
+
+The facts in K.Eapen Jacob were that the sum was paid under a
+
+compromise and as compensation for the Assessee surrendering the source of
+his income namely, the share in the partnership. In those circumstances since
+the very source of the income of the Assessee was rendered sterile, the Madras
+High Court held that the amount received by way of compensation was only a
+capital receipt. Again, the said decision is clearly distinguishable in the
+applicability to the facts of the present case.
+
+24.
+
+Mr. Monga sought to place reliance on the decision of this Court in Bawa
+
+Shivcharan Singh where the Assessee received a sum of Rs.30,000/- for
+surrendering tenancy rights of the first floor of the premises under its
+occupation. This Court sought to distinguish the type of payment received by
+the Assessee. It was observed by this Court as under (ITR, p.33):
+“The consideration for a lease may be “of a price paid or
+promised, or of money, a share of crops, service or any other
+ITR Nos. 113-115 of 1986
+
+page 13 of 15
+
+thing of value, to be rendered periodically or on specified
+occasions to the transferor by the transferee.” Normally, the
+initial amount paid for the acquisition of the leasehold right
+is “premium” “pagri”, “salami” or by whatever name it may
+be called. This is in consideration for being let in possession.
+The consideration for relinquishment of the tenancy rights
+may again be a lump sum called “pagri”. The periodical
+payment in terms of money for the use and occupation of the
+premises is called rent or lease money. What distinguishes
+rent from “premium” is that the latter represents money paid
+as a price or a consideration for being let in possession.
+“Pagri” is a consideration for the cessation or surrender of
+the property or the relinquishment of the leasehold rights.”
+As far as the present case is concerned it bears repetition that the compensation
+received was not so much for the loss of premises but for the business loss that
+would ensue therefrom. Moreover, the Assessee was exhibiting films in other
+cinema halls and therefore there was no cessation of its business of a permanent
+nature.
+25.
+
+This Court is of the considered view that there was no complete cessation
+
+of the Assessee's business activity. It cannot be said that any part of the profitmaking apparatus of the Assessee had been extinct so as to render the amount of
+compensation received for the said purpose a capital receipt. The sum of
+Rs.1,24,000/- received by the Assessee in the Assessment Year 1975-76 was a
+revenue receipt and not a capital receipt. The two questions referred at the
+instance of the Assessee are therefore answered in the affirmative, that is, in
+favour of the Revenue and against the Assessee.
+
+26.
+
+The question referred at the instance of the Revenue whether the entire
+
+sum of Rs.3,24,000/- became assessable to tax in the Assessment year 1975-76
+as contended by the Revenue or only a sum of Rs.1,24,000/- should be assessed
+to tax since that was the amount received during the Assessment Year is taken
+up for discussion next.
+
+ITR Nos. 113-115 of 1986
+
+page 14 of 15
+
+27.
+
+The evidence on record clearly indicates that the correspondence between
+
+the landlord and the Assessee unambiguously states that a sum of Rs.1,24,000/has been paid towards his loss of business. The further sum of Rs.2 lakhs does
+not bear any such particular description in order to determine whether such sum
+accrued in that very Assessment Year 1975-76. This coupled with the fact that
+the Assessee had in fact offered to tax the sum of Rs.40,000/- in every
+succeeding Assessment Year including 1980-81 indicates that there is no
+attempt by the Assessee to avoid payment of tax in those Assessment Years. If
+the said sum of Rs.2 lakhs is brought to tax in the year 1975-76 it will doubtless
+amount to double taxation of the same amount since admittedly a sum of
+Rs.40,000/- has been offered to tax by the Assessee in each of the succeeding
+Assessment Years as a revenue receipt.
+
+28.
+
+In that view of the matter this Court is of the view that the question posed
+
+at the instance of the Revenue should be answered in the affirmative, that is, in
+favour of the Assessee and against the Revenue.
+
+29.
+
+The reference petitions are accordingly disposed of.
+
+S. MURALIDHAR, J
+
+MADAN B. LOKUR, J
+October 29, 2007
+dn
+
+ITR Nos. 113-115 of 1986
+
+page 15 of 15
+
+

@@ -1,0 +1,759 @@
+IN THE HIGH COURT OF DELHI
+I.A. No.11450/2006 in CS (OS) NO.1938/2006
+Reserved on 17th October, 2006
+Date of Decision 8th , December, 2006
+THE COMPUTERONICS INTERNATIONAL
+LIMITED
+... Petitioner
+through: Mr. Chetan Sharma, Sr. Advocate
+with Mr. Karma S. Bhutia, Adv. &
+Mr. Sushil Kumar Pandey, Adv .
+VERSUS
+M/S INFINITE COMPUTER SOLUTIONS
+(I) PVT. LIMITED & OTHERS
+.....Respondents
+through: Mr. Jayant Bhushan, Sr. Advocate with
+Mr. Ajay Bhargava, Adv. & Mr. Susmit Pushkar,
+Adv. for Defendant Nos.1 to 6.
+CORAM:
+HON'BLE MS. JUSTICE GITA MITTAL.
+1. Whether reporters of local papers may be allowed to see the
+Judgment?
+Yes
+2. To be referred to the Reporter or not?
+Yes
+3. Whether the judgment should be reported in the Digest? Yes
+
+GITA MITTAL, J.
+1.
+
+By this judgment, I propose to dispose of this application which has
+
+been filed by the plaintiff under the provisions of Order 39 Rules 1 & 2 of
+the Code of Civil Procedure, praying for order of restraint against the
+defendants “from dispossessing the Geographical Data Base, more
+specifically described in the plaint, to defendant nos. 7 to 9 and/or creating
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.1
+
+any third party interest or otherwise deal with the same in the similar
+fashion”. A further order is prayed for prohibiting the defendants from
+“dealing with such Geographical Data Base or encumber the same or
+entering into any agreement whatsoever in respect of the same during the
+pendency of the present suit.”
+2.
+
+In order to appreciate the respective contentions, it becomes
+
+necessary to examine some basic facts.
+
+It appears that defendant no.1
+
+entered into an agreement with the Kanpur Electricity Supply Company
+Limited (referred to as “KESCO” hereafter for brevity). M/s KESCO issued
+a letter of intent dated 23rd July, 2005 in favour of the defendants for
+computerisation of KESCO (Stage I) with supply and commissioning of
+related
+
+materials
+
+(on
+
+turnkey
+
+basis)
+
+vide
+
+tender
+
+specification
+
+no.KESCO/APDRP/2004-05/09 under a scheme known as the APDRP
+Scheme. The defendant no.1 entered into a contract dated 8th August, 2005
+with KESCO pursuant to this letter of intent. The defendant company
+outsourced a part of the project to the plaintiff and placed a work order upon
+it for conducting a survey, collecting, updating or collating of consumer and
+network assets data to an accuracy level of 99.9% to enable the defendant
+company to create a comprehensive geographical data base so established
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.2
+
+that it was, spatially consistent, plotted and geo referenced on 1:1000 scale
+KNN maps as required by KESCO to determine any loss incurred by it on
+account of unregistered consumer not paying for electricity consumed, theft
+etc. The defendants have asserted that accuracy of the data, therefore, was
+the essence of the contract. It was urged that otherwise the basic purpose of
+KESCO's project would not be achieved.
+3.
+
+The plaintiff has placed reliance on the work order dated 28th
+
+September, 2005 of the defendant company for supply of the aforesaid data
+for 15 divisions and with regard to quality control and the respective
+responsibilities clearly laid down therein. On the other hand, as per the
+stipulated methodology, the maps provided by the defendant no.1 were
+required to be split into divisions by the plaintiff and the existing networks
+as such were to be verified, marked and updated on the hard copies of the
+grid maps which were to be provided by the defendant to the plaintiff. The
+parameters were set out in the work order itself. Door to door survey was
+required to be conducted and a format was to be provided by the KESCO.
+The work order contained stipulations with regard to quality control and
+required accuracy level of 99.9% after the validation of the data.
+4.
+
+It is contended by the plaintiff that the defendants failed to provide
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.3
+
+the maps and that the plaintiff drew the maps and marked on the same
+manually. Mr. Chetan Sharma, learned senior counsel appearing for the
+plaintiffs, has placed reliance on the delivery challans whereby the data was
+supplied to the defendant no.1 by the plaintiff. Learned senior counsel has
+pointed out that the delivery challans were from 21st May, 2003 to 24th
+December, 2005. It is pointed out that whenever any mistake was pointed
+out by the defendant no.1, the same would be corrected by the plaintiff and
+the corrected copies were also duly handed over to the defendant no.1
+against receipts on the invoices.
+5.
+
+It has further been urged that no complaint was ever made by the
+
+defendant no.1 with regard to the work done by the plaintiff and that the
+same is further evidenced by the fact that the defendant took no action under
+the terms of Clause F(3) of the work order whereby the defendant no.1 was
+entitled to liquidated damages at the rate of 1% on per week of delay subject
+to a maximum of 10% of the project value. According to Mr. Chetan
+Sharma, learned senior counsel appearing for the plaintiff, the very fact that
+the defendant no.1 had not taken any action to levy any liquidated damages
+even as per the affidavit filed in the present proceedings, it is apparent that
+there was no fault with the work of the plaintiff.
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.4
+
+6.
+
+The plaintiff has based its case also on the fact that despite an invoice
+
+dated 6th September, 2006, having been raised on the defendant no.1, it had
+failed to act in accordance with Clause G(2)(c)(d) of the work order
+whereby it was stipulated that 90% of the payment would be released to the
+plaintiff within 15 days of submission of the data against the invoices raised
+which would be submitted by the plaintiff division-wise while the balance
+10% would be released within 30 days of the completion of the work.
+The plaintiff served legal notices dated 29th September, 2006 and 6th
+
+7.
+
+October, 2006 upon the defendant no.1. Mr. Chetan Sharma, learned senior
+counsel, has submitted that as the defendants failed to abide by the notice
+demand, the plaintiff has been constrained to file the present suit seeking
+recovery of amounts due to it from the defendants for the work done. It is
+urged that the interim protection sought by way of the present application is
+essential in order to protect the rights of the plaintiffs who would have no
+other means of recovery against the defendants in case it succeeds in the
+suit.
+8.
+
+This application, on the other hand, has been vehemently opposed on
+
+behalf of the defendants. A short affidavit dated 13th October, 2006 has
+been placed on record setting out the opposition. A preliminary objection
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.5
+
+has been taken to the effect that the present application seeking injunction
+in a suit for recovery of money simplicitor is not maintainable. On the
+merits of the case, it has been contended that the plaintiff is also not entitled
+to any relief on the ground of concealment of material facts. Mr. Jayant
+Bhushan, learned senior counsel who has opposed the application on behalf
+of defendant nos.1 to 6, has urged that the agreement between the parties
+stands cancelled by notice dated 3rd July, 2006 sent to defendant no.1 by email. It has been pointed out that as per the records of the defendant no.1,
+this e-mail stands received by the plaintiff.
+
+The invoice dated 6th
+
+September, 2006 was raised upon the plaintiff more than three months after
+the termination of the agreement and was a dishonest and malafide attempt
+to compel the defendant no.1 to make payments of amounts to which the
+defendants were not entitled. It is further submitted that in the notice dated
+29th December, 2006, the plaintiff had raised a demand of only
+Rs.14,63,993.00 while by the notice dated 6th October, 2006 the plaintiff
+was claiming a hefty amount as due and payable towards interest at the rate
+of 24% per annum. According to learned senior counsel for the defendant,
+the plaintiff has claimed interest at the rate of 24% per annum on the
+amount allegedly due to it and thereby claimed damages of Rs.6,00,000/-,
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.6
+
+raising the aggregate claim of Rs.20,63,993/-.
+9.
+
+The defendants have also challenged the contentions on behalf of the
+
+plaintiff on merits. In its affidavit, it has been stated on behalf of the
+defendants that the plaintiff did not supply any data till 23 rd March, 2006 in
+breach of the stipulations in the work order dated 28th September, 2005.
+The data which was submitted was found to be wholly inaccurate and
+completely useless for the purposes for which the same was required. The
+defendants have urged that the plaintiff was in breach of the work order
+dated 28th September, 2005.
+
+Upon a verification conducted by the
+
+defendant no.1, the inaccuracies in the data submitted by the plaintiff were
+pointed out to it by the e-mail of 31st March, 2006. The inaccuracy is
+revealed in the data which was further supplied by the plaintiff was way
+below the contractual requirement of 99.9%.
+10.
+
+The plaintiff was duly informed that a fresh survey was required to be
+
+conducted in respect of all the fifteen divisions. According to Mr. Bhushan,
+learned senior counsel, the plaintiff by its e-mail of 29th June, 2006, had
+agreed that a re-survey would be required. Further e-mails have been placed
+on record whereby the defendants pointed out the inaccuracies in the data
+provided by the plaintiff.
+
+As the plaintiff was unable to deliver the data,
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.7
+
+the defendant no.1 by the e-mail dated 3rd July, 2006 clearly informed the
+plaintiff that the date of delivery cannot be extended beyond 15th July, 2006
+for the reason that the last date by which the data had to be given to KESCO
+was 8th August, 2006. The defendant no.1 had duly notified the plaintiff
+that if by 8.00 p.m. of the same date, that is, 3 rd July, 2006, it did not
+receive any structured plan for the fresh survey, the contract would stand
+nullified and void.
+
+Since the defendant company did not receive any
+
+structured plan, as such, the contract stood terminated on 3 rd July, 2006 as
+already notified. The defendant no.1 has asserted that on account of the
+delay on the part of the plaintiff, it may have rendered the defendant
+company liable to a claim for liquidated damages at the hands of M/s
+Kesko.
+11.
+
+Mr. Jayant Bhushan, learned senior counsel appearing for defendant
+
+nos.1 to 6 has further contended that no injunction deserves to be granted in
+favour of the plaintiff for the reason that the defendant company conducted
+its own fresh survey regarding all the divisions and submitted such freshly
+surveyed data to KESCO to 21st September, 2006 and on 4th October, 2006.
+According to learned senior counsel for the plaintiff, the plaintiff has no
+right over such data which has been collected and collated by the defendants
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.8
+
+without any contribution from the plaintiff.
+12.
+
+Having heard learned senior counsel for the parties and having
+
+perused the record of the case, I find that in the instant case, the invoices
+which have been placed before this court as proof of accurate data to the
+plaintiff, are merely receipts of some invoices. The admitted position is that
+there was a delay in submission of the data by the plaintiff, though the
+reasons for the same are disputed.
+13.
+
+The defendant nos. 1 to 6 have placed before this court the e-mail
+
+dated 31st March, 2006. In this e-mail, the plaintiff was informed that in the
+data furnished by the plaintiff, in approximate 50% of the records, the
+requisite information had not been furnished. Incomplete addresses were
+given. Essential particulars in order to match the data furnished with the
+inspection and verification was missing. In its answer dated 29th June,
+2006, the plaintiff referred to an earlier e-mail of 28th June, 2006 reiterating
+that a re-survey was required. It is also admitted herein that the re-survey
+that would be conducted would be afresh.
+The defendant no.1 has placed strong reliance on its e-mail dated 3rd
+July, 2006 whereby it clearly notified the plaintiff that it cannot extend the
+date of delivery of the re-survey beyond 15th July, 2006 and that unless a
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.9
+
+plan for the fresh survey was received by 8.00 p.m. of the same date, the
+contract would stand cancelled and be treated as null and void. The plaintiff
+has orally disputed receipt of this e-mail. However, the admitted position is
+that no re-survey plan was intimated to the plaintiff. In fact, the plaintiff
+has not placed before this court anything done by it in furtherance of the email sent by it on 28th June, 2006. There is also no dispute that the plaintiff
+did not raise any invoices periodically in terms of the work order dated 28 th
+September, 2005. The only invoice which has been raised on the defendant
+no.1 is dated 6th September, 2006. There is no explanation for the nonraising of the invoices if the work had actually been done and the data
+furnished as has been claimed.
+14.
+
+It would be useful also to examine the receipt given by the defendant
+
+no.1 on the invoices relied upon by the plaintiff. The only endorsement in
+the purported acknowledgment of the receipt is a mere squiggle upon
+receipt of “Items in good condition”. It is not possible to see to ascertain
+who has received these goods. In any case, certainly upon delivery of the
+data which was not in a hard copy form, it would not be possible for the
+recipient to give a receipt or acknowledge the correctness of the data. It
+cannot be accepted that the mere receipt of the goods on the invoice
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.10
+
+amounted to a certification of the correctness of the data on behalf of the
+defendant nos.1 to 6.
+15.
+
+In this behalf, it would be useful to notice in extenso some of the
+
+assertions made on behalf of the plaintiff in the legal notice dated 29th
+September, 2006. In this legal notice, in paras 3 to 5 thereof, the plaintiff
+has stated thus:“3. That despite numerous requests telephonically, you
+Noticee No.1 to 6 did not supply the said maps and even
+when you did the same were in short of supply to the
+demand and further more without workable
+grids/blocks(division/subdivision wise). However, since
+our clients, who had already hired employees for the
+purpose of executing the Order, couldn't afford to lay off
+them and having no other option, our clients were forced
+to draw maps with their hands and work on the same
+manually.
+5.
+Simultaneously, our clients raised an Invoice
+No.COIL/ICS/06-07/01/284 dated September, 06, 2006
+for a sum of Rs.14,63,993.00/- (Rupees fourteen lacs
+sixty three thousand nine hundred and ninety three only)
+for the work carried out in 8 division only, which was
+duly received by you. It may be pertinent to mention
+here that though the work was carried out and the data
+were handed over to you for the entire 15 divisions but
+invoices were raised only for 8 divisions only to recompensate you for the alleged loss that you have
+suffered.”
+16.
+
+I find force in the submission on behalf of Mr. Jayant Bhushan,
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.11
+
+learned senior counsel for the defendant nos.1 to 6, that prima facie the
+assertion of the plaintiff that it was restricting the invoice to eight divisions
+so as to “Only to re-compensate you for the alleged loss that you have
+suffered” prima facie supports the submissions on behalf of defendant no.1
+that the plaintiff had committed breach of contract resulting in loss to the
+defendant nos.1 to 6 and for this reason, even in the legal notice, the
+plaintiff has sought to compensate the defendants for the loss which has
+enured to them. Furthermore, there is strength in the assertions of the
+defendant nos.1 to 6 to the effect that the defendant had been agitating
+against the defective work conducted by the plaintiff. Detailed submissions
+in this behalf have been made in the e-mails and affidavit which were sent
+by the defendants to the plaintiff which have been placed on record. In its
+reply, the plaintiff has accepted the fact that “a fresh re-survey” was
+required.
+17.
+
+The defendant no.1 has placed before this court the e-mail whereby it
+
+cancelled the work order.
+
+It has filed an affidavit in support of this
+
+submission which remains unrebutted by any affidavit or pleading on the
+part of the plaintiff.
+18.
+
+The principles applicable and which would govern exercise of
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.12
+
+discretion for grant of injunction are well settled and would guide
+consideration of the present application as well. The plaintiff has to make
+out a prima facie case in its favour and show that irreparable loss and
+damage would result to it if interim protection was not granted. Balance of
+convenience, interest of justice and equity must also weigh in favour of the
+plaintiff. These principles were reiterated by the Supreme Court in Shanti
+Kumar Panda Vs. Shakuntala Devi (2004) 1 SCC 438, where the court
+held thus:“22. At the stage of passing an interlocutory order
+such as on an application for the grant of ad interim
+injunction under Rule 1 & 2 of Order 39 CPC, the
+competent court shall have to form its opinion on the
+availability of a prima facie case, the balance of
+convenience and the irreparable injury - the three pillars
+on which rests the foundation of any order of injunction
+.......”
+19.
+
+In Gujarat Bottling Co. Ltd. Vs. Coca Cola Co. (1995) 5 SCC 545 at
+
+page 576, the Supreme Court made observations while considering an
+application for vacation of injunction which are instructive. It was observed
+by the court thus:“47. In this context, it would be relevant to mention that
+in the instance case GBC had approached the High Court
+for the injunction order, granted earlier, to be vacated.
+Under Order 39 of the Code of Civil Procedure,
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.13
+
+jurisdiction of the Court to interfere with an order of
+interlocutory or temporary injunction is purely equitable
+and, therefore, the Court, on being approached, will, apart
+from other considerations, also look to the conduct of the
+party invoking the jurisdiction of the Court, and may
+refuse to interfere unless his conduct was free from blame.
+Since the relief is wholly equitable in nature, the party
+invoking the jurisdiction of the Court has to show that he
+himself was not at fault and that he himself was not
+responsible for bringing about the state of things
+complained of and that he was not unfair of inequitable in
+his dealings with the party against whom he was seeking
+relief. His conduct should be fair and honest. These
+considerations will arise not only in respect of the person
+who seeks an order of injunction under Order 39 Rule 1 &
+2 of the Code of Civil Procedure, but also in respect of the
+party approaching the Court for vacating the ad interim or
+temporary injunction order already granted in the pending
+suit or proceedings.”
+20.
+
+The principles laid down by the Supreme Court in Dalpat Kumar Vs.
+
+Prahlad Singh (1992) 1 SCC 719 at page 719 which would govern exercise
+of discretion under Order 39 of the Code of Civil Procedure would guide
+adjudication in the present matter and read thus:“4. Order 39 Rule 1(c) provides that temporary
+injunction may be granted where, in any suit, it is proved
+by the affidavit or otherwise, that the defendant threatens
+to dispossess the plaintiff or otherwise cause injury to the
+plaintiff in relation to any property in dispute in the suit,
+the court may by order grant a temporary injunction to
+restrain such act or make such other order for the purpose
+of staying and preventing .... or dispossession of the
+plaintiff or otherwise causing injury to the plaintiff in
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.14
+
+relation to any property in dispute in the suit as the court
+thinks fit until the disposal of the suit or until further
+orders. Pursuant to the recommendation of the Law
+Commission clause (c) was brought on 1977. Earlier
+thereto there was no express power except the inherent
+power under Section 151 CPC to grant ad interim
+injunction against dispossession. Rule 1 primarily
+concerned with the preservation of the property in dispute
+till legal rights are adjudicated. Injunction is a judicial
+process by which a party is required to do or to refrain
+from doing any particular act. It is in the nature of
+preventive relief to a litigant to prevent future possible
+injury. In other words, the court, on exercise of the power
+of granting ad interim injunction, is to preserve the
+subject matter of the suit in the status quo for the time
+being. It is settled law that the grant of injunction is a
+discretionary relief. The exercise thereof is subject to the
+court satisfying that (1) there is a serious disputed
+question to be tried in the suit and that an act, on the facts
+before the court, there is probability of his being entitled
+to the relief asked for by the plaintiff/defendant; (2) the
+court's interference is necessary to protect the party from
+the species of injury. In other words, irreparable injury or
+damage would ensue before the legal right would be
+established at trial; and (3) that the comparative hardship
+or mischief or inconvenience which is likely to occur from
+withholding the injunction will be greater than that would
+be likely to arise from granting it.”
+The present case has to be examined in the context of the above
+principles.
+21.
+
+In addition to these considerations, it is also necessary to consider the
+
+maintainability of the prayer for interim injunction in the background of the
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.15
+
+claim in the suit wherein no injunction is prayed for. Perusal of the plaint
+shows that no relief of permanent injunction or injunction of any other kind
+has been sought by the plaintiff. The only prayers made in the suit are to the
+following effect:“i. pass a decree for an amount of Rs.20,63,993/- in favour of
+the Plaintiff and against the Defendants;
+ii. Award pre suit, pendentilite and future interest @24% from
+the date of accrual till the day of the payment in favour of
+the Plaintiff and against the Defendants.
+iii. award cost of the suit incurred by the plaintiff by way of ad
+valorem fee and litigation expenses.
+iv. any other order(s) direction(s) that this Hon'ble court may
+deem fit and proper in the interest of justice.”
+22.
+
+This issue has also fallen for consideration in several cases. The
+
+applicable principles were also succinctly stated by the High Court of
+Judicature at Madras in its pronouncement reported at AIR 1958 Madras
+287 K.P.M.Aboobucker v. K.Kunhamoo and Others when the court
+delineated the law thus:“(13) In 70 Mad LJ 257: (AIR 1936 Mad 276)(B), the
+learned Chief Justice observed at p.261 (of Mad LJ): at
+p.278 of AIR):
+“I very strongly take the view that, when a decree has
+been passed against a party who is himself seeking to
+obtain an injunction, the court has to no jurisdiction,
+whatever, merely because an appeal is pending in
+another suit, to grant an injunction on the ground that the
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.16
+
+property is in danger of being wrongfully sold in
+execution. If the other view were correct, then the
+appellant would have a greater remedy in such cases,
+i.e., an injunction, than he has in the suit under appeal.
+Whilst the decree remains unreversed, it is a good decree
+an d all steps in execution of it are perfectly legal.”
+Whether it was really a case of jurisdiction or one of
+discretion, the scope of both of which was governed by
+Order 39 rule 1(a), and whether the proposition laid
+down by the learned Chief Justice in the first sentence of
+the passage I have extracted above is not too wide as it
+stands, if taken out of its context, may have to be
+considered should occasion arise for it.
+However, if I may say so with respect I find
+myself in complete agreement with the principle that
+underlies the second sentence in the passage I have
+extracted above, that an interim relief granted during the
+pendency of a suit should not be of greater scope than
+what could be granted in the suit itself, after the party
+has established his right in the suit to that relief. In my
+opinion, that would be a very relevant factor to be taken
+into account in deciding whether a court should or even
+could grant such an interim relief, especially so when the
+person against whom the interim injunction is sought is
+not a party to the suit and against whom no relief could
+be granted in the suit itself.”
+xxx
+
+xxx
+
+xxx
+
+(17) An interim relief is granted to a person on the
+footing that that person is prima facie entitled to the
+right, on which is based the claim for the main relief as
+well as the interim relief. That relief is granted as an
+interim measure till the disposal of the suit, in which is
+to be investigated the validity of the claim of right that
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.17
+
+has been put forward.
+If no such claim has been put forward in the suit, it
+means that there can be no occasion for the investigation
+of such a claim in the suit, there can be no justification
+for the grant of an interim relief which will just lapse on
+the termination of the suit, but which will leave the
+parties in the same position in which they were before
+the institution of the suit, in the course of which the
+interim relief was sought and obtained. That, as I
+conceive it, is not the scope of Order 39 rule 1(a) C.P.C.
+In the present case the rights of the respondent, the
+decree-holder in C.S.No.228 of 1954, will remain
+unaffected by the disposal of the partition suit,
+O.S.No.1119 of 1955.
+(18) Under such circumstances, where no relief could be
+granted to the appellant against the respondent in the
+main suit itself, it is not permissible to grant any interim
+relief, to be operative till the disposal of the suit. Even
+where it is only a question of discretion, I should hold
+that in such a case the Court should exercise its
+discretion against the grant of interim injunction. I
+would go further and hold that the Court has no
+jurisdiction to grant by way of interim relief what could
+never be granted in the main suit itself. It is on this basis
+that I rest my decision to confirm the order of the learned
+Additional City Civil Judge, who refused to grant
+interim injunction for which the appellant petitioner
+applied.”
+23.
+
+This court had occasion to consider this issue in AIR 1974 Delhi 207
+
+entitled Raman Hosiery Factory, Delhi & Ors. v. J.K. Synthetics Ltd. &
+Ors., and it was held thus:-
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.18
+
+“19. It is settled law that no interim injunction would
+be issued if the final relief cannot be granted. As was
+held in K.P. M. Aboobucker v. K. Kunhamoo, AIR 1958
+Mad 287 : “An interim relief is granted to a person on
+the footing that that person is prima facie entitled to the
+right on which is based the claim for the main relief as
+well as the interim relief. That relief is granted as an
+interim measure till the disposal of the suit in which is to
+be investigated the validity of the claim or right that has
+been put forward. If no such claim has been put forward
+in the suit, it means that there can be no occasion for
+investigation of such a claim in the suit, there can be no
+justification for the grant of an interim relief which will
+just lapse on the termination of the suit, but which will
+leave the parties in the same position in which they were
+before the institution of this suit in the course of which
+the interim relief was sought and obtained. That is not
+the scope of O. 39 Rule 1.”
+24.
+
+It would be useful to advert to the judicial pronouncement reported at
+
+AIR 1982 Gujarat 289 (at page 293) entitled Gujarat Electricity Board,
+Gandhinagar v. M/s. Maheshkumar & Co., Ahmedabad wherein the
+principles on the same issue were stated thus:“ .......... It is a settled principle of law that in a suit
+where there is a no permanent injunction sought for,
+in the final analysis, ordinarily a temporary injunction
+cannot be granted. The principles that govern the grant
+of perpetual injunction, therefore, would govern the grant
+of temporary injunction also. It is, therefore, too late in
+the day for Mr.Vakil to submit that the principles
+underlying Sec.41 are not to be invoked while dealing
+with the case of a temporary injunction.”
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.19
+
+25.
+
+In the light of the above, it is evident that the plaintiff has failed to
+
+make out a prima facie case for grant of an interim injunction, even if the
+same was otherwise legally permissible. It is well settled that an injunction
+would be issued in favour of the plaintiff who had made out a prima facie
+case for grant of injunction and who was able to establish that grave and
+irreparable loss and damages would occur to it in case the injunction as
+prayed for, was not granted. The plaintiff is also required to show that the
+balance of convenience, interest of justice and equity are in its favour.
+Grant of injunction is guided by well settled legal principles and shall not be
+issued at the mere asking of the plaintiff.
+26.
+
+In the judgment reported at (1993) 3 SCC 161 Shiv Kumar Vs. MCD,
+
+the Apex Court observed thus:“30...............It has been pointed out repeatedly that a party
+is not entitled to an order of injunction as a matter of right
+or course. Grant of injunction is within the discretion of
+the court and such discretion is to be exercised in favour of
+the plaintiff only if it is proved ot the satisfaction of the
+court that unless the defendant is restrained by an order of
+injunction, an irreparable loss or damage will be caused to
+the plaintiff during the pendency of the suit. The purpose
+of temporary injunction is, thus, to maintain the status quo.
+The court grants such relief according to the legal
+principles—ex debito injustitiae. Before any such order is
+passed the court must be satisfied that a strong prima facie
+case has been made out by the plaintiff including on the
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.20
+
+question of maintainability of the suit and the balance of
+convenience is in his favour and rfusal of injunction would
+cause irreparable injury to him.”
+27.
+
+The plaintiff before this court has failed to satisfy any of the afore-
+
+noticed ingredients.
+28.
+
+This application must fail for yet another reason. The plaintiff has
+
+claimed a relief of recovery of money for data which it claimed it compiled
+with a lot of efforts which it furnished to defendant nos.1 to 6. The plaintiff
+has quantified the money which according to it, is due and payable by the
+defendant no.1. In the facts and circumstances of the case, it cannot be at all
+be held that the amount of money being quantified in the prayer clause, the
+damages which would result to the plaintiff in case injunction was not
+granted, would be irreparable. Furthermore, even if the injunction as sought
+was granted, the defendants would stand prohibited from using such data.
+The data has been compiled pursuant to a contract placed by M/s KESCO
+upon the defendant no.1. Such data would not be of any utility to any other
+person. The same may be rendered obsolete even in the time it would take
+for proceedings in the suit to come to a close. In any case, the defendant
+no.1 has clearly said that it does not intend to use any data which has been
+furnished by the plaintiff. For all these reasons, no interim protection as has
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.21
+
+been sought by the plaintiff, can be issued in its favour. I find that even if it
+could be or were granted, it would serve no fruitful purpose.
+29.
+
+In any case, it is trite that the plaintiff cannot be granted interim relief
+
+which is beyond the prayers in the suit.
+30.
+
+In view of these legal principles, I have no manner of doubt that the
+
+plaintiff cannot be granted any relief in the present application filed by it
+seeking an injunction of the manner which has been sought. The plaintiff
+would also not be entitled any injunction in the light of the prayer for
+simplicitor recovery of money in the plaint as it stands. In any case, no
+fruitful purpose would be served even by the injunction which, I have held,
+is not legally permissible. No relief can be granted by way of an interim
+measure when no such final relief has been sought or is being considered for
+grant by the court.
+31.
+
+I also find substance in the detailed submissions addressed by
+
+Mr. Jayant Bhushan, learned senior counsel for the defendant nos.1 to 6
+who has pointed out that the plaintiff has deliberately concealed the e-mails
+containing the complaints made by the defendant no.1 to the plaintiff as
+well as the e-mails whereby it admitted the demands on behalf of the
+plaintiff. These were material facts which the plaintiff was duty bound to
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.22
+
+disclose.
+
+The application would deserve to be dismissed on this very
+
+ground itself.
+32.
+
+For all the foregoing reasons, there is no substance in the application
+
+and the same is hereby dismissed with costs which are quantified at
+Rs.25,000/-. The plaintiff shall pay a sum of Rs.15,000/- to the defendant
+no.1 while the balance amount of Rs.10,000/- shall be apportioned equally
+between National Legal Aid Fund and Delhi High Court Legal Services
+Committee. The plaintiff shall deposit and pay these costs within a period
+of ten days from today and tender proof of payment/deposit in the Registry.
+
+(GITA MITTAL)
+JUDGE
+December 8th , 2006
+aa
+
+IA No.11450/2006 in CS (OS) No.1938/2006
+
+Page No.23
+
+

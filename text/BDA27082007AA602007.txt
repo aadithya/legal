@@ -1,0 +1,257 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
+
+Judgment delivered on: 27.08.2007
+
++
+
+ARB. P. 60/2007
+
+M/S BIRD INFORMATION SYSTEMS PVT LTD ... Petitioner
+- versus M/S GO AIRLINES (INDIA) PVT LTD
+
+... Respondent
+
+Advocates who appeared in this case:
+For the Petitioner
+: Mr Anoop Bagai with Ms Pratibha Sharma
+For the Respondent
+: Mr Nishant Joshi with Mr V.P. Singh
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1.
+
+Whether Reporters of local papers may be allowed
+to see the judgment ?
+
+Yes
+
+2.
+
+To be referred to the Reporter or not ?
+
+Yes
+
+3.
+
+Whether the judgment should be reported in Digest ? Yes
+
+BADAR DURREZ AHMED, J (ORAL)
+1.
+This is a petition under Section 11 of the Arbitration and
+Conciliation Act, 1996 (hereinafter referred to as 'the said Act') for the
+appointment of an arbitrator. According to the petitioner, the arbitration
+clause is contained in the Memorandum of Understanding entered into
+between the petitioner on the one hand and the respondent on the other
+on 01.08.2005. The arbitration clause reads as under:-
+
+ARB. P. 60/07
+
+Page No.1 of 8
+
+“This memorandum of understanding and the
+Agreement shall be governed by and construed in
+accordance with the laws of India.
+All disputes and differences which may arise between
+the parties with respect to the performance,
+interpretation or execution of this memorandum of
+understanding and the Agreement shall be referred to
+arbitration before a sole arbitrator in accordance with
+the provisions of the Indian Arbitration and
+Conciliation Act, 1996 as amended. Such arbitration
+shall be conducted in the English language and the
+seat of such proceeding shall be at New Delhi.”
+2.
+
+The learned counsel for the petitioner referred to the notice
+
+dated 11.10.2006 invoking the arbitration clause. The said notice has
+been received by the respondent as is evident from the reply dated
+06.11.2006. The respondent, instead of agreeing on arbitration, raised
+the issue that no agreement has been entered into between the parties
+and, therefore, there can be no cause for calling any party thereto to
+arbitration. The learned counsel appearing on behalf of the respondent
+has amplified on that stand and submitted that the Memorandum of
+Understanding does not constitute a binding agreement. He referred to
+Section 29 of the Indian Contract Act, 1872 which relates to agreements
+void for uncertainty.
+
+He submitted that the Memorandum of
+
+Understanding, as indicated by the third recital therein, was actually an
+arrangement whereby the parties had agreed to explore the possibilities
+ARB. P. 60/07
+
+Page No.2 of 8
+
+of the petitioner licencing the use of its software referred to as AIRS to
+the respondent w.e.f. 01.08.2005.
+
+Referring to the same recital, he
+
+submitted that the parties had in good faith agreed to negotiate and enter
+into a definitive licencing agreement for this purpose. However, the
+agreement was never entered into. He also referred to clause 'F' of the
+Memorandum of Understanding which reads as under:“F.
+
+TERMS OF THE AGREEMENT TO
+BE EXECUTED
+
+The Agreement shall initially remain in effect for a
+minimum term of two (2) years from the date of
+execution of the Agreement.
+Thereafter the
+Agreement to be executed shall automatically be
+extended for Subsequent Term of Five (05) years
+each on the same terms and conditions (except for
+charges which may be revised as per provisions
+mentioned above) without any further documentation,
+unless a party serves written notice of 120 days to the
+other party of its decision to terminate the
+Agreement.”
+3.
+
+Reading the aforesaid clause, he said that the terms of the
+
+agreement, which was to be executed, were inconclusive and, therefore,
+there was uncertainty and as such the Memorandum of Understanding
+was void on account of uncertainty and that being the case, the
+arbitration clause which found place in the Memorandum of
+Understanding was also void. The learned counsel for the respondent
+
+ARB. P. 60/07
+
+Page No.3 of 8
+
+also submitted that from the tenor of the Memorandum of Understanding
+one can discern the intention of the parties that they were not wanting to
+bind themselves until and unless the definitive licencing agreement was
+executed. He submitted that it is also not so stated anywhere in the
+agreement.
+
+4.
+
+I have heard the counsel for the parties and I do not agree with
+
+the submissions made by the learned counsel for the respondent. The
+Memorandum of Understanding was entered into between the parties and
+the same had been admittedly executed by them. There is also no doubt
+that clause 'H' of the Memorandum of Understanding contains the
+arbitration clause which clearly stipulates that all the disputes and
+differences which may arise between the parties with respect to the
+performance, interpretation or execution of “this Memorandum of
+Understanding” and the agreement shall be referred to arbitration before
+a sole Arbitrator. Therefore, the clause clearly stipulates that if there are
+disputes or differences which may arise between the parties with respect
+to the performance, interpretation or execution of, inter alia, the
+memorandum of understanding, then those disputes and differences
+would be referable to arbitration. The factum of the non-execution of the
+
+ARB. P. 60/07
+
+Page No.4 of 8
+
+definitive licencing agreement would not come in the way of referring
+the disputes to arbitration if the disputes arise between the parties with
+respect to what is stated and agreed upon in the Memorandum of
+Understanding.
+
+5.
+
+The learned counsel for the respondent is also not correct in
+
+saying that the Memorandum of Understanding is void on the count of
+uncertainty. While it is true that the definitive licencing agreement has
+not been executed, it is also true that certain terms for the operation of
+the arrangement between the parties prior to the execution of the
+definitive licencing agreement had been agreed upon and, indeed, had
+even been acted upon. As an illustration, one can examine clause 'B'
+which talks about setup of AIRS. Clause B.2 of the said MoU clearly
+indicates that the commercial components / resources which are required
+for the one time setup of AIRS would be borne and paid for by the
+respondents. The commercial components included Internet bandwidth
+costs, network components, running network costs, telecom links setup
+and running costs, etc. Clause 'C' of the MoU is also quite definitive in
+the sense that it says that the airline (the respondent herein) shall pay BIS
+(the petitioner herein) the charges net of taxes. The charges include
+
+ARB. P. 60/07
+
+Page No.5 of 8
+
+segment booking fee. Clause C.1 of the MoU clearly stipulates that the
+segment booking fee shall be payable monthly for total number of net
+bookings made. Net booking for this purpose would mean bookings
+made during one calendar month, minus bookings cancelled during the
+same calendar month. There are other clauses in the MoU which clearly
+stipulate the mode and manner of payment and the extent of payment for
+the services rendered by the petitioner to the respondent. Consequently,
+I do not agree with the learned counsel for the respondent that the MoU
+is in the nature of an uncertain agreement and is, therefore, void for
+uncertainty.
+
+6.
+
+It may also be pointed out that the claim made by the
+
+petitioner includes a claim which has reference to segment booking fee
+as would be clear from paragraph 7 of the notice dated 11.10.2006. Subpara (a) of paragraph 7 clearly mentions the charges in respect of clause
+C(1.1) of the MoU. The extent of claim is Rs 25 lakhs in respect of this
+clause.
+
+7.
+
+In any event, there is no uncertainty with regard to the
+
+arbitration agreement contained in clause H of the Memorandum of
+
+ARB. P. 60/07
+
+Page No.6 of 8
+
+Understanding. Clause H constitutes an arbitration agreement as defined
+in Section 7 of the said Act.
+
+Even though the definitive licencing
+
+Agreement may not have been executed by and between the parties,
+differences and disputes having a reference to the Memorandum of
+Understanding are also, by virtue of the said clause, arbitrable. Section 7
+(1) of the said Act speaks of disputes in respect of “a defined legal
+relationship, whether contractual or not”. The relationship between the
+parties under the Memorandum of Understanding is certainly a defined
+legal relationship. This is irrespective of the respondent's argument that
+the Memorandum of Understanding does not constitute a binding
+agreement (i.e., a contract).
+
+8.
+
+The consequence of this discussion is that there is an
+
+arbitration agreement as defined in the said Act and that the petitioner is
+a party to the agreement. It is also true that the petitioner invoked the
+arbitration clause and sought the appointment of the sole arbitrator. The
+respondent failed to act as required under the arbitration clause. These
+circumstances fully justify the invocation of the powers under Section 11
+of the said Act for the appointment of an arbitrator and, as a result, this
+petition is liable to be allowed. Justice S.S. Chadha, a former Judge of
+
+ARB. P. 60/07
+
+Page No.7 of 8
+
+this court, is hereby appointed as the sole Arbitrator to arbitrate on the
+disputes arising between the parties. He shall fix his own fee which
+shall, in the first instance, be borne by both the parties in equal measure.
+A copy of this order be sent to the learned Arbitrator so that
+he may take up proceedings in arbitration.
+BADAR DURREZ AHMED
+(JUDGE)
+August 27, 2007
+δυττ
+
+ARB. P. 60/07
+
+Page No.8 of 8
+
+

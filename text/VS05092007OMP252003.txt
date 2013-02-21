@@ -1,0 +1,1185 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+OMP No.25/2003
+Judgment reserved on:
+
+April 03, 2007
+
+Judgment delivered on:
+
+September 05, 2007
+
+%
+
+BWL Ltd
+Through:
+
+Mr.
+
+Mr.Rajesh
+Kohli,
+
+.....
+Petitioner
+D.
+K.
+Malhotra,
+Malhotra and Mr. S.
+Advocates.
+
+versus
+Mahanagar Telephone Nigam
+Ltd. & Anr.
+..... RespondentS
+Through: Mr. Ravi Sikri and
+Mr.Ayushya
+Kumar,
+Advocates
+CORAM:
+HON'BLE MR. JUSTICE VIPIN SANGHI
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+VIPIN SANGHI, J.
+1.
+
+Petitioner has preferred the present petition under Section
+
+34 read with section 13 of the Arbitration & Conciliation Act, 1996
+challenging the award dated 24.10.2002 by the Sole Arbitrator (Mr.)
+Justice S. Ranganathan (Retired).
+
+OMP 25/2003
+
+Page 1 of 27
+
+BACKGROUND FACTS
+2.
+
+The Respondent No. 1 had, on 25.5.1993, floated a tender,
+
+inter alia, for supply of 1672 Kms optical fiber cable with joining
+materials and accessories. The petitioner submitted its bid in
+response to the said tender. After going through the evaluation
+process, on 26.7.1994, a letter of intent was issued by Respondent
+No.1 to the petitioner indicating its intention to place an order for
+supply of 49 Kms of optical fibre cable and accessories upon the
+petitioner, subject to certain terms and conditions. The delivery of the
+materials had to be completed by February 28, 1995 at the latest. The
+Respondent No. 1 thereafter, issued a purchase order dated August
+22, 1994 for supply of 49 kilometers of optical fiber cables (OFC)
+along with the accessories on the terms and conditions indicated
+therein.
+3.
+
+Petitioner, however, could not commence production of
+
+OFC within time to be able to supply the same to the Respondent
+within the contractual period. Consequently, the petitioner repeatedly
+sought extension of delivery period. Extension of time was granted by
+the Respondent upon certain
+
+terms and conditions, which were
+
+incorporated in the various amendments to the purchase order. These
+have been discussed later in the course of the judgment.
+4.
+OMP 25/2003
+
+The petitioner could manage to effect the delivery only on
+Page 2 of 27
+
+26th September 1995, for which the last amendment was made to the
+purchase order described as amendment No.6. The Respondent also
+issued a letter of the same date under which the price payable for
+1995-96 supplies was fixed at Rs.97,588.60 per kilometer (all
+inclusive). This was based on the rates fixed by the DOT in respect of
+OFC cable supplied during the financial year 1995-96.
+5.
+
+Respondent paid to the petitioner for the supplies effected
+
+at the rates fixed by DOT for 1995-96 supplies. However, while
+making payments to the petitioner, the Respondent made deductions
+towards liquidated damages. The petitioner raised disputes about the
+rate at which the payment had been made by claiming that it was
+entitled to be paid at the rates fixed under the purchase order. i.e @
+Rs.1,21,512.50 per km. The petitioner also objected to the deduction
+of liquidated damages. Since the Respondent repudiated these claims
+of the petitioner, they were referred to the sole arbitration of Mr.
+Justice S. Ranganathan (retired). Before the learned Arbitrator, the
+petitioner made the following claims:
+
+“(1)
+
+Excess price collected for the supplies
+
+(2)
+
+Amount unlawfully deducted by MTNL from
+the bills towards alleged liquidated damages Rs. 5,47,205
+
+(3)
+
+Interest on the above amounts from
+17.10.95 till 31.5.2000.
+Rs.41,38,807
+
+OMP 25/2003
+
+Rs.27,47,458
+
+Page 3 of 27
+
+Total
+6.
+
+-----------------Rs.74,33,470
+-----------------
+
+The petitioner also claimed interest on the aforesaid
+
+amount @ 18% per annum from 1.6.2000 till the date of the award.
+7.
+
+By his impugned award, the learned arbitrator has
+
+rejected all the claims of the petitioner and consequently this petition
+has been filed by the petitioner to challenge the award.
+Petitioner's submissions:8.
+
+Learned counsel for the petitioner firstly argues that the
+
+impugned award has been rendered contrary to the contractual terms.
+His submission is that a perusal of the contractual terms shows that
+the price of optical fiber cable to be supplied by the petitioner was
+fixed, and the unit price was Rs.1,21,512.50 per KM. He has drawn
+my attention to clause 8.1 of the Purchase Order dated 22nd August
+1994, which states that “The total price of the purchase order shall be
+
+Rs.68,32,344.50”. He also refers to Annexure `A’ to the purchase
+order which contains the details of the Stores ordered on the
+Petitioner under the purchase order in question. The first item
+mentioned in the tabulation in Annexure `A’ is '12 Fiber Optical
+
+Cable'. The quantity is stated to be 49 Kms. The unit price mentioned
+is Rs.1,21,512.50 thereby making a total price of the optical fiber
+cable as Rs.59,54,112.50. The total price of all the items again comes
+OMP 25/2003
+
+Page 4 of 27
+
+to Rs.68,32,344.50. He also refers to clause 12 of the General
+Conditions of Contract which reads as follows:
+“12. PRICES:
+12.1 Prices charged by the supplier for goods
+delivered and services performed under the
+contractor shall not vary from the prices
+quoted by the supplier in his bid.
+12.2 PRICES FOR ORDERING:
+The prices fixed by MTNL shall remain valid for
+the period of delivery schedule stipulated
+under the ‘Schedule of Requirements’ by
+MTNL. Increase and decrease of taxes and
+duties will not affect the price during the
+originally offered delivery schedule.
+12.3 For any add-on order, price will be fixed
+after adjusting the price according to the taxes
+and duties as on date of such order.”
+9.
+
+He submits that under the General Purchase Conditions,
+
+the bidders, like the Petitioner, were required to quote firm prices,
+item wise (clause 3.2). The bidders were also required to confirm that
+their “quoted prices shall remain, in the event of an order, Firm and
+
+Fixed and subject to no variation of any description during operation
+of the order” (clause 3.3 of the General Purchase Conditions). All
+these clauses, according to the Petitioner, clearly show that the
+contract was a fixed price contract for all supplies to be made
+thereunder
+
+and
+
+the
+
+Respondent
+
+could
+
+not
+
+reduce
+
+the
+
+prices
+
+unilaterally to the detriment of the Petitioner.
+10.
+OMP 25/2003
+
+Learned counsel for the petitioner, while dealing with
+Page 5 of 27
+
+clause 5 of the General Purchase Conditions, which gives to MTNL
+“the right to modify or amend this order subject to an adjustment in
+
+the price and/or delivery date in accordance with the applicable
+provision of the order, if any, or pursuant to mutual agreement”,
+argued by reference to clause 13 of the General Conditions of
+Contract, (which in effect authorises the purchaser, i.e., MTNL to
+change specifications, method of transportation and packing, place of
+delivery and services to be provided by the supplier), that the right of
+modification given in clause 5 of the General Purchaser Condition is to
+be read in the light of the right given to the purchaser to amend the
+specifications etc. He submits that only if there is a change in
+specifications etc., the firm prices could be changed “in accordance
+
+with the applicable provision of the order, if any, or pursuant to
+mutual agreement”. However, according to the Petitioner, there was
+no change in the specifications or any other relevant terms or
+condition for supply of cable and, consequently, clause 5 of the
+General Purchase Condition could not be resorted to by the
+Respondent to reduce the price of the cable supplied by the
+Petitioner.
+
+Learned counsel for the petitioner submits that while
+
+dealing with the aspect of liquidated damages, the learned Arbitrator
+has failed to consider clause 16.2 of the General Conditions of
+Contract and failed to determine whether the liquidated damages
+ought to have been 0.5% of the value of the delayed supply, for each
+
+OMP 25/2003
+
+Page 6 of 27
+
+week of delay or part thereof, subject to the maximum of 10% of the
+value of the delayed supply, or the same should have been levied at
+the aforesaid rate on the total value of the contract.
+11.
+
+Counsel for the petitioner submits that the respondent
+
+could not have simultaneously imposed liquidated damages and varied
+the price to the detriment of the petitioner. Learned counsel submits
+that the award in question is contrary to sections 73 and 74 of the
+Contract Act. Under Section 73, “when a contract is broken, the party
+
+who suffers by such breach is entitled to receive, from the party who
+has broken the contract, compensation for any losses or damages
+caused to him thereby, which inter-alia, arose in the usual course of
+things from such breach or which the party knew, when they made
+the contract, to be likely to result from the breach of it. Such
+compensation is not to be given to any remedy or indirect loss
+sustained by reason of the breach”.
+
+Under Section 74, “'when a
+
+contract has been broken if a sum is named in the contract as the
+amount to be paid in case of such breach, or if the contract contains
+any other stipulation by way of penalty, the party complainant of the
+breach is entitled, whether or not actual damages or loss is proved to
+have been caused thereby, to receive from the party, who has broken
+the contract reasonable compensation not exceeding the amount so
+named or, as the case may be the penalty stipulated for”.
+
+OMP 25/2003
+
+Page 7 of 27
+
+12.
+
+On the basis of aforesaid two provisions, it is argued that
+
+the Respondent, in any event, ought to have proved that it had
+suffered some damages on account of the failure of the Petitioner to
+make the supplies within the contractual period. That not having been
+done by the Respondent, there was no question of levy of any
+liquidated damages upon the Petitioner. Consequently, the finding of
+the learned Arbitrator whereby he upholds the liquidated damages
+deducted by the Respondent from the amounts due to the Petitioner
+cannot be sustained.
+13.
+
+Learned counsel for the petitioner also sought to rely on
+
+M/s. Sikkim Subba Associates vs. State of Sikkim, JT 2001 (5) SC
+186 and particular paragraph 14 thereof, wherein the Hon'ble
+Supreme Court observed that “it is also, by now, well settled that an
+
+Arbitrator is not a conciliator and his duty is to decide the dispute
+submitted to him according to the legal rights of the parties and not
+according to what he may consider it to be fair and reasonable”.
+14.
+
+Reliance has also been placed on the decision of the
+
+Hon'ble Supreme Court in Rajasthan States Mines and Minerals
+
+Ltd. Vs. Eastern Engineering Enterprises & another, (1999) 9
+SCC 283. In this judgment, the Hon'ble Supreme Court had observed
+that 'it is settled law that the Arbitrator is the creator of the contract
+
+between the parties and hence if he ignores the specific terms of the
+
+OMP 25/2003
+
+Page 8 of 27
+
+contract, it would be a question of jurisdictional error which could be
+corrected by the court and for that limited purpose agreement is
+required to be considered.' He also refers to Chiranji Lal Sri Lal
+Goenka (Dead) by LRs vs. Jasjit Singh and others, (2001) 1 SCC
+486. In this case, rejecting the argument that where two views are
+possible and that since the Arbitrator has taken a plausible view, the
+award cannot be interfered with, the Hon'ble Supreme Court held that
+the award on the face of it was illegal and erroneous.
+The Petitioner also relies on K.P. Poulose vs. State of
+
+15.
+
+Kerala, AIR 1975 SC 1259. In this judgment the Hon'ble Supreme
+Court held that misconduct under Section 30(a) of the Arbitration Act,
+1940
+
+comprises legal misconduct which is complete if after the
+
+Arbitrator,
+
+on the face of the award, arrives at an inconsistent
+
+conclusion even on his own findings,
+
+or arrives at a decision by
+
+ignoring very material documents which throw abundant light on the
+controversy to help a just and fair decision.
+16.
+
+It is argued that the question is not whether the petitioner
+
+has accepted the variation in the price by effecting supplies.
+
+It is
+
+whether the respondent MTNL could have, in the first place, imposed
+such a condition. By referring to the last two lines of paragraph 11 of
+the award, counsel for the petitioner submits that the reduction in the
+rates was unilateral on the part of the MTNL and merely because the
+
+OMP 25/2003
+
+Page 9 of 27
+
+petitioner had acted upon the same, it could not be said that the
+petitioner had waived the breach of the agreement by the MTNL in
+reducing the price unilaterally, or that the petitioner had accepted the
+said deduction once and for all.
+17.
+
+Counsel for the petitioner also relied on Section 55 of the
+
+Contract Act to submit that from a reading of the contract, it is clear
+that time was not of the essence of the contract, and, consequently
+the contract did not become voidable upon the failure of the petitioner
+to make the supplies within the specified time.
+
+In the facts and
+
+circumstances of the case, all that the MTNL was entitled to, was
+compensation for any loss occasioned by the failure of the petitioner
+to effect supplies within the stipulated time.
+
+He also relied on a
+
+decision of this Court in Titanium Tantalum Products Ltd v.
+
+Shriram Alkali & Chemicals, (2006)(2) Arbitration Law Reports 366
+(Delhi).
+18.
+
+He further submits that the Award passed by learned
+
+Arbitrator is against the Public Policy of India. The award according
+to the learned counsel for the petitioner, is not only in contravention
+of the contractual term but also the law of the land. He relies on the
+decision of the Supreme Court in ONGC vs. Saw Pipes Ltd., JT 2003
+(4) SC 171 and particularly para 31 thereof, which states that an
+award which is, on the face of it, patently in violation of the statutory
+
+OMP 25/2003
+
+Page 10 of 27
+
+provision cannot be said to be in public interest. Such an award is
+likely to adversely affect the administration of justice. The expression
+'public policy' is required to be given a wider meaning and an award
+could be set aside if it is patently illegal. He submits that “an Award
+could be set aside 'if it is contrary to:(a)Fundamental policy of Indian law; or
+(b)The interest of India; or
+(c) Justice or morality, or
+(d) In addition, if it is patently illegal.
+19.
+
+In Saw Pipes (supra), the Supreme Court explains
+
+what is meant by a patent illegality by observing:“IIlegality must go to the root of the matter and if
+the illegality is of trivial nature it cannot be held
+that award is against the public policy. Award could
+also be set aside if it is so unfair and unreasonable
+that it shocks the conscience of the Court. Such
+award is opposed to public policy and is required to
+be adjudged void.”
+Respondent's submissions:20.
+
+On the other hand, learned counsel for the respondent has
+
+defended the award in question by arguing that the said award is well
+reasoned and has been passed
+
+after taking into consideration the
+
+documents and submissions of the parties. The learned Arbitrator has
+interpreted the contract in a reasonable manner by appreciating the
+true intent of the parties as reflected in the terms of the contract. It
+
+OMP 25/2003
+
+Page 11 of 27
+
+is also argued that the objections raised by the petitioner are entirely
+on the merits of the case and beyond the scope of interference under
+Section 34 of the Act. He contends that this Court is not sitting in
+appeal over the award in question.
+
+Learned counsel
+
+for the
+
+respondent relies on Bharat Heavy Electricals Ltd. vs. Global Hi
+
+Fabs Ltd., 116(2005) DLT 1 (paragraphs 13 to 19) which states that if
+an Arbitrator has interpreted a clause in the contract in a particular
+manner and has taken a decision which is a plausible view, it is not
+permissible for the Court to substitute its own evaluation or
+conclusion of law or fact. By relying on Union of India Vs. Arctic
+
+India, 125(2005) DLT 478, he submits that the Court while examining
+an award of an Arbitrator will not substitute its opinion with that of
+the Arbitrator. Even if the facts and circumstances of the case are
+open to two plausible interpretations, it is legitimate for the Arbitrator
+to accept one or the other available interpretation and even if the
+Court may think that the other view is preferable, the Court will not
+and should not interfere with the interpretation of the Arbitrator
+unless and until the decision of the Arbitrator is manifestly perverse
+or has been arrived on the basis of wrong application of law.
+
+He
+
+further submits that the scope of interference by the Court under the
+1996 Act is narrower than the scope of interference by a Court in an
+arbitral award governed by the 1940 Act.
+
+For this proposition, he
+
+relies
+
+Housing
+
+on a
+
+OMP 25/2003
+
+decision of
+
+this Court
+
+in
+
+and
+
+Urban
+
+Page 12 of 27
+
+Development
+
+Corporation
+
+Limited
+
+vs.
+
+Leela
+
+Hotels
+
+Ltd.,
+
+FAO(OS) 59/2003 decided on 9.11.2004. In this judgment the Hon'ble
+Division Bench relying on the earlier decisions of the Supreme Court
+held that if the Arbitrator has interpreted a clause in an agreement in
+a particular way and has taken a decision which is a plausible view, it
+is not permissible for the Court to substitute its own evaluation or the
+conclusion of law or fact. If the clauses in the contract are open to
+two plausible interpretations, it is legitimate for the Arbitrator to
+accept one or the other available interpretation and even if the Court
+may think that if the other view is preferable, the Court will and
+should not interfere
+
+with the interpretation of the Arbitrator. To
+
+support the contention that the objections to an award under Section
+34 of the Act are not to be treated as an appeal from the award,
+learned counsel for the respondent relies on DGS and D Vs.
+
+Eupharma Laboratories Limited in OMP No.287/1999 decided on
+9.3.2006. By relying on DDA vs. Emkay Construction Company in
+OMP No.54/06 decided on 17.2.2006, counsel for the respondent
+contends that it is not within the scope of scrutiny by the Court of an
+arbitral award to reappraise the evidence or interfere with it merely
+because the Court would come to a different conclusion on the same
+set of facts. He submits that, no doubt, the arbitral award could be
+set aside if it is patently illegal. Resultantly it could be set aside if it is
+contrary to:-
+
+OMP 25/2003
+
+Page 13 of 27
+
+(a) Fundamental policy of Indian laws; or
+(b) The interest of India; or
+(c) Justice or morality; or
+(d) If it is patently illegal.
+21.
+
+However, the illegality must go to the root of the matter
+
+and if illegality was of a trivial nature, it cannot be held that the
+award is against the public policy. The award could be set aside if it
+is so unfair or unreasonable that it shakes the conscience of the Court.
+Such an award is opposed to public policy and is required to be
+adjudged void. In support of the aforesaid proposition he also relies
+on Arosan Enterprises Ltd Vs. UOI, (1999) 9 SCC 449;
+
+Raipur
+
+Development Authority v Chokhamal Contractors, AIR 1990 SC
+1426 and various other decisions of this Court and the Hon'ble
+Supreme Court.
+22.
+
+Learned counsel for the respondent further submitted that
+
+the imposition of liquidated damages was challenged by the petitioner
+before the learned Arbitrator on the ground that such imposition was
+not
+
+justified.
+
+However,
+
+the
+
+petitioner
+
+did
+
+not
+
+dispute
+
+the
+
+quantification thereof. He refers to paragraph 18 of the statement of
+claims before the learned Arbitrator.
+
+The imposition of liquidated
+
+damages was challenged on the ground that the delay in supply of the
+goods was not due to any factors within the control of the claimant,
+
+OMP 25/2003
+
+Page 14 of 27
+
+but was on account of force majeure conditions. The challenge was
+also on the ground that the respondent, in fact, did not suffer any loss
+due to the delay in supply of the goods by the claimant. It was also
+claimed that clause 15 contained in Section 3(General Conditions of
+Contract) is a nullity. However, the claimant did not seek to challenge
+the actual quantification of the liquidated damages. Learned counsel
+also argued that while seeking extension of time for effecting supplies
+of the goods in question, the petitioner did not plead force majeure
+conditions.
+
+He also refers to the award of the learned Arbitrator
+
+wherein the Arbitrator has extensively dealt with the submission of
+the petitioner based on force majeure and argues that these findings
+of fact cannot be interfered with by the Court in these proceedings
+since they are final and binding on the parties.
+Discussion & Decision:23.
+
+The first question that arises for consideration is, whether
+
+the impugned award discloses a patent error in the interpretations of
+the contractual terms with regard to the price of the goods payable to
+the petitioner. The letter of intent issued by the respondent indicated
+the rate of OFC at Rs.1,21,512.50 per km. The delivery of goods had
+to be completed latest by 28-2-1995 and it also contained a condition
+that “the above indicated rates or the rates finalised by the
+
+Department of Telecommunications (DOT) for 1994-95 supplies,
+
+OMP 25/2003
+
+Page 15 of 27
+
+whichever
+
+are lower, shall finally be applicable for settlement
+
+of
+
+payments against LOI”. The petitioner accepted the terms of the LOI
+by its letter dated 2.8.1994.
+
+On 28.8.1994 the respondent MTNL
+
+placed a purchase order on the petitioner for purchase of, inter alia,
+49 kms length of Optical 12F Cables on the terms and conditions set
+out in Annexure A to the order.
+
+The special condition of the LOI
+
+aforesaid was reiterated in clause 8.2 of the purchase order. Under
+the purchase order as well, the supplies had to be completed by
+28.2.1995. Clause 6.2 of the General Conditions of Contract annexed
+to the purchase order stipulated that “ the delivery of the equipment
+
+shall commence as specified and be completed within the time
+schedule specified in schedule of requirements and this shall be the
+essence of the contract.” Clause 12.2 stated that “the price fixed by
+MTNL shall remain valid for the period of delivery stipulated under
+the schedule of requirements by MTNL.”
+24.
+
+Admittedly, the petitioner was unable to deliver the goods
+
+within the stipulated period.
+
+To the request of the petitioner for
+
+extension of delivery period made on 22.10.1994, the MTNL vide
+letter dated 10.11.1994 agreed to late submission of the prototype for
+approval. However it insisted for the delivery of the entire supply by
+28.2.1995.
+
+Petitioner successively sought extension of time for
+
+delivery from time to time and upto 15.9.1995.
+
+These extensions
+
+were granted by the respondent vide memoranda dated 24.4.1995,
+OMP 25/2003
+
+Page 16 of 27
+
+29.9.1995,
+
+6.7.1995
+
+and
+
+16.8.1995
+
+respectively
+
+contained
+
+in
+
+amendment nos. 2,3 4 and 5 to the purchase order dated 28.8.1994.
+The first extension of delivery period upto 31.3.1995 amended the
+purchase order in respect of the price. The relevant extract of this
+amendment is as follows:“Sub-clause 8.2 and Special Condition Clause at
+Annexure `A'
+The rates indicated in the abovesaid purchase order
+are firm subject to the condition that the supplies
+have been delivered as per the scheduled delivery
+period before 31.03.95 and, therefore, the special
+condition clause indicated in this purchase order
+shall stand deleted.........Further, for the supplies not
+completed upto 31.03.95, the delivery period
+extension with liquidated damages on the revised
+prices to be finalized for 95-96 supplies shall be
+applicable for which the separate amendment shall
+be issued for such cases after verifying the
+requirement.
+Vide Memoranda dated 29.5.1995, the delivery period was
+
+25.
+extended
+
+upto 31.7.1995. The respondent, apart from levying
+
+liquidated damages, for failure to supply the cables upto 31.3.1995 in
+respect of applicable prices, stated as follows:“1. Applicable provisional prices for supplies
+effected from 1.4.1995 onwards shall be as
+follows:ITEM NEW REVISED UNIT (PROVISIONAL) PRICE
+(ALL INCLUSIVE)
+(IN RS.)
+i) 12 Fibre Optical Cable
+
+26.
+OMP 25/2003
+
+Rs.97,588.80 Rupees
+Ninety Seven Thousand Five
+hundred Eight Eight and
+paisa Eighty PKM only
+
+A similar pattern was followed in respect of subsequent
+Page 17 of 27
+
+amendments as well.
+27.
+
+The petitioner effected deliveries only on 26.9.1995. The
+
+respondent also communicated the final rate for the supplies effected
+during 1995-96 at Rs.97,588.80/- per km (all inclusive) since that was
+the rate fixed by the DOT in respect of supplies effected during the
+financial year 1995-96.
+28.
+
+The
+
+learned
+
+Arbitrator
+
+rejected
+
+the
+
+petitioner's
+
+submission that the prices under the contract were fixed and firm and
+that the MTNL had no right to vary the prices stipulated in the
+Purchase Order by giving his reasons. He interprets the contractual
+clauses, including clause 5.1 (relied upon by the petitioner) to mean
+that MTNL could always effect an adjustment of the price and /or
+delivery date, “in accordance with the applicable provision of the
+
+order”. The Purchase Order itself envisages the completion of the
+delivery of the goods by 28.2.1995, and the rates will be those stated
+in the Purchase Order, or those which are finalised by the DOT for the
+1994-95 supplies. For deliveries not effected by that date, the rates
+were not fixed.
+
+Therefore, when the delivery of the goods got
+
+postponed to a date after 28.2.1995, and well into the financial year
+1995-96, the MTNL prescribed the rates, which were lower of the two
+i.e the rate stated in the Purchase Order and the rates fixed by the
+D.O.T for supplies in the year 1995-96. This, the learned Arbitrator
+holds is in tune with the terms of the purchase order, and valid. He
+OMP 25/2003
+
+Page 18 of 27
+
+further holds that, in truth, there is no variation in the purchase price
+at all. The contract always envisaged that the price payable will be
+that fixed in the purchase order or that fixed by the DOT for supplies
+during the financial year in which the delivery is effected, whichever
+is lower.
+29.
+
+This interpretation given by the learned Arbitrator to the
+
+contractual terms is not only a
+
+plausible interpretation, and
+
+therefore, cannot be faulted with, but also appears to be the only
+reasonable way to interpret the contract. There is nothing to suggest
+that this interpretation can be called as perverse, or that the same has
+been arrived at in ignorance of the contractual terms or is glaringly
+at variance with any of the contractual terms. It is only reasonable to
+interpret the question of applicable rate in the manner decided by the
+learned Arbitrator, since a party cannot seek to derive an undue
+advantage by its own default, of being paid a higher rate for supplies
+effected well beyond the contractual date, when the prices of the said
+goods are generally falling with each passing year.
+30.
+
+The learned Arbitrator has viewed the said reduction in
+
+prices from another angle. He holds that the amendments of the
+purchase orders to extend the delivery dates upon conditions
+contained therein, with regard to the prices,
+
+tantamounted to a
+
+mutual revision of the purchase order within the meaning of clause
+
+OMP 25/2003
+
+Page 19 of 27
+
+5.1 of the General Conditions of the Contract. He holds that though
+the said clauses were unilaterally prescribed by the MTNL in the first
+instance, they were acted upon and hence agreed to by the petitioner
+by its conduct. The petitioner could not, therefore, now turn around
+to assail the revision of the contractual terms.
+
+This is also, to my
+
+mind a reasonable and plausible view and therefore, does not call for
+interference.
+
+Pertinently, even the learned Arbitrator does not
+
+consider the stipulation as to time of delivery to be of the essence of
+the contract. The submission of the petitioner founded upon Section
+55 of the Contract Act, therefore, looses force.
+31.
+
+It is always open to the parties to mutually vary the
+
+contractual terms.
+
+In case one of the parties to an existing contract
+
+proposes a variation of the contractual terms, and the other party
+accepts the suggested variation either expressly or by implication
+evident from its conduct, the
+
+second party cannot, subsequently,
+
+complain about the variation in the contractual terms.
+
+The learned
+
+Arbitrator has, in the alternative, read a mutual variation of the
+contract from the conduct of the parties. In my view, there is nothing
+wrong with it.
+32.
+
+Coming to the contentions of the petitioner that the MTNL
+
+– a public undertaking had imposed arbitrary and unreasonable terms
+by stipulating alternative prices, I find that the learned Arbitrator has
+
+OMP 25/2003
+
+Page 20 of 27
+
+exhaustively dealt with the same in para 12 of the impugned award.
+The learned Arbitrator holds that there is nothing in the Sale of Goods
+Act to prohibit a purchaser from specifying a fixed price or a price
+that may be determined, by reference to, say, the prices prevailing in
+the market for similar goods on the date of delivery, whichever is
+lower.
+
+Clause 8.2 of the General Conditions of Contract in the
+
+Purchase Order does just that. The learned Arbitrator rejected the
+petitioner's submission that the stipulation of alternative prices in the
+contract thereby making the price liable to revision, as being illegal or
+incidental.
+
+The learned Arbitrator held that under the scheme
+
+formulated in the NIT and the purchase order, the bidders
+
+were
+
+required to quote, firm and fixed prices and not to deviate therefrom
+once an order is placed on them. The NIT did not specify the price
+which MTNL would eventually pay, since the same would depend on
+the terms of the purchase order. The NIT specifically authorised the
+respondent MTNL to make price adjustment in the course of
+implementation of a purchase order. This variation was based on a
+reasonable criteria, i.e the prices fixed by DOT for the financial year
+in which the supplies are made of similar goods. He further holds that
+while the bidders were bound to quote, fixed and firm prices and not
+to deviate therefrom, once an order was placed on them,
+
+the NIT
+
+permitted MTNL to quote its prices while placing an order, with a
+right of variation during the implementation of the order so as to
+
+OMP 25/2003
+
+Page 21 of 27
+
+entitle it to pay either the prices fixed in the purchase order, or the
+DOT prices prevalent in respect of the supplies made during the
+financial year in which the deliveries are effected.
+33.
+
+In my view the aforesaid interpretation given by the
+
+learned Arbitrator, which is also based on an understanding of the
+factual background in which the tenders for the goods in question
+were invited and operated,
+
+cannot be faulted and appears to be a
+
+reasonable view considering that the NIT after being issued in the
+year 1994 was again issued by MTNL only in the year 1997.
+
+The
+
+MTNL had consistently prescribed and practiced the formula of
+paying the suppliers the prices prevalent under the DOT contracts at
+the time when the supplies were effected. The learned Arbitrator held
+that there is nothing arbitrary or unconscionable in a PSU providing
+in its purchase contracts that only the standard prices fixed by a
+established consumer of the goods in question will be paid by it as
+well.
+
+To hold otherwise will result in public funds being utilised to
+
+make purchases of goods at prices much in excess of their
+contemporary market value. This is, in my view, a reasonable and a
+plausible view to take in the facts and circumstance so this case.
+34.
+
+The
+
+learned
+
+Arbitrator
+
+deals
+
+with
+
+the
+
+petitioner's
+
+contention that it had accepted the price revision under protest, and
+that it had also objected to the levy of liquidated damages by relying
+
+OMP 25/2003
+
+Page 22 of 27
+
+upon the communication dated 9.6.1995 of the petitioner which only
+sought waiver of liquidated damages. The communications set up by
+the petitioner, whereby, the petitioner purportedly accepted the
+purchase order under protest and without prejudice to their rights to
+question the reduction in prices and imposition of liquidated damages
+were not accepted by the learned Arbitrator.
+
+Receipt of these
+
+communications had been denied by the respondent.
+35.
+
+The learned Arbitrator finds that the purchase order dated
+
+28.8.1995 itself authorised price variation. In case the petitioner was
+not agreeable to supply the goods on the reduced prices, it had the
+option not to supply the goods. However, having supplied the goods
+and availed of the amendments to their advantage, they could not
+later on seek to challenge the same to claim the higher price under
+the contract.
+36.
+
+In my view, the learned Arbitrator was the sole judge of
+
+the facts and there is nothing apparently wrong with the conclusions
+drawn by him even on this aspect of the matter.
+37.
+
+Coming to the aspect of imposition of liquidated damages,
+
+the petitioner had sought to invoke the force majeure clause to say
+that the delay was on account of heavy snow and rain in the
+Himalayan region at the relevant time.
+
+However the learned
+
+Arbitrator did not accept this submission by relying on clause 17.1,
+OMP 25/2003
+
+Page 23 of 27
+
+which required the petitioner to give notice of the occurrence of force
+majeure conditions within 21 days. In my view, whether or not force
+majeure conditions prevailed and could be taken into account is again
+an issue of fact and the finding of the learned Arbitrator cannot be
+interfered with in these proceedings.
+38.
+
+The learned Arbitrator, I find, has discussed in detail the
+
+case of force majeure set up by the petitioner and rejected the same
+by giving his reasons. He has relied on the communications sent by
+the petitioner itself on 22.10.1994, 22.3.1995, 15.5.1995 and in none
+of these letters, while seeking extension of the delivery period, the
+petitioner made out any case of force majeure conditions prevailing at
+the relevant time.
+
+The learned Arbitrator has held that adverse
+
+weather conditions was introduced, as a cause for delay in effecting
+the supplies, as an afterthought.
+
+The letters of the petitioner
+
+unmistakably show that it had other problems which led to seeking
+extension of time repeatedly, but bad weather conditions were not one
+of them. There are findings of fact and there is nothing brought to the
+attention of the Court to assail the same.
+39.
+
+I may note that the respondent had imposed liquidated
+
+damages of Rs.5,47,205/- on the basis that there was a delay of 25
+weeks between 1.4.95 and 15.9.95, but at the maximum rate of 10%
+of the total purchases, since the delay was in the delivery of the entire
+
+OMP 25/2003
+
+Page 24 of 27
+
+quantity supplied.
+
+Counsel for the petitioner could not point out
+
+anything from the arbitral record to show that any such argument had
+ever been raised before the learned Arbitrator.
+
+In this view of the
+
+matter, the petitioner is precluded from raising any such argument at
+this stage.
+
+I find no ground to interfere with these findings of the
+
+learned Arbitrator, which appear to be totally fair and reasonable. In
+the case of Titanium Tantalum Products Ltd (supra) relied upon
+by the petitioner, the equipments supplied by the petitioner were
+found to be defective. The respondent was held liable to refund the
+cost paid to the petitioner.
+
+The claim of the respondent for losses
+
+suffered as a consequence of non-supply of the equipment as per
+specifications was also allowed. The Court held that the petitioner did
+not know the extent of damages that the respondent would suffer on
+account of the failure to supply the equipment as per the agreement
+and consequently reduced the damages to 5% of the contractual
+value. This decision only dealt with the aspect of quantification of
+damages and has no application in the facts of the present case. The
+petitioner contended that what had been claimed
+
+as liquidated
+
+damages, were in fact in the nature of penalty, since the MTNL
+suffered no prejudice or handicap because of the delay in supply of
+the goods. This argument was rejected by the learned Arbitrator. In
+doing so, he relied upon the affidavit
+
+by way of evidence filed on
+
+behalf of the respondent wherein the respondent had stated that it
+
+OMP 25/2003
+
+Page 25 of 27
+
+had suffered heavy losses due to non-supply of cable due to which the
+commissioning target of the respondent got affected for release of
+new connections and since new connections could not be given or
+installed, the respondent suffered loss of revenue. The witness also
+confirmed that the cable ordered from the claimant was for specific
+projects which were delayed.
+
+The cable was needed for junctions
+
+working and commissioning of remote lying units which are revenue
+gathering. The learned Arbitrator held that it could not be said that
+the damages suffered by MTNL due to delay in supply by the
+petitioner was illusory,
+
+and that the respondent should have
+
+substantiated its claims for damages by actual proof of loss of revenue
+suffered.
+40.
+
+In my view, the learned Arbitrator is the final judge of
+
+the facts before him. The strict Rules of evidence do not bind him.
+His findings of fact cannot be interfered with since it cannot be said
+that they are wholly inconsistent with the facts of the case. Moreover,
+it is only reasonable to assume that due to the delay in the supply of
+the OF cable, the implementation of the projects of MTNL was
+delayed, which in turn, caused some loss of revenue to the
+respondent. The parties had agreed to the levy of liquidated damages
+as a genuine predetermined estimate of loss caused due to failure to
+supply the cable by the petitioner, and the same cannot be said to be
+an imposition by way of penalty. The learned Arbitrator, in my view,
+OMP 25/2003
+
+Page 26 of 27
+
+has correctly appreciated that the contract in this case safeguarded
+the respondent MTNL against two situations, viz., the possibility of
+delivery dates being dragged beyond the financial year in which they
+were agreed to be supplied, and, the loss of revenue or loss in the
+implementation of projects caused by delay in supply of goods. The
+first was safeguarded by providing a variable price formula, and the
+second by imposition of liquidated damages.
+41.
+
+Consequently, there is no force in the submissions of the
+
+petitioner that the respondent
+
+could not have, at the same time
+
+subjected the petitioner to liquidated damages and to price reduction.
+The argument based on Sections 73 and 74 of the Contract Act, in
+view of the aforesaid discussion is also of no avail to the petitioner.
+42.
+
+For the aforesaid reasons, I dismiss the objections with
+
+costs quantified at Rs.10,000/-.
+
+(VIPIN SANGHI)
+JUDGE
+September 05, 2007
+as/P.K.BABBAR
+
+OMP 25/2003
+
+Page 27 of 27
+
+

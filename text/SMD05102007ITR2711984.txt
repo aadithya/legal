@@ -1,0 +1,559 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+%
+
+Reserved on :
+Date of Decision :
+
++
+
+September 12, 2007
+October 5, 2007
+
+ITR No. 271 of 1984
+COMMISSIONER OF INCOME TAX
+.... Appellant.
+Through Ms. P.L.Bansal, Advocate.
+versus
+M/S. NARINDER MOHAN FOUNDATION
+..... Respondent
+Through Mr. P.N.Monga with Mr. Manu Monga,
+Advocates.
+AND
+ITR No. 381 of 1984
+
++
+
+COMMISSIONER OF INCOME TAX
+.... Appellant.
+Through Ms. P.L.Bansal, Advocate.
+versus
+M/S. NARINDER MOHAN FOUNDATION
+..... Respondent
+Through Mr. P.N.Monga with Mr. Manu Monga,
+Advocates.
+CORAM:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S. MURALIDHAR
+1.
+2.
+3.
+
+Whether Reporters of local papers may be
+allowed to see the order?
+Yes
+To be referred to the reporter or not? Yes
+Whether the order should be reported in the
+Digest?
+Yes
+
+DR. S. MURALIDHAR, J.
+
+1.
+
+These two cases are references made to this Court by the Income Tax
+
+Appellate Tribunal (‘Tribunal’) Delhi Bench “E”, New Delhi under Section
+256 (1) of the Income Tax Act 1961 (‘Act’). The questions referred for two
+Assessment Years are more or less similar. Relevant to the Assessment Year
+1976-77, the following questions of law have been referred for our opinion
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 1 of 13
+
+in ITA No. 2601/Del/1979:
+1.
+Whether on the facts and in the circumstances of the
+case, the Tribunal was right in law in holding that 5,06,076
+shares being bonus shares of M/s. Mohan Meakin Breweries
+Ltd ('MMBL'). Received by the assessee did not represent
+funds of the trust invested in the said concern for purposes of
+section 13(4) of the Act?
+2.
+Whether on the facts and in the circumstances of the
+case, the Tribunal was right in law in holding that the
+prohibited category of persons mentioned in Section 13(3) did
+not have substantial interest in MMBL in which the funds of
+the assessee were invested and, therefore, the provisions of
+section 13(2)(h) were not applicable?
+3.
+Whether on the facts and in the circumstances of the
+case, the Tribunal was right in law in holding that the trust was
+entitled to exemption as stipulated under Sections 11 and 12 of
+the Act?
+2.
+
+Relevant to the Assessment Year 1977-78, the following questions of
+
+law have been referred for our opinion in ITA No. 2305/Del/1982:
+1.
+Whether on the facts and in the circumstances of the
+case, the Tribunal was right in law in holding that 8,86,076
+shares being bonus shares of MMBL received by the assessee
+did not represent funds of the trust invested in the said concern
+for purposes of sec. 13(4) of the Act?
+2.
+Whether on the facts and in the circumstances of the
+case, the Tribunal was right in law in holding that the
+prohibited category of persons mentioned in section 13(3) did
+not have substantial interest in MMBL in which the funds of
+the assessee were invested and, therefore, the provisions of
+section 13(2)(h) were not applicable?”
+
+3.
+
+The Assessee Trust, Narinder Mohan Foundation, was founded by
+
+late N.N.Mohan, Managing Director of MMBL and a Trust Deed dated
+25.3.1964 was executed by him for the purpose and got registered. The
+Trust property initially consisted of Rs. 10,000 transferred by N.N.Mohan
+
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 2 of 13
+
+from his account in Punjab National Bank. Subsequently the Trust received
+substantial donations in cash and by way of shares and securities. The Trust
+purchased 1,08,082 shares of MMBL.
+
+In addition the trust received a
+
+donation of 5,11,261 shares and 5,06,076 bonus shares of MMBL.
+
+4.
+
+In its income tax return filed for the Assessment Year 1975-76 the
+
+Assessee Trust, inter alia, disclosed that the income from dividend was in
+the sum of Rs.6,75,251. During scrutiny by the Income Tax Officer
+(hereafter ‘ITO’) a question arose whether in terms of Section 13(1)(h) of
+the Act the income of the trust had remained invested in any concern in
+which any person referred to under Section 13(3) has a substantial interest.
+After considering the replies of the Assessee Trust, the ITO found that the
+11,25,418 shares held by the Assessee Trust in MMBL, including the bonus
+shares and shares received by way of donation, were more than 5% of the
+total share holding of MMBL and therefore the benefit of Section 13 (4) of
+the Act was not available. As regards the pattern of the share holding in
+MMBL, the following shares held by a certain category of persons came for
+scrutiny:
+Shares Held by
+No. of Shares
+i)
+Six HUFs
+7,30,849
+ii)
+Five Trusts settled by members of the
+Mohan family for benefit of unborn persons and
+Future spouses
+3,00,000
+iii) a) Bakshi Sampuran Singh
+64,485
+b) Balbir Singh
+29,915
+c) Ranbir Singh
+29,915
+d) Kulbir Singh
+29,215
+1,53,530
+
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 3 of 13
+
+5.
+
+The Revenue contended that if the above shares were added to the
+
+shares held in MMBL by the Assessee Trust then the holding of the
+‘prohibited’ category of persons in terms of Section 13 (2) (h) read with
+Section 13 (3) would exceed 20% of the total paid up share holding of
+MMBL. This would make the income ineligible for exemption in terms of
+Sections 11 and 12 of the Act. This view was accepted by the AO.
+
+6.
+
+The appeal filed by the Assessee Trust was allowed by the
+
+Commissioner of Income Tax (Appeals) ['CIT(A)']. It was held by the CIT
+(A) that the bonus shares and shares received by way of donation had to be
+excluded for computing the percentage of shareholding of the Assessee trust
+in MMBL. Consequently the CIT (A) held that the Assessee Trust was
+entitled to the benefit of Section 13 (4) of the Act. As regards the shares
+held by the ‘prohibited category’ of persons and close relatives, the CIT (A)
+accepted the contention of the Assessee Trust that this did not exceed 20%
+of the total shareholding in MMBL and that therefore the Assessee trust was
+entitled to exemption in terms of Sections 11 and 12 of the Act.
+
+7.
+
+In the further appeal by the Revenue, the Tribunal concurred with the
+
+CIT (A) that for the purposes of Section 13 (4), the bonus shares and shares
+received by way of donation had to be excluded. It also concurred with the
+CIT (A) that for the purposes of Section 13(2)(h) the 7,30,849 shares held
+by the six HUFs and the 3,00,000 shares held by the five trusts had to be
+excluded. Therefore the total number of shares held by the persons
+answering the description of those listed in Section 13 (3) was 15,80,477
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 4 of 13
+
+which was about 18.5% of the total shares in MMBL. The Tribunal
+concluded that the prohibited categories of persons mentioned in Section
+13(3) did not have a substantial interest in MMBL (in which the funds of
+the Assessee Trust were invested) and therefore the provisions of Section
+13(2)(h) were not applicable. As regards Assessment Year 1977-78, the
+Tribunal followed its order for the Assessment Year 1976-77 and dismissed
+the appeal of the Revenue.
+8.
+
+As regards question (1) in the reference for both the Assessment
+
+Years 1976-77 and 1977-78, it is not in dispute that in view of the decisions
+of this Court in Commissioner of Income Tax v.
+
+Sir Shri Ram
+
+Foundation (2001) 250 ITR 55 and Commissioner of Income-Tax v. Sir
+Sobha Singh Public Charitable Trust (2001) 250 ITR 475, wherein it has
+been held that the bonus shares received by a trust cannot be said to be
+funds invested by the trust for the purposes of Section 13(4) of the Act, the
+question requires to be answered in the affirmative, that is, against the
+Revenue and in favour of the Assessee.
+
+9.
+
+The second and third questions referred for the Assessment Year
+
+1976-77 and the second question referred for Assessment Year 1977-78 are
+similar with only the actual figures of the number of shares and the amount
+of dividend being different. Both sets of questions require an examination
+whether the prohibited category of persons mentioned in Section 13(3) of
+the Act do not have substantial interest in MMBL in which the funds of the
+Assessee were invested. If the prohibited category of persons did have a
+substantial interest in MMBL, then the provision of Section 13(2)(h) would
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 5 of 13
+
+stand attracted. The relevant provisions of the Act read as under:
+“13. (1) Nothing contained in section 11 or section 12 shall operate
+so as to exclude from the total income of the previous year of the
+person in receipt thereof(a) to (bb) xxxxxxxx
+(c) in the case of a trust for charitable or religious purposes or a
+charitable or religious institution, any income thereof(i)
+if such trust or institution has been created or
+established after the commencement of this Act and
+under the terms of the trust or the rules governing the
+institution, any part of such income enures, or
+(ii) xxxxx
+directly or indirectly for the benefit of any person referred to in subsection (3)
+(2) Without prejudice to the generality of the provisions of clause
+(c) and clause(d) of sub-section (1), the income or the property of the
+trust or institution or any part of such income or property shall, for
+the purposes of that clause, be deemed to have been used or applied
+for the benefit of a person referred to in sub-section (3),(a) to (g) xxxxxxx
+(h) if any funds of the trust or institution are, or continue to
+remain, invested for any period during the previous year (not
+being a period before the 1st day of January, 1971), in any
+concern in which any person referred to in sub-section (3) has a
+substantial interest.”
+(3) The person referred to in clause (c) of sub-section (1) and subsection (2) are the following, namely:(a) the author of the trust or the founder of the institution;
+(b) any person who has made a substantial contribution to
+the trust or institution, that is to say, any person whose total
+contribution up to the end of the relevant previous year exceeds
+fifty thousand rupees;
+(c) where such author, founder or person is a Hindu
+undivided family, a member of the family;
+(cc) any trustee of the trust or manager (by whatever name
+called) of the institution;
+(d) any relative of any such author, founder, person, member,
+trustee or manager as aforesaid;
+(e) any concern in which any of the persons referred to in
+clauses (a), (b), (c ) [(cc)] and (d) has a substantial interest.
+(4) to (7) xxxxxx
+Explanation 1.- For the purposes of sections 11,12,12A and this
+section, “trust” includes any other legal obligation and for the
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 6 of 13
+
+purposes of this section “relative”, in relation to an individual, means(i)
+spouse of the individual;
+(ii) brother or sister of the individual;
+(iii) brother or sister of the spouse of the individual;
+(iv) any lineal ascendant or descendant of the individual;
+(v) any lineal ascendant or descendant of the spouse of the
+individual;
+(vi) spouse of a person referred to in sub-clause (ii), subclause (iii), sub-clause (iv) or sub-clause(v);
+(vii) any lineal descendant of a brother or sister of either the
+individual or of the spouse of the individual.
+Explanation 2. xxxxxx
+Explanation 3.- For the purposes of this section, a person shall be
+deemed to have a substantial interest in a concern,(i)
+in a case where the concern is a company, if its shares
+(not being shares entitled to a fixed rate of dividend whether
+with or without a further right to participate in profits) carrying
+not less than twenty per cent of the voting power are, at any
+time during the previous year, owned beneficially by such
+person or partly by such person and partly be one or more of
+the other persons referred to in sub-section (3);
+(ii) in the case of any other concern, if such person is
+entitled, or such person and one or more of the other persons
+referred to in sub-section (3) are entitled in the aggregate, at
+any time during the previous year, to not less than twenty per
+cent of the profits of such concern.”
+10.
+
+The scheme of the above provisions of the Act relevant for the
+
+present purposes is that the income of a Trust is generally exempt from
+taxation when such Trust is for charitable or religious purposes. Section 12
+specifies the types of income that would be deemed to be the income
+derived from the property held by the Trust wholly for charitable and
+religious purposes. Section 13 sets out the conditions under which income
+earned by the Trust would not qualify for exemption under Sections 11 or
+12. If the income of the Trust during the previous year is applied directly or
+indirectly for the benefit of a person referred to in sub-section (3) then the
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 7 of 13
+
+income would not be so exempt. For this purpose Section 13(2) sets out the
+kinds of income which would be deemed to have been used or applied for
+the benefit of a person referred to in sub-section (3).
+
+Under Section
+
+13(2)(h) one such deemed income would be an investment by the Trust in
+any concern in which the person referred to in sub-section (3) has a
+substantial interest. Explanation 3 is a deeming provision as regards
+substantial interest. Explanation 3 (ii) states that a person shall be deemed to
+have substantial interest if such person and one or more persons referred to
+in sub-section (3) of Section 13 are “entitled in the aggregate” “to not less
+than 20% of the profits of such concern” which in this case is MMBL. In
+other words, a shareholding in excess of twenty percent of the paid-up share
+capital would in terms of Explanation 3 connote substantial interest.
+
+11.
+
+As far as the Assessee Trust is concerned if the dividend earned by it
+
+in the shares of MMBL in which it has invested its funds is to be brought to
+tax in terms of Section 13(2)(h) it would have to be shown that persons
+referred to in sub-section (3) have a substantial interest in MMBL. The
+categories of persons mentioned in this provision include the author of a
+Trust or the founder of the institution, any person whose contribution to the
+Trust exceeds Rs.50,000, where the author is a Hindu Undivided Family
+('HUF') a member of the family, any trustee of the Trust or manager. Any
+relative of any such author, founder person or even trustee are all mentioned
+in said Section 3. Explanation 1 further describes a relative to include
+spouse in the individual, brother or sister of the spouse of the individual,
+any lineal ascendant or descendant of the individual or any spouse of a
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 8 of 13
+
+person referred to in sub-clause (ii), sub-clause (iii) etc.
+
+12.
+
+The share holding pattern of MMBL therefore becomes relevant. It is
+
+not in dispute that for the Assessment Year 1976-77, six HUFs having the
+members of the Mohan Family as kartas held 7,30,849 shares in MMBL.
+The CIT (A) and the Tribunal have concurrently found that they do not fall
+within the prohibited categories of persons referred to in Section 13(3) read
+with Explanation 1. After considering the submissions of learned counsel
+for the parties, we are not inclined to take a different view. It is not possible
+to read Section 13 (3) as bringing within the fold of prohibited persons an
+HUF, which is a taxable entity by itself. The device of piercing the veil of
+the legal entity of a HUF in order to ascertain the person in actual control of
+its functioning is unknown to this branch of tax law. The submission of Ms.
+Bansal that the persons who are actually in charge of the HUFs are
+themselves mentioned individually in Section 13(3), and therefore it is
+implied that the HUF itself is one of the prohibited categories cannot be
+accepted. Taxation statutes admit of a strict interpretation. It is not possible
+to write into the categories mentioned in Section 13 (3) a category that is
+not mentioned there. For this reason we are not inclined to interfere with the
+conclusion reached by the Tribunal that the shares of the HUF cannot be
+considered for the purposes of determining whether the persons mentioned
+in Section 13(3) have a substantial interest in MMBL.
+
+13.
+
+The next lot of shares which require to be considered is 3 lakhs shares
+
+held by the various trusts. Ms. Prem Lata Bansal places reliance upon the
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 9 of 13
+
+judgment of this Court in Commissioner of Income-Tax v. Brigadier Kapil
+Mohan (2001) 252 ITR 830 to contend that even if the beneficiaries of the
+Trusts which hold shares in MMBL were unknown, it cannot be said that
+the Trusts did not hold the shares beneficially for any person. On the other
+hand Mr. Monga, learned counsel for the Assessee submits that the
+categories mentioned under Section 13(3) does not include a Trust in itself
+and, therefore, it would be stretching the language of the Section
+impermissibly to bring the share holding of the Trust within the mischief of
+Section 13(2)(h) read with Section 13(3) of the Act.
+
+14.
+
+The Tribunal itself has observed in para 18 of its order dated 21 st
+
+October, 1989 that a Trust cannot be a legal owner of the shares in terms of
+Section 153 of the Companies Act, 1956. It is the trustees who are the legal
+owners who hold the shares beneficially for certain persons specified in the
+trust deeds. The Tribunal has also observed that copies of three trust deeds
+have been furnished to it.
+
+Two of them were dated 22nd
+
+May, 1973
+
+executed by Mrs. Comilla Mohan for the benefit of the first son of Shri
+Hemant Mohan. The second deed dated 22nd May, 1973 was executed by
+Mr. Rakesh Mohan for the benefit of the first son of Shri Pankaj Mohan. A
+third deed dated 18th July, 1973 was executed by Mrs. Comilla Mohan for
+the benefit of the first son of Shri Vinay Mohan.
+
+The Tribunal also
+
+proceeded on the footing that the trustees of the five Trusts were persons
+covered under Section 13(3) of the Act. Therefore the only question that
+remained was whether these trustees were holding the shares for the
+beneficiaries.
+
+The Tribunal then proceeded to answer this question by
+
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 10 of 13
+
+holding that the beneficiaries were known and therefore it cannot be said
+that the trustees were holding the shares beneficially for them.
+
+15.
+
+At the time the Tribunal gave its judgment it did not have the benefit
+
+of the judgment of this Court dated 16th May, 2001 in the case of Brigadier
+Kapil Mohan. There too a contention had been raised that the beneficiary
+of the Trust was unknown and, therefore, it cannot be said that the shares
+would be held beneficially by the trustees. It was argued that since the
+children for whose benefit the shares were held had not yet been born, the
+provision of Section 13(3) would not get attracted. This Court negatived
+this argument and pointed out as under:
+“In order to constitute a valid trust the author of the trust
+must indicate with reasonable certainty:(a) the intention
+on his part to create a trust, (b) the purpose of the trust,
+(c) the beneficiaries, (d) the trust property, and (e)
+transfer of property to the trust. According to learned
+counsel for the Revenue except condition (c) all other
+conditions are present here. We find that it is not a case
+where the beneficiary was unknown or indefinite. In
+fact it was clearly stipulated that the beneficiary was the
+first son of Shri Rakesh Mohan.”
+“A transfer cannot be made directly to an unborn
+person, for the definition of transfer in section 5 is
+limited to living persons. Such transfer can only be
+made by the machinery of trusts. Possibly, to express
+this distinction, the expression “for the benefit of “ has
+been used, since the trustees, being the transferees, hold
+the property for the benefit of the unborn person.
+In the case at hand the entire interest in the property
+goes to the benefit of the child to be born to Shri
+Rakesh Mohan. As the facts go to show, in fact a child
+was born in August, 1977. What would have happened
+if Rakesh Mohan did not get a male child is also spelt
+out in the trust deed.”
+
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 11 of 13
+
+16.
+
+In light of the above observation it is clear that even if the property of
+
+the Trust was being held for the benefit of yet to be born persons it cannot
+be said that the requirement of Section 13(2)(h) read with Section 13(3) is
+not met. It cannot therefore be said that the shares held by the trustees were
+not for the benefit of anyone. It is clear from the trust deeds themselves that
+the beneficiary could be an unborn child but that does not by itself take it
+outside the purview of Section 13(2)(h) read with Section 13(3) of the Act.
+
+17.
+
+Accordingly it is held that the three lakhs shares held by the trust
+
+were held by prohibited categories of persons in terms of Section 13(3) of
+the Act.
+
+18.
+
+The last tranche is of 1,53,530 shares held by Shri Bakshi Sampuran
+
+Singh and his three sons. There is no dispute that Shri Bakshi Sampuran
+Singh, being the husband of the sister of Smt. Ram Rakhi, spouse of Shri
+Narender Mohan, falls within the meaning of 'relative' under Section 13.
+The only reason why the Tribunal appears to have accepted the contention
+of the Assessee that this share holding should not be included for the
+purposes of calculating the 20% share holding is that the spouse of the
+Assessee was no longer in that capacity after his death in 1969. In our view
+there can be no manner of doubt that the Tribunal has erred in coming to
+this finding. It is beyond comprehension how Smt. Ram Rakhi Mohan
+would cease to remain in the legal capacity of a spouse after the death of her
+husband.
+
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 12 of 13
+
+19.
+
+Therefore, after adding back the two pieces of share holdings, that is,
+
+3,00,000 shares held by the Trusts and the 1,53,530 shares held by Shri
+Bakshi Sampuran Singh and his three sons, the total shareholding of
+prohibited person in MBBL would be greater than 20% of the total paid up
+capital. The factual position therefore, is that the prohibited categories of
+persons hold a substantial interest in MBBL and, therefore, the dividend
+income of the Assessee Trusts cannot be exempted from tax in terms of
+Sections 11 & 12 of the Act.
+
+20.
+
+Relevant to assessment year 1976-77, questions No. (2) and (3) are
+
+answered in the negative, that is, in favour of the Revenue and against the
+Assessee.
+
+21.
+
+In regard to assessment year 1977-78 the position is more or less
+
+similar except that the actual figures of the share holding are different.
+Therefore, question (i) is answered in the affirmative, that is, in favour of
+the Assessee and against the Revenue. Question No.2 is answered in the
+negative, that is, in favour of the Revenue and against the Assessee.
+
+22.
+
+The two references are therefore disposed of accordingly with no
+
+order as to costs.
+S. MURALIDHAR, J
+
+MADAN B. LOKUR, J
+OCTOBER 5, 2007
+dn
+ITR No. 271 of 1984 and ITR No.381 of 1984
+
+page 13 of 13
+
+

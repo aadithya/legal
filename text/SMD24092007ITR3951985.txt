@@ -1,0 +1,427 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+Orders reserved: 31st August, 2007.
+Date of decision: 24th September, 2007.
+
+%
+
++
+
+ITR No. 395 of 1985
+COMMISSIONER OF INCOME TAX
+..... Petitioner
+Through Ms. P.L.Bansal with Mr.Vishnu Sharma,
+Advocates.
+versus
+ASHOK KAPUR(HUF)
+Through None.
+
+..... Respondent
+
+CORAM:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S.MURALIDHAR
+1.
+2.
+3.
+
+Whether Reporters of local papers may be
+allowed to see the order?
+YES
+To be referred to the reporter or not?
+YES
+Whether the order should be reported in the YES
+Digest?
+
+DR. S.MURALIDHAR,J.
+
+1.
+
+Relevant for the assessment year 1980-81 the following questions
+
+have been referred to us by the Income Tax Appellate Tribunal
+('Tribunal)under Section 256(1) of the Income Tax Act, 1961 ('Act'):
+“1.Whether on the facts and in the circumstances of the case,
+the Tribunal was right in holding that there was no 'transfer' of
+the asset?
+2.Whether on the facts and in the circumstances of the case, the
+Tribunal was right in holding that no capital gains was
+assessable in the hands of the assessee?”
+2.
+
+Despite service none appears for the Respondent.
+
+3.
+
+Assessee is a Hindu Undivided Family ('HUF') which owned a part of
+
+the property situated at 21, Barakhamba Road, New Delhi ('property'). The
+ITR No. 395 of 1985
+
+page 1 of 10
+
+property belonged to a larger HUF and after partition took place amongst
+the family members, the Assessee HUF acquired one-fifth share in a fiveeighth part of the property in terms of a decree dated 27.3.1968 passed by
+this Court. According to the Assessee, the Karta of the Assessee HUF, Mr.
+Ashok Kapur, wanted to start a business of real estate in the name of
+another entity named Ashok Kapur & Co. HUF. Therefore, on 6.11.1979
+Mr. Ashok Kapur made a declaration that he as Karta of Ashok Kapur HUF
+(the Assessee) was converting the Assessee's share in the property as stockin-trade of the new venture to be started in the name of Ashok Kapur & Co.
+(HUF). Based on the rates fixed by the Land & Development Office
+('L&DO'), the Assessee's share in the property was valued at Rs. 5,58,000.
+This was taken to be the market value of the Assessee's share of the property
+on the date of conversion and the same amount was credited to the capital
+account of Ashok Kapur & Co. (HUF).
+
+4.
+
+Mr. Ashok Kapur, describing himself as Karta of Ashok Kapur & Co.
+
+(HUF) entered into an agreement with M/s. Ansal Properties & Industries
+(Ansal Properties') on 19.11.1979 for construction of a multi-storeyed
+building at Barakhamba Road. In this agreement Ashok Kapur is described
+as Owner Dealer and Ansal Properties, as Builders. The Builders were to
+demolish all the structures at 21 Barakhamba Road for constructing the
+multi-storeyed building. It was agreed that after construction 50% of the
+building would be handed over to the Builders and the remaining 50%
+would be retained by the Ashok Kapur & Co. (HUF). It is not disputed that
+the Assessee was, in terms of the agreement, paid Rs.10 lakhs by the
+builders towards security.
+ITR No. 395 of 1985
+
+page 2 of 10
+
+5.
+
+A question arose before the Income Tax Officer ('ITO') whether in the
+
+previous year 1979-80 (relevant to the assessment year 1980-81) there had
+been a transfer of the Assessee's share in the property as the stock-in-trade
+of Ashok Kapur & Co.(HUF) which had resulted in capital gains in the
+hands of the Assessee.
+
+6.
+
+Initially the ITO held that the transfer had occurred at two stages: first
+
+when the Assessee's share was brought into the stock-in-trade of the
+proprietorship of Ashok Kapur & Co.(HUF) and at second stage when there
+was a transfer of the property from the said proprietorship concern to M/s.
+Ansal Properties on 19.11.1979. The ITO proposed to charge capital gains
+on both transfers and referred the draft assessment order for instructions to
+the Inspecting Assistant Commissioner ('IAC').
+
+7.
+
+The IAC disagreed with the ITO that there had been conversion of the
+
+Assessee's share in the property into the stock-in-trade of the proprietary
+concern Ashok Kapur & Co. (HUF). The IAC held the conversion had taken
+place only at the stage of the agreement dated 7.11.1979 with the Builders.
+Consequently, the ITO acted on the opinion of IAC and held that the joint
+venture with Ansal Properties was in the nature of a partnership and that by
+transferring its share of the property to the partnership, at the cost indicated
+in its books i.e. Rs. 5,58,000 capital gains had accrued in the hands of the
+Assessee. A demand was accordingly raised.
+
+8.
+
+In the appeal filed by the Assessee, the Commissioner of Income Tax
+
+ITR No. 395 of 1985
+
+page 3 of 10
+
+(Appeals) ['CIT(A)'], by an order dated 9.9.1983 did not accept the
+contention of the Assessee that it had transferred the share in the property as
+stock-in-trade of the proprietorship concern Ashok Kapur & Co.(HUF). As
+regards the other issue concerning transfer of the share in the property to the
+joint venture, the CIT(A) agreed with the ITO that a partnership between the
+Assessee and the Builders had indeed come into existence in the previous
+year 1979-80 and that the Assessee had transferred its one-eighth share in
+the property to the joint venture. Consequently the CIT (A) held that such
+transfer was assessable to capital gains tax in the hands of the Assessee.
+The ITO was directed to recompute the Assessee's total income even while
+the computation of capital gains at Rs. 3,77,250 was affirmed.
+
+9.
+
+The Assessee's appeal ITA No. 5098(DEL)/1983 was allowed by the
+
+Tribunal by an order dated 31.12.1984. The conclusions of the Tribunal as
+set out in para 24 of its order read thus:
+“1.The assessee's admitted conversion of his immovable
+property into stock-in-trade on 6.11.1979 has not resulted in
+any transfer within the meaning of Income Tax Act for the
+purpose of charging of capital gains. Firstly we have not
+accepted the bonafides of such conversion and secondly we
+have hold that the legal effect of such conversion, even if, it
+had taken place, could not be a transfer for the purpose of
+charging capital gains.
+2.
+By entering into an agreement with the Builders M/s.
+Ansal Properties and Industries Pvt. Ltd. The assessee did not
+enter into a partnership agreement and the two parties were to
+deal with each other on principal to principal basis. The
+important elements of partnership were absent in this activity.
+3.
+The assessee did not bring in his immovable property as
+a contribution towards his joint venture with the Builder and
+the agreement contemplates the continued ownership of the
+assessee in respect of the immovable property.
+4.
+There has thus been no transfer by the assessee of the
+immovable property and the so-called firm or joint venture was
+ITR No. 395 of 1985
+
+page 4 of 10
+
+10.
+
+not converned with the notional valuation of the property as far
+as the venture's accounts were concerned. The addition in
+respect of the capital gains has, therefore, to be deleted.”
+Arising from the above impugned order, the two substantial questions
+
+of law set out in para 1 of this order have been referred to us for our
+opinion.
+
+11.
+
+As regards the first question, it is necessary to recall the issue
+
+concerning the two stages of transfer was examined by the ITO to begin
+with.
+
+As regards the question whether there was a conversion of the
+
+Assessee's share in the property into the stock-in-trade of the proprietorship
+concern of Ashok Kapur & Co.(HUF), the ITO, the CIT(A) and the ITAT
+have concurrently held that no such transfer took place. In view of the
+concurrent findings by the three authorities, we are not persuaded to take a
+different view. Having again examined the orders of these authorities and
+the relevant documents, we find nothing erroneous in the conclusion
+reached by the authorities on this aspect.
+
+12.
+
+As regards the second stage of the transfer namely the transfer by the
+
+Assessee of the share in the property to the joint venture with the Builders,
+the agreement dated 6.11.1979 is required to be examined. A copy of the
+said agreement, which is included in the paper book, reveals that it has been
+entered into between the Ashok Kapur as Karta of Ashok Kapur &
+Co.(HUF), described as “Owner Dealer” and M/s. Ansal Properties as
+“Builders”. The following preamble clauses of the agreement are indicative
+of the status of the parties at the time the agreement was entered into:
+“AND WHEREAS Shri Ashok Kapur vacated the portion of
+the said property in October, 1979, with the object of carrying
+on the business of the real estate.
+ITR No. 395 of 1985
+
+page 5 of 10
+
+AND WHEREAS on 6th November, 1979, Shri Ashok Kapur
+declared that he has converted his undivided one fifth share of
+the said property, into the stock in trade of M/s. Ashok Kapur
+&Co. (HUF) and contributed the same as proprietor's capital for
+the purpose of carrying on the business.
+AND WHEREAS M/s. Ashok Kapur & Co. (HUF) is carrying
+on the business of dealing in real estates, sale and purchase of
+immovable properties and property agents; builders, contractors
+and financiers.
+WHEREAS the Builder is proposing to build a composite
+multistoreyed commercial building on the entire premises No.
+22, Barakhamba Road, New Delhi, and has offered in
+connection therewith to the OWNER DEALER to erect a part
+of the said proposed multistoreyed commercial building on the
+one fifth share of the Owner Dealer in the said property (which
+amounts to One Eighth share in the said premises No. 21,
+Barakhamba Road, New Delhi, after demolition of existing
+structures, at Builder's own cost and expenses and with
+Builder's Own resources and to pay in respect thereof or
+therefor all incidental and other charges including but not
+limited to commercialisation charges in consideration of the
+Owner Dealer allocating to the Builder 50% of the Owner
+Dealer's share, as herein after defined, in the said multistoreyed commercial building, in the manner and subject to and
+on the terms and conditions hereinafter contained.”
+13.
+
+The clauses in the agreement dated 6.11.1979 regarding the
+
+conversion of the share of Shri Ashok Kapur in the property into the stockin-trade of the Ashok Kapur & Co. (HUF) have not been believed by any of
+the authorities and we too have concurred with that finding. Therefore, the
+logical corollary is that it is the Assessee i.e. Ashok Kapur (HUF) which is
+for all practical purposes the Owner Dealer as regards the agreement dated
+6.11.1979. In terms of the said agreement in consideration of the Owner
+Dealer “allocating to the Builder 50% of the Owner Dealer's share”, the
+Builder was to erect a part of the multi storeyed building on the one-fifth
+share of the Owner Dealer in the property. This clause itself indicates that
+the Owner Dealer has already agreed to the allocation of 50% of its share in
+ITR No. 395 of 1985
+
+page 6 of 10
+
+the property to the Builder.
+
+14.
+
+The terms “saleable space”, “owners”, “allocation”, and “builders
+
+allocation” have been separately defined in the agreement dated 16.11.1979
+and they read as under:
+'Saleable Space' shall mean the space in the project building
+available for independent use and occupation and shall include
+additional space available after payment of penalties to
+statutory and local authorities for use and occupation, parking
+space and lofts, after making the provision for common
+facilities.
+'Owners allocation' shall mean 50% of the saleable space
+comprised in owner's share and proportionately spread and
+shall include basements, parking spaces and lofts,
+proportionately spread in the project building belonging to the
+owner dealer according to the portion to be agreed upon
+mutually between the owner Dealer and Builders.
+'Builder's allocation' shall mean 50% of the saleable space
+comprised in Owner Dealer share and proportionately spread
+and shall include basement parking space and lefts in the
+project building allocation to be mutually decided between the
+Builder and the Owner Dealer, subject to and on the terms and
+conditions hereinafter contained, in consideration of Builder,
+developing, obtaining necessary permissions and approvals
+including those in regard to user of the plot and of the plans for
+the project building, constructing and completing in all respect
+the project building for occupation and use and for doing all
+other acts, deeds and things and assuming all obligations and
+liabilities as contained hereinafter.”
+
+15.
+
+Again, the aforementioned definitions reveal the intention of the
+
+parties that the Builder's allocation was an identified portion of the property
+in question and that such allocation was to take place in terms of agreement
+itself. The expression “transfer of space” was defined to “include transfer
+by delivery of possession” which also indicates that this was not an
+exhaustive but an inclusive definition.
+
+ITR No. 395 of 1985
+
+page 7 of 10
+
+16.
+
+Clause 6 of the agreement talks of the restrictions on Builder
+
+occupying and using any part of the “existing construction and structures”
+unless certain approval has been obtained from the authorities. Clauses 22
+& 23 of the agreement is significant and reads as under:
+22. The Builder is allowed to agree to sell the area comprised
+in Builder's allocation his portion of 50% area to prospecting
+Flat Buyers at Builder's own risk and responsibility even prior
+to the sanctioning of the Building plans and the approval of the
+Project Building by the concerned authorities or
+commencement of construction. The BUILDER shall be
+entitled to sell to any third person whole or part of the saleable
+floor space, basement space, and parking space forming part of
+BUILDER'S allocation provided that such a transfer shall be
+registered only after the BUILDER has completed the project
+building in all respects and has obtained occupation
+certificates, and the OWNER DEALER has allocated 50%
+interest in his one eighth share in the plot to the BUILDER or
+his nominees at BUILDER'S cost i.e. BUILDER or his
+nominees paying the stamp duty and registration charges in
+respect thereof, such transfer being part of the consideration
+pursuant to and in accordance with this agreement.
+23. The BUILDER agrees and undertakes to indemnify and
+keep indemnified the OWNER DEALER against all or any
+claims and which may be made by any persons against the
+OWNER DEALER in respect of the sale or dealings by the
+BUILDER with third persons in respect of the BUILDERS
+allocation in the Project Building.”
+
+17.
+
+In our view, the above clauses 22 and 23 clinch the issue concerning
+
+transfer of the Assessee's share in the property to the Builder in terms of the
+aforementioned agreement. The Tribunal was persuaded by Clause 43 of
+the agreement to hold that there was no partnership between the Assessee
+and the Builder. Clause 43 reads as under:
+“43. MISCELLANEOUS:
+(i) The Owner Dealer and the Builder have entered this
+agreement on a principal to principal basis only and nothing
+contained herein shall be deemed or construed as constituting a
+partnership between the Builder and Owner Dealer, or as a joint
+venture or Joint Advanture between the Owner Dealer and the
+ITR No. 395 of 1985
+
+page 8 of 10
+
+Builder, nor shall the Builder and Owner Dealer in any manner
+constitute an association of persons. Each shall be strictly
+responsible for his/her its own tax liability, and shall keep the
+other party hereto indemnified from and against the same.”
+18.
+
+We find that the above clause by itself cannot be determinative of
+
+whether there was a transfer from the Assessee to the joint venture or if
+there was a partnership between the Builder and the Owner Dealer. The
+other clauses, namely the preamble clauses, as well as Clauses 22 and 23 are
+unequivocal that the Assessee has allocated to the Builder 50% of the
+building to be constructed and has also given the Builder the right to sell the
+Builder's allocation to third parties. These clauses have all the elements of
+transfer. For the purposes of capital gains what was critical to be examined
+was whether pursuant to the agreement there was a transfer of an asset from
+one party to the other. Even if one were to accept the argument that there
+was no joint venture between the Assessee and M/s. Ansal Properties, still
+the inescapable conclusion is that there was a transfer of property from one
+entity to the other. In that view of the matter, this Court is unable to agree
+with the Tribunal that there has been no transfer by the Assessee of its right
+in the property in question.
+
+19.
+
+We are also not persuaded by the reasoning of the Tribunal that there
+
+is no capital gains arising from such a transaction since the value of the
+property in the hands of the Assessee was not indicated anywhere in the
+agreement. We are of the view that even if the agreement did not spell out
+the value of the property in the hands of the Assessee, the valuation of the
+property in question indicated by the Assessee itself in its accounts should
+be sufficient for the purposes of computation of capital gains tax.
+ITR No. 395 of 1985
+
+page 9 of 10
+
+20.
+
+In that view of the matter, the impugned order of the Tribunal to the
+
+extent it holds that there was no transfer of the Assessee's share in the
+property in question from the Assessee to the Builders pursuant to the
+agreement dated 6.11.1979 is erroneous.
+
+Consequently, both questions
+
+referred to us are answered in the negative, that is, in favour of the Revenue
+and against the Assessee. The computation by the ITO of the capital gains
+tax, concurred with by the CIT(A) is affirmed.
+
+21.
+
+The reference is disposed of.
+
+S. MURALIDHAR, J
+
+MADAN B. LOKUR, J
+SEPTEMBER 24, 2007
+dn
+
+ITR No. 395 of 1985
+
+page 10 of 10
+
+

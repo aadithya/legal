@@ -1,0 +1,462 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
++
+
+Judgment delivered on: 04.07.2007
+WP (C) 1343/2007
+
+KAPIL GUPTA
+
+...Petitioner
+- versus -
+
+UNION OF INDIA & ORS
+
+...Respondents
+
+Advocates who appeared in this case:
+For the Petitioner
+For the Respondent Nos3&5
+For the Respondent No.4
+
+: Mr H.L. Tikku, Sr Advocate with Mr Anup Trehan,
+Mr Raghu Nayyar and Ms Sunaina Kapoor.
+: Mr Amit Kapur with Mr Anupam Varma.
+: Mr Jos Chiramel with Mr R.K. Tripathi and Mr Deepak Agarwal.
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1.
+
+Whether Reporters of local papers may be allowed
+to see the judgment ?
+
+Yes
+
+2.
+
+To be referred to the Reporter or not ?
+
+Yes
+
+3.
+
+Whether the judgment should be reported in Digest ?
+
+Yes
+
+BADAR DURREZ AHMED, J (ORAL)
+1.
+The petitioner is the proprietor of Delta Electronics which manufactures
+Compact Fluorescent Lamps (CFL). The petitioner is aggrieved by the fact that
+the manufacture of CFL) requires mandatory certification under Section 14 of
+the Bureau of Indian Standards Act, 1986 (hereinafter referred to as the BIS
+Act). The Bureau of Indian Standards has specified Indian Standard IS:15111
+in respect of Self Ballasted lamps for general lighting services. These are the
+lamps which the petitioner manufactures and sells. Part-1 of IS:15111 pertains
+to safety requirements. Part-2 of the said IS:15111 pertains to performance
+WPC1343/2007
+
+Page No.1 of 13
+
+requirements. The petitioner has no issue with part-1 which relates to safety
+requirements. The petitioner is only aggrieved by the fact that in paragraph
+13.2 of Part-2 of IS:15111, the average life of the lamps has been specified as
+not less then 6000 hours. According to the petitioner, this is arbitrary and
+requires to be struck off the said standard.
+
+2.
+
+In this context, the petitioner has, inter alia, prayed that the notification
+
+dated 22.08.2005 issued by the Ministry of Commerce and Industry requiring
+mandatory certification under Section 14 of the BIS Act, be struck down
+insofar as it relates to Self Ballasted (with internal choke) CFLs as per
+IS:15111(Part 1 and 2). The petitioner has also prayed that the specification of
+6000 hours life time under the said IS is arbitrary and should be removed from
+the said Indian Standards. The petitioner has also prayed that BIS standards be
+revised so as to bring it in harmony with the international standards specified by
+the International Electrotechnical Commission (IEC) which is a worldwide
+organization for standardization comprising of National Electrotechnical
+Commissions.
+
+3.
+
+The petitioner contends that part-1 of IS:15111 is based on the IEC
+
+Standard specified in 60968 with regard to safety requirements. Similarly, part2 of IS:15111 is based on IEC Standard 60969 in respect of performance
+requirements. Paragraph 13 of Part-2 of IS:15111 reads as under:WPC1343/2007
+
+Page No.2 of 13
+
+“13 LIFE
+13.1 The life to 50 per cent failures (average life)
+measured on `n' lamps shall be not less than the rates life to
+50 percent failures.
+(`n' is declared by the manufacturer or the responsible
+vendor, but shall be a minimum of 10 lamps.)
+13.2 The average life shall not be less than 6000 h.”
+The corresponding paragraph in the IEC 60696 is as under :“10 Life
+The life to 50% failure (average life) measured on “n”
+lamps shall be not less that the rated life to 50% failures.
+(“n” is declared by the manufacturer or responsible vendor,
+but shall be minimum of 20 lamps)”
+4.
+
+Comparing the two provisions, it was contended on behalf of the
+
+petitioner that the international standard does not specify any minimum
+average life whereas the Indian standard specifies the minimum average life of
+6000 hours by virtue of paragraph 13.2 of IS:15111 (Part-2). It was contended
+that since the Indian standard is admittedly based upon the International
+standard prescribed by IEC, the requirement of a minimum average life of
+6000 hours is not in consonance with the International standard and, therefore,
+ought to be removed from the Indian standard. Referring to the foreword in
+Part-2 of IS:15111, the learned counsel for the petitioner submitted that the
+said Indian Standard (Part-2) was prescribed by the Bureau of Indian Standards
+after the draft finalised by Electric Lamps and their Auxiliaries Sectional
+Committee had been approved by the Electro-technical Division Council.
+
+WPC1343/2007
+
+Page No.3 of 13
+
+Furthermore, the standard was based on IEC 60969 (1988) “Self Ballasted
+Lamps for General Lighting Service Performance Requirements” issued by the
+IEC with certain modifications. It was contended that the modification did not
+include the prescription of an average life of 6000 hours.
+
+5.
+
+The petitioner submitted that the requirement of a high average life does
+
+not, in any way, affect the safety or the performance of the lamp. According to
+the petitioner, if a lamp is rated for 3000 hours and it meets the 50% failure
+rate then it would be equally good, performance-wise, as a lamp which is rated
+for 6000 hours and which also has a 50% failure rate as prescribed under
+paragraph 13.1 of the IS: 15111 (part-2) He submitted that the cost and price
+of a CFL is proportionate to its average life. The lower the average life, the
+lower the cost and, the higher the average life, the higher the cost.
+
+By
+
+stipulating a minimum average life of 6000 hours entails that lamps below that
+rating cannot be manufactured and sold. It also means that cheaper lamps
+having lower life ratings would not be available. It was submitted in this
+context that a CFL with a 6000 hours rating would be priced at approximately
+Rs 120 per lamp whereas a CFL with a lower average life rating could sell as
+low as Rs 20 per lamp.
+
+Insofar as the consumption of electricity was
+
+concerned, there would be no difference because the CFL having an average
+life of 6000 hours or more would also consume 7 watts as would a CFL having
+an average life of, say, 3000 hours. It was also pointed out by the learned
+WPC1343/2007
+
+Page No.4 of 13
+
+counsel for the petitioner that normally a filament type bulb costs around Rs
+10/- and its life is around 1000 hours . The power used is 25 watts and the light
+output is 200 lumens. On the other hand, a low cost CFL costing about Rs
+20/- would have an average life of 3000 hours use only 7 watts of power.
+Therefore, there is clear conservation of energy in the case of a low cost CFL
+compared with a normal filament bulb. If the restriction of having minimum
+average life of 6000 hours is imposed, it would mean that the low cost CFL
+would not be available to the poor and middle class consumer inasmuch the
+CFLs having an average life of 6000 hours or more would, in the minimum,
+cost Rs 120/- per lamp. This is the argument that has been advanced on behalf
+of the petitioner to justify its stand that the imposition of a minimum average
+life of 6000 hours in the Indian Standards is unreasonable and arbitrary and
+does not, in any way, better serve the requirements of energy conservation.
+
+6.
+
+It was contended by the learned counsel for the Union of India that
+
+initially a notification dated 17.02.2003 had been issued. By virtue of the
+notification, the Central Government, in exercise of the powers conferred
+under Section 14 of the BIS Act and after consulting the Bureau of Indian
+Standards, had notified the Electrical Wires, Cables, Appliances and Protection
+Devices and Accessories (Quality Control) Order, 2003 (hereinafter referred to
+as the “Control Order 2003”). By virtue of the said Control Order, 2003 there
+was a prohibition regarding manufacture, storage, sale, land distribution etc in
+WPC1343/2007
+
+Page No.5 of 13
+
+respect of electrical wires, cables, appliances, protection devices and
+accessories which do not conform to the specified Standards and do not bear
+the Standard mark of the Bureau on obtaining certification marks license. The
+expression electrical wires, cables, appliances, protection devices and
+accessories was defined in the Control Order, 2003 to mean items specified in
+column (2) of the Schedule. Serial Nos 8 and 9 of the Schedule pertain to self
+ballasted lamps for general lighting services IS:15111 (part 1 and part 2)
+respectively. Various representations were made from CFL Manufacturer's
+Association as it was felt that the standards prescribed for average life i.e.,
+6000 hours could not be tested within the prescribed period of six months
+allowed under the Control Order, 2003. Pursuant thereto, Items at serial Nos 8
+and 9 pertaining to CFLs were deleted from the Control Order, 2003.
+According to the learned counsel for the Union of India, this was done with the
+understanding that the position would be reconsidered after 12 months so that
+the industry got sufficient time to establish the test procedure required for
+compliance with the standards.
+
+It is on reappraisal and after giving due
+
+consideration to the time required for the implementation of the
+
+Control
+
+Order, 2003, that the CFLs were again included for mandatory BIS marking by
+virtue of the issuance of the notification dated 22.08.2005 which the petitioner
+has impugned herein. It was also pointed out by the learned counsel for the
+Union of India that the notification dated 22.08.2005 re-introduced serial Nos
+8 and 9 in the Control Order, 2003 but the same was not to come into effect
+WPC1343/2007
+
+Page No.6 of 13
+
+immediately and by virtue of the notification itself it was to come into force
+after 18 months from the date of its publication in the Official Gazette. The
+same was published on 22.08.2005 itself and, therefore, it would have become
+effective on or about 22.02.2007.
+
+7.
+
+In the context of the aforesaid facts, it was submitted on behalf of the
+
+Union of India that the petitioner, who had established his factory in 2003,
+knew very well about the Standards. He was well aware of the initial Control
+Order, 2003. He was also aware of the withdrawal of Serial Nos 8 and 9
+which pertained to CFLs and also the reintroduction by virtue of the
+amendment brought out on 22.08.2005. But the petitioner did not take any
+steps nor did he move any representation. Nor did the petitioner come to this
+court on the issuance of the notification dated 22.08.2005 which he is now
+impugning. The petitioner waited for the entire 18 months period and filed the
+writ petition a couple of days prior to the expiry of that period.
+
+The
+
+notification was to become effective on 22.02.2007 and the writ petition was
+filed on 20.02.2007. It was, therefore, contended that apart from the fact that
+the petition had no merit, the conduct of the petitioner also disentitled him to
+any relief.
+
+8.
+
+On behalf of the respondent No.4 (Bureau of Indian Standards), Mr Jos
+
+Chiramel submitted that the standards were prescribed, inter alia, for
+WPC1343/2007
+
+Page No.7 of 13
+
+eliminating sub-standard Chinese imports from the Indian market. He made
+detailed submissions with regard to IS:15111. I need not to go into those
+details because of the view that I am about to take in this matter. Mr Chiramel
+referred to the affidavit filed on behalf of the BIS to indicate that the European
+Union has prescribed a minimum lamp life of 6000 hours for CFL.
+
+He
+
+submitted that other countries have also prescribed minimum standards. For
+example, Hong Kong has prescribed 8000 hours, Chinese Taipei has
+prescribed 8000 hours, Sri Lanka has prescribed 8000 hours. Therefore, the
+petitioner's allegation that the minimum life time of 6000 hours is arbitrary, is
+baseless. It was submitted by Mr Chiramel that the crux of the contention
+canvassed by the petitioner was that the low costs CFL being allegedly
+manufactured and sold by them as also the standard CFL with 6000 hours
+rating were equally energy efficient and, therefore, there ought to be no
+restriction on the former. According to him, energy saving was not the only
+criterion which was relevant for prescribing a minimum standard.
+
+He
+
+submitted that though the incandescent bulbs which had served the world for
+more than two centuries consume more energy and are being gradually
+replaced with CFLs, the waste disposal management and environmental
+concerns are much graver in the case of CFLs. Referring to the affidavit filed
+on behalf of the respondent No.4, he submitted that there are as many as 24
+passive electronic components, besides mercury, holophosphate powder, lead
+etc used in the manufacture of CFLs which are not biodegradable and pose
+WPC1343/2007
+
+Page No.8 of 13
+
+serious environmental hazards.
+
+As compared to this, the only passive
+
+component in incandescent bulbs was a negligent amount of lead used in
+soldering. In this context, he submitted that use of lower life CFLs means a
+large number of CLFs being used and, therefore, a much larger waste disposal
+problem. Use of higher life CFLs means fewer lamps being used leading to
+fewer disposals and a lower effect on environment and ecology.
+
+9.
+
+Mr Chiramel also submitted that The Electric Lamps and their
+
+Auxiliaries Sectional Committee (ET-23) of the Bureau is representative of
+various interest groups such as large and small scale manufacturers,
+associations representing
+research
+
+organizations,
+
+such manufacturers, Government departments,
+academic
+
+institutions,
+
+consumer
+
+groups
+
+and
+
+associations, bulk government purchasers etc. He submitted that ET-23 was
+constantly engaged in the improvement and upgradation of, inter alia,
+IS:15111 (Part-1 & Part -2). The said Committee, according to him, meets
+regularly and takes suggestions from members for improvement of the Indian
+Standards.
+
+10.
+
+Concluding
+
+his
+
+arguments,
+
+Mr
+
+Cheramal
+
+submitted
+
+that
+
+the
+
+specification of standards is not done arbitrarily but is arrived at after several
+rounds of consultation with all concerned. Furthermore, the improvement in
+the Standards is an ongoing process and ET-23 meets for this purpose from
+WPC1343/2007
+
+Page No.9 of 13
+
+time to time. He submitted that these are matters which require expertise and
+the Bureau of Indian Standards is the expert body prescribed under the statute
+for specifying the Indian Standards for various products.
+
+Therefore, he
+
+requests that this court ought not to interfere in this matter.
+
+11.
+
+The counsel for the respondent No.3 adopted the arguments advanced
+
+by the other respondents. The respondent No.5 (Bureau of Energy Efficiency)
+(BEE) filed a short affidavit. The affidavit was sworn by Mr G Pandian who
+had been the nominee of BEE on the BIS Sectional Committee known as ET23 dealing with electric lamps and their Auxiliaries. It was contended that the
+BEE is a body corporate constituted by the Central Government, Ministry of
+Power to implement and enforce measures for efficient use of energy and its
+conservation under the Energy Conservation Act, 2001. It is stated in the
+affidavit filed on behalf of BEE (respondent No.5) that IS:15111 had been
+formulated by ET-23 and B15.
+
+It was further contended that, based on
+
+representations of the Industry Association, a meeting of the ET-23 Committee
+which, inter alia, oversees the standards of CFLs, was specifically convened
+on 05.03.2007 wherein the issue in question was tabled and is being
+considered. A copy of the notice of the meeting of the members of ET-23
+dated 23.02.2007 was annexed and marked as annexure R-2 to the affidavit
+filed on behalf of the respondent No.5. The said annexure discloses that the
+ET-23 Committee is very broad based. It includes manufacturers, consumer
+WPC1343/2007
+
+Page No.10 of 13
+
+societies, Government experts and Government bodies dealing in energy
+efficiency and research, small scale industries as well as the Small Scales
+Lamps and Competent Manufacturer's Association apart from a host of other
+organisations. The said annexure also reveals that, in respect of IS:15111
+(Part-2) (performance requirements), the industry and industry association had
+made representations to the Director General BIS regarding review of the life
+test requirement in the standard and that the same was under consideration of
+ET-23. It was submitted by respondent No.5 that in the light of the pending
+representation before ET-23, the writ petition is premature and may be
+dismissed.
+
+13.
+
+From the above narration of facts and the stand taken by each of the
+
+parties, one thing that is clear is that the specification contained in an Indian
+Standards is a technical matter which requires specialised expertise.
+
+The
+
+Bureau of Indian Standards has been given the job by the BIS Act to carry out
+this function. It has based the standard in question on IEC 60968 and 60969
+but it has thought it proper to bring in certain modifications including the
+modification of the average life requirement of 6000 hours. The arguments of
+the learned counsel for the petitioner may appear attractive from the point of
+view of a poor consumer but this has to be seen in the overall context of
+environmental concerns and protection of ecology.
+
+There may be other
+
+technical and scientific reasons which are not apparent at the moment and
+WPC1343/2007
+
+Page No.11 of 13
+
+which have not been referred to by the counsel for the parties both in support
+and against the fixation of a minimum average life of 6000 hours for CFLs.
+But, in my view it would not be appropriate to interfere with this decision at
+this stage by passing any direction in this writ petition. This is so because of
+three reasons. The first being that the petitioner knew about all the changes that
+have been brought about and neither made any representation to any of the
+authorities concerned nor approached this court for a long time.
+
+The
+
+notification was issued on 22.08.2005 and was to become operative after 18
+months of its publication. The petitioner waited till the fag end of the 18
+months period and filed the present writ petition just two days before the
+notification was to become effective. Secondly, and more importantly, the
+question of specifications in an Indian Standard is essentially a technical one.
+Courts do not have the experts to examine such technical issues and it is best
+left to experts unless some blatant irregularity or perversity is pointed out. In
+the present case, I find that there is no element of arbitrariness. There may be
+scope for debate on the issue but that does not enable this court to strike down
+the specification or a requirement under the Indian Standard merely because
+more views and one may be possible. Before such an action can be taken by
+this court in exercise of its jurisdiction under Article 226 of the Constitution,
+something more needs to be pointed out. That is not the case here. Thirdly,
+the very issue which the petitioner is agitating before this court is, as indicated
+by the respondents, under review by the ET-23 committee. It would, therefore,
+WPC1343/2007
+
+Page No.12 of 13
+
+be appropriate that the point of view of the petitioner is also placed before that
+Committee and it would be for them to suggest any changes if at all.
+With these observations, this writ petition is dismissed.
+No costs.
+
+July 04, 2007
+M
+
+WPC1343/2007
+
+BADAR DURREZ AHMED
+(JUDGE)
+
+Page No.13 of 13
+
+

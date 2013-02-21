@@ -1,0 +1,769 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+OMP No. 309/2005, Arb.P.No.112/2007 &
+Ex.P.No.126/2005
+
+#M/s Ansal Properties & Industries Ltd.
+..... Petitioner
+!
+
+Through: Mr. Gaurav Sarin with Ms.Charu
+Sarin, Advocates
+Versus
+
+$Centre for Development of Telematics
+.....Respondent
+Through: Mr.J.C.Seth, Advocate
+
+^
+
+CORAM:* HON'BLE MR. JUSTICE S.N. AGGARWAL
+1.
+2.
+3.
+
+Whether reporters of Local paper may be allowed to see
+the judgment?
+To be referred to the reporter or not?
+Whether the judgment should be reported in the
+Digest?
+
+S.N.AGGARWAL, J (ORAL)
+These are three petitions all arising out of dispute
+between the parties under a contract awarded by the
+respondent to the petitioner for construction of its main R & D
+Building at Chattarpur, Mehrauli Mandi Gaon Road, New Delhi.
+One of these three petitions is under Section 11 and the
+OMP No.309/2005
+
+Page Number 1 of 23
+
+second is under Section 9 of the Arbitration & Conciliation Act,
+1996. The third petition is an execution petition which seeks to
+execute the arbitral award dated 19.2.2003 in favour of the
+petitioner that became final consequent upon dismissal of the
+objections of the respondents against the said award vide
+judgment dated 18.5.2005 passed by this Court in OMP No.
+228/2003. The arbitral award dated 19.2.2003 which is sought
+to be executed is in the sum of Rs.1,32,27,137/- with interest
+at 9% p.a in favour of the petitioner.
+The brief facts of the case giving rise to these three
+petitions are as follows.
+The respondent had awarded a contract to the
+petitioner for construction of its main R & D Building at
+Chattarpur, Mehrauli Mandi Gaon Road, New Delhi. The
+contract was awarded on 18.2.1999. In terms of the contract,
+the work was to be completed by the petitioner within 30
+months i.e by 18.8.2001. The work under the contract was
+actually completed by the petitioner on 31.3.2005. The
+contract between the parties provided for extension of time
+
+OMP No.309/2005
+
+Page Number 2 of 23
+
+and the relevant clauses in the contract relating to extension of
+time are Clauses 44.1 to 44.3 and the same are extracted
+below:
+“44.1 Extension of Time for Completion
+The work shall throughout the stipulated
+period
+of the Contract be proceeded with
+due diligence. If the works be delayed by:i)
+
+force majure or
+
+ii)
+
+abnormally bad weather, or
+
+iii)
+
+serious loss or damage by fire, or
+
+iv) civil commotion, local commotion of
+workmen, strike or lockout, affecting any of
+the trades employed on the Work, or
+v)
+delay on the part of other contractors or
+tradesmen engaged by the C-DOT in
+executing work not forming part of the
+Contract, or
+vi) non-availability of stores, which are the
+responsibility of the C-DOT to supply, if any,
+or
+vii) non-availability or break down of tools
+and plant to be supplied or supplied by the CDOT, if any, or
+viii) any other cause which, in the absolute
+discretion of the C-DOT is beyond the
+Contractor's control
+then upon the happening of any such event
+causing
+delay,
+the
+Contractor
+shall
+immediately give notice thereof in writing to
+OMP No.309/2005
+
+Page Number 3 of 23
+
+the Engineer, but shall nevertheless use
+constantly his best endeavours to prevent or
+make good the delay and shall do all that may
+be reasonably required to the satisfaction of
+the Engineer to proceed with the Work.
+44.2 Request for Extension of Time
+Request for extension of time, to be eligible
+for consideration, shall be made by the
+Contractor in writing within fourteen days of
+the happening of the event causing delay on
+the prescribed form to the Engineer under
+intimation to C-DOT. The Contractor may also,
+if practicable, indicate in such a request the
+period for which extension is desired.
+44.3 Grant of Extension of Time
+In any such case the C-DOT may give a fair
+and reasonable extension of time for
+completion of the Work. Such extension shall
+be communicated to the Contractor by the
+Engineer in writing within 3 months of the
+date of receipt of such request. Non
+application by the Contractor for extension of
+time shall not be a bar for giving a fair and
+reasonable extension by the C-DOT and this
+shall be binding on the Contractor.”
+The contract also provides for compensation for
+delay in execution of the contract and the relevant clause in
+this regard is Clause 47.1 and the same is extracted below:
+“47.1
+
+Compensation For Delay
+
+If the Contractor fails to maintain required
+progress in terms of the Contract or to
+complete the Work and fails to clear the Site
+OMP No.309/2005
+
+Page Number 4 of 23
+
+on or before the stipulated or extended date of
+completion, he shall, without prejudice to any
+other right or remedy of the C-DOT on account
+of such breach be liable to pay agreed
+compensation of an amount equal to 1/2%
+(Half percent) of the Contract Sum/Price or
+such smaller amount as the C-DOT may
+decide, for every week the progress remain
+below the agreed progress schedule or that
+the Work/phase remains incomplete. The
+decision of the C-DOT in writing shall be final
+and binding on the Contractor.
+Provided always that the total amount of
+compensation for delay to be paid under this
+clause shall not exceed 10% (Ten Percent) of
+the Contract Sum of the Work or of the
+Contract Sum/Price of the item or group of
+items of work, as shown in the letter of
+acceptance, for which a separate period of
+completion is originally given.
+The amount of compensation may be adjusted
+or set off against any sum payable to the
+Contractor under this or any other contract
+with the C-DOT.”
+The contract between the parties further provides for
+arbitration in the event any dispute or difference may arise
+between them under the said contract. The relevant clause in
+this regard is Clause 67.1 and the same is extracted herein
+below:“67.1
+Settlement
+Arbitration
+OMP No.309/2005
+
+of
+
+Disputes
+
+and
+
+Page Number 5 of 23
+
+Except where otherwise provided in the
+Contract all questions and disputes relating to
+the meaning of the specifications, design,
+drawings and instructions herein before
+mentioned and as to the quality of workmanship
+or materials used on the Work or as to any other
+question, claim, right, matter or thing
+whatsoever in any way arising out of or relating
+to
+the
+Contract,
+designs,
+drawings,
+specifications, estimates, instructions, orders or
+these conditions or otherwise concerning the
+Work or the execution or failure to execute the
+same whether arising during the progress of the
+Work or after the cancellation, termination,
+completion or abandonment thereof shall be
+dealt with as mentioned hereinafter:i)
+If the Contractor considers that he is
+entitled to any extra payment or compensation
+in respect of the works over and above the
+amounts admitted as payable by the C-DOT or
+in case the Contractor wants to dispute the
+validity of any deduction or recoveries made or
+proposed to be made from the Contract, the
+Contractor shall forthwith give notice in writing
+of his claim, in this behalf to the Engineer within
+30 days from the date of disallowance thereto
+for which the Contractor claims such additional
+payment or compensation or disputes the
+validity of any deduction or recovery. The said
+notice shall give full particulars of the claim,
+grounds on which it is based and detailed
+calculations of the amount claimed and the
+Contractor shall not be entitled to raise any
+claim nor shall the C-DOT be in any way liable in
+respect of any claim by the Contractor unless
+notice of such claim shall have been given by
+the Contractor to the Engineer in the manner
+within the time as aforesaid. The Contractor
+OMP No.309/2005
+
+Page Number 6 of 23
+
+shall be deemed to have waived and
+extinguished all his rights in respect of any
+claims not notified to the Engineer in writing in
+the manner and within the time aforesaid.
+ii)
+The Engineer shall give his decision in
+writing on the claims notified by the Contractor
+within 30 days of the receipt of the notice
+thereof. If the Contractor is not satisfied with
+the decision of the Engineer, the Contractor
+may within 15 days of the receipt of the
+decision of the Engineer submit his claims to the
+ED C-DOT for conciliation along with all details
+and copies of correspondence exchanged
+between him and the Engineer. The ED C-DOT
+shall appoint the Conciliator.
+Iii) If
+the
+conciliation
+proceedings
+are
+terminated without a settlement of the disputes,
+the Contractor shall, within a period of 30 days
+of termination thereof shall give a notice in the
+form prescribed by the C-DOT, to the ED C-DOT
+for appointment of an Arbitrator to adjudicate
+the notified claims, failing which the claims of
+the Contractor shall be deemed to have been
+considered absolutely barred and waived.
+iv) Except where the decisions have become
+final, binding and conclusive in terms of the
+Contract, all disputes or differences arising out
+of the notified claims of the Contractor as
+aforesaid and all claims of the C-DOT shall be
+referred for adjudication through the arbitration
+by the Sole Arbitrator appointed by the ED CDOT. If the Arbitrator so appointed is unable or
+unwilling to act or resigns his appointment or
+vacates his office due to any reason
+whatsoever, another Sole Arbitrator shall be
+appointed in the manner aforesaid by the ED CDOT. Such person be entitled to proceed with
+OMP No.309/2005
+
+Page Number 7 of 23
+
+the reference from the stage at which it was left
+by his predecessor.
+It is a term of the Contract that the party
+invoking arbitration shall give a list of the
+disputes with amounts claimed in respect of
+each dispute along with the notice for
+appointment of arbitrator.
+It is also a term of the Contract that no person
+other than a person appointed by the ED C-DOT
+as aforesaid should act as an Arbitrator and if
+for any reason that is not possible, the matter
+shall not be referred to arbitration at all.
+It is also a term of the Contract that the
+Arbitrator shall adjudicate on only such disputes
+as are referred to him by the ED C-DOT and give
+separate award against each dispute and claim
+referred to him. The Arbitrator shall give
+reasons for the award.
+It is also a term of the Contract that if any fees
+are payable to the Arbitrator, these shall be paid
+equally by both the parties.
+The Conciliation and Arbitration shall be
+conducted in accordance with the provision of
+the Arbitration and Conciliation Act 1996 or any
+statutory modifications re-enactment thereof
+and the rules made there under and for the time
+being in force shall apply to the arbitration
+proceeding under this clause.”
+Since the petitioner could not complete the work
+within the stipulated time period of 30 months, the petitioner
+applied for extension of time from time to time. The time was
+extended by the respondent upto 31.12.2003 without levy of
+OMP No.309/2005
+
+Page Number 8 of 23
+
+any damages or compensation for delay in execution of the
+work on the part of the contractor. However, the decision on
+the request of the petitioner for further extension of time
+beyond 31.12.2003 was kept pending by the respondent till the
+time the petitioner would complete the work under the
+contract.
+Certain disputes had arisen between the parties
+under the contract even before the work was actually
+completed by the petitioner on 31.3.2005. The petitioner had
+made certain claims which were referred for arbitration in
+terms of Clause 67.1 referred above. The Arbitrator appointed
+by the respondent gave an award of Rs.1,32,27,137/- with
+interest at 9% p.a in favour of the petitioner (Contractor) on
+19.2.2003. Aggrieved by the said award, the respondent filed
+objections under Section 34 of the Arbitration & Conciliation
+Act, 1996. Those objections were dismissed by this Court vide
+its judgment dated 18.5.2005 passed in OMP No. 228/2003 and
+thereby the interim award in favour of the petitioner being the
+Contractor had acquired finality.
+
+OMP No.309/2005
+
+Page Number 9 of 23
+
+Subsequent to the above referred interim award in
+favour of the petitioner acquired finality, the petitioner in the
+meanwhile, had completed the work under the contract on
+31.3.2005. Thereafter, the respondent vide its decision taken
+on 2.8.2005 decided to extend the time for completion of work
+without levy of any damages till 20.7.2003 and thereafter up to
+31.03.2005 subject to levy of compensation of 10% of the total
+contract value for delay on the part of the petitioner in
+execution of the work. On this decision being taken by the
+respondent, a communication dated 23.8.2005 (Annexure P-7
+at Page 247 of the paper book) was sent by the respondent to
+the petitioner informing it that the respondent has decided to
+levy liquidated damages of Rs.3,67,89,063/- at 10% of the
+contract value in terms of Clause 47.1 of the contract. Vide
+said communication the petitioner was further informed that
+the respondent had decided to adjust the amount of interim
+award in favour of the petitioner amounting to Rs.1,53,10,807/alongwith an amount of Rs.42 lacs allowed to it on account of
+escalation for the period upto 20.7.2003 as per Clause 70.1 of
+GCC. The petitioner was accordingly called upon to pay the
+OMP No.309/2005
+
+Page Number 10 of 23
+
+balance amount of Rs.1,72,78,256/- to the respondent by
+2.9.2005 failing which the petitioner was informed that the said
+amount shall be recovered through encashment of bank
+guarantees furnished by the petitioner.
+It was at this stage when the petitioner received the
+impugned
+
+communication
+
+dated
+
+23.8.2005
+
+from
+
+the
+
+respondent, the petitioner filed the petition under Section 9 of
+the Arbitration & Conciliation Act, 1996 being OMP No.
+309/2005 for an injunction against the respondents that they
+should be restrained from encashing its bank guarantees as
+threatened vide their letter dated 23.8.2005. Before petition
+under Section 9 was filed, the petitioner had already filed an
+execution petition being Ex.P.No. 126/2005 for execution of the
+interim award dated 19.2.2003 in its favour. Later on, the
+petitioner also filed a third petition in April, 2007 under Section
+11 of the Arbitration & Conciliation Act, 1996 seeking
+appointment of an Arbitrator for reference of the dispute
+pertaining to the levy of liquidated damages for delay in
+execution
+
+of
+
+OMP No.309/2005
+
+the
+
+work
+
+levied
+
+by
+
+the
+
+respondent
+
+as
+
+Page Number 11 of 23
+
+communicated to the petitioner vide communication dated
+23.8.2005.
+All the above petitions are taken up for hearing on
+board together because focal point that arise for consideration
+in all of them is whether the claim of the respondent to levy
+liquidated damages as communicated vide communication
+dated 23.8.2005 is final and binding on the petitioner and if so,
+whether it falls under the category of 'Excepted Matters' and is,
+therefore, no longer arbitrable. In case it is found that the levy
+of liquidated damages by the respondent falls under the
+category of 'Excepted Matters' and is thereby final and binding
+on
+
+the
+
+petitioner
+
+(Contractor),
+
+then
+
+in
+
+that
+
+event
+
+the
+
+respondent will be entitled to adjust the said amount by way of
+adjustment against the amount it is liable to pay to the
+petitioner in terms of interim award dated 19.2.2003. However,
+if it is found that the demand of the respondent for alleged
+liquidated damages does not fall in the category of 'Excepted
+Matters' then in that event the petitioner would be entitled for
+execution of the interim award dated 19.2.2003 and the
+
+OMP No.309/2005
+
+Page Number 12 of 23
+
+petitioner would further be entitled to an injunction order
+against the respondent restraining it from encashing the bank
+guarantees till the claim of the respondent for liquidated
+damages is decided by the Arbitrator under the contract.
+Mr.Seth, learned counsel appearing on behalf of the
+respondent has vehemently argued that the decision of the
+respondent to levy liquidated damages against the petitioner is
+final and binding on the petitioner in terms of Clause 47.1 of
+the contract referred above. He has relied upon several
+judgments of the Supreme Court in Food Corporation of
+India vs. Surendra, Devendra & Mahendra reported in
+(2003) 4 SCC 80; G.M.Northern Railways vs. Sarvesh
+Chopra reported in AIR 2002 SC 1272 Union of India vs.
+J.N.Constructions,
+
+reported
+
+in
+
+2003(3)
+
+Arb.LR
+
+478
+
+(Delhi) (DB), M/s H.M.Kamaluddin Ansari & Co. vs.
+Union of India & Ors., reported in (1983) 4 SCC 417, Sri
+Harsha Constructions, Hyderabad vs. Union of India &
+Ors. Reported in 2006(1) Arb.LR 308 (AP) (DB), Oil &
+Natural Gas Corporation Ltd. vs. SAW Pipes Ltd.,
+
+OMP No.309/2005
+
+Page Number 13 of 23
+
+reported in 2003(2) Arb.LR 5 (SC), Vishwanath Sood vs.
+Union of India & Anr. Reported in AIR 1989 SC 952, Firm
+Ashok Traders and Anr.etc. vs. Gurumukh Das Saluja &
+Ors.etc. Reported in 2004(1) Arb.LR 141 (SC), Rajasthan
+State Mines & Minerals Ltd., vs. Eastern Engineering
+and Anr. Reported in AIR 1999 SC 3627, M/s Sundaram
+Fiunance Ltd., vs. M/s. NEPC India Ltd.reported in AIR
+1999 SC 565, N.B.C.C Ltd. vs. IRCON International Ltd.,
+reported in 1997 (Supp.) Arb.LR 512, Apple Finance
+Ltd., vs. Gayathri Sugar Complex Ltd. Reported in
+2004(3) Arb.LR 379 (Madras) & Daewoo Motors India
+Ltd. vs. Union of India & Ors. Reported in (2003) 4 SCC
+690. On the strength of these judgments Mr.Seth has argued
+that it would be a futile exercise to refer the matter relating to
+levy of liquidated damages for arbitration because the decision
+of the respondent thereon falls under the 'Excepted Matters'
+and is, therefore, final and binding on the Contractor being the
+petitioner herein. I do not consider it necessary to discuss all
+these judgments separately because there is no dispute about
+the legal proposition laid down therein that in case any claim
+OMP No.309/2005
+
+Page Number 14 of 23
+
+falls under the category of 'Excepted Matters' then the same
+cannot be referred for arbitration.
+The question whether the claim of the respondent for
+liquidated damages falls under the category of 'Excepted
+Matters' or not is a question of fact and can best be decided
+only by reference to the terms of the agreement between the
+parties. In case upon interpretation of various clauses of the
+contract it is found that the matter relating to liquidated
+damages does not fall under the category of 'Excepted Matters'
+then the above referred judgments relied upon by Mr.Seth
+would be of no consequence.
+Now, I proceed to examine the terms of the contract
+between the parties to ascertain whether the liquidated
+damages levied by the respondent vide its communication
+dated 23.8.2005 fall under the category of 'Excepted Matters'
+or not. Clause 44.3 of the contract between the parties is an
+enabling clause conferring a discretion upon the respondent to
+grant a fair and reasonable extension of time for completion of
+the work. According to clause 44.3 the respondent could have
+
+OMP No.309/2005
+
+Page Number 15 of 23
+
+extended the time either suo moto or on a request for such
+extension made by the Contractor. In case the request for
+extension of time was made by the Contractor (petitioner),
+then
+
+it
+
+was
+
+obligatory
+
+upon
+
+the
+
+respondent
+
+to
+
+have
+
+communicated its decision to the petitioner within three
+months of the date of receipt of such request. Admittedly, the
+time was extended by the respondent upto 31.12.2003 and the
+request of the petitioner for further extension of time was kept
+in abeyance till the time the petitioner would complete the
+project work.
+Clause 67.1 of the contract between the parties
+provides for a scheme for settlement of dispute through
+arbitration. A perusal of Clause 67.1 referred above would
+show that it contains an inbuilt mechanism for resolution of
+dispute that may arise between the parties under the contract.
+As per the said clause, the Contractor in the first instance was
+required to send a notice of his claim to the engineer of the
+respondent and in case he was not satisfied with the decision
+of the engineer then he could have made a representation to
+
+OMP No.309/2005
+
+Page Number 16 of 23
+
+the ED C-DOT within 30 days of the decision of the engineer. In
+case the Contractor was still not satisfied with the decision of
+the engineer, he could have submitted his claim for conciliation
+to the ED C-DOT and in that event the ED C-DOT was required
+to appoint a Conciliator. It is provided in Clause 67.1 (iii) that if
+the
+
+conciliation
+
+proceedings
+
+were
+
+to
+
+terminate
+
+without
+
+settlement of the dispute, the Contractor could give a notice in
+the form
+
+prescribed within a period of 30 days of the
+
+termination thereof to the ED C-DOT for appointment of an
+Arbitrator to adjudicate the notified claims. Sub Clause (iv) of
+Clause 67.1 provides that all disputes and differences arising
+out of the notified claim of the Contractor and all claims of CDOT except those matters on which the decision of the
+respondent was to be final, binding and conclusive were to be
+referred for adjudication by a Sole Arbitrator to be appointed
+by the ED C-DOT.
+Whether the decision of the respondent to levy liquidated
+damages has become final or not has not been dealt with by
+Clause 67.1(iv) of the agreement. Mr. Seth has relied upon
+
+OMP No.309/2005
+
+Page Number 17 of 23
+
+Clause 47.1 to urge that the respondent was well within its
+right to levy compensation for delay on the part of the
+petitioner in completing the project on formula agreed upon
+between the parties as is mentioned in the said clause. I do not
+find any substance in this argument advanced by Mr.Seth
+appearing on behalf of the respondent. A plain reading of
+Clause 47.1 of the contract (at Page 95 of the paper book)
+would show that the right of the respondent to claim
+compensation for delay in execution of the project work could
+arise only on failure of the petitioner to complete the work and
+clear the site on or before the stipulated or extended time
+period. In this case the respondent had not taken any decision
+on the request of the petitioner for extension of time till the
+project work was completed on 31.3.2005. The respondent, on
+the other hand, had issued a provisional completion certificate
+to the petitioner on 24.5.2005 (Annexure P-4 at Page 201 of
+the paper book) and in column 10 thereof has assessed the
+performance of the Contractor as 'Good'
+
+and in Column 9
+
+which deals with liquidated damages (if any), it is mentioned
+that extension of time case was under process. This document
+OMP No.309/2005
+
+Page Number 18 of 23
+
+of the respondent by itself would imply an admission on the
+part of the respondent that the request of the petitioner for
+extension of time was not finalised on the date the project
+work was completed by the petitioner on 31.3.2005.
+After the petitioner had filed its execution petition
+and a petition under Section 9 of the Arbitration & Conciliation
+Act, 1996 (both of which were filed in 2005), a joint meeting
+had taken place between the representatives of both the
+parties on 7.7.2006 and in that meeting it was mutually agreed
+upon between the parties that the C-DOT shall release
+outstanding payments to the petitioner after the petitioner
+would submit unconditional bank guarantees for a total sum of
+Rs.3.67 crores to C-DOT. On the date this joint meeting was
+held between the representatives of the parties on 7.7.2006,
+the Bank Guarantees worth Rs. 3 crores furnished by the
+petitioner were already lying with the respondent and,
+therefore, it was agreed upon between the parties that the
+petitioner would furnish guarantees only for the balance
+amount of Rs.67 lacs. It was further agreed upon between the
+
+OMP No.309/2005
+
+Page Number 19 of 23
+
+parties on that date that the bank guarantees would be
+encashed by the respondent as per legal status of the matter
+i.e in accordance with the orders of this Court in this regard.
+The respondent had further assured the petitioner in its
+meeting held on 7.7.2006 that the required confirmation
+pertaining to extension of time for the period from 1.1.2004 to
+31.3.2005 would be sent to the petitioner shortly. The minutes
+of the meeting that took place between the representatives of
+the parties on 7.7.2006 are at Page 22 of the case being
+Arbitration Application No. 112/2007.
+The respondent sent its reply regarding minutes of
+the meeting that was held on 7.7.2006 to the petitioner vide its
+letter dated 25.8.2006 which is not disputed by the learned
+counsel appearing on behalf of the respondent. A perusal of
+the said letter of the respondent dated 25.8.2006 would show
+that the respondent even on 25.8.2006 had informed the
+petitioner that the details of extension of time could be
+finalised only after the work was completed. All this clearly
+shows that the respondent had not taken any decision on the
+
+OMP No.309/2005
+
+Page Number 20 of 23
+
+request of the petitioner regarding extension of time till the
+project work was completed on 31.3.2005. Had the respondent
+taken a decision on the request of the petitioner for extension
+of time one way or the other, then it would have enabled the
+petitioner to exhaust its remedy as provided to him in Clause
+67.1 of the contract referred above. Now, the respondent
+cannot turn around and say that they have taken a decision to
+extend the time beyond 20.7.2003 upto 31.3.2005 subject to
+levy of liquidated damages. In the considered opinion of this
+Court the claim of the respondent for liquidated damages does
+not fall within the category of 'Excepted Matters' as provided in
+Clause 67.1 (iv) of the contract. The learned counsel for the
+respondent could not tell, when asked, whether there is any
+clause in the contract which entitles the respondent to levy
+damages as a condition for extension of time after the
+completion of the project work. The thrust of the argument of
+Mr.Seth appearing on behalf of the respondent is that the
+delay in completion of the project beyond 20.7.2003 for which
+damages have been levied is wholly attributable to the
+petitioner being the Contractor. The petitioner has denied the
+OMP No.309/2005
+
+Page Number 21 of 23
+
+same. This gives rise to a dispute between the parties as to
+whether the respondent is entitled to the damages for alleged
+delay or not. This dispute obviously has to be decided by some
+authority, whether by the Court or by the Arbitrator. In this
+case, the parties had mutually agreed to refer their disputes
+that may arise between them under the contract for decision of
+the Sole Arbitrator to be appointed by the respondent.
+The petitioner has made certain claims against the
+respondent which the respondent has already referred to the
+Arbitrator vide its communication dated 8.11.2007 which has
+been placed on record. Since the claim of the petitioner has
+already been referred by the respondent for arbitration, it
+would be appropriate in case the respondent may also prefer
+its claim for liquidated damages before the same Arbitrator
+before whom the claims of the petitioner are pending for
+adjudication. Since the claim of the respondent for liquidated
+damages is yet to be adjudicated by the Arbitrator, it would be
+expedient and in the interest of justice to direct the petitioner
+to keep the bank guarantees alive till the decision by the
+
+OMP No.309/2005
+
+Page Number 22 of 23
+
+Arbitrator on the said claim of the respondent. Accordingly, the
+petitioner is hereby directed to keep the bank guarantees alive
+till the decision of dispute with regard to the claim of the
+respondent for liquidated damages is adjudicated by the
+Arbitrator. The respondent is directed not to encash the said
+bank guarantees without prior permission of the Court or till
+the decision of the Arbitrator, whichever is earlier. In the
+meanwhile, the respondent is directed to make payment of the
+amount in terms of the interim award dated 19.2.2003 to the
+petitioner within a period of four weeks from today.
+In view of the above, all these petitions stand
+disposed of leaving the parties to bear their own costs.
+
+January 10, 2008
+mb
+
+S.N.AGGARWAL
+[JUDGE]
+
+OMP No.309/2005
+
+Page Number 23 of 23
+
+

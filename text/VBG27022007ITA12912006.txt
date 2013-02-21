@@ -1,0 +1,322 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 1291 of 2006
+
+%
+
+Judgment reserved on: 22nd February, 2007
+Judgment delivered on: 27th February, 2007
+ALLIED ELECTRONICS AND MAGNETICS LTD.
+..... Appellant
+Through: Ms.Shashi M.Kapila with
+Mr.Prakash Yadav, Adv.
+Vs.
+DEPUTY COMMISSIONER OF INCOME
+.....Respondent
+Through: Mr.J.R.Goel with
+Mr.S.C.Sharma, Adv.
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+V.B. GUPTA, J.
+Appellant has filed the present appeal under Section
+260A of Income Tax Act, 1961(hereinafter referred to as
+Act) against the impugned order dated 31st January, 2006
+ITA No.1291/2006
+
+Page 1 of 7
+
+passed by Income Tax Appellate Tribunal (hereinafter
+referred to as Tribunal) in ITA No.4778/Del/03 for the
+assessment year 2000-01.
+
+By the said order the claim
+
+made by the Appellant under Section 32(1)(iii) of the Act
+for write off of discarded/obsolete machinery amounting to
+Rs.40,83,828/- was disallowed.
+2.
+
+The brief facts of the case are that Appellant-company
+
+is engaged in manufacturing and trading of
+other computer consumables.
+
+Till the
+
+floppy and
+
+close of the
+
+immediately preceding year relevant to assessment year
+1999-2000, it had been manufacturing computer floppies.
+The plant and machinery installed
+
+in the financial year
+
+1984-85 and 1994 had been extensively used by it for this
+purpose.
+
+As the technology in the field
+
+of computer
+
+consumables had advanced manifold since the installation
+of the plant and machinery, the system of electronic
+equipment used by the Appellant became obsolete and
+commercially un-viable and as such the Board of Directors
+of Appellant-company approved the discarding off of the
+obsolete plant and machinery and accordingly
+
+Appellant
+
+claimed deduction for write off of the discarded plant and
+ITA No.1291/2006
+
+Page 2 of 7
+
+machinery during the period under consideration.
+3.
+
+The Assessing Officer denied the claim of such write
+
+off on the grounds that as per the provision of Section
+32(1)(iii) of the Act, the machinery should have been used
+at least for a part of the accounting year to claim
+depreciation in the year in which the same was sold or
+otherwise discarded. Since, it was not so used during the
+period under consideration, he disallowed the Appellant
+claim of Rs.40,83,828/4.
+an
+
+Being aggrieved against this order, the Appellant filed
+appeal
+
+before
+
+the
+
+Commissioner
+
+of
+
+Income
+
+Tax
+
+(Appeals) who concurred with the finding of the Assessing
+Officer. On further appeal, the Tribunal upheld the finding
+of the Commissioner of Income Tax(A). Hence the present
+appeal.
+5.
+
+It has been argued by learned counsel for the
+
+Appellant that sub-clause (iii) of Section 32(1) of the Act
+does not deal with the allowance of depreciation but deals
+with deduction for discarding, demolition, destruction or
+sale of the depreciable assets. All that the Section requires
+is that the assets should have been used for the purposes of
+ITA No.1291/2006
+
+Page 3 of 7
+
+business in the earlier years on which depreciation should
+have been allowed and such assets should form part of the
+Block of Assets on which depreciation was claimed in the
+earlier years. It does not mandate that such assets should
+have been used in the year of discarding, demolition and
+sale.
+
+User of machinery in the year of discarding,
+
+demolition and sale etc. is not mandatory condition. The
+interpretation given by the Tribunal that, user of machinery
+in the year of discarding, demolition or sale etc. is one of
+the mandatory condition for allowing deduction under
+Section 32(1)(iii) of the Act, is not correct.
+6.
+
+On the other hand it has been argued by the learned
+
+counsel for the Revenue that no infirmity can be found with
+the order of the Tribunal and in its support learned counsel
+cited
+
+case
+
+reported
+
+as
+
+Maharashtra
+
+Minerals
+
+Corporation Ltd. vs. Commissioner of Income Tax
+(1995) 216 ITR 578 and Commissioner of Income Tax
+
+vs. Co-operative Wholesale Society Ltd. (1992) 195 ITR
+361.
+7.
+
+The relevant provision for disposal of the present
+
+appeal is Section 32(1)(iii) of Act, which reads as under:ITA No.1291/2006
+
+Page 4 of 7
+
+“Depreciation
+Section 32.(1) In respect of depreciation of(i) buildings, machinery, plant
+furniture, being tangible assets;
+
+or
+
+(ii)know-how, patents, copyrights, trade
+marks, licences, franchises or any other
+business or commercial rights of similar
+nature, being intangible assets acquired
+on or after the 1st day of April, 1998,
+owned, wholly or partly, by the assessee and used for the
+purposes of the business or profession, the following
+deduction shall be allowed(i) xxx xxx
+
+xxx
+
+(ii) xxx xxx
+
+xxx
+
+(iia)xxx xxx
+
+xxx
+
+(iii) in the case of any building, machinery, plant or
+furniture in respect of which depreciation is
+claimed and allowed under clause (i) and which
+is sold, discarded, demolished or destroyed in
+the previous year (other than the previous year
+in which it is first brought into use), the amount
+by which the moneys payable in respect of such
+building, machinery, plant or furniture, together
+with the amount of scrap value, if any, fail short
+of the written down value thereof;”
+8.
+
+A bare reading of this provision will show that one of
+
+the conditions for allowing the above deduction is that the
+machinery must have been used for the purposes of the
+business during the previous year in which the machinery
+ITA No.1291/2006
+
+Page 5 of 7
+
+is sold, discarded, demolished or destroyed. There is no
+dispute between the parties on this issue. The only dispute
+is as to whether the machinery was so, used or not.
+9.
+
+There is a concurrent finding of three authorities
+
+below, i.e. the Assessing Officer, Commissioner of Income
+Tax (A) and Income Tax Appellate Tribunal to the effect
+that the machinery was not put to use at all during the
+relevant previous year.
+10.
+
+We do not find any reason to differ with the finding of
+
+fact recorded by all these authorities and there is nothing
+on record to show that the machinery in question was put
+to use during the relevant previous year.
+11.
+
+In case of Maharashtra Minerals Corporation
+
+Ltd.(supra) while discussing the provisions of Section
+32(1)(iii)
+
+of
+
+the Act, a Division Bench of Bombay High
+
+Court, held that:“Now as regards the legal position,
+we are of the view that the asset,
+which is sold or discarded or is
+demolished and the loss on which is
+claimed under section 32(1)(iii) of the
+Act, must have been used for the
+purpose of the business or profession
+of the assessee in the year of
+assessment in which it was claimed
+ITA No.1291/2006
+
+Page 6 of 7
+
+12.
+that
+
+and the fact that the asset may have
+been used for the purpose of the
+business in the earlier years, will not
+entitle the assessee to the allowance
+under section 32(1)(iii), if the same
+was sold or discarded in a subsequent
+assessment year.” “
+In view of the above discussion, we are of the opinion
+no
+
+substantial
+
+question
+
+of
+
+law
+
+arises
+
+for
+
+our
+
+consideration and we do not find any error in the view that
+has been taken by the Tribunal in this regard.
+13.
+
+Consequently, the appeal is dismissed.
+
+(V. B. GUPTA)
+JUDGE
+
+February 27, 2007
+SB
+
+ITA No.1291/2006
+
+(MADAN B. LOKUR)
+JUDGE
+
+Page 7 of 7
+
+

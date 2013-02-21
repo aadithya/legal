@@ -1,0 +1,701 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
+
+Judgment delivered on: 22.04.2008
+
++
+
+IA.No. 14373/07 (u/O 39 R 1 & 2 CPC) in CS(OS) 2454/2007
+
+M/S MOSER BAER INDIA LTD.
+
+... Plaintiff
+
+- versus KONINKLIJKE PHILIPS
+ELECTRONICS NV. & ORS.
+
+... Defendants
+
+Advocates who appeared in this case:
+For the Plaintiff
+
+For the Defendants
+
+: Mr Harish N. Salve, Mr A.S. Chandhiok, Mr N.K. Kaul,
+Mr Sanjay Jain Sr Advocates with Mr Vijay Sondhi,
+Mr Sanjeev Kumar, Mr Ashish Prasad, Mr Abhinav Sanghi,
+Mr Amrban Bhattacharya, Ms Sweta Kakkar, Mr Madhukar
+Dhingra, Ms Abhiruchi Mengi, Ms Anu Bagai, Ms Enagoli
+Sema and Mr Bhuvan Mishra
+: Mr Dushyant Dave, Sr Advocate with Mr Praveen Anand,
+Mr Ravi Varma, Mr Ameet Dutta, Mr Himanshu Bagai,
+Mr Thomas George, Ms Milanka Chaudhary and
+Mr Sarojanand Jha
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1.
+
+Whether Reporters of local papers may be allowed
+to see the judgment ?
+
+YES
+
+2.
+
+To be referred to the Reporter or not ?
+
+YES
+
+3.
+
+Whether the judgment should be reported in Digest ? YES
+
+BADAR DURREZ AHMED, J
+1.
+
+Through this application under order 39 rules 1 & 2 of the Code
+
+of Civil Procedure, 1908 (hereinafter referred to as “the CPC”), the
+plaintiff is seeking, as an interim injunction, essentially the same relief
+sought in the suit itself , which is to restrain the defendants from initiating
+any fresh proceedings against the plaintiff in a foreign court and from
+continuing with the suit - Koninklijke Philips Electronics NV vs Moser
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.1 of 19
+
+Baer India Ltd – filed by the defendant no.1 at The Hague, The
+Netherlands, as well as from continuing with the third party claim and
+counter claim filed by the defendant no.1 against, inter alia, the plaintiff in
+the complaint [Civ.A. No. 07-3668 (DWF/AJB)] filed by Imation
+Corporation before the Minnesota District Court, USA. Briefly put, the
+plaintiff prays for an anti-suit injunction against the defendants (more
+particularly against defendant no.1) on the strength of interim orders
+passed by this court in the plaintiff’s earlier suit [CS(OS) 2026/2006] and
+on the pleas of forum non-conveniens and that the proceeding before the
+foreign courts are vexatious and oppressive to the plaintiff. The defendants
+have resisted this application on inter alia the plea that this court lacks
+territorial jurisdiction and that the conditions precedent for the grant of an
+anti-suit injunction as determined by the Supreme Court in Modi
+Entertainment Network v. W.S.G. Cricket Pte Ltd: (2003) 4 SCC 341
+have not been fulfilled.
+2.
+
+The plaintiff manufactures and sells optical and magnetic data
+
+storage media products. The defendant nos. 2 & 3 are alleged to be the
+Indian “arms” of the subsidiaries of the defendant no.1, with whom the
+plaintiff entered into 6 Disc Patent License Agreements (DPLAs) on
+different dates between 01.07.2001 and 10.02.2003 whereby the defendant
+no.1 licensed its patents in respect of the following types of discs – CD-R,
+CD-RW, DVD+R, DVD-R, DVD-RW and DVD+RW. The DPLAs were
+for 10 years from their respective effective dates and contained similar
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.2 of 19
+
+terms with some differences with regard to, inter alia, the quantum of
+royalty payable by the plaintiff to the defendant no.1 in respect of each type
+of disc. Consequently, the plaintiff was liable to pay royalty to the
+defendant no.1 in respect of each disc manufactured and sold by it under
+the DPLAs. Each of these agreements also contained a jurisdiction clause
+which read as:“This Agreement shall be governed by and construed in
+accordance with the laws of the Netherlands. Any disputes
+between the parties hereto in connection with the Agreement
+(including any question regarding its existence, validity or
+termination) shall be submitted to the competent courts of the
+Hague, the Netherlands, provided always that, in case Philips
+is the plaintiff, Philips may at its sole discretion submit any
+such dispute either to the competent courts in the venue of
+Licensee’s registered office, or to any of the competent courts
+in the Territory. Licensee hereby irrevocably waives any
+objection to the jurisdiction, process and venue of any such
+court and to the effectiveness, execution and enforcement of
+any order or judgment (including, but not limited to, a default
+judgment) of any such court in relation to this Agreement, to
+the maximum extent permitted by the law of any jurisdiction,
+the laws of which might be claimed to be applicable regarding
+the effectiveness, enforcement or execution of such order or
+judgment.”
+3.
+
+Earlier, in 1995, the defendant no.1 had entered into a Cross
+
+License Agreement (CLA) with Minnesota Mining & Manufacturing
+Company (3M company) of USA. Under the CLA, both, the defendant no.1
+and 3M company were granted reciprocal royalty free licenses for each
+others patents relating to optical disc technology. Subsequently, 3M
+company assigned its rights under the said CLA to Imation Corporation.
+The plaintiff manufactured and sold the said products to, inter alia, Imation
+Corporation and its subsidiary Global Data Media FZ-LLC (GDM). Since,
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.3 of 19
+
+Imation Corporation (including its subsidiary) was a licensee under the
+CLA, it was represented by Imation Corporation that no royalty was
+payable to defendant no.1 in respect of sales by the plaintiff to it. Such
+sales were allegedly reported to the defendant no.1, who, it is alleged, did
+not object initially. Subsequently, the defendant no.1 construed it as a
+breach of the 6 DPLAs and issued six default notices to the plaintiff on
+18.10.2006 threatening cancellation of the DPLAs. Imation Corporation
+and the plaintiff were of the view that the defendant no.1 had no right to
+request for royalties in respect of sales made by the plaintiff to Imation
+Corporation, the latter be a licensee under the CLA.
+
+4.
+
+This led to the filing of two separate actions, one each by the
+
+plaintiff and Imation Corporation. The Plaintiff filed a suit [ CS(OS)
+2026/06] in this court seeking a declaration and injunction against the
+defendants herein in respect of the said six default notices issued by the
+defendant no.1. Imation Corporation filed a declaratory judgment action
+[Civ.A. No. 07-3668 (DWF/AJB)] against defendant no.1 before the
+Minnesota District Court, USA. The plaintiff was not initially joined as a
+party in Imation’s suit. The circumstances under which the plaintiff became
+a party in that suit will be indicated shortly. But, first, it would be
+appropriate to mention the relevant orders passed in the plaintiff’s suit
+[ CS(OS) 2026/06 ]. On 03.11.2006, the court, while issuing notice on the
+plaintiff’s application (I.A. No. 11943/06) under order 39 Rules 1&2 CPC,
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.4 of 19
+
+recorded the statement of the learned counsel appearing on behalf of the
+defendants as follows:“…that in the meanwhile defendants shall restore the
+plaintiff’s name as authorized licensee of the defendants on
+its official website www.licenses.philips.com and shall also
+indicate that the default notice of 18th October, 2006 is subjudice before this Court. Learned counsel further states that
+the defendants will continue to issue to the plaintiff
+Licensed Status Confirmation Documents (LSCD) as per the
+procedure, being followed by the parties. It is also stated
+that the defendants shall not take any further precipitate
+action.”
+(underlining added)
+This order was subsequently confirmed by the Court on 23.07.2007
+“subject to variation if required by either of the parties”. In the meanwhile,
+the defendant no.1 filed a counter claim and a third party complaint in
+Imation’s suit in the District Court at Minnesota, USA. The plaintiff was
+arrayed as party and the defendant no.1 claimed a sum of USD 655 million.
+In February, 2007, Imation Corporation and the defendant no.1 entered into
+a standstill agreement whereby they agreed to negotiate and resolve the
+disputes.
+
+During the pendency of the settlement talks, several
+
+adjournments were taken on this ground in the plaintiff’s suit [ CS(OS)
+2026/06 ] and the defendants sought extension of time for filing their
+written statements on the plea that “[n]otwithstanding the defendants’
+contentions and without prejudice to the stand to be taken by the
+defendants on jurisdiction and/or the merits of the matter, the defendants
+do not wish to prejudice/colour the settlement talks between the Plaintiff
+and defendant No.1 by filing its defence and objections during this period ”
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.5 of 19
+
+[para 3, I.A. No. 12720/06 in CS(OS) 2026/06]. Extensions were granted
+from time to time.
+
+5.
+
+The settlement talks broke down. Imation Corporation re-filed
+
+its complaint and the defendant no.1 filed the suit in The Hague claiming
+royalty from the plaintiff in respect of all sales of Philips patented CD and
+DVD discs to Imation Corporation and its subsidiaries including Global
+Data Media FZ-LLC. Thereafter, the present suit seeking an anti-suit
+injunction was filed by the plaintiff.
+
+6.
+
+The law relating to anti-suit injunction has been spelt out by the
+
+Supreme Court in Modi Entertainment Network (supra), a decision relied
+upon by counsel on both sides. After considering Oil and Natural Gas
+Commission v. Western Co. of North America: (1987) 1 SCC 496; British
+India Steam Navigation Co. Ltd v. Shanmughavilas Cashew Industries:
+(1990) 3 SCC 481; SNI Aerospatiale v. Lee Kui Jak: (1987) 3 All ER 510;
+Spiliada Maritime Corpn v. Cansulex Ltd: (1986) 3 All ER 843; Airbus
+Industrie GIE v. Patel: (1998) 2 All ER 257; British Aerospace Plc v. Dee
+Howard Co.: (1993) 1 Lloyd’s Rep 368; Donohue v. Armco Inc.: (2002) 1
+All ER 749 (HL); SABAH Shipyard (Pakistan) Ltd v. Islamic Republic of
+Pakistan and Karachi Electrics Supply Corpn Ltd: 2002 EWCA Civ 1643
+(CA), the Supreme Court held:
+“24.
+emerge:
+
+From the above discussion the following principles
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.6 of 19
+
+(1)
+In exercising discretion to grant an anti-suit injunction
+the court must be satisfied of the following aspects:
+(a) the defendant, against whom injunction is sought, is
+amenable to the personal jurisdiction of the court;
+(b) if the injunction is declined, the ends of justice will
+be defeated and injustice will be perpetuated; and
+(c) the principle of comity — respect for the court in
+which the commencement or continuance of
+action/proceeding is sought to be restrained — must be
+borne in mind.
+(2)
+In a case where more forums than one are available,
+the court in exercise of its discretion to grant anti-suit injunction
+will examine as to which is the appropriate forum (forum
+conveniens) having regard to the convenience of the parties and
+may grant anti-suit injunction in regard to proceedings which are
+oppressive or vexatious or in a forum non-conveniens.
+(3)
+Where jurisdiction of a court is invoked on the basis
+of jurisdiction clause in a contract, the recitals therein in regard to
+exclusive or non-exclusive jurisdiction of the court of choice of
+the parties are not determinative but are relevant factors and
+when a question arises as to the nature of jurisdiction agreed to
+between the parties the court has to decide the same on a true
+interpretation of the contract on the facts and in the circumstances
+of each case.
+(4)
+A court of natural jurisdiction will not normally grant
+anti-suit injunction against a defendant before it where parties
+have agreed to submit to the exclusive jurisdiction of a court
+including a foreign court, a forum of their choice in regard to the
+commencement or continuance of proceedings in the court of
+choice, save in an exceptional case for good and sufficient
+reasons, with a view to prevent injustice in circumstances such as
+which permit a contracting party to be relieved of the burden of
+the contract; or since the date of the contract the circumstances or
+subsequent events have made it impossible for the party seeking
+injunction to prosecute the case in the court of choice because the
+essence of the jurisdiction of the court does not exist or because
+of a vis major or force majeure and the like.
+(5)
+Where parties have agreed, under a non-exclusive
+jurisdiction clause, to approach a neutral foreign forum and be
+governed by the law applicable to it for the resolution of their
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.7 of 19
+
+disputes arising under the contract, ordinarily no anti-suit
+injunction will be granted in regard to proceedings in such a
+forum conveniens and favoured forum as it shall be presumed
+that the parties have thought over their convenience and all other
+relevant factors before submitting to the non-exclusive
+jurisdiction of the court of their choice which cannot be treated
+just as an alternative forum.
+(6)
+A party to the contract containing jurisdiction clause
+cannot normally be prevented from approaching the court of
+choice of the parties as it would amount to aiding breach of the
+contract; yet when one of the parties to the jurisdiction clause
+approaches the court of choice in which exclusive or nonexclusive jurisdiction is created, the proceedings in that court
+cannot per se be treated as vexatious or oppressive nor can the
+court be said to be forum non-conveniens.
+(7)
+The burden of establishing that the forum of choice is
+a forum non-conveniens or the proceedings therein are oppressive
+or vexatious would be on the party so contending to aver and
+prove the same.”
+7.
+
+The concepts of anti-suit injunction and forum non conveniens
+
+require some examination. An anti-suit injunction is granted by a court
+preventing the parties before it from instituting or continuing with
+proceedings in another Court. On the other hand, the doctrine of forum
+non conveniens is invoked by a court to not entertain a matter presented
+before it in view of the fact that there exists a more appropriate court of
+competent jurisdiction which would be in a better position to decide the lis
+between the parties. So, in a sense the principle on which an anti-suit
+injunction is invoked is just the reverse of the principle on which the
+doctrine of forum non conveniens is employed. To make it absolutely
+clear, an example would be appropriate. Assuming that there are two
+courts A and B at different places and both having jurisdiction in a
+particular matter, a party may approach court A for an anti-suit injunction
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.8 of 19
+
+against the other party preventing them from instituting a suit or other
+proceeding in court B. Of course, while considering the grant of an antisuit injunction, court A would take into account as to which of the two
+courts is the more convenient forum. However, when a party approaches
+court A and the defendants take up the plea that court A is a forum non
+conveniens and that the matter ought to be more appropriately dealt with
+by court B, then court A, invoking the principles of forum non conveniens,
+may refuse to entertain the matter presented to it and direct the parties to
+approach court B being the more convenient forum. Thus, it is seen that in
+an anti-suit injunction, one court grants an injunction restraining the parties
+from approaching another court. Whereas, in the case of the doctrine of
+forum non conveniens, the court before whom the matter is presented, itself
+refuses to entertain the same and directs the parties to approach the other
+court being the more appropriate and convenient forum. It must also be
+kept in mind that the court granting an anti-suit injunction must otherwise
+have jurisdiction over the matter. Similarly, the court rejecting a matter on
+the principle of forum non conveniens, must otherwise also have
+jurisdiction to entertain the same. This is so because if the court in either
+case does not have jurisdiction then, it cannot deal with the matter and,
+consequently, it can neither grant an anti-suit injunction nor pass an order
+refusing to hear the matter on the plea of forum non conveniens.
+
+8.
+
+In Jayaswals Neco Limited v. Union of India and Others:
+
+WPC 2103/2007 and other connected matters, in a judgment delivered on
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.9 of 19
+
+02.07.2007, I had the opportunity to examine the doctrine of forum non
+conveniens. After considering Sim v. Robinow: (1892) 19 K. 665, Tehrani
+v. Secy of State for the Home Department: [2006] UKHL 47, Gulf Oil
+Corp. v. Gilbert: 330 U.S. 501, I had concluded that the doctrine of forum
+non conveniens can only be invoked where the court deciding not to
+exercise jurisdiction, has jurisdiction in the strict sense.
+
+9.
+
+The plaintiff's prayer for an anti-suit injunction has to be
+
+examined in the backdrop of the aforesaid legal principles. It has been
+contended by the plaintiff that the proceedings at the Hague and before the
+District Court of Minnesota, USA are vexatious and oppressive and that the
+Court at the Hague and at Minnesota are both forum non conveniens. It has
+also been contended that although the plaintiff has presence in 82 countries
+and is a world leader in the manufacture of CD-R, the proceedings at the
+Hague and Minnesota would entail that the plaintiff has to incur avoidable
+financial expenses. It is also contended that most of the witnesses which
+are required to depose on behalf of the plaintiff would be from India and
+this Court is already seized of the issue relating to the validity of the default
+notices issued by the defendant No.1 in respect of the 6 DPLAs. It was also
+contended on the part of the plaintiff that the proceedings at the Hague and
+at Minnesota are clear examples of oppressive and vexatious actions aimed
+at somehow defeating the orders passed by this Court in CS(OS)
+2026/2006. It was contended that the plaintiff is entitled to an anti-suit
+injunction also on the ground that the order dated 03.11.2006 passed in
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.10 of 19
+
+CS(OS) 2026/2006 clearly restrained the defendants from initiating any
+further 'precipitate' action against the plaintiff. He submits that this was an
+undertaking given by the defendants to this Court and the said order had
+been confirmed on 23.07.2007.
+
+The filing of the suit at Hague and
+
+continuing with the proceedings at Minnesota would, according to the
+plaintiff, constitute 'precipitate' action and, therefore, would be a clear
+violation of the undertaking given to the Court and would amount to gross
+contempt of this Court. The defendants, on the other hand, have contended
+that they have done nothing to violate the statement or undertaking given
+by their counsel before this Court. They maintain that the said statement
+recorded on 03.11.2006 was only limited to the cause of action of that suit,
+i.e., the default notices and threatened cancellation of the said six DPLAs.
+It did not extend to the filing of any other suit or action or continuing with
+the proceeding at Minnesota. It was also contended that, in any event, this
+Court did not have jurisdiction over the matter in view of the specific
+jurisdiction clause contained in the DPLAs.
+
+10.
+
+With regard to the statement that the defendants would not take
+
+any “precipitate” action, there could only be two possible views. Either the
+expression covered the filing of the suit at the Hague and continuing with
+the proceedings at Minnesota, or it did not. If it were the former then, a
+virtual anti-suit injunction has already been granted by the Court in CS(OS)
+2026/2006 and no further suit for the same relief can be entertained. If
+there has been a violation of such an undertaking or order then, there is
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.11 of 19
+
+remedy provided under the CPC as well as under the Contempt of Courts
+Act, 1971 to not only seek enforcement but also punishment of the
+defendants. That would be a course of action which can be pursued by the
+plaintiff either in CS(OS) 2026/2006 itself or by way of a separate
+contempt petition. A suit, such as the present, would not lie. On the other
+hand, if the expression 'precipitate action' did not include the filing of other
+proceedings by the defendants then, in any event, the present suit seeking
+anti-suit injunction, cannot be founded on the basis of the undertaking/
+statement recorded on 03.11.2006 in CS(OS) 2026/2006. Thus, whichever
+way the matter is looked at, the statement / undertaking made by the
+counsel for the defendants on 03.11.2006 is irrelevant for the purposes of
+considering the present application and suit for anti-suit injunction.
+
+11.
+
+This takes us to the discussion of whether this Court has
+
+jurisdiction in the matter. It has already been noted above that each of the
+DPLAs, which govern the relationship between the plaintiff and the
+defendants, contains a jurisdiction clause. The first part of the jurisdiction
+clause states that the agreements would be governed by and construed in
+accordance with the laws of the Netherlands. The second part of the clause
+stipulates that the disputes between the parties shall be submitted to the
+competent courts of the Hague, the Netherlands. There is a proviso to this
+and that is that in case the defendant No.1 is the plaintiff, it may at its sole
+discretion, submit such dispute either to the competent courts in the venue
+of the plaintiff's registered office or to any of the competent courts in the
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.12 of 19
+
+Territory as defined in the agreements which, inter alia, includes India and
+such other place, with the approval of the defendant No.1, where the
+licensed products are manufactured by the plaintiff. The plaintiff also, by
+virtue of the said clauses, waived any objection to the jurisdiction, process
+and venue of any such court and to the effectiveness, execution and
+enforcement of any order or judgment of any such court in relation to the
+said agreements. The learned counsel for the plaintiff had submitted that
+this jurisdiction clause did not grant exclusivity to the courts of the Hague,
+the Netherlands, because words such as “solely”, “only” and “exclusively”
+are absent. Reliance was placed on the Supreme Court decision in the case
+of A. B. C Laminart v. A. P. Agencies: (1989) 2 SCC 163 wherein the
+Supreme Court considering the scope of an ouster clause observed as
+under:“21.
+From the foregoing decisions it can be
+reasonably deduced that where such an ouster clause
+occurs, it is pertinent to see whether there is ouster of
+jurisdiction of other courts. When the clause is clear,
+unambiguous and specific accepted notions of contract
+would bind the parties and unless the absence of ad idem
+can be shown, the other courts should avoid exercising
+jurisdiction. As regards construction of the ouster clause
+when words like “alone”, “only”, “exclusive” and the
+like have been used there may be no difficulty. Even
+without such words in appropriate cases the maxim
+“expressio unius est exclusio alterius” — expression of
+one is the exclusion of another — may be applied. What
+is an appropriate case shall depend on the facts of the
+case. In such a case mention of one thing may imply
+exclusion of another. When certain jurisdiction is
+specified in a contract an intention to exclude all others
+from its operation may in such cases be inferred. It has
+therefore to be properly construed.”
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.13 of 19
+
+What the Supreme Court decided in A. B. C Laminart (supra) is that in
+case an ouster clause contained the words “alone”, “only”, “exclusive” and
+the like, there would be difficulty in construing the same as restricting
+jurisdiction to one court and excluding jurisdiction with regard to other
+courts. But this does not mean that a clause which does not contain the
+words like “alone”, “only”, “sole” or “exclusive” would not, under any
+circumstance, amount to an ouster clause or grant exclusivity of jurisdiction
+to a particular court or courts. In fact, the Supreme Court noted that even
+without such words, in appropriate cases, the maxim “expressio unius est
+exclusio alterius” — expression of one is the exclusion of another — may
+be applied. The jurisdiction clause in the present case clearly stipulates that
+the disputes between the parties in connection with the DPLAs 'shall' be
+submitted to the competent courts of the Hague, the Netherlands. This is
+coupled with the proviso that in case the defendant No.1 (Philips) is the
+plaintiff, it may at its sole discretion submit such a dispute either to the
+competent courts in the venue of the plaintiff's registered office or to any of
+the competent courts in the Territory as defined under the agreements.
+
+12.
+
+Reading the proviso along with the main portion of the clause, it
+
+is apparent that in cases where the licensee (Moser Baer India Limited) is
+the plaintiff, the dispute can be submitted only to the courts of the Hague
+because while an exception has been carved out in respect of cases where
+the defendant No.1 is the plaintiff, no exception has been made from the
+general rule that the cases shall be submitted to the competent courts of the
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.14 of 19
+
+Hague, in cases where Moser Baer India Limited is the plaintiff. The
+present suit has been instituted, not by the defendant No.1, but, by Moser
+Baer India Limited as the plaintiff. Consequently, it has to be held that the
+institution of the present suit by Moser Baer India Limited as a plaintiff is
+contrary to the jurisdiction clause contained in each of the DPLAs. A suit
+with respect to a dispute relating to the DPLAs could only have been
+instituted, where Moser Baer India Limited is the plaintiff, in the competent
+courts of the Hague, the Netherlands.
+
+The argument to the contrary
+
+submitted on behalf of the plaintiff cannot be accepted for the aforesaid
+reasons. It is, therefore, clear that this Court would not have jurisdiction to
+entertain the present suit. That being the position, there is no question of
+granting an anti-suit injunction. It is also reiterated that the argument of
+forum non-conveniens can only be raised where the court before whom
+such an argument is raised, does otherwise have jurisdiction in the strict
+sense. It could, if at all, be raised in the courts at the Hague.
+
+13.
+
+It was contended that this Court would be a Court of natural
+
+jurisdiction inasmuch as the DPLAs were executed in Delhi and part of the
+cause of action arose in Delhi. In this regard the principles set out in Modi
+Entertainment Network (supra) need to be examined. It was pointed out
+by the Supreme Court in paragraph 24 (4) of the said decision that a court
+of natural jurisdiction will not normally grant anti-suit injunction against a
+defendant before it where parties have agreed to submit to the exclusive
+jurisdiction of a court including a foreign court, a forum of their choice in
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.15 of 19
+
+regard to the commencement or continuance of proceedings in the court of
+choice, save in an exceptional case for good and sufficient reasons, with a
+view to prevent injustice in circumstances such as which permit a
+contracting party to be relieved of the burden of the contract; or since the
+date of the contract the circumstances or subsequent events have made it
+impossible for the party seeking injunction to prosecute the case in the
+court of choice because the essence of the jurisdiction of the court does not
+exist or because of a vis major or force majeure and the like. Examining
+the said observations of the Supreme Court in the light of the facts and
+circumstances of the present case, I do not find any such exceptional case
+made out by the plaintiff for the grant of an anti-suit injunction. The nongrant of an anti-suit injunction would not relieve the defendants of the
+burden of the contract.
+
+Moreover, there is nothing to show that it is
+
+impossible for the plaintiff to prosecute its case in the court of choice
+because of the reason that essence of the jurisdiction of the Court of choice
+does not exist any more. No case of vis major or force majeure and the like
+has been pleaded by the plaintiff.
+
+On the contrary, it is an admitted
+
+position, as noted above, that the plaintiff has presence in 82 countries and
+also has a full-fledged office in the Netherlands. In paragraph 24 (6) of the
+Supreme Court decision in Modi Entertainment Network (supra) it is
+observed that a party to the contract containing a jurisdiction clause cannot
+normally be prevented from approaching the court of choice of the parties
+as it would amount to aiding breach of the contract. It is further observed
+that when one of the parties to the jurisdiction clause approaches the court
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.16 of 19
+
+of choice in which exclusive or non-exclusive jurisdiction is created, the
+proceedings in that court cannot per se be treated as vexatious or
+oppressive nor can the court be said to be forum non-conveniens. Clearly,
+insofar as suits filed by the plaintiff are concerned under the DPLAs, the
+competent courts of the Hague, the Netherlands, would be the courts of
+choice and in such a situation the defendant No.1 cannot be prevented,
+normally, from approaching the courts in the Hague as it would amount to
+aiding breach of the contract. Moreover, the fact that the defendant No.1
+has filed a suit in the Hague, the proceedings in that court cannot per se be
+treated as vexatious or oppressive nor can the court be said to be forum
+non-conveniens. As pointed out further in the Supreme Court decision in
+Modi Entertainment Network (supra), the burden of establishing that the
+forum of choice is a forum non-conveniens or the proceedings therein are
+oppressive or vexatious would be on the party so contending to aver and
+prove the same. The plaintiff has been unable to show in the facts and
+circumstances of the present case and has not discharged this burden of
+establishing, even prima facie, that the courts at the Hague, the
+Netherlands, is a forum non-conveniens or that the proceedings therein are
+oppressive or vexatious.
+
+Consequently, on the principles laid down in
+
+Modi Entertainment Network (supra) for the grant of an anti-suit
+injunction, the plaintiff is not entitled to the order that it seeks. As regards
+the action in the District Court of Minnesota also no anti-suit injunction
+can be granted. First of all, as noted above, this court does not have
+jurisdiction in the matter. Secondly, the action was brought by Imation
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.17 of 19
+
+Corporation against the defendant No.1.
+
+It is primarily not an action
+
+brought by the defendant No.1. But, an action instituted by a third party
+(Imation Corporation) in which the plaintiff herein was, initially, not even a
+party.
+
+14.
+
+While considering the question of jurisdiction and a jurisdiction
+
+clause it would also be important to note that, as observed in Modi
+Entertainment Network (supra), it is a well settled principle that by
+agreement parties cannot confer jurisdiction, where none exists, on a Court
+to which CPC applies, but this principle does not apply when the parties
+agree to submit to the exclusive or non-exclusive jurisdiction of a foreign
+court. In such international contracts, the parties may agree to have their
+disputes resolved by a foreign court which may be a neutral court or a court
+of choice creating exclusive or non-exclusive jurisdiction in it although
+such court may not otherwise have jurisdiction.
+
+This settled position
+
+eliminates any argument that may be advanced claiming that the courts of
+the Hague, the Netherlands, do not have jurisdiction and the parties could
+not by agreement confer jurisdiction on it.
+
+15.
+
+Before concluding, I must also deal with the arguments
+
+advanced on behalf of the plaintiff that the defendants and, particularly,
+defendant No.1 cannot be permitted to raise the issue of jurisdiction
+when
+
+it
+
+had submitted to the jurisdiction of this court in CS(OS)
+
+2026/2006. It has been mentioned above that on account of the settlement
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.18 of 19
+
+talks following the standstill agreement between Imation Corporation and
+the defendant No.1, the latter moved an application for extension of time to
+file a written statement.
+
+In that application, it was indicated that the
+
+defendants proposed to, inter alia, take the plea of jurisdiction but were not
+doing so because it may have an impact on the settlement talks. The
+learned counsel for the defendants also submitted that they had not given
+up the plea of jurisdiction in CS(OS) 2026/2006.
+
+It is true that the
+
+defendant No.1 could waive the requirement under the jurisdiction clause
+that the suit be filed by Moser Baer India Ltd only at the Hague. Waiver
+being contractual could alter the jurisdiction clause contained in the
+DPLAs. But, waiver would have to be established. And, that is an issue
+which may require resolution in CS(OS) 2026/2006. In the present suit,
+there is no waiver of the jurisdiction clause, the defendants having objected
+to the territorial jurisdiction of this court at the very outset.
+
+16.
+
+For all the above reasons, this application is liable to be
+
+dismissed. It is ordered accordingly.
+
+BADAR DURREZ AHMED
+(JUDGE)
+April 22, 2008
+SR
+
+IA No.14373/2007 in CSOS2454/2007
+
+Page No.19 of 19
+
+

@@ -1,0 +1,873 @@
+*
+
+THE HIGH COURT OF DELHI AT NEW DELHI
+Date of Decision : 8TH FEBRUARY, 2008
+
++
+
+FAO(OS) 392/2007
+UNITED ENGINEERS (MALAYSIA) ESSAR
+PROJECTS LTD.
+..... Appellant
+Through : Mr. Ashok H. Desai, Sr. Adv. with Mr. Rishi
+Aggarwal, Mr. Mahesh Aggarwal, Mr. B.S. Shukla,
+Mr. S. Mittal, Mr. Akshay, Advocates
+versus
+NATIONAL HIGHWAYS AUTHORITY OF INDIA
+..... Respondent
+Through : Mr. Sandeep Sethi, Sr. Adv. with Mr. Ravi
+Singhania, Mr. Vikas Goel, Mr. R.N. Sharma, Mr.Santosh
+Pandey, Advocates
+
++
+
+FAO(OS) 393/2007
+UNITED ENGINEERS (MALAYASIA) ESSAR
+PROJECTS LTD.
+..... Appellant
+Through : Mr. Ashok H. Desai, Sr. Adv. with Mr. Rishi
+Aggarwal, Mr. Mahesh Aggarwal, Mr. B.S. Shukla,
+Mr. S. Mittal, Advocates
+versus
+NATIONAL HIGHWAYS AUTHORITY OF INDIA
+..... Respondent
+Through : Mr. A.S. Chandhiok, Sr. Adv. with Mr. Ravi
+Singhania, Mr. Vikas Goel, Mr. R.N. Sharma, Mr.Santosh
+Pandey, Mr. Mahesh Chibber, Advocates
+CORAM:
+HON'BLE MR. JUSTICE T.S. THAKUR
+HON'BLE MS. JUSTICE VEENA BIRBAL
+
+1.
+2.
+
+Whether reporters of local papers may be allowed
+to see the judgment? YES
+To be referred to the Reporter or not? YES
+
+3.
+
+Whether the judgment should be reported in the Digest? YES
+
+Per Thakur, J :
+Encashment of bank guarantees run into rough waters when amounts
+payable under the same are sizeable and the contractual relationship between the
+parties embittered by disputes. More often than not the party who has provided the
+bank guarantees takes a chance to stall the encashment by seeking judicial
+intervention undeterred by the fact that such intervention is limited to certain
+exceptional situations not always easy to establish. The present appeals arise out of
+a similar failed attempt on the part of the contractor appellant to prevent
+FAO(OS) 392/07 & 393/07
+
+page 1 of 17
+
+encashment of the bank guarantees furnished by it. A Single Judge of this Court
+has by a well reasoned order repelled the contentions of the appellant that the
+encashment of the guarantees was likely to cause irretrievable damage to the
+appellant or that the appellant had made out a case on the ground of special
+equities in its favour to protect it against encashment. The appellant assails that
+order to canvass over again the very same contentions in a bid to persuade us to
+take a different view.
+2.
+
+The appellant Joint Venture entered into a contract for the construction of
+
+two sections of National Highway No. 4 (NH-4) forming part of the Western
+Transport Corridor of the prestigious National Highway (Golden Quadrilateral) in
+the State of Karnataka. In Package 4 forming subject matter of the said Contract,
+the Joint Venture had to construct the Highway admeasuring 77 Kms. (4 lane) of
+the main carriage way in addition to service/side road with road fixtures, jewelery
+items etc. The total contract price for this package was over Two Hundred and Sixty
+Four Crores (Rs.2,64,87,23,756/- to be precise). Package 5 also forming subject
+matter of the same contract involved construction of the Highway over a length of
+56 Kms. (4 lane) of the main carriage way with service/side road, jewelery items
+and road fixtures at a total contract price of Rs.200,91,94,490/-.
+3.
+
+It is common ground that the appellant joint venture furnished to the
+
+respondent Highway Authority bank guarantees for a sum of Rs.79,46,45,899.56 in
+connection with the Package 4 and Rs.59,87,39,959/- in connection with Package 5.
+These bank guarantees comprised performance bank guarantees, retention money
+bank guarantees, machinery advance bank guarantees and mobilisation advance
+bank guarantees. The details of the bank guarantees when presented in a tabular
+form would be as under :
+
+PACKAGE 4
+
+FAO(OS) 392/07 & 393/07
+
+page 2 of 17
+
+S.No.
+
+Category
+
+Essar
+
+UEM
+
+1
+
+Performance BG
+
+Rs. 12,97,81,465/- Rs. 13,50,84,911/-
+
+2
+
+Retention Money BG Rs. 13,24,36,188/- NIL
+
+Rs. 13,24,36,188/Rs. 13,24,64,960/-
+
+3
+
+Machinery Advance Rs. 13,24,64,960/- NIL
+BG
+
+4
+
+Mobilisation
+Advance
+
+Rs. 12,97,87,464/- Rs. 13,50,84,911.56
+Rs. 52,44,76,077/- Rs. 27,01,69,822/-
+
+Total
+Rs. 26,48,72,376/-
+
+Rs. 26,48,72,375.56
+
+Rs. 79,46,45,899.56
+
+PACKAGE 5
+S.No.
+
+Category
+
+Essar
+
+UEM
+
+Total
+
+1
+
+Performance BG
+
+Rs. 9,84,50,530/-
+
+Rs. 9,84,50,530/-
+
+Rs. 19,69,01,060/-
+
+2
+
+Retention Money BG
+
+Rs. 10,04,59,725/- NIL
+
+Rs. 10,04,59,725/-
+
+Advance Rs. 10,04,59,725/- NIL
+
+Rs. 10,04,59,725/-
+
+3
+
+Machinery
+BG
+
+4
+
+Mobilisation Advance
+
+Rs. 9,84,50,530/-
+
+Rs. 10,24,68,919/-
+
+Rs. 20,09,19,449/-
+
+Rs. 39,78,20,510/- Rs. 20,09,19,449/- Rs. 59,87,39,959/-
+
+4.
+
+It is not in dispute that the bank guarantees were unconditional and
+
+encashable at the instance of the respondent Highway Authority. The bank
+furnishing the bank guarantees had undertaken to pay to the Highway Authority
+upon first written demand and without cavil or argument any sum or sums within
+the outer limits fixed in the guarantees without the Highway Authority being called
+upon to prove or to show grounds or reasons for the demand made by it. They also
+waived the necessity of the Highway Authority demanding the debt from the
+contractor before presenting its demand to the bank. The relevant portion of the
+performance bank guarantees furnished by the bank may be gainfully extracted at
+this stage :
+“We undertake to pay you, upon your first written demand
+and without cavil or argument, any sum or sums within
+the limits of Rs.135,084,911.56 (Indian Rupees One
+Hundred Thirty Five Million Eighty Four Thousand Nine
+Hundred Eleven and Paise Fifty Six only) as aforesaid
+without your needing to prove or to show grounds of
+reasons for your demand for the sum specified therein.
+We hereby waive the necessity of your demanding the said
+FAO(OS) 392/07 & 393/07
+
+page 3 of 17
+
+debt from the Contractor before presenting us with the
+demand.
+We further agree that no change or addition to or other
+modification of the terms of the Contract or of the Works
+to be performed thereunder or any of the Contract
+documents which may be made between you and the
+Contractor shall in any way release us from any liability
+under this guarantee and we hereby waive notice of any
+such change, addition or modification.”
+5.
+
+Similar provisions undertaking to pay unconditionally and without proof of
+
+any damage or loss appear in the remaining bank guarantees, six out of whom were
+guarantees to secure the amounts advanced by the Highway Authority to the Joint
+Venture for the performance of the contract.
+6.
+
+The contracted works had to be completed by the Joint Venture by the 31st
+
+August, 2004. On account of certain bottlenecks and hindrance at the site of
+construction, the Joint Venture sought extension of 15 months period ending 30th
+November, 2005 in respect of Package 4 and 17 months period ending 31st January,
+2006 in respect of Package 5. The Engineer upon consideration of the request
+recommended only 4 months extension of time ending 31st December, 2004 and
+referred the matter to the Highway Authority for its approval. The Engineer all the
+same invoked Clause 46.1 of the General Conditions of the Contract and pointed out
+to the Joint Venture that its progress of work at site was going slow. Aggrieved by
+the view taken by the Engineer, the Joint Venture referred the disputes regarding
+the determination of the extension of time and the alleged wrongful invocation of
+Clause 46.1 in respect of both the packages to the Dispute Adjudication Board
+(DAB) under the Contract who, in turn, granted 12 months extension of time up to
+31st July, 2005 to the Joint Venture and set aside the notice for invocation of Clause
+46.1 of the Contract stating that if a party was found entitled to extension, there
+was no invocation of Clause 46.1 for slow progress of work.
+7.
+
+The contracted works were not, however, completed even during the extended
+
+period forcing the Joint Venture to seek a further extension of 8 months ending 30 th
+April, 2006. The Joint Venture cited continued hindrance and obstruction at the site
+FAO(OS) 392/07 & 393/07
+
+page 4 of 17
+
+as a justification for the extension sought by it. The Engineer recommended an
+extension up to 31st December, 2005 in terms of Clause 44 of the Contract despite
+which, the contracted works remained incomplete with the Joint Venture asking for
+further extension up to 30th June, 2006.
+8.
+
+A review meeting was in the above backdrop held between the appellant
+
+Joint Venture, the Highway Authority and the Engineer in presence of the Union
+Minister of Road Transport. It was in the said meeting mutually agreed between
+the parties that the appellant would complete 60 Km of DBM and 25 Km of BC in
+respect of Package 4 and 50 Km of DBM and 15 Km of BC in respect of Package 5.
+According to the report of the Engineer, the Joint Venture failed to achieve those
+milestones. Notices and letters issued by the Engineer and the Highway Authority
+then followed in which the Joint Venture was accused of going slow with the
+completion of the contracted works.
+9.
+
+By its letter dated 24th December, 2006, the Highway Authority pointed out
+
+to the Joint Venture that it had been extremely slow and its performance was
+dismal in the completion of the contracted works despite the respondent having
+been able to clear most of the obstructions at the construction site. Shortly
+thereafter came a letter dated 28th December, 2006 by which the Joint Venture
+terminated the contract in a bid to discharge itself of the obligation to carry out any
+further works. This was followed by a notice dated 12 th January, 2007 issued by the
+Engineer to the appellant under Clause 63.1 of the General Conditions of Contract
+alleging slow progress in the completion of the contract and recommending the
+termination of its services. The respondent Highway Authority by its letter dated
+16th January, 2007 expelled the petitioner from the work site in exercise of its
+powers under Clause 63.1 of the General Conditions of Contract and intimated to
+the Joint Venture its intention to invoke the bank guarantees, forcing the Joint
+Venture to file OMP Nos. 32/2007 and 33/2007 for an injunction restraining the
+
+FAO(OS) 392/07 & 393/07
+
+page 5 of 17
+
+former from doing so.
+10.
+
+The petitions primarily proceeded on the basis that the invocation of the
+
+Bank Guarantees was unjust and inequitable as according to the appellant joint
+venture, the delay in the completion of the contracted works had occurred on
+account of a failure of the Highway Authority in removing the hindrance from the
+site of construction. The grant of extensions, argued the Joint Venture, were
+tantamount to an admission on the part of the Highway Authority that it had failed
+in the discharge of its contractual obligation, including the obligation of providing
+an unhindered site for execution of the works. The Joint Venture claimed that it
+had lived up to its commitment made in the joint meeting held before the Union
+Minister of Road and Transport and completed a substantial part of the work. It
+also contended that the bank guarantees could be encashed only during the
+subsistence of the contract between the parties and that since the same stood
+repudiated by the Joint Venture, the guarantees furnished by it were no longer
+available for encashment.
+11.
+
+The petitions were opposed by the respondent Highway Authority who
+
+alleged suppression of material facts and documents which according to the
+respondent dis-entitled the Joint Venture from invoking the equitable jurisdiction
+of the Court. It was alleged that the Engineer's monthly progress report of
+December, 2005 completely falsified the Joint Venture's claim of achieving 100%
+progress in the completion of the contract. According to the Highway Authority, the
+Joint Venture had completed only 38.71 Kms. of main carriage way (out of 76 Km)
+in Package 4 and 37.70 km (out of 56 km) in Package 5 thereby achieving no more
+than 55% progress in completion of the work on the main carriage ways leaving
+other works untouched. It was also asserted by the Highway Authority that
+extensions were granted to the Joint Venture not on account of hindrances at the
+site of construction but with a view to somehow get the work completed keeping in
+
+FAO(OS) 392/07 & 393/07
+
+page 6 of 17
+
+view its national importance. The extensions did not according to the Highway
+Authority absolve the Joint Venture of its obligation or liabilities arising out of the
+breach thereof. The plea of irreparable damage or irretrievable injury on account of
+the encashment of bank guarantees was also stoutly refuted.
+12.
+
+Relying upon the decision of the Supreme Court in U.P. Cooperative
+
+Federation Ltd. Vs. Singh Consultants and Engineers (P) Ltd. (1988) 1 SCC 174
+and BSES (Now Reliance Energy Ltd.) v. Fenner India Ltd. and Another (2006) 2
+SCC 728, a learned Single Judge of this Court dismissed the petitions holding that
+encashment of a bank guarantee could be injuncted only in cases falling under four
+exceptional situations to the general Rule that a court does not interfere with the
+encashment of a bank guarantee which is an independent and distinct contract
+between the bank and the beneficiary. The Court further held on an appreciation of
+the material placed on record that despite the Highway Authority removing
+substantially the hindrances afflicting the site of work, the Joint Venture had owing
+to various factors squarely attributable to it viz. poor planning, financing,
+inefficient running of machinery and lack of requisite labour, failed to expedite the
+work of construction resulting eventually in the failure of the contract. The learned
+Single Judge further held that the hindrance at the construction site had been
+reduced by the Highway Authority to a mere 4.5 Km length in respect of Package 4
+and 900 meters length in respect of Package 5 despite which the Joint Venture had
+failed to increase the pace of the progress and take up even the scrubbing and
+grubbing work of the side and service roads along the main carriage way. Relying
+upon the monthly progress reports filed by the Engineer in respect of the two
+packages, the learned Single Judge recorded the following findings of fact:
+(i) That the hindrances and obstructions afflicting the site
+of construction were variable in nature and removed by
+the respondent on a timely basis.
+(ii) Although the respondent managed to clear the
+hindrances to a considerable extent, the petitioner could
+not complete the work of construction despite seeking
+FAO(OS) 392/07 & 393/07
+
+page 7 of 17
+
+several extensions of time.
+(iii) That the performance of the petitioner was constantly
+evaluated and reviewed by the Engineer and the petitioner
+was regularly intimated of its shortcomings on account of
+poor planning, inadequate manpower and machinery, etc.
+(iv) That despite constant reminders of its dismal
+performance, neither could the petitioner overcome its
+shortcomings nor could it expedite the work of
+construction.
+(v)That, even otherwise if the hindrance area is to be
+excluded, the petitioner had failed to explain why no
+substantial work has been done by it on the site.
+13.
+
+The Court interpreted Clause 46.1 and 63.1 of the General Conditions of
+
+Contract and held that the Engineer had rightly invoked Clause 46.1 having regard
+to the default on the part of the Joint Venture in carrying out the contracted works
+with reasonable despatch. The Court found that the invocation of Clause 46.1 was
+in no way in conflict with the DAB Award dated 21st July, 2004. Relying upon the
+letters dated 11th December, 2006 and 12th January, 2007 from the Engineer to the
+Joint Venture, the Court recorded a finding that the Joint Venture had shown an
+extremely dismal pace of progress and was negligent in the completion of the
+contract despite hindrance free site having been made available to it for carrying
+out the work. The Court also repelled the contention that the Joint Venture would
+suffer irretrievable injury or that any special equities existed in its favour to justify
+an injunction against the invocation of the bank guarantees. The court declared
+that the bank guarantees being in absolute terms, the validity of their invocation
+did not depend on the existence or otherwise of any dispute between the Joint
+Venture and the Highway Authority.
+14.
+
+We have heard learned counsel for the parties at considerable length and
+
+perused the record. The law relating to invocation of bank guarantees is fairly
+well-settled by a long line of decisions rendered by the Supreme Court. In UP
+Cooperative Federation Ltd. Versus Singh Consultants and Engineers (P) Ltd.,
+1988 (1) SCC 174, the Apex Court referred extensively to English and Indian cases
+on the subject and declared that a guarantee must be honoured in accordance with
+its terms. The bank which gives the guarantee is concerned the least with the
+FAO(OS) 392/07 & 393/07
+
+page 8 of 17
+
+relations between the supplier and the customer nor even with the question
+whether the supplier has performed his contractual obligation or not. So also the
+bank is not concerned with the question whether the supplier is in default or not. It
+must pay, according to the tenor of its guarantee, without proof or condition.
+Having said so, the court recognised two exceptions to that rule. The first exception
+covers cases where a clear fraud of egregious nature is committed which vitiates the
+underlying transaction is established. The second exception covers cases where an
+irretrievable injury shall be caused to the party furnishing the bank guarantee if an
+injunction against its encashment is not granted. This position was reiterated by
+their lordships in General Electric Technical Services Co. Inc. Versus Punj Sons (P)
+Ltd. & Another, 1991 (4) SCC 230, Svenska Handelsbanken Versus M/s. Indian
+Charge Chrome and Others, 1994 (1) SCC 502 and The State Trading Corporation
+of India Ltd. Versus Jainsons Clothing Corporation and Another, AIR 1994 SC
+2778.
+15.
+
+In Larsen & Toubro Limited Versus Maharashtra State Electricity Board and
+
+Others, 1995 (6) SCC 68, the Court ruled against injunctions prohibiting
+encashment of bank guarantees unless the case fell under one of the two exceptions,
+namely, fraud and/or irretrievable injury. The court held that there should be a
+prima facie case of fraud and special equities in the form of preventing irretrievable
+injustice between the parties.
+
+Mere irretrievable injustice without prima facie
+
+cases of establishing fraud was of no consequence in restraining the encashment of
+bank guarantee, declared the Court.
+16.
+
+In UP State Sugar Corporation Versus Sumac International Ltd., 1997 (1)
+
+SCC 568, the question was once again examined by their lordships and the legal
+position reiterated upon a review of the case law on the subject.
+17.
+
+The court summed up the legal position on the subject in the following words
+
+:“The law relating to invocation of such bank guarantees is
+FAO(OS) 392/07 & 393/07
+
+page 9 of 17
+
+by now well settled. When in the course of commercial
+dealings an unconditional bank guarantee is given or
+accepted, the beneficiary is entitled to realize such a bank
+guarantee in terms thereof irrespective of any pending
+disputes. The bank giving such a guarantee is bound to
+honour it as per its terms irrespective of any dispute raised
+by its customer. The very purpose of giving such a bank
+guarantee would otherwise be defeated. The courts should,
+therefore, be slow in granting an injunction to restrain the
+realization of such a bank guarantee. The courts have
+carved out only two exceptions. A fraud in connection with
+such a bank guarantee would vitiate the very foundation of
+such a bank guarantee. Hence if there is such a fraud of
+which the beneficiary seeks to take advantage, he can be
+restrained from doing so. The second exception relates to
+cases where allowing the encashment of an unconditional
+bank guarantee would result in irretrievable harm or
+injustice to one of the parties concerned. Since in most
+cases payment of money under such a bank guarantee
+would adversely affect the bank and its customer at whose
+instance the guarantee is given, the harm or injustice
+contemplated under this head must be of such an
+exceptional and irretrievable nature as would override the
+terms of the guarantee and the adverse effect of such an
+injunction on commercial dealings in the country. The two
+grounds are not necessarily connected, though both may
+coexist in some cases. In the case of U.P. Coop. Federation
+Ltd. V. Singh Consultants and Engineers (P) Ltd. which
+was the case of a works contract where the performance
+guarantee given under the contract was sought to be
+invoked, this Court, after referring extensively to English
+and Indian cases on the subject, said that the guarantee
+must be honoured in accordance with its terms. The bank
+which gives the guarantee is not concerned in the least
+with the relations between the supplier and the customer;
+nor with the question whether the supplier has performed
+his contractual obligation or not, nor with the question
+whether the supplier is in default or not. The bank must
+pay according to the tenor of its guarantee on demand
+without proof or condition. There are only two exceptions
+to this rule. The first exception is a case when there is a
+clear fraud of which the bank has notice. The fraud must
+be of an egregious nature such as to vitiate the entire
+underlying transaction. Explaining the kind of fraud that
+may absolve a bank from honouring its guarantee, this
+Court in the above case quoted with the approval the
+observations of Sir John Donaldson, M.R. in Bolivinter Oil
+SA v. Chase Manhattan Bank (All ER at p352): (at SCC
+p.197)
+“The wholly exceptional case where an injunction
+may be granted is where it is proved that the bank knows
+that any demand for payment already made or which may
+thereafter be made will clearly be fraudulent. But the
+evidence must be clear both as to the fact of fraud and as to
+the bank’s knowledge. It would certainly not normally be
+FAO(OS) 392/07 & 393/07
+
+page 10 of 17
+
+18.
+
+sufficient that this rests on the uncorroborated statement of
+the customer, for irreparable damage can be done to a
+bank’s credit in the relatively brief time which must elapse
+between the granting of such an injunction and an
+application by the bank to have it charged” (emphasis
+supplied)
+The court explained that the fraud in order to constitute an exception
+
+justifying an injunction against encashment must be a fraud in connection with the
+bank guarantee. The High Court in that case had held that the termination of the
+contract by the appellant was contrary to the terms of the contract thereby making
+the invocation of the bank guarantee fraudulent. Their lordships of the Supreme
+Court did not approve of that line of reasoning and observed that the disputes
+between the parties relating to the termination of the contract could not make the
+invocation of the bank guarantee fraudulent. This is evident from the following
+passage:“Clearly, therefore, the existence of any dispute between the
+parties to the contract is not a ground for issuing an
+injunction to restrain the enforcement of bank guarantees.
+There must be a fraud in connection with the bank
+guarantee. In the present case we fail to see any such
+fraud. The High Court seems to have come to the
+conclusion that the termination of the contract by the
+appellant and his claim that time was of the essence of the
+contract, are not based on the terms of the contract and,
+therefore, there is a fraud in the invocation of the bank
+guarantee. This is an erroneous view. The disputes
+between the parties relating to the termination of the
+contract cannot make invocation of the bank guarantees
+fraudulent. The High Court has also referred to the
+conduct of the appellant in invoking the bank guarantees
+on an earlier occasion on 12/4/1992 and subsequently its
+withdrawing such invocation. The court has used this
+circumstance in aid of its view that the time was not of the
+essence of the contract. We fail to see how an earlier
+invocation of the bank guarantees and subsequent
+withdrawal of this invocation make the bank guarantees
+or their invocation tainted with fraud in any manner.
+Under the terms of the contract it s stipulated that the
+respondent is required to give unconditional bank
+guarantees against advance payments as also a similar
+bank guarantee for due delivery of the contracted plant
+within the stipulated period. In the absence of any fraud
+the appellant is entitled to realize the bank guarantees.”
+19.
+
+In so far as irretrievable injury is concerned, the court applied the standard
+
+FAO(OS) 392/07 & 393/07
+
+page 11 of 17
+
+laid down in Itek Corpn. Versus First National Bank of Boston, 566 Fed Supp
+1210 and held that recovery of any amount from the party demanding the
+encashment of the bank guarantee was in that case a clear possibility thereby
+taking the case out of the second exception. In Itek Corpn.’s Case (supra), absence
+of a clear possibility of recovery of the money being paid under the guarantee to the
+party who had furnished the guarantee was taken as making out a case of
+irretrievable injury. The ratio in Itek Corp's case was approved by their Lordships
+in Svenska case (supra) in which the Court had vacated the injunction against
+encashment of the bank guarantee holding that the fact situation in that case was
+not similar to Itek Corpn.’s case as once the plaintiff was able to establish fraud
+and obtain a decree for damages by diminution in price there would be no problem
+for effecting recoveries in a a friendly country where the bankers or the suppliers
+are located. The court observed :
+
+20.
+
+“The High Court was also in error in considering the
+questions of balance of convenience. In law relating to
+bank guarantees, a party seeking injunction from
+encashing of bank guarantee by the suppliers has to show
+prima facie case of established fraud and an irretrievable
+injury. Irretrievable injury is of the nature as noticed in
+the case of Itek Corpn. Here there is no such problem.
+Once the plaintiff is able to establish fraud against the
+suppliers or suppliers-cum-lenders and obtains any decree
+for damages or diminution in price, there is no problem for
+effecting recoveries in a friendly country where the bankers
+and the suppliers are located. Nothing has been pointed
+out to show that the decree passed by the Indian Courts
+could not be executable in Sweden.”
+The above legal position was reiterated by the Supreme Court in BSES Ltd.
+
+(Now Reliance Energy Ltd.) Versus Fenner India Ltd. and Another, 2006 (2) SCC
+728 where the law was summed up in the following words :“There are, however, two exceptions to this rule. The first
+is when there is a clear fraud of which the bank has notice
+and a fraud of the beneficiary from which it seeks to
+benefit. The fraud must be of an egregious nature as to
+vitiate the entire underlying transaction. The second
+exception to the general rule of non-intervention is when
+there are “special equities” in favour of injunction, such as
+when “irretrievable injury” or “irretrievable injustice”
+would occur if such an injunction were not granted. The
+FAO(OS) 392/07 & 393/07
+
+page 12 of 17
+
+21.
+
+general rule and its exceptions has been reiterated in so
+many judgments of this Court, that in U.P. State Sugar
+Corpn. v. Sumac International Ltd. (hereinafter “U.P.
+State Sugar Corpn.”) this Court, correctly declared that
+the law was “settled”.”
+It is in our opinion unnecessary to burden the judgment with any further
+
+references to decisions rendered by different courts including this court, as the legal
+position is authoritatively settled by the above decisions.
+22.
+
+The only question that arises for consideration in the light of the above legal
+
+position is whether the appellant has made out a case for issue of an injunction
+against the encashment of the bank guarantees on the ground of fraud or
+irretrievable injury and whether any special equities exist in its favour to call for an
+injunction as prayed for.
+23.
+
+In fairness to Mr. Desai, senior counsel for the appellant, we must mention
+
+that no attempt was made by him to bring his case under the first exception of the
+guarantee being vitiated by fraud.
+
+All that was argued was that since serious
+
+disputes as to the cause for the delayed execution of the work had arisen between
+the parties, the invocation of the bank guarantees would cause irreparable injury to
+the appellant. Neither in the petitions under Section 9 nor in any document or in
+the memo of appeal has any assertion been made by the appellant to the effect that
+the transactions underlying the bank guarantees or the guarantees themselves
+were vitiated by any fraud. We have in that view no hesitation in affirming the
+finding recorded by the learned single Judge that the case of the appellant did not
+fall under the first exception covering cases involving fraud. We may, while parting
+with this aspect, mention that the encashment of the bank guarantee has not been
+assailed by the appellant on the ground of any procedural failure.
+
+The bank
+
+guarantees are in any case unequivocal and unambiguous in their language and
+being independent and distinct contracts between the bank and the respondent
+beneficiary both the parties are bound by the same.
+24.
+
+That brings us to the question whether the appellant has made out a case for
+
+FAO(OS) 392/07 & 393/07
+
+page 13 of 17
+
+injunction on the ground of irretrievable injury to it and whether special equities if
+any exist to justify the intervention of the court. The very same question has been
+addressed by the learned single Judge before whom it was argued that an
+irretrievable injury would be caused to the petitioner by encashment of the bank
+guarantees as the banks would upon payment of the amount initiate recoveries
+against the petitioner thereby bringing its business to a stand still.
+25.
+
+It was also contended that the encashment of the bank guarantees would
+
+result in undue enrichment of the respondent thereby justifying interference by the
+court with the process of encashment.
+
+Both these contentions were however
+
+repelled by the learned single Judge and in our opinion rightly so. Firstly because
+the question of irretrievable injury has to be of the kind referred to in Itek Corpn.’s
+case and Svenska’s case (supra).
+
+Just because the banks would start recovery
+
+proceedings against the appellant, does not bring the case close to the fact situation
+in which the decision in Itek Corpn.’s Case (supra) was delivered.
+
+What is
+
+important is whether the appellant would have no remedy to recover the amount
+paid under the bank guarantees from the
+
+respondent
+
+beneficiary. In Itek
+
+Corpn.’s case (supra), the case of irretrievable injury was made out on account of the
+near impossibility of recovery of the amount from the beneficiary of the guarantee.
+No such case has been either pleaded or can be countenanced in the fact situation of
+this case. We say so because it is not the case of the appellant that if the arbitral
+award eventually holds the appellant entitled to recover either entirely or in part,
+the amount covered by the bank guarantees, it would be difficult, leave alone,
+impossible for the appellant to do so.
+
+The respondent beneficiary of the bank
+
+guarantees is a statutory corporation wholly financed and controlled by the
+Government of India. It is in its very nature an instrumentality of the Government
+of India.
+
+The question of amounts held payable to the appellant becoming
+
+unrecoverable for any reason does not arise qua such an agency with tremendous
+resources. Just because the appellant foresees recovery proceedings against it by
+FAO(OS) 392/07 & 393/07
+
+page 14 of 17
+
+the bank, who has furnished the bank guarantee, does not lend any support to its
+claim for injunction nor can the appellants case be equated with situations in which
+the courts have forbidden encashment on the ground of irretrievable injury.
+26.
+
+That brings us to the question whether any special equities have been
+
+established by the appellant to justify the grant of an injunction against the
+encashment of the guarantees. The burden of the case argued on behalf of the
+appellant consistently has been that the delay in the execution of the work was on
+account of hindrances at the construction site. The appellant’s version is that but
+for the hindrances it would have completed the works as it had taken the necessary
+steps for an early completion of the contracted works.
+
+That position has been
+
+disputed by the respondents on the basis of the documents placed on record
+especially the reports of the engineer. The engineer has by its letter dated 26th July,
+2006 comprehensively brought out how the hindrances at the site of construction
+have been reduced to a mere 4.5 Kms length in respect of the Package IV and 900
+metres in respect of Package V. The said letter has been referred to and extracted
+in extenso by the learned Single Judge. Also relevant are the monthly progress
+reports filed by the engineer in respect of both the packages, portions whereof have
+been noted by the learned Single Judge while recording a finding of fact that even
+when the respondents had cleared hindrances to a considerable extent, the
+petitioner could neither complete the work nor expedite its completion.
+
+These
+
+findings are, in our view, perfectly justified in the light of the material on record
+and in the absence of any allegation of mala fides against anyone connected with
+the preparation of the monthly progress reports or the supervision of the contracted
+works at site. That being so, the argument that encashment of the bank guarantees
+even when the appellant was not at fault for the delay in the execution of the works
+needs notice only to be rejected.
+
+The performance of the appellant and its
+
+deficiencies and shortcomings are summed up in the engineer’s letter dated 12th
+January, 2007, the relevant portion whereof reads as under :
+FAO(OS) 392/07 & 393/07
+
+page 15 of 17
+
+“ICT : 362 : KKK : 397
+Mr. A.V. Sinha
+Member (Technical)
+National Highway Authority of India
+G5 &6, Sector 10, Dwarka
+New Delhi-110 075
+
+12th January, 2007
+
+Subject:
+Western Transport Corridor, Tumkur – Haveri
+Construction Packate 4 : Chitradurga to Harihar Section of NH4
+in Karnakata state : Notice under clause 63.1
+Dear Sir,
+The Contract Agreement for the execution of works for
+Rehabilitation and Upgradation of Chitradurga – Haveri sectin
+(Km 207 to Km 284) in the State of Karnataka was signed on the
+16th day of January, 2002 between National Highway Authority
+of India (The Employer) and M/s. United Engineers (Malaysia) –
+Essar Projects Limited, Joint Venture (The Contractor).
+The date of commencement of works for this package was
+01/3/02 and the same had to be completed by 31/8/04. It will
+be seen that to complete the works in time an average monthly
+progress asking rate would be 3.3%. However, the contractors
+need time for mobilization and time is also lost due to bad
+weather, holidays/festivals and other reasons and therefore an
+average monthly progress asking rate of 4% was required to
+successfully complete the works in time.
+Whereas, the
+demonstrated progress of the contractor has been consistently
+much lower, as would be seen from the average monthly progress
+achieved since the year 2002. The same is given here under for
+your ready perusal.
+a). 2002- No progress
+b). 2003 – 1.1%
+c). 2004 – 1.5%
+d). 2005 – 1.45%
+e). 2006 – 1.1%
+The performance of the contractor has suffered due to the poor
+site organization, shortage of materials, lack of planning and
+professional pride to do a job well. The shortcomings and
+deficiencies of the contractor have been repeatedly brought to
+their notice during meetings at various levels and through letters.
+However, all these had little effect and contractor continued to
+perform poorly, achieving only 69.5% physical progress upto the
+end of December, 2006.
+The completion date for the works had been extended upto 31 st
+December, 2005 and further extension of time has been
+recommended upto 31st December, 2006, which is under active
+consideration of the authorities. The contractor has failed to
+show any sense of urgency to speed up the progress and complete
+the works even by the recommended extended time. Therefore,
+under the provision of clause 46.1 of the conditions of the
+contract, a notice was last served on the Contractor vide our
+FAO(OS) 392/07 & 393/07
+
+page 16 of 17
+
+letter No. ICT : 362 : KK : 10914 dated 11 December, 2006, to
+demonstrate clearly improved rate of progress within 28 (twenty
+eight) days of the receipt of the notice. It is sad that even this had
+no effect on the contract and practically hardly any works is
+being carried out. In fact the work has been virtually stopped
+and only 0.06% work has been done in last 28 days, after the
+issue of notice. Non availability of basic inputs like diesel and
+bitumen for days shows complete lack of responsibility and will
+of the contractor to fulfill his contractual obligation. As
+‘Engineer’, it is my considered view tht there is no hope of
+contractor taking appropriate steps to improve their performance.
+Having exhausted all contractually available means to make the
+contractor perform and seeing no chance of the contract works
+beign completed in near future and persistent attitude of the
+contractor to continue harping on its claims and other issues,
+action under clause 63.1 of the conditions of the contract by the
+employer is strongly recommended. (emphasis supplied)
+With regards,
+
+27.
+
+Yours truly,
+Sd/(K.K. Kapila)
+Project Director & Engineer
+CMD – ICT Pvt. Ltd.”
+In the light of the above and the finding recorded by the learned single Judge
+
+with which we entirely agree, there is no basis for holding that the encashment of
+the bank guarantees was justified or that there were any special equities in favour
+of the appellant making the encashment of the bank guarantees unjustified or
+unreasonable or onerous. There is no merit in these appeals which fail and are
+hereby dismissed with costs assessed to Rs.10000/- in each case.
+
+T.S. THAKUR, J.
+
+FEBRUARY 08, 2008
+pk
+
+FAO(OS) 392/07 & 393/07
+
+VEENA BIRBAL, J.
+
+page 17 of 17
+
+

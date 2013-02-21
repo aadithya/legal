@@ -1,0 +1,493 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
+
+Judgment delivered on: 24.08.2007
+
++
+
+ARB. P. 381/2006
+
+ORIENTAL INSURANCE COMPANY LIMITED ... Petitioner
+- versus M/S UNITECH LIMITED & ANOTHER
+
+... Respondents
+
+Advocates who appeared in this case:
+For the Petitioner
+: Mr Rajiv Tyagi with Ms Chanchal Biswal
+For the Respondents
+: Mr V.K. Sharma
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1.
+
+Whether Reporters of local papers may be allowed
+to see the judgment?
+
+YES
+
+2.
+
+To be referred to the Reporter or not?
+
+YES
+
+3.
+
+Whether the judgment should be reported in Digest?
+
+YES
+
+BADAR DURREZ AHMED, J(ORAL)
+1.
+This is an application filed under Section 11 of the
+Arbitration and Conciliation Act, 1996 (hereinafter referred to as 'the
+said Act'). The first prayer in the application is that this court ought to
+determine the arbitrability of the dispute and declare that the dispute
+with regard to denial of liability pursuant to repudiation of the insurance
+policy is outside the purview of the arbitration clause contained in the
+Contract of Insurance.
+ARB. P. 381/06
+
+The second prayer is that an arbitrator be
+Page No.1 of 15
+
+appointed on behalf of the petitioner for determination of the quantum of
+loss, if any, suffered by the respondent. The normal residual prayer has
+also been made. The question that arises at the outset is whether the
+present application is at all maintainable and whether it can be construed
+as an application under Section 11 of the said Act ?
+
+2.
+
+The parties had entered into a contract, the details of which
+
+are not necessary for the present. Clause 7 contained the arbitration
+clause which reads as under:“7.
+If any differences shall arise as to the
+quantum to be paid under this Policy (liability
+being otherwise admitted) such difference shall
+independently of all other questions be referred to
+the decision of an arbitrator, to be appointed in
+writing by the parties in difference, or if they
+cannot agree upon a single arbitrator to the
+decision of two disinterested persons as arbitrators
+of whom one shall be appointed in writing by each
+of the parties within two calendar month after
+having been required to do in writing by the other
+party in accordance with the provisions of the
+Arbitration Act 1940, as amended from time to
+time and for the time being in force. In case either
+party shall refuse to fail to appoint arbitrator within
+two calendar months after receipt of notice in
+writing requiring an appointment, the other party
+shall be at liberty to appoint sole arbitrator and in
+case of disagreement between the arbitrators, the
+difference shall be referred to the decision of an
+umpire who shall have been appointed by them in
+writing before entering on the reference and who
+ARB. P. 381/06
+
+Page No.2 of 15
+
+shall sit with the arbitrators and preside at their
+meetings.
+It is clearly agreed and understood that
+no difference or dispute shall be referrable to
+arbitration as hereinbefore provided, if the
+Company has disputed or not accepted liability
+under or in respect of this Policy.
+It is hereby expressly stipulated and
+declared that it shall be condition precedent to any
+right of action or suit upon this Policy that the
+award by the arbitrator, arbitrators or umpire of the
+amount of the loss or damage shall be first
+obtained.
+It is also hereby further expressly agreed
+and declared, that if the Company shall desclaim
+liability to the Insured for any claim hereunder and
+such claim shall not, within 3 calendar months
+from the date of such disclaimer have been made
+the subject matter of a suit in court of law, then the
+claim shall for all purposes be deemed to have been
+abandoned and shall not thereafter be recoverable
+hereunder.”
+(underlining added)
+
+The key expression used in the clause is “liability being otherwise
+admitted”.
+
+The admitted understanding of the clause is that if the
+
+insurance company admits its liability to pay, but disputes the quantum,
+then the said dispute is referable to arbitration.
+
+According to the
+
+petitioner, the liability has nowhere been admitted by the petitioner and,
+therefore, the arbitration clause is not attracted at all.
+ARB. P. 381/06
+
+Page No.3 of 15
+
+3.
+
+The facts are that on 08.11.2005, the respondent No.1
+
+(Unitech Ltd) issued a notice invoking the arbitration clause. The said
+arbitration clause was invoked in the following manner:“8.
+Clause – 7 of the policy provides that in
+the event of differences arising as to the quantum
+to be paid under the policy, such differences shall
+be referred to a decision of the arbitrator. In view
+of the contents of Clause – 7 of the policy, I on
+behalf of my client do hereby proposed the name of
+Dr. Arun Gopal Aggarwal, FICWA, SCS, SICA,
+FIMA, Ph.D., (Mobile No.:981003204), IIB-76,
+Vaishali, Ghaziabad, U.P., who may be appointed
+as the Sole Arbitrator to arbitrate upon the disputes
+that have arisen between you on one side and my
+client on the other. If you shall refuse or fail to
+concur in the appointment of Dr. Arun Gopal
+Aggarwal within two calendar months after the
+receipt of this notice then in that case Dr. Arun
+Gopal Aggarwal will become the Sole Arbitrator
+and shall act accordingly.
+9.
+You are, therefore, hereby called upon
+to concur in the appointment of Dr. Arun Gopal
+Aggarwal so that the matter in dispute can be
+referred to him for adjudication according to law.”
+
+Apparently, a reply was sent by the petitioner on 02.12.2005 saying that
+the dispute was not arbitrable and, therefore, they refused to appoint and
+/ or nominate an arbitrator. According to the learned counsel for the
+respondents, this clearly amounted to the petitioner not agreeing to the
+ARB. P. 381/06
+
+Page No.4 of 15
+
+appointment of Dr. Arun Gupal Aggarwal as an arbitrator. Therefore, as
+per the arbitration clause, the petitioner could nominate an arbitrator on
+its behalf within two months. It is submitted that the period of two
+months expired and the petitioner did not appoint / nominate any
+arbitrator on its behalf. Accordingly, the respondent No.1 sent a letter
+dated 31.01.2006 to Dr Arun Gopal Aggarwal, the arbitrator nominated
+by it, indicating that in the aforesaid circumstances he had become the
+sole arbitrator and he was requested to proceed with the matter in
+accordance with the provisions of law. The exact words used in the said
+letter are as under:“No response has been received from the Insurance
+Company despite the service of the notice above
+said upon the Insurance Company on 11th
+November, 2005 and thus 60 days or 2 months
+from the date of service have expired long back.
+Contents of notice dated 08th November, 2005 have
+thus been not disputed and are deemed to be
+admitted. Thus liability has not been disputed by
+the Insurance Company and has rather been
+admitted in the facts and circumstances of the case,
+and disputes relate to only to the quantum to be
+paid by Insurance Company to my clients.
+In the facts and circumstances narrated
+above, you have become the Sole Arbitrator in the
+matter and you are, therefore, requested to proceed
+with the matter in accordance with the provisions
+of law.”
+
+ARB. P. 381/06
+
+Page No.5 of 15
+
+4.
+
+Thereafter, on 22.04.2006, the first hearing was held before
+
+the said arbitrator. On 05.05.2006, the petitioner moved an application
+under Section 16 of the said Act before the learned arbitrator requiring
+the arbitrator to rule on his own jurisdiction. The contention of the
+petitioner in that application was that there was no arbitrable dispute and,
+therefore, the entire proceedings were without jurisdiction. During the
+pendency of the said Section 16 application, the petitioner filed the
+present petition under Section 11. This petition was filed on 17.08.2006.
+During the pendency of this petition, the arbitrator passed an order on
+26.12.2006 ruling on his own jurisdiction and indicating that he had
+jurisdiction to continue with the arbitration proceedings.
+
+5.
+
+In the context of these facts, it has been argued by the learned
+
+counsel for the petitioner that the arbitration proceedings are without any
+jurisdiction and the petitioner is well within its rights to have moved an
+application under Section 11 for a decision before this court as to the
+arbitrability of the dispute. The learned counsel for the petitioner placed
+reliance on the decision of the Supreme Court in the case of Wellington
+Associats Limited v. Kirit Mehta: 2000 (4) SCC 272. He also placed
+reliance on the decision of the Supreme Court in the case of M/s S.B.P.
+
+ARB. P. 381/06
+
+Page No.6 of 15
+
+& Co. v. M/s Patel Engineering Ltd and Another: AIR 2006 SC 450.
+Referring to these decisions, the learned counsel for the petitioner
+contended that this court, while acting under Section 11 of the said Act,
+could rule on the jurisdiction of the arbitrator as also whether a dispute
+was arbitrable or not. He submitted that this court could also rule on the
+issue of whether there existed an arbitration agreement between the
+parties or not. Specifically, the learned counsel for the petitioner placed
+reliance on Section 11 (6) (a) of the said Act.
+
+6.
+
+The learned counsel for the respondents submitted that this
+
+petition was not maintainable because Section 11 can only be invoked
+when a party seeks the appointment of an arbitrator. What the petitioner
+seeks in the present case is a declaration that there is no arbitrable
+dispute and that the arbitrator has no jurisdiction to continue with the
+arbitration proceedings. He submitted that this is not permissible under
+Section 11 of the Act which relates only to the question of appointment
+of the arbitrators.
+
+7.
+
+I have considered the arguments advanced by the counsel for
+
+the parties. The first thing that has to be seen is whether Section 11
+
+ARB. P. 381/06
+
+Page No.7 of 15
+
+provides for a petition of the nature that is in question before this court.
+The heading of Section 11 is “Appointment of Arbitrators”. Section 11
+(1) provides that any person of any nationality may be appointed as an
+arbitrator unless otherwise agreed by the parties. Sub-Section (2) of
+Section 11 provides that subject to sub-section (6), the parties are free to
+agree on a procedure for appointing the arbitrator or the arbitrators. In
+the present case, there is an arbitration clause and the same has already
+been referred to. Therefore, the parties have agreed on a procedure for
+appointing the arbitrators. Consequently, sub-section (6) of Section 11
+would become relevant. The said sub-section reads as under:“(6) Where, under an appointment procedure agreed
+upon by the parties,—
+(a)
+(b)
+
+(c)
+
+ARB. P. 381/06
+
+a party fails to act as required under that
+procedure; or
+the parties, or the two appointed
+arbitrators, fail to reach an agreement
+expected of them under that procedure; or
+a person, including an institution, fails to
+perform any function entrusted to him or it
+under that procedure, a party may request
+the Chief Justice or any person or
+institution designated by him to take the
+necessary measure, unless the agreement
+on the appointment procedure provides
+other
+means
+for
+securing
+the
+appointment.”
+
+Page No.8 of 15
+
+A plain reading of the aforesaid provision indicates that the same is
+directed towards the object of securing the appointment of an arbitrator.
+The clear meaning is that where an agreed procedure for appointment of
+an arbitrator has not been acted upon by a party, then the Chief Justice
+may be requested for taking necessary measures for securing the
+appointment of an arbitrator. The entire focus of the the provision is
+towards the object of securing the appointment of an arbitrator. Unless
+and until that is the object of an application under Section 11, the Chief
+Justice or his designate would not have jurisdiction in entertaining any
+other ancillary or related issue pertaining to arbitration. Section 5 of the
+said Act has also to be kept in mind which categorically provides that
+notwithstanding anything contained in any other law for the time being
+in force, in matters governed by Part I, no judicial authority shall
+intervene except where so provided in the said Part.
+
+8.
+
+The learned counsel for the petitioner placed strong reliance
+
+on the observations of the Supreme Court in the case of Wellington
+Associates Limited (supra) where the Supreme Court (in para 15) was of
+the view that Section 16 does not take away the jurisdiction of the Chief
+Justice of India or his designate, if need be, to decide the question of the
+
+ARB. P. 381/06
+
+Page No.9 of 15
+
+“existence” of the arbitration agreement in case such a question is raised
+by the respondent in his reply to a petition filed under Section 11. The
+learned counsel for the petitioner submitted that it can, therefore, be
+inferred that in a petition filed under Section 11, the question of
+existence of an arbitration agreement and the jurisdiction of an arbitrable
+tribunal can be gone into. He submits that it is in this context that the
+petitioner has filed the petition saying that since there was no admission
+of liability on the part of the petitioner, the dispute was not arbitrable.
+He submits that this issue can be ruled upon by this court in the present
+petition. I am unable to agree with this submission made by the learned
+counsel for the petitioner. If one carefully goes through the decision of
+the Supreme Court in the case of Wellington Associates Ltd (supra), one
+will find that what the Supreme Court has observed and held is that the
+existence of Section 16 does not debar the Chief Justice from ruling on
+the jurisdiction and / or existence of an arbitration agreement in case a
+petition under Section 11 is brought before the Chief Justice for the
+appointment of an arbitrator. As pointed out above, the question of
+jurisdiction can be gone into by the Chief Justice and adjudicated upon if
+the respondent raises the issue of existence of an arbitration agreement.
+In the present case, the respondent does not raise the issue of existence of
+
+ARB. P. 381/06
+
+Page No.10 of 15
+
+an arbitration agreement. In fact, the respondent had gone ahead and
+invoked the arbitration clause and an arbitrator has been appointed. The
+arbitrator has also ruled on his jurisdiction under Section 16 of the said
+Act. A reference can also be made to the following observation in para
+16 of the Supreme Court decision in the case of Wellington Associates
+Ltd (supra) which reads as under:“... Take a case whether the matter has gone to the
+arbitrator without the intervention of an application under
+Section 11. Obviously, if the question as to the existence
+of the arbitration clause is raised before the Arbitral
+Tribunal, it has power to decide the question. ..”
+
+In the present case, the matter had gone to the arbitrator without the
+intervention of an application under Section 11. In this context, the
+arbitrator had jurisdiction and power to decide the question of existence
+of an arbitration clause as well as of an arbitrable dispute. The learned
+arbitrator, in fact, has already decided that issue. Therefore, this court
+even in view of the observations made in Wellington Associates Limited
+(supra) would not have jurisdiction in entertaining this issue which is
+sought to be raised by the petitioner in this petition where he does not
+primarily seek the appointment of an arbitrator.
+
+ARB. P. 381/06
+
+Page No.11 of 15
+
+9.
+
+The learned counsel for the petitioner had also placed strong
+
+reliance on the decision of the Supreme Court in the case of S.B.P. &
+Company (supra) (as set out in para 38 of the said decision) where the
+Supreme Court observed as under:“38.
+It is necessary to define what exactly the
+Chief Justice, approached with an application
+under Section 11 of the Act, is to decide at that
+stage. Obviously, he has to decide his own
+jurisdiction in the sense, whether the party making
+the motion has approached the right High Court.
+He has to decide whether there is an arbitration
+agreement, as defined in the Act and whether the
+person who has made the request before him, is a
+party to such an agreement. It is necessary to
+indicate that he can also decide the question
+whether the claim was a dead one; or a long barred
+claim that was sought to be resurrected and
+whether the parties have concluded the transaction
+by recording satisfaction of their mutual rights and
+obligations or by receiving the final payment
+without objection. It may not be possible at that
+stage, to decide whether a live claim made, is one
+which comes within the purview of the arbitration
+clause. It will be appropriate to leave that question
+to be decided by the arbitral tribunal on taking
+evidence, along with the merits of the claims
+involved in the arbitration. The Chief Justice has to
+decide whether the applicant has satisfied the
+conditions for appointing an arbitrator under
+Section 11(6) of the Act. For the purpose of taking
+a decision on these aspects, the Chief Justice can
+either proceed on the basis of affidavits and the
+documents produced or take such evidence or get
+such evidence recorded, as may be necessary. We
+think that adoption of this procedure in the context
+of the Act would best serve the purpose sought to
+ARB. P. 381/06
+
+Page No.12 of 15
+
+be achieved by the Act of expediting the process of
+arbitration, without too many approaches to the
+court at various stages of the proceedings before
+the Arbitral tribunal.”
+
+The learned counsel for the petitioner also placed reliance on the
+summary conclusion given in para 46 (iv) of the said decision which
+reads as under:(iv) The Chief Justice or the designated judge will
+have the right to decide the preliminary aspects as
+indicated in the earlier part of this judgment. These
+will be, his own jurisdiction, to entertain the
+request, the existence of a valid arbitration
+agreement, the existence or otherwise of a live
+claim, the existence of the condition for the
+exercise of his power and on the qualifications of
+the arbitrator or arbitrators. The Chief Justice or the
+judge designated would be entitled to seek the
+opinion of an institution in the matter of
+nominating an arbitrator qualified in terms of
+Section 11(8) of the Act if the need arises but the
+order appointing the arbitrator could only be that of
+the Chief Justice or the judge designate.”
+
+10.
+
+Reading the above observations of the Supreme Court, it is
+
+clear that once a party approaches the Chief Justice with a request for
+appointment of an arbitrator or arbitrators, then it would be within the
+powers of the Chief Justice or his designate to even examine the
+existence of an arbitration agreement, whether the claim is time barred,
+
+ARB. P. 381/06
+
+Page No.13 of 15
+
+whether the claim is a dead one and other related issues. Specifically, it
+is pointed out in para 38 extracted above that the Chief Justice has to
+decide whether the applicant has satisfied the conditions for appointment
+of an arbitrator under Section 11 (6) of the Act. The whole thrust of the
+provision as well as of the decision of the Supreme court is directed
+towards the appointment of an arbitrator and not the other way round.
+The petitioner here does not seek the appointment of an arbitrator, but, in
+essence, seeks a declaration from this court that there exists no arbitrable
+dispute between the parties. Therefore, what the petitioner is seeking is
+that this court should decide and declare that no arbitration is possible
+because there is no arbitrable dispute. If that were to be the case, then
+there would be no question of appointment of any arbitrator. The whole
+thrust of Section 11 is with regard to the appointment of an arbitrator.
+What the petitioner is seeking would run counter to the very object of
+Section 11 and, therefore, that cannot be permitted.
+
+11.
+
+In view of the aforesaid, this petition is not maintainable. The
+
+same is dismissed.
+BADAR DURREZ AHMED
+(JUDGE)
+August 24, 2007
+ARB. P. 381/06
+
+Page No.14 of 15
+
+δυττ
+
+ARB. P. 381/06
+
+Page No.15 of 15
+
+

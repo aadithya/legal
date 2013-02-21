@@ -1,0 +1,249 @@
+*
+
+REPORTED
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+FAO(OS) 113/2008
+SWATCH LIMITED
+
+..... Appellant
+Through: Mr.Suhail Dutt and Mr.Digvijay Kumar,
+Advocates.
+
+Versus
+
+PRIYA EXHIBITORS PRIVATE LIMITED
+Through: None
+
+..... Respondent
+
+CORAM:
+HON'BLE THE CHIEF JUSTICE
+HON'BLE MS. JUSTICE REVA KHETRAPAL
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment?
+
+2.
+
+To be referred to the Reporter or not?
+
+3.
+
+Whether judgment should be reported in Digest?
+
+%
+:
+
+JUDGMENT
+07.03.2008
+DR. MUKUNDAKAM SHARMA, CJ. (ORAL)
+
+1.
+
+This appeal is directed against the order dated 20 December, 2007 whereby
+
+th
+
+the learned Single Judge, relying on the relevant provisions by which the parties are
+governed and which have a binding effect on them, dismissed the suit filed by the
+appellant on the ground that Courts at Delhi will have no jurisdiction to decide the
+present matter. The relevant provisions as appear in the letter dated 1.07.2003, are
+reproduced below for reference:“The legal effect of all dealings between the parties is to be
+interpreted according to the internal laws of Switzerland. Without
+limiting the generality of the foregoing, the parties expressly exclude the
+applicability of the United Nations Convention on Contracts for the
+International Sale of Goods of April, 11, 1980.
+FAO(OS) 113/2008
+
+Page 1 of 5
+
+All disputes and controversies arising between the parties are to
+be submitted for determination exclusively to the Courts of the Canton
+of Bern in Switzerland. Notwithstanding the foregoing, Swatch Ltd. may
+at is option seek interim and permanent injunctive relief before any
+Court or like judicial instance, which in the absence of the foregoing
+provision, would have jurisdiction to grant the relief sought”.
+2.
+
+The learned Single Judge has held that though the appellant/plaintiff reserved
+
+its rights to invoke jurisdiction of the Swiss Court and the application of Swiss laws
+but it also kept an option with it to seek interim and permanent injunctive relief before
+any Court, which in the absence of the provisions extracted above, would have
+jurisdiction to grant the relief. It is also required to be mentioned at this stage that even
+in the subsequent letters dated 18.7.2003, 25.7.2003 and 31.7.2003, these two
+paragraphs have been repeated in verbatim. The expression used by the
+appellant/plaintiff in the said clauses, according to the learned Single Judge, were in
+the nature of ouster clause. It was held that Delhi Courts would have no jurisdiction to
+decide the aforesaid suit. While coming to the aforesaid conclusion, the learned Single
+th
+
+Judge referred to the provisions of Halsbury’s Laws of India, 10 Edition, particularly
+paragraphs 75.237 and 75.238. Reference was also made to the decision of the
+Hon’ble Supreme Court in British India Steam Navitation Co.Ltd. Vs.
+Shanmughavilas Cashew Industries and Others (1990) 3 Supreme Court Cases 481.
+The following passage from British India Steam Navigation Co. Ltd. (supra) would
+have relevance and, therefore, the same is extracted below for proper interpretation of
+the provisions relevant for the purpose of deciding this case.
+“28. Clause 3 of the bills of lading also contains the selection of law
+made by the parties. The contract is governed by English law and
+disputes are to be determined according to English law. Is the selection
+of law binding? In Cheshire and North’s Private International Law
+th
+(11 edn., page 495), while discussing about the interpretation of
+
+FAO(OS) 113/2008
+
+Page 2 of 5
+
+contract the authors say: “When the stage has been reached where an
+obligation, formally and essentially valid and binding on parties of full
+capacity, has been created, then in the further matters that may require
+the intervention of the court, there is, speaking generally, no reason in
+principle why the parties should not be free to select the governing
+law.” The express choice of law made by parties obviates need for
+interpretation.
+29. In the absence of an express choice the question of the proper law
+of contract would arise. The parties to a contract should be bound by
+the jurisdiction clause to which they have agreed unless there is some
+strong reason to the contrary.
+30. Dicey and Morris in the Conflict of Laws formulate the following
+rule on proper law of contract as Rule 180:
+“Rule 180: The term “proper law of a contract” means the
+system of law by which the parties intended the contract to be
+governed, or, where their intention is neither expressed nor to be
+inferred from the circumstances, the system of law with which the
+transaction has its closest and most real connection.
+Sub-rule 1: When the intention of the parties to a contract, as to
+the law governing the contract, is expressed in words, this
+expressed intention, in general, determines the proper law of the
+contract.
+Sub-rule 2: When the intention of the parties to a contract with
+regard to the law governing the contract is not expressed in
+words, their intention is to be inferred from the terms and nature
+of the contract and from the general circumstances of the case,
+and such inferred intention determines the proper law of the
+contract.”
+There can, therefore, be no doubt that the instant contract of
+affreightment evidenced by the bills of lading will be governed by
+English law. As the law has been chosen, the proper law will be the
+domestic law of England and the proper law must be the law at the
+time when the contract is made throughout the life of the contract and
+there cannot be a “floating” proper law. It has been recognized since
+Gienar v. Meyer that at the time of making the contract the parties may
+expressly select the law by which it is to be governed and they may
+declare their common intention by a simple statement that the contract
+shall be governed by the law of a particular country. This has been
+settled by a long line of decisions, as Rex v. International Trustee for
+the Protection of Bondholders AG, Vita Food Products Inc v. Unus
+Shipping Co. Ltd., James Miller and Partners Ltd. v. Whitworth Street
+
+FAO(OS) 113/2008
+
+Page 3 of 5
+
+Estates (Manchester) Ltd., Mackender v. Feldia AG, Compagine
+d’Armement Maritime SA v. Compagnie Tunisienne de Navigation SA,
+Acrow (Automation) Ltd. v. Rex Chainbelt Inc”.
+3.
+
+The decision of the Supreme Court in A.B.C. Laminart Pvt. Ltd. and Anr. Vs.
+
+A.P.Agencies, Salem, AIR 1989 Supreme Court 1239, would have direct relevance
+and, therefore, relevant portion is being extracted below.
+
+“18……………….Thus, it is now a settled principle that where there
+may be two or more competent Courts which can entertain a suit
+consequent upon a part of the cause of action having arisen therewith,
+if the parties to the contract agreed to vest jurisdiction in one such
+court to try the dispute which might arise as between themselves the
+agreement would be valid. If such a contract is clear, unambiguous and
+explicit and not vague it is not hit by Ss.23 and 28 of the Contract Act.
+This cannot be understood as parties contracting against the Statute.
+Mercantile Law and practice permit such agreements.
+21. From the foregoing decisions it can be reasonably deduced that
+where such an ouster clause occurs, it is pertinent to see whether there
+is ouster of jurisdiction of other Courts. When the clause is clear,
+unambiguous and specific accepted notions of contract would bind the
+parties and unless the absence of ad idem can be shown, the other
+Courts should avoid exercising jurisdiction. As regards construction of
+the ouster clause when words like ‘alone’, ‘only’, ‘exclusive’, and the
+like have been used there may be no difficulty. Even without such
+words in appropriate cases the maxim ‘expressio unius est exclusio
+alterius’ – expression of one is the exclusion of another may be
+applied. What is an appropriate case shall depend on the facts of the
+case. In such a case mention of one thing may imply exclusion of
+another. When certain jurisdiction is specified in a contract an
+intention to exclude all others from its operation may in such cases be
+inferred. It has therefore to be properly construed”
+4.
+
+A bare perusal of the aforesaid relevant clause in letters dated 11.07.2003,
+
+18.07.2003,
+
+25.07.2003
+
+and
+
+31.07.2003
+
+would
+
+disclose
+
+that
+
+what
+
+the
+
+plaintiff/appellant desired by incorporating the aforesaid provision was to stipulate
+that a particular court would have jurisdiction to decide the dispute arising between the
+parties. The aforesaid clause uses the expression “exclusively to the Courts of the
+
+FAO(OS) 113/2008
+
+Page 4 of 5
+
+Canton of Bern in Switzerland”, which appears to us to be the ouster clause in respect
+of all other courts. In paragraph-21 of the judgment in A.B.C. Laminart Pvt. Ltd.
+(supra),
+
+the Hon’ble Supreme Court has categorically and clearly stated that as
+
+regards construction of the ouster clause, when words like ‘alone’, ‘only’, ‘exclusive’,
+and the like have been used there may be no difficulty. Since the aforesaid clause
+which is relied upon also has an expression which exclusively vests the territorial
+jurisdiction on the Bern Court, the jurisdiction of all other courts is ousted and,
+therefore, the learned Single Judge was justified in coming to the aforesaid conclusion.
+5.
+
+So far as the subsequent expression in the said clause is concerned, that was
+
+applicable only when there is not a clause of the aforesaid nature governing the terms
+and conditions of the agreement between the parties and only in that event it was
+possible for the appellant/plaintiff to ask for interim order from any other court. The
+contention of the counsel appearing for the appellant is that the defendant/respondent
+has waived the objection. In our considered opinion, the same is not the case here, for
+if jurisdiction by the act of parties is vested in a particular Court, there cannot be any
+waiver so far that jurisdiction is concerned.
+6.
+
+We find no merit in this appeal and the same is accordingly dismissed.
+
+CHIEF JUSTICE
+
+REVA KHETRAPAL, J
+MARCH 07, 2008
+dc
+
+FAO(OS) 113/2008
+
+Page 5 of 5
+
+

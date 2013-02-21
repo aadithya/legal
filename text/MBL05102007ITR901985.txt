@@ -1,0 +1,480 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITR No. 90 of 1985
+Judgment reserved on: September 19, 2007
+
+%
+
+Judgment delivered on: October 05, 2007
+Jay Engineering Works Ltd.
+New Delhi.
+Through
+
+...Appellant
+Mr.Santosh K. Aggarwal, Advocate
+
+Versus
+Commissioner of Income Tax
+Delhi-III, New Delhi.
+Through
+
+...Respondent
+
+Mrs. P.L. Bansal, Advocate
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S. MURALIDHAR
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+MADAN B. LOKUR, J.
+At the instance of the Assessee, the following questions have
+
+ITR No.90/1985
+
+Page 1 of 14
+
+been referred for our opinion under Section 256(1) of the Income Tax
+Act, 1961 (for short the Act) in respect of the assessment year 1979-80:
+1.
+Whether on the facts and in the circumstances of
+the case and in law the Tribunal was justified in holding
+that the pre-operative expenditure of Fuel Injection
+Equipment Project amounting to Rs.20,14,158/- was a
+capital expenditure?
+2.
+Whether on the facts and circumstances of the
+case, Tribunal was right in deleting the addition of
+Rs.41,666/- on the ground that the same was not
+disallowable u/s 37(3) read with rule 6B?
+
+2.
+
+With regard to the second question, the tax effect of the
+
+amount in question is quite inconsequential and, therefore, we decline to
+answer this question and return the reference unanswered.
+
+3.
+
+The first question is really the only substantive question that
+
+would require our consideration.
+
+4.
+
+The Assessee is a company which manufactures fans and
+
+sewing machines at various units, including in Hyderabad.
+
+The
+
+Assessee decided to expand its activities and, therefore, undertook a
+
+ITR No.90/1985
+
+Page 2 of 14
+
+Fuel Injection Equipment Project (for short the Project) in Hyderabad.
+In respect of this Project, the Assessee incurred an expenditure of
+Rs.1.56 crores out of which it spent Rs.1.35 crores towards acquisition
+of plant and machinery. This amount is not in dispute. The balance
+amount consisting of Rs.20,41,158/- is in dispute and the break up of
+this amount is as follows: -
+
+Particulars
+1. Testing Charges
+
+Amounts/Rs.
+51,021
+
+2. Interest/Commitment Charges
+
+7,39,019
+
+3. Bank Commission
+
+2,82,944
+
+4. L.C. Opening
+
+88,461
+
+5. Salary/Perquisites/Motor Car upkeep
+
+1,16,254
+
+6. Foreign Travelling
+
+6,25,304
+
+7. Consultants Fees
+
+1,09,000
+
+8. Miscellaneous Expenses
+–
+–
+–
+
+–
+
+ITR No.90/1985
+
+Travelling Charges of IFCI
+Stamp – ICICI
+Consultancy fees to Dev Sons for
+existing Machines
+Interview Charges
+Total
+
+457
+45
+1,050
+27,603
+20,41,158
+
+Page 3 of 14
+
+5.
+
+According to the Inspecting Assistant Commissioner (the
+
+Assessing Officer) the above expenditure is in the nature of expenses
+incurred in connection with the setting up of a new line of business and,
+therefore, it should have been capitalized. In other words, the Assessing
+Officer rejected the contention of the Assessee that the expenditure
+incurred was revenue in nature.
+
+The view taken by the Assessing
+
+Officer was upheld by the Commissioner of Income Tax (Appeals) as
+well as by the Income Tax Appellate Tribunal (for short the Tribunal).
+
+6.
+
+During the course of hearing, neither learned counsel
+
+required us to go into each item of expenditure which aggregate to the
+sum of Rs.20,41,158/-. Indeed, we do not think it necessary to do so
+because there is broad agreement that the said items of expenditure are
+pre-operative in relation to the Project and the only question that is
+required to be decided is whether the expenditure falls in the category of
+revenue expenditure or in the category of capital expenditure.
+
+7.
+
+Among the decisions cited, the first was India Cements Ltd.
+
+v. Commissioner of Income Tax, Madras, [1966] 60 ITR 52. In this
+
+ITR No.90/1985
+
+Page 4 of 14
+
+decision, a large number of cases have been referred to by the Supreme
+Court and two important conclusions flow out from a reading of this
+decision. The first is that the law as contained in the English Income
+Tax Act has no relevance to cases arising under the Indian Income Tax
+Act. This is of some importance because the Tribunal, while deciding
+against the Assessee, has relied upon Atherton v. British Insulated and
+Helsby Cables Ltd., (1925) 10 Tax Cases 155. The second important
+conclusion is the approval of the law laid down by the Supreme Court in
+its earlier decision in Bombay Steam Navigation Co. Ltd. v.
+Commissioner of Income Tax, [1965] 56 ITR 52 wherein it was
+observed as follows: “Whether a particular expenditure is revenue expenditure
+incurred for the purpose of business must be determined on
+a consideration of all the facts and circumstances, and by
+the application of principles of commercial trading. The
+question must be viewed in the larger context of business
+necessity or expediency. If the outgoing or expenditure is
+so related to the carrying on or conduct of the business, that
+it may be regarded as an integral part of the profit-earning
+process and not for acquisition of an asset or a right of a
+permanent character, the possession of which is a condition
+of the carrying on of the business, the expenditure may be
+regarded as revenue expenditure.”
+
+8.
+
+Keeping the above conclusions in mind, learned counsel took
+
+ITR No.90/1985
+
+Page 5 of 14
+
+us through several other decisions rendered by various Courts including
+this Court.
+
+9.
+
+In Prem Spinning and Weaving Mills Company Ltd. v.
+
+Commissioner of Income Tax, U.P., [1975] 98 ITR 20, the assessee
+was a limited company running a spinning and weaving mill as well as a
+new project of straw-board manufacturing factory. The question before
+the Court was whether the expenditure incurred for the new venture was
+a revenue expenditure or not. The Allahabad High Court noted that
+control over the existing spinning mill as well as the new project of
+straw-board manufacturing factory was in the hands of the assessee and
+it was effectively one establishment controlling both the units. The
+business of the two units were interconnected; the profit and loss
+account of the company embraced the business of the straw-board
+manufacturing factory and the balance sheet represented the financial
+picture of the company after taking into consideration the affairs of both
+the units.
+
+Relying upon Produce Exchange Corporation Ltd. v.
+
+Commissioner of Income Tax, [1970] 77 ITR 739, it was held that
+unity of control is a decisive test and not the nature of the two lines of
+
+ITR No.90/1985
+
+Page 6 of 14
+
+business.
+
+It was further held that if the management, the trading
+
+organization, the administration, the funds and the place of business
+were common, then it cannot be said that the two ventures are two
+different businesses carried on by the same company.
+
+10.
+
+In Commissioner of Income Tax, Gujarat II v. Alembic
+
+Glass Industries Ltd., [1976] 103 ITR 715, the assessee was a company
+manufacturing glass at Baroda. The assessee desired to set up a new
+glass manufacturing unit in Bangalore and the question that arose was
+whether the amount spent for the undertaking in Bangalore should be
+taken on the revenue account or on the capital account. The Gujarat
+High Court took into consideration the fact that the business
+organization, administration and fund of both the units of the assessee
+are common; there was, therefore, complete interconnection, interlacing
+and interdependence between the two units. The fact that the Bangalore
+unit is many miles away from Baroda was of no consequence since the
+head office at Baroda controlled the affairs of both the units.
+
+11.
+
+Commissioner of Income Tax v. Expanded Metal
+
+ITR No.90/1985
+
+Page 7 of 14
+
+Manufacturers, [1991] 189 ITR 317 was a case in which the assessee
+was engaged in the business of expanding of iron metal by a mechanical
+process and its supply. It started a new business of manufacturing of
+rubber products. Relying upon Prem Spinning and Weaving Mills
+Company Ltd., it was held that the expenditure incurred for setting up a
+unit for the manufacture of rubber products was a revenue expenditure.
+
+12.
+
+In Commissioner of Income Tax v. Modi Industries Ltd.
+
+(No.3), [1993] 200 ITR 341 the supplementary factors earlier laid down
+were reiterated viz. whether the management of the new business and
+the earlier business is the same and whether there is also unity of control
+and a common fund. The assessee in this case was engaged in the
+manufacture of various commodities like sugar, vanaspati, soaps, paints
+and varnish, torch and lantern and it was intending to diversify its
+activities by manufacturing a new commodity, that is, special alloy wire
+and billets. Based on the finding that the new business and the earlier
+business is the same, in a broad sense namely that the activity is of
+manufacture and that there is unity of control and a common fund, it was
+held that the business of manufacture of special alloy wire and billets
+
+ITR No.90/1985
+
+Page 8 of 14
+
+was an extension of the existing business and not a new business.
+Consequently, the expenditure incurred was held to be a revenue
+expenditure.
+
+13.
+
+Finally, in Veecumsees v. Commissioner of Income Tax,
+
+[1996] 220 ITR 185 (SC), the assessee ran a jewellery business and then
+commenced business in the exhibition of cinematographic films. The
+assessee obtained loans for building a cinema theater and the question
+was whether the interest payable on the loans borrowed for the new
+business was a revenue expenditure or not. While answering the
+question in favour of the assessee, the Supreme Court found that the two
+businesses were composite in the sense that there was interconnection,
+interlacing or interdependence between the jewellery business and the
+cinema business.
+
+14.
+
+On an appreciation of the law laid down by the various
+
+decisions referred to above, it is clear that the nature of the new business
+is not a decisive test for determining whether or not there is an
+expansion of an existing business. The nature of the business could be
+
+ITR No.90/1985
+
+Page 9 of 14
+
+as distinct as a jewellery business and a business of cinematographic
+films; it could be as different as manufacture of metal alloys and
+manufacture of rubber products.
+
+What is of importance is that the
+
+control of both the ventures, the existing venture as well as the new
+venture, must be in the hands of one establishment or management or
+administration. The place of business of the existing business and the
+new business may not be in close proximity – it could be as far apart as
+Baroda and Bangalore. However, the funds utilised for the management
+of both the concerns must be common as reflected in the balance sheet
+of the company.
+
+15.
+
+In other words, there may be several permutations and
+
+combinations that may arise for determining whether the expenditure is
+revenue or capital and each case must, of course, be dealt with on the
+broad principles that have been accepted by the Courts as are mentioned
+above.
+
+16.
+
+Applying these principles to the present case, it is quite clear
+
+to us that the control over the two units is in the hands of the same
+
+ITR No.90/1985
+
+Page 10 of 14
+
+management and administration. There is no doubt on this score and in
+fact, the annual report of the Assessee, which has been shown to us by
+learned counsel, makes a reference to the Project at Hyderabad. There
+can be no dispute from the facts that have been placed before us on
+record that the new venture was managed from common funds and there
+is the necessary unity of control leading to an interconnection,
+interdependence and interlacing of the two ventures such that it can be
+said that the fuel injection equipment project is only an extension of the
+existing business of the Assessee and, therefore, the expenditure
+incurred by the Assessee on this Project is a revenue expenditure.
+
+17.
+
+Learned counsel for the Revenue relied upon Challapalli
+
+Sugars Ltd. v. Commissioner of Income Tax, A.P., [1975] 98 ITR 167
+to contend that the expenditure incurred by the Assessee, as mentioned
+above, is a part of the actual cost of its assets and, therefore, this amount
+needs to be capitalized and added to the cost of the fixed assets of the
+Assessee.
+
+18.
+
+There can, of course, be no quarrel with the proposition laid
+
+ITR No.90/1985
+
+Page 11 of 14
+
+down by the Supreme Court in Challapalli Sugars Ltd. but the facts of
+that case are completely distinguishable in as much as that decision did
+not concern itself with an extension of an existing business but
+concerned itself with the setting up of a new business altogether. In
+fact, the Supreme Court distinguished the decision in India Cements
+Ltd. by observing that in India Cements Ltd. the assessee at the time
+when it raised the loan was a running concern. In Challapalli Sugars
+Ltd., the case of the assessee was that it had borrowed considerable
+sums of money for the installation of machinery and plant and that the
+interest should be added to the cost of plant and machinery. As such,
+while calculating depreciation admissible, the interest paid should be
+treated as a part of the cost of the machinery and plant to the assessee.
+The Income Tax Officer rejected the claim of the assessee and held that
+interest was an admissible item of revenue expenditure and no
+depreciation could be claimed thereon.
+
+The argument advanced on
+
+behalf of the assessee and which was accepted by the Supreme Court
+was that the interest for the period before the commencement of
+production (on money borrowed for the purposes of acquiring and
+installing the machinery and plant) should be included in the actual cost
+
+ITR No.90/1985
+
+Page 12 of 14
+
+of the plant and as such capitalized for the purpose.
+
+19.
+
+We are of the view that the decision in Challapalli Sugars
+
+Ltd. is clearly inapplicable to the facts of the present case. On the other
+hand, the law laid down by the Supreme Court in India Cements Ltd.
+would be applicable.
+
+20.
+
+Learned counsel for the Assessee also relied upon E.I.D.
+
+Parry (India) Ltd. v. Commissioner of Income Tax, [2002] 257 ITR
+253 to contend that the Assessee cannot convert capital expenditure into
+revenue expenditure. We are unable to appreciate the relevance of this
+decision. The Assessee has shown the cost of acquisition of plant and
+machinery amounting to Rs.1.35 crores as capital expenditure. It is only
+an amount of Rs.20,41,158/- that has been claimed as revenue
+expenditure and there is no question of converting capital expenditure
+into revenue expenditure.
+
+21.
+
+Under the circumstances, we answer the question referred to
+
+us in the negative, in favour of the Assessee and against the Revenue.
+
+ITR No.90/1985
+
+Page 13 of 14
+
+The reference is disposed of accordingly.
+
+Madan B. Lokur, J
+
+October 05, 2007
+kapil
+
+S. Muralidhar, J
+
+Certified that the corrected copy of
+the judgment has been transmitted
+in the main Server.
+
+ITR No.90/1985
+
+Page 14 of 14
+
+

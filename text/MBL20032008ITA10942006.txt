@@ -1,0 +1,358 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. of 1094/2006
+
+Judgment reserved on: March 12 , 2008
+%
+
+Judgment delivered on: March 20, 2008
+
+Commissioner of Income Tax,
+Delhi-IV, New Delhi.
+Through
+
+…Appellant
+Mrs. P.L. Bansal, Adv.
+
+Versus
+M/s Eicher Limited,
+(Previously Royal Enfield Motors Ltd.)
+12, Commercial Complex,
+Masjid Moth,
+G.K.-II,
+New Delhi-110048.
+…Respondent
+Through
+Mr. Ajay Vohra with Ms. Kavita
+Jha, Advs.
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.1094/2006
+
+Page 1 of 10
+
+MADAN B. LOKUR, J.
+1.
+
+The Revenue is aggrieved by an order dated 9th December, 2005
+
+passed by the Income Tax Appellate Tribunal, Delhi Bench “F”, New
+Delhi (the Tribunal) in ITA No.2881/Del/2001 relevant for the
+Assessment Year 1995-96.
+
+2.
+
+A full time employee of the Assessee called Vishwanathan had
+
+acquired, during the course of his employment, specialized knowledge of
+technology in the two-wheeler industry as well as of managing the
+dealership of the market place and other specialized knowledge relating
+to the two-wheeler business. Vishwanathan entered into an agreement
+with a company called VCPL to the effect that he would promote VCPL
+and collaborate with it to set up manufacturing facilities for twowheelers upon his retirement from the Assessee.
+
+3.
+
+On coming to know of this, the Assessee negotiated a “non-
+
+compete agreement” with VCPL and Vishwanathan whereby the
+Assessee paid a sum of Rs.4 crores to VCPL so that VCPL and
+Vishwanathan would not carry out any business activity with regard to
+two wheelers.
+ITA No.1094/2006
+
+The Assessee claimed this amount as a business
+Page 2 of 10
+
+expenditure but it was disallowed by the Assessing Officer.
+
+4.
+
+Feeling aggrieved, the Assessee preferred an appeal, which was
+
+heard by the Commissioner of Income Tax (Appeals) [`CIT (A)‟], who
+set aside the assessment order and held that the expenditure incurred was
+a business expenditure.
+
+The Revenue then preferred a second appeal,
+
+which was dismissed by the Tribunal and that is how the Revenue is
+before us under Section 260A of the Income Tax Act, 1961.
+
+5.
+
+At the outset, it is important to appreciate that we are dealing with
+
+a case where payment is made by the Assessee towards non-compete
+fees or pursuant to a restrictive covenant. The question is: Is this a
+business expenditure or is it a capital expenditure?
+
+6.
+
+According to the Revenue, the payment of an amount of Rs.4
+
+crores as non-compete fee is not allowable as a business expenditure.
+There is nothing to show how the Assessee‟s business would be
+adversely affected if VCPL and Vishwanathan had a tie up. It is also
+submitted that there is nothing to show how long VCPL and
+Vishwanathan would not concern themselves with the two wheeler
+ITA No.1094/2006
+
+Page 3 of 10
+
+business to the advantage of the Assessee. As such, it is submitted that
+the payment made to Vishwanathan cannot be treated as a business
+expenditure.
+
+7.
+
+These contentions were dealt with both by the CIT (A) as well as
+
+by the Tribunal. The undisputed fact is that the payment of Rs. 4 crores
+is to restrain or prevent VCPL and Vishwanathan from becoming
+potential business rivals of the Assessee. The payment is to protect the
+Assessee‟s business interests, its market position and profitability. No
+new asset is created thereby nor is the Assessee‟s profit making
+apparatus expanded or increased. The Assessee does not suffer any loss
+or diminution or erosion in its capital assets. On these conclusions, the
+CIT (A) and the Tribunal decided that the payment was allowable as a
+business expenditure and that it was not a capital expenditure.
+
+8.
+
+The submissions made by learned counsel for the Revenue before
+
+us are to the same effect and we are of the opinion that there is no
+substantial reason for us to depart from the concurrent view already
+taken by the CIT (A) and the Tribunal.
+
+ITA No.1094/2006
+
+Page 4 of 10
+
+9.
+
+Learned counsel for the Revenue relied upon Neel Kamal Talkies
+
+v. Commissioner of Income Tax, [1973] 87 ITR 691. In that case, an
+agreement was entered into between the assessee and M/s Prakash
+Talkies Distributors. In terms of the agreement, M/s Prakash Talkies
+Distributors was prohibited from exhibiting any films at Virendra
+Talkies for a period of five years.
+
+Relying upon several decisions
+
+including Assam Bengal Cement Co. v. Commissioner of Income Tax,
+[1955] 27 ITR 34, the Allahabad High Court held that the amount paid
+by the assessee to M/s Prakash Talkies Distributors was in the nature of
+capital expenditure since it completely eliminated competition.
+
+10.
+
+Learned counsel for the Assessee pointed out, and we think
+
+rightly, that the length of time for which the competition was eliminated
+was important in the facts of that case, but that is not always so. What is
+more necessary to appreciate is the purpose of the payment and its
+intended object and effect. In Commissioner of Income Tax v. Coal
+Shipments P. Ltd., [1971] 82 ITR 902, the Supreme Court noted the
+contention of the Revenue to the effect that payments made to eliminate
+competition were capital expenditure. Rejecting this contention, it was
+held on page 909 of the Report as follows:
+ITA No.1094/2006
+
+Page 5 of 10
+
+“The case which has been set up on behalf of the revenue is
+that, as the object of making the payments in question was to
+eliminate competition of a rival exporter, the benefit which
+enured to the respondent was of an enduring nature and, as
+such, the payment should be treated as capital expenditure.
+We find ourselves unable to accede to this contention because
+we find that the arrangement between the respondent and
+M/s. H.V. Lowe & Co. Ltd. was not for any fixed term but
+could be terminated at any time at the volition of any of the
+parties. Although an enduring benefit need not be of an everlasting character, it should not, at the same time, be so
+transitory and ephemeral that it can be terminated at any time
+at the volition of any of the parties. Any other view would
+have the effect of rendering the word “enduring” to be
+meaningless. No cogent ground or valid reason has been
+given to us in support of the contention that, even though the
+benefit from the arrangement to the respondent may not be of
+a permanent or enduring nature, the payments made in
+pursuance of that arrangement would still be capital
+expenditure.”
+
+11.
+
+Dealing with the contention that eliminating competition over
+
+some length of time is important, the Supreme Court held as follows:
+“Although we agree that payment made to ward off
+competition in business to a rival dealer would constitute
+capital expenditure if the object of making that payment is to
+derive an advantage by eliminating the competition over
+some length of time, the same result would not follow if there
+is no certainty of the duration of the advantage and the same
+can be put to an end at any time. How long the period of
+contemplated advantage should be in order to constitute
+enduring benefit would depend upon the circumstances and
+the facts of each individual case.”
+
+ITA No.1094/2006
+
+Page 6 of 10
+
+12.
+
+It is quite clear from the above that to decide whether an
+
+expenditure of this nature is a capital expenditure or not would depend
+on the facts of the case. However, it is necessary to know whether the
+advantage derived by the payer is of an enduring nature, and for this one
+of the considerations is the length of time for which the non-compete
+agreement would operate – although that is not decisive. While the
+length of time for which competition is eliminated may not strictly be
+decisive in all cases, yet, at the same time, it should not be so brief as to
+virtually be transitory.
+
+13.
+
+In Commissioner of Income Tax v. Late G.D. Naidu, [1987] 165
+
+ITR 63, compensation paid to the assessee was referable to a restrictive
+covenant in an agreement between the assessee and another party. The
+question that arose was whether the amount was a capital expenditure or
+not. The Supreme Court held that in so far as the assessee is concerned,
+he did not acquire any separate business nor was any competition
+eliminated by such an acquisition. Since there was no acquisition of any
+business by payment of the amount referable to the restrictive covenant
+and no benefit of an enduring nature was acquired, the Tribunal was
+correct in holding that the payment could only be treated as revenue
+ITA No.1094/2006
+
+Page 7 of 10
+
+outlay and not capital in nature.
+
+14.
+
+In Alembic Chemical Works Co. Ltd. v. Commissioner of Income
+
+Tax, [1989] 177 ITR 377, the Supreme Court observed as follows:
+“There is also no single definitive criterion which, by itself, is
+determinative as to whether a particular outlay is capital or
+revenue. What is relevant is the purpose of the outlay and its
+intended object and effect, considered in a common sense
+way having regard to the business realities. In a given case,
+the test of „enduring benefit‟ might break down.”
+
+15.
+
+In Commissioner of Income Tax v. Madras Auto Service (P)
+
+Ltd., [1998] 233 ITR 468, the Supreme Court referred to Assam Bengal
+Cement Co. Ltd. and summarized the tests for determining whether an
+outlay is revenue or capital by giving the following three principles:
+“1. Outlay is deemed to be capital when it is made for the
+initiation of a business, for extension of a business, or for a
+substantial replacement of equipment.
+2.
+Expenditure may be treated as properly attributable to
+capital when it is made not only once and for all, but with a view
+to bringing into existence an asset or an advantage for the
+enduring benefit of a trade. … If what is got rid of by a lump sum
+payment is an annual business expense chargeable against
+revenue, the lump sum payment should equally be regarded as a
+business expense, but if the lump sum payment brings in a capital
+asset, then that puts the business on another footing altogether.
+3.
+Whether for the purpose of the expenditure, any capital was
+withdrawn, or, in other words, whether the object of incurring the
+ITA No.1094/2006
+
+Page 8 of 10
+
+expenditure was to employ what was taken in as capital of the
+business. Again, it is to be seen whether the expenditure incurred
+was part of the fixed capital of the business or part of its
+circulating capital.” (Italics in original)
+
+16.
+
+In Madras Auto Service, the assessee had spent some amount to
+
+construct a new building after demolishing the old building in which the
+assessee was a lessee. The assessee had the benefit of the existing lease
+in respect of the new building at an agreed rent for a period of 39 years.
+The rent as stipulated in the lease was extremely low but it was found
+that the concessional rent was on account of the fact that the new
+building was constructed by the lessee at its own cost. The Supreme
+Court held that the advantage that the assessee derived by spending the
+money was that it got the lease of a new building at a low rent. From a
+business point of view, therefore, the assessee got the benefit of reduced
+rent and the expenditure must, consequently, be treated as a revenue
+expenditure.
+
+17.
+
+Applying all these principles to the present case, a few facts stand
+
+out quite clearly. The Assessee did not acquire any capital asset by
+making the payment of non-compete fee. It merely eliminated
+
+ITA No.1094/2006
+
+Page 9 of 10
+
+competition in the two wheeler business, for a while. From the record, it
+is not clear how long the restrictive covenant was to last, but it was
+neither permanent nor ephemeral. In that sense, the advantage was not of
+an enduring nature. There is also nothing to show that the amount of Rs.
+4 crores was drawn out of the capital of the Assessee. On a cumulative
+appreciation of these facts, it must be held that the CIT (A) and the
+Tribunal did not err in concluding that the payment of non-compete fee
+by the Assessee was a business expenditure and not a capital
+expenditure.
+
+18.
+
+No substantial question of law arises for consideration. The appeal
+
+is dismissed.
+
+MADAN B. LOKUR, J
+
+March 20, 2008
+ncg
+
+V.B. GUPTA, J
+
+Certified that the corrected
+copy of the judgment has been
+transmitted in the main Server.
+
+ITA No.1094/2006
+
+Page 10 of 10
+
+

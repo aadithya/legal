@@ -1,0 +1,884 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+W.P.(C) 1458/2008
+Date of Decision: 11th April, 2008
+KOTAK MAHINDRA BANK LTD.
+..... Petitioner
+Through: Mr. Neeraj Kishan Kaul, Sr. Adv.
+with Ms. Nandini Gore, Ms. Prachi
+Goel, Ms. Lakshmi Ramchandran,
+Mr. Amit Kr. Singh, Mr. Karan
+Mehta, Ms. Shikha Sarin, Adv.
+versus
+A.A.I.F.R. & ORS.
+Through:
+
+..... Respondents
+Mr. Sandeep Sethi,Sr. Adv. with
+Mr. Rajeev Ranjan Prasad,
+Mr. Anirudh Sharma, Mr. Lakshay
+Sawhney, Adv. for R-3.
+Mr. Rajeev Nayyar, Sr. Adv. with
+Ms. Sushmita Banerjee, Adv. for
+R-4.
+
+CORAM:
+HON'BLE MR. JUSTICE T.S. THAKUR
+HON'BLE MS. JUSTICE ARUNA SURESH
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment?
+
+Yes
+
+2.
+
+To be referred to the Reporter or not?
+
+Yes
+
+3.
+
+Whether the judgment should be reported in the Digest? Yes
+
+T.S. Thakur, J
+The short question that falls for consideration in this writ
+petition is whether the order passed by the Appellate Authority for
+Industrial and Financial Reconstruction(for short 'AAIFR') granting
+permission under Section 18(1)(e) of Sick Industrial Companies
+(Special Provisions) Act, 1985 (for short 'SICA) to approach the
+appropriate
+
+High
+
+Court
+
+for
+
+submitting
+
+a
+
+scheme
+
+of
+
+arrangement/compromise qua the secured creditors of the company
+under Section 391 of the Companies Act suffers from error of law or
+jurisdiction. The petitioner, who claims to have secured in its favour
+the assignment of a debt which the respondent-sick company owed to
+
+W.P.(C)1458/2008
+
+Page 1 of 15
+
+M/s Fuji Bank Ltd alleges that the order passed by the AAIFR granting
+permission to the respondent-company suffers from an illegality
+inasmuch as SICA is a special enactment no authority including the
+High Court exercising powers under any other enactment can, during
+the pendency of the proceedings under SICA, entertain or sanction
+any scheme of arrangement or compromise. Before we examine the
+merits of that contention, we may briefly set out the facts giving rise
+to the controversy:
+2.
+
+The respondent-company was declared sick by the Board for
+
+Industrial and Financial Reconstruction in terms of an order dated
+20th April, 2006 passed in Case No. 395/2003. The Board noted that
+the respondent-company was not in a position to work out a scheme
+under Section 17(2) of the Act on its own and that the provisions of
+Section 18 shall have to be explored in public interest. The Board,
+accordingly, appointed the IDBI as an Operating Agency (OA) with
+directions to advertise for change of management keeping in view the
+guidelines given in the order. The Board noted that all the secured
+creditors had decided not to support the present management thereby
+necessitating a change. The following passage appearing in the order
+passed by the BIFR makes this position clear.
+“The Bench observed at that stage that the
+company in its letter dated 18.4.06 had
+submitted to BIFR that they were quite willing
+to give up control of J&N to ensure J&N's
+future. Moreover, all secured creditors had
+unanimously decided not to support the
+present management.”
+3.
+
+The Board permitted the present promoters also to participate
+
+with a further direction that they would be given preference if their
+offer equalled the offer of others. The operative portion of the order
+passed by the BIFR was in the following words:
+
+W.P.(C)1458/2008
+
+Page 2 of 15
+
+“Considering the facts on records and the
+submissions made at today's hearing, the
+Bench observed that there were no valid
+objections to the company's sickness from the
+parties present today and considering that the
+company had fulfilled the various criteria for
+sickness under the Act, the Bench was
+satisfied that the company had become a sick
+industrial company in terms of Section 3(1)(o)
+of the Act and accordingly declared it sick. On
+a query from the Bench, the representative of
+the company indicated that it would not be
+possible for them to work out a scheme u/s
+17(2) of the Act on their own. In view of this,
+the Bench noted that the provisions of Section
+18 of the Act would have to be explored in
+public interest in relation to the company.
+Accordingly, in terms of the powers vested
+with it u/s 17(3) of the Act, the Bench
+appointed IDBI as the Operating Agency (OA)
+with directions to advertise for change of
+management keeping in view the enclosed
+guidelines. The present promoters are also
+allowed to participate in response to the
+advertisement to be issued by OA and they
+would be given preference if their offer
+equalled the offer of others. The OA shall
+ensure wide publicity in this regard by
+providing the test of the offer to industry
+associations, federations of industrialists etc.
+in order to endeavour to get maximum
+response to the advertisement.
+OA shall
+ensure publication of advertisement within 15
+days from today and in a further period of 6
+weeks it shall submit a DRS keeping in view
+the offers received and after holding a joint
+meeting of all involved agencies together with
+its recommendations.
+The company shall
+comply with provisions of the enclosed
+guidelines in letter and spirit in so far as they
+relate to them.” (emphasis supplied)
+4.
+
+Aggrieved by the above direction, the sick company preferred
+
+an appeal before the appellate authority for industrial and financial
+reconstruction, New Delhi. By an order dated 11th April, 2007 passed
+by the AAIFR in the said appeal it appointed SBI Capital Markets
+Limited for carrying out a Techno-Economic Feasibility Study and
+evaluation of the prospects of the company. In the meantime, ARCIL
+was directed to hold a joint meeting of the secured lenders to discuss
+
+W.P.(C)1458/2008
+
+Page 3 of 15
+
+the reconstruction proposal based on the Techno Economic Viability
+Study and Revival Scheme (TEVS) and valuation report.
+5.
+
+When the matter came up before the appellate authority on 8th
+
+January, 2008 it was reported that more than 75% of the creditors of
+the sick company had agreed to the rehabilitation proposal subject to
+minor modifications.
+
+Less than 9% of the secured creditors had
+
+expressed their objections to the scheme which provided for
+mobilisation of resources by sale of surplus assets at Panvel and
+Naihati near Kolkata.
+
+The Company proposed to settle its dues
+
+towards the secured creditors and statutory liabilities through sale of
+these assets under the scheme in question.
+
+It was on that basis
+
+argued on behalf of the respondent-company that the company should
+be permitted to sell the surplus assets through an Assets Sale
+Committee and to approach the High Court of Calcutta for a scheme
+of arrangements/compromise under Section 391 of the Companies
+Act. That submission was opposed by the Kotak Mahindra Bank, the
+petitioner herein, who also opposed the grant of any permission to the
+sick company to approach the High Court for a scheme of
+arrangement
+
+under
+
+Section
+
+391
+
+of
+
+the
+
+Companies
+
+Act
+
+since
+
+proceedings under SICA were pending. The petitioner insisted that
+the proposal of rehabilitation should be processed in accordance with
+the provisions of SICA alone.
+6.
+
+The appellate authority, however, found that an overwhelming
+
+majority of the secured creditors, viz; ARCIL holding 47.26% of the
+total secured debts, Allahabad Bank holding 16.9% and
+
+Standard
+
+Chartered Bank holding 4.6% of the said debts, were all agreeable to
+the proposal submitted by the company. Kotak Mahindra Bank, the
+petitioner herein, in comparison held just about 2.02% of the secured
+debt which it had acquired from the Fuji Bank Ltd. but was opposing
+W.P.(C)1458/2008
+
+Page 4 of 15
+
+the scheme or the grant of permission to the sick company to
+approach the High Court under Section 391 of the Companies Act.
+The Appellate Authority was of the view that there was no
+inconsistency between the provisions of Section 32 of SICA on the one
+hand and Sections 391 to 394 of the Companies Act on the other.
+
+It
+
+observed:
+“The question at issue is the effect of Section
+32 of SICA vis-a-vis provisions of Section 391
+to 394 of the Companies Act. The overriding
+effect of Section 32 will come in play only in a
+situation where the provisions other laws are
+inconsistent or not in conformity with the
+provisions of SICA. In our opinion, there is no
+inconsistency between the aforesaid two
+provisions. SICA was enacted to make the
+sick industrial company financially viable and
+independent.
+Similarly, the provisions of
+Section 391 and 394 of the Companies Act are
+also enacted with the similar object to
+facilitate
+merger,
+demerger,
+corporate
+restructuring
+and
+scheme
+of
+arrangement/compromise to establish viable
+corporate entities. Therefore, the provisions of
+both the statutes are supplemental to each
+other and are not inconsistent.”
+7.
+
+It was further of the view that accepting the suggestion made by
+
+the
+
+petitioner-company
+
+would
+
+mean
+
+that
+
+while
+
+a
+
+scheme
+
+of
+
+compromise/arrangement is permissible under Section 391 of the
+Companies Act for a healthy company with the consent of 75% of the
+secured creditors, the same would not be permissible for a sick
+industrial company just because Section 19(2) of SICA requires
+consent of all the secured lenders. Relying upon the decision of the
+Supreme Court in Manohar N. Somnath Vs. Morotrao (1979) 4 SCC
+
+93, the Appellate Authority held that a harmonious interpretation
+could be adopted to effectuate the legislation especially when the
+Court was dealing with a piece of beneficial legislation for which the
+interpretation had to be liberal with a view to giving effect to the
+
+W.P.(C)1458/2008
+
+Page 5 of 15
+
+purpose for which the legislation was enacted. Allowing the appeal
+filed by the petitioner-bank the appellate authority granted permission
+to the respondent-company under Section 18(1)(e) of SICA to
+approach
+
+the
+
+High
+
+Court
+
+for
+
+submitting
+
+a
+
+scheme
+
+of
+
+arrangement/compromise for the secured creditors of the company. It
+observed:
+“In view of the aforesaid facts, we set aside the
+impugned order dated 20.4.2006 and remand
+the case to BIFR. The company is granted
+permission under Section 18(1)(e) of SICA to
+approach the appropriate High Court for
+submitting
+a
+scheme
+of
+arrangement/compromise
+qua
+secured
+creditors of the company.
+BIFR should
+incorporate the provisions of the scheme of
+arrangement/compromise
+as
+and
+when
+approved by the appropriate High Court as
+part of the rehabilitation scheme of the
+company”
+8.
+
+Pending the proposed action under Section 391, the Appellate
+
+Authority also constituted an Assets Sale Committee comprising the
+representative
+
+of
+
+ARCIL,
+
+representative
+
+of
+
+the
+
+department
+
+of
+
+Industries, Government of Maharashtra and the Managing Director of
+the Company. The sale proceeds of the surplus assets were directed
+to be kept in an separate bank account with Allahabad Bank, the lead
+bank in an 'interest bearing no lien account' to be disbursed as part of
+the rehabilitation scheme after the same is sanctioned by BIFR. The
+present writ petition calls in question the legality of the above order
+as already noticed earlier.
+9.
+
+Appearing for the petitioner, Mr. Kaul strenuously argued that
+
+the order passed by the appellate authority was legally bad inasmuch
+as neither the BIFR nor the appellate authority could grant permission
+to the sick company to approach the High Court under Section 391394 of the Companies Act so long as proceedings under SICA were
+
+W.P.(C)1458/2008
+
+Page 6 of 15
+
+pending before them.
+
+Reliance in support was placed by Mr. Kaul
+
+upon the decision of the Supreme Court in NGEF Ltd. Vs. Chandra
+
+Developers (P) Ltd. & Anr. (2005) 8 SCC 219.
+10.
+
+On behalf of the respondents, it was per contra argued by M/s
+
+Sethi and Nayyar, senior counsel that there was no bar to the
+institution of proceedings under Section 391-394 of the Companies
+Act or even for winding up of a company pending formulation of a
+revival scheme under SICA. It was further contended that Section 22
+of SICA clearly empowered the Board as also the Appellate Authority
+to permit institution and continuance of proceedings referred to
+therein including those under Section 391-394 of the Companies Act
+as the said proceedings fell within the expression “like” used in
+Section 22.
+
+It was further argued by learned counsel that the
+
+petitioner had not disclosed complete facts in the present writ petition
+and was, therefore, dis-entitled from seeking any relief from this
+Court. In particular, the petitioner had suppressed the fact that in a
+meeting of the secured creditors held on 29th October, 2007 it had
+consented to the sale of assets by the Assets Sale Committee and
+sharing of the sale proceeds in the ratio mentioned in the minutes of
+that meeting. It was contended that there was in the instant case no
+delegation of power or abdication by AAIFR in favour of the High
+Court and that an order granting permission under Section 18(1)(e)
+was considered necessary as the provisions of Section 19(2) of SICA
+were ineffective unless all the secured creditors consented to the
+scheme of arrangement/compromise proposed by the company.
+11.
+
+We have given our careful consideration to the submissions
+
+made at the bar and perused the record. Section 22 of the SICA is by
+far the only provision under which the petitioner may claim a bar to
+any proceedings referred to therein. Section 22, however, specifically
+W.P.(C)1458/2008
+
+Page 7 of 15
+
+empowers the Board and the Appellate Authority, as the case may be,
+to permit proceedings for the winding up of the industrial company or
+for execution, distress or the like against any of the properties of the
+industrial company or for the appointment of a receiver in respect
+thereof or for recovery of money, enforcement of any security against
+the industrial company or of any guarantee in respect of any loans or
+advance granted to such a company. It reads:
+“22.
+Suspension of legal proceedings,
+contracts, etc.--(1) Where in respect of an
+industrial company, an inquiry under section
+16 is pending or any scheme referred to under
+Section
+17
+is
+under
+preparation
+or
+consideration or a sanctioned scheme is under
+implementation or where an appeal under
+section 25 relating to an industrial company is
+pending, then, notwithstanding anything
+contained in the Companies Act, 1956 (1 of
+1956), or any other law or the memorandum
+and articles of association of the industrial
+company or any other instrument having effect
+under the said Act or other law, no
+proceedings for the winding up of the
+industrial or for execution, distress or the like
+against any of the properties of the industrial
+company or for the appointment of a receiver
+in respect thereof [and no suit for the recovery
+of money or for the enforcement of any
+security against the industrial company or of
+any guarantee in respect of any loans or
+advance granted to the industrial company]
+shall lie or be proceeded with further, except
+with the consent of the Board or, as the case
+may be, the Appellate Authority.”
+12.
+
+A careful analysis of the above would show that where in
+
+respect of an industrial company, an inquiry under Section 16 is
+pending or a scheme under Section 17 is under preparation or
+consideration or a sanctioned scheme is under the implementation or
+where an appeal under Section 25 relating to industrial company is
+pending then notwithstanding anything contained in the Companies
+Act or any other law including any memorandum or articles of
+association or any other instruction having the effect under the said
+W.P.(C)1458/2008
+
+Page 8 of 15
+
+Act or other law, no proceedings for the winding up of the industrial
+company or for execution distress of the like against any of the
+properties of the industrial company shall lie or be proceeded with
+except with the consent of the Board or as the case may, the Appellate
+Authority. What is significant is that even when proceedings under
+Section 16 & 17 or an appeal under Section 25 of the Act are pending
+as is the position in the instant case, the BIFR or the Appellate
+Authority
+
+may
+
+permit
+
+the
+
+filing/institution
+
+or
+
+continuance
+
+of
+
+proceedings for the winding up of the industrial company or for
+execution distress or the like against any of the properties of the
+industrial company. They may also permit a suit for recovery of the
+money or guarantee in respect of any loans or advance granted to the
+company to be instituted or continued. It follows that proceedings in
+the nature of winding up, distress and sale of the assets of the
+company and those for recovery of money and enforcement of security
+etc. if already instituted would remain suspended or may be permitted
+to be instituted and continued depending upon whether the BIFR or
+the Appellate Authority grant permission to do so.
+
+The Appellate
+
+Authority has, in the instant case, not only directed sale of the surplus
+assets
+
+of
+
+the
+
+sick
+
+company
+
+arrangement/compromise
+
+for
+
+formulated
+
+effectuating
+by
+
+the
+
+it vis-a-vis
+
+scheme
+
+of
+
+its secured
+
+creditors but also directed the sick company to approach the High
+Court for sanctioning a scheme/compromise under Sections 391-394
+of the Companies Act. To the extent the AAIFR directed the sale of
+the surplus assets of the sick company and appointed an Assets Sales
+Committee, Mr. Kaul had no difficulty, for even according to him it
+was only either the BIFR or the AAIFR who could direct such a sale.
+That apart, even the petitioner-company appears to have consented to
+the sale of surplus assets of the company in a meeting of the secured
+W.P.(C)1458/2008
+
+Page 9 of 15
+
+creditors convened by ARCIL on 9th October, 2007.
+
+The following
+
+passages appearing in the minutes of the said meeting are in this
+regard relevant:
+1.
+
+Sale of Assets at Panvel
+Majority participants, namely, representatives
+from Arcil, SIDBI, Canara Bank, Indian
+Overseas Bank, Union Bank of India, Unit
+Trust of India, Punjab National Bank, Kotak
+Mahindra Bank and Standard Chartered Bank
+(representing 68% in the secured debt) gave
+their consent for sale of secured assets at
+Panvel.
+Further, representatives from Allahabad Bank
+and Oriental Bank of Commerce (representing
+21% in the secured debt) mentioned that they
+are actively considering the proposal and shall
+revert to Arcil shortly on their opinion.
+The Secured lenders also felt that the
+proposed sharing of proceeds with the
+Company in a structured from needs to be
+improved for secured lenders.
+Sharing Ratio of Sale Realization
+The representatives from Arcil, SIDBI, Canara
+Bank, Indian Overseas Bank, Union Bank of
+India, Punjab National Bank, Kotak Mahindra
+Bank
+and
+Standard
+Chartered
+Bank
+(representing 6.1% in the secured debt) gave
+their consent for proposed sharing ratio of
+60:40 between term lenders and working
+capital lenders.
+Representative form Unit Trust of India
+suggested a sharing ratio of 75:25 between
+term lenders and working capital bankers.
+Representatives from Allahabad Bank and
+Oriental Bank of Commerce mentioned that
+they are actively considering the proposal and
+shall revert to Arcil shortly on their opinion.
+Process of Sale Secured Assets at Panvel:
+The lenders suggested that the secured assets
+at Panvel should be sold by an Asset Sale
+Committee comprising of secured lenders(two
+term lenders, one working capital lenders and
+Company representative) by a public auction
+process.
+It was proposed that Asset Sale
+Committee may comprise of Arcil, UTI,
+
+W.P.(C)1458/2008
+
+Page 10 of 15
+
+Allahabad
+Bank
+and
+representative.(emphasis is ours)
+13.
+
+Company
+
+In the light of the above, it is difficult for the petitioner to find
+
+fault with the order passed by the AAIFR directing sale of the surplus
+assets of the sick company or oppose the settlement of the dues
+payable to the secured creditors.
+14.
+
+The only other aspect that remains to be examined is whether
+
+the permission granted by the Appellate Authority to the company to
+approach the jurisdictional High Court for sanctioning a scheme of
+arrangements/compromise with the secured creditors suffers from
+any illegality.
+
+According to Mr. Kaul, the grant of permission was
+
+impermissible in law inasmuch as proceedings under SICA would
+operate as a complete bar to any other proceedings being instituted in
+any other Court against the company especially if such proceedings
+are aimed at revival of the sick company or a step in aid of any such
+attempt. Heavy reliance is sought to be placed upon the decision of
+the Supreme Court in NGEF Ltd. Vs. Chandra Developers (P) Ltd. &
+
+Anr. (2005) 8 SCC 219 in support of that contention.
+
+That was a
+
+case where the NGEF Ltd. had been declared sick in terms of the
+provisions of SICA. The company had been, with the permission of
+BIFR and its secured creditors, selling surplus land for purposes of
+paying wages to it workers and refund of loans borrowed from
+financial institutions.
+
+In the course of disinvestment of the shares
+
+held by the State Government in the sick company, Chandra
+Developers, a private company submitted a proposal for purchase of
+40.45 acres of land.
+
+In the meantime, the BIFR had held that the
+
+company could not be revived and sent its recommendation to the
+High Court for winding up of the company.
+
+Insofar as sale of the
+
+assets was concerned, the BIFR passed an order stating that the
+W.P.(C)1458/2008
+
+Page 11 of 15
+
+company shall have to seek a proper direction from the High Court
+concerned. In the High Court of Karnataka, Chandra Developers, the
+private company, filed an application praying for a direction upon the
+company to execute a deed of sale in its favour in respect of the land
+held by the company on the premise that a concluded contract
+regarding the said sale had come about between the parties.
+
+The
+
+High Court allowed that application and later dismissed a review
+petition filed against the order passed by it. The matter was, in that
+background, brought to the Supreme Court in appeal after the
+appeals before a Division Bench had failed. It was in that background
+that a question fell for the consideration of the Apex Court whether
+the order passed by the High Court was legally competent.
+
+Their
+
+lordships examined the legal position and held that SICA was a
+special enactment which would prevail over the provisions of the
+Companies Act.
+
+The Court noted that the provisions of SICA
+
+contained non obstente clauses. The act was, therefore, a complete
+code in itself.
+
+The jurisdiction of the Company court in relation to
+
+winding up of a sick company, declared their lordships, would arise
+only when BIFR or AAIFR, as the case may be, had exercised their
+jurisdiction under Section 20 of SICA.
+
+The Court further held that
+
+under Section 536 (2) of the Companies Act the Court could not ipso
+
+facto direct sale of the assets of the sick company and that the said
+powers had to be exercised subject to the provisions of the special
+statute (SICA) on the subject. In terms of Section 20(4) of SICA the
+sale of assets of the industrial company could be authorized only by
+the BIFR in such manner as it may deem fit. Leave of the company
+Court for doing so was not required.
+
+BIFR could in the event it
+
+directed a sale forward the sale proceeds to the High Court for orders
+of distribution in accordance with Section 529 (A).
+W.P.(C)1458/2008
+
+The Court
+Page 12 of 15
+
+observed:
+“In terms of Section 20(4) SICA, BIFR is
+authorised to sell the assets of the sick
+industrial company in such a manner as it may
+deem fit.
+Leave of the Company Court,
+therefore, is not required.
+By reason of
+Section 20(4) SICA, BIFR is also empowered
+to forward the sale proceeds to the High Court
+for orders for distribution in accordance with
+Section 529-A and other provisions of the
+Companies Act, which in no uncertain terms
+would mean that the distribution of the sale
+proceeds would be for the purpose of meeting
+the claims of the creditors in the manner laid
+down therein. The scheme suggests that BIFR
+retains control over the assets of the Company
+and in terms of the aforementioned provisions
+may either prevent any sale or permit any sale
+of the assets of the sick industrial company. A
+company declared to be sick in terms of the
+provisions of SICA, continues to be sick unless
+it is directed to be wound up.
+Till the
+company remains a sick company, having
+regard to the provisions of Section 20(4) BIFR
+alone shall have jurisdiction as regards sale of
+its assets. Such a power in BIFR remains till a
+winding-up order is passed by the High Court
+and a stage arrives for the High Court for
+issuing orders for distribution of the sale
+proceeds.”
+15.
+
+In the instant case, the fact situation is totally different from
+
+that in the case of NGEF. Here, the sale of assets has been directed
+by the AAIFR which was competent to do so. There is no abdication
+or delegation in that regard in favour of the High Court. The order
+passed by the AAIFR clearly records a decision to sell the surplus
+assets. Even, Mr. Kaul did not find any fault with that direction. It
+was, however, argued by learned counsel that so long as the
+proceedings under SICA are pending, the company cannot be
+permitted to approach the High Court even for purposes of a scheme
+of arrangement/compromise regarding the debts payable to the
+secured creditors.
+opinion, go that far.
+
+W.P.(C)1458/2008
+
+The decision in NGEF's case does not, in our
+It is confined to examining whether the BIFR
+
+Page 13 of 15
+
+could give up its role and either delegate its powers or abdicate in
+favour of the High Court the exclusive power vested in the BIFR for
+disposal of the assets of the company. The decision cannot be torn
+out of the above context. The Supreme Court was not in the case of
+NGEF examining whether a sick company can be permitted to
+approach the High Court for a scheme of arrangement/compromise
+with the secured creditors under Sections 391-392 of the Companies
+Act, in a case where such an arrangement was not legally permissible
+under Section 19(2) of the SICA which required the consent of all the
+creditors. There may have been some merit in the contention of Mr.
+Kaul if the AAIFR was permitting something to be done in the High
+Court which was within its own competence, for in that case, it could
+be argued that if the BIFR or AAIFR are themselves competent to
+examine an issue or grant a relief, they should not refer the parties to
+the High Court for any such determination under any other enactment
+like the Companies Act.
+
+The fact of the matter, however, is that a
+
+scheme of arrangement was not possible under Section 19(3) of SICA
+unless all the secured creditors consented to the same. The AAIFR
+noted that while a overwhelming majority of the secured creditors
+were agreeable to a settlement with the company by making
+sacrifices, the petitioner Kotak Mahindra holding only 2% of the
+outstanding debt was not ready to do so.
+
+This attitude of the
+
+petitioner frustrated any such scheme being made effective under
+Section 19 of SICA. The only other option then was a scheme under
+Sections 391-394 of the Act which could be brought about even with
+the consent of the secured creditors holding 75% of the outstanding
+debts. It is manifest that the AAIFR considered it necessary to make a
+reference to the High Court under the Companies Act as it was not by
+itself competent to bring about a scheme of settlement/compromise.
+W.P.(C)1458/2008
+
+Page 14 of 15
+
+There was, therefore, no question of any abdication nor was there any
+delegation by the AAIFR of its functions to the High Court as was
+sought to be contended by Mr. Kaul.
+
+The decision in NGEF's case
+
+does not, therefore, advance the case of the petitioner. So also the
+decision of the High Court of Bombay in Ashok Organic Industries
+
+Ltd. Vs. Asset Reconstruction Company (India) Ltd.(ARCIL) relied
+upon by Mr. Kaul does not lend any support to the case of the
+petitioner. The Court was not, in that case, concerned with Section
+22 of the Companies Act nor has the court examined whether section
+22 of SICA could be invoked by AAIFR to permit institution of
+proceedings under Section 391-394 of the Companies Act in the fact
+situation in which the said proceedings have been permitted in the
+instant case.
+16.
+
+In the result this writ petition which fails and is hereby
+
+dismissed with costs assessed at Rs.25000/-.
+
+T.S.THAKUR,J
+
+ARUNA SURESH, J
+APRIL 11, 2008
+anb
+
+W.P.(C)1458/2008
+
+Page 15 of 15
+
+

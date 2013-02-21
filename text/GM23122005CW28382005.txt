@@ -1,0 +1,2769 @@
+IN THE HIGH COURT OF DELHI
+Date of decision:23rd December, 2005
+
+WRIT PETITION (CIVIL) NO.2838/2005
+
+Telecom Regulatory Authority of India...Petitioner
+through Mr.G.L.Sanghi,Sr.Advocate
+with Mr.Meet Malhotra and
+Mr.Raghvinder Singh,Advocates
+
+VERSUS
+
+The Telecom Disputes and Settlement
+Appellate Tribunal & Anr.
+...Respondents
+through Mr. C.S.Vaidyalingam,
+Sr.Advocate with Mr.Arun Kathpalia
+and Mr.Anant Kumar, Advocates for
+respondent no.2.
+
+CORAM:
+HON'BLE MS. JUSTICE GITA MITTAL.
+1. Whether reporters of local papers may be
+allowed to see the Judgment? yes
+2. To be referred to the Reporter or not? yes
+3. Whether the judgment should be reported in the
+Digest? yes
+GITA MITTAL, J.
+1.
+
+By this writ petition the Telecom Regulatory Authority of
+
+India (hereinafter referred to as TRAI) has impugned a decision
+:1:
+
+WP(C) 2838/2005
+
+dated 31st January, 2005 of the Telecom Disputes Settlement and
+Appellate Tribunal(hereinafter referred to as TDSAT).
+
+An appeal
+
+was filed by the Mahanagar Telephone Nigam Limited - respondent
+no.2 (hereinafter referred to as the MTNL) challenging a regulation
+framed by TRAI in exercise of its powers under Section 36 of the
+Telecom Regulatory Authority of India Act(hereinafter referred to as
+the Act). The TRAI had called into question the jurisdiction of
+TDSAT to entertain the appeal which objection was rejected by the
+impugned decision.
+2.
+
+In order to appreciate the issues raised in this petition, it is
+
+necessary to examine the statutory scheme as also the spirit,
+intendment and purpose of creation of TRAI and the TDSAT. The
+TRAI Act 1987 was enacted to regulate the telecommunication
+services, adjudicate disputes, dispose of appeals and to protect the
+interests of service providers and consumers of the telecom sector,
+promote and ensure orderly growth of the telecom sector and for
+matters incidental thereto. The TRAI was established under the
+statute to regulate the telecommunication services. However during
+the functioning of the said authority, certain issues which were
+:2:
+
+WP(C) 2838/2005
+
+hindering the growth of the sector cropped up.
+
+These issues
+
+agitated the minds of the executive and the legislature.
+Consequently amendments were proposed with the object of
+strengthening and increasing investor confidence and creating a
+level playing field between public and private operators. It appears
+that the Central Government constituted a Group on the telecom and
+IT convergence under the Chairmanship of the Finance Minister on
+13th December, 1999 with inter alia a brief to consider and make
+recommendations to the Central Government with regard
+
+to
+
+strengthening the TRAI through suitable statutory amendments.
+Recommendations made by this Group were accepted by the Central
+Government. Initially in view of the urgency in the need to remove
+the impediments in the growth of the telecom sector, which is a
+major infrastructure sector, the President of India promulgated the
+Telecom Regulatory Authority of India (Amendment) Ordinance
+2000 on 24th January, 2000.
+3.
+
+Major amendments effected by this Ordinance inter alia
+
+included a distinction between the recommendatory, advisory and
+the regulatory function of the authority as envisaged under sub:3:
+
+WP(C) 2838/2005
+
+section 1 of Section 11 of the Act. This amendment also made it
+mandatory for the Central Government to seek recommendations of
+the TRAI in respect of matters specified in sub clause (i), (ii) of
+Section 11(1)(a) of the enactment.
+4.
+
+Composition of the TRAI was changed and additional
+
+functions were required to be performed by the authority. These
+inter alia included:(i)fixing
+terms
+and
+conditions
+of
+the
+interconnectivity between the service providers;
+(ii)laying down standards of quality of service to be
+provided by the service providers and ensuring
+quality of service.
+(iii)making of recommendations on
+management of the available spectrum.
+
+efficient
+
+(iv)the tariff setting function of the TRAI was
+brought under the purview of sub-section 3 of
+Section 11.
+(v)A major amendment brought about by this
+ordinance was that the decisions taken by the TRAI
+in discharge of its functions under Section 11(1)(b),
+11(2) and Section 13 which are appealable to the
+TDSAT, the Appellate Tribunal, shall not be
+subject to audit by the Comptroller and Auditor
+General of India.
+(vi) An appellate tribunal which was known as
+:4:
+
+WP(C) 2838/2005
+
+5.
+
+Telecom Disputes Settlement and Appellate
+Tribunal for adjudicating the disputes between a
+licensor and licensee, between two or more service
+providers, between a service provider and a group
+of consumers, was provided for in the amended
+provisions. This Tribunal was also empowered to
+hear and dispose of any appeals from the direction,
+decision or orders of the TRAI.
+The Bill was placed before the Parliament seeking to
+
+replace the earlier Ordinance and amendment to the TRAI Act of
+1997 which received the assent of the Parliament and came into
+force on 24th of January, 2000.
+6.
+
+The respondent no.2 before this Court the Mahanagar
+
+Telephone Nigam Limited, is a State owned Company in the
+business of providing telecommunication services while the
+respondent no.1 is the statutory appellate tribunal constituted under
+Section 14 of the TRAI Act, 1997.
+7.
+
+According to the petitioner, in exercise of its powers
+
+under Section 36 of the Act, the TRAI in January, 2003, October,
+2003 and January, 2005 made certain regulations regarding
+telecommunications interconnection, usage charges. It is averred
+that these were determined after an elaborate consultation process
+and data collection.
+:5:
+
+WP(C) 2838/2005
+
+8.
+
+At this stage it would be appropriate to examine a few
+
+facts which gave rise to the proceedings before the TDSAT in order
+to really appreciate the nature of the controversy. In the year 1994,
+the Government of India framed the National Telecom Policy with
+inter alia an objective of provision of access to all people for certain
+basic telecom services at affordable reasonable prices. In view of
+the mandate of the telecom policy of 1994 and 1999 to provide
+affordable telecom services within the reach of all, rental and local
+call charges were fixed at below cost. The resultant deficit, which
+was substantial, was subsidised by the high tariff fixed for long
+distance
+
+calls.
+
+In
+
+the
+
+year
+
+2001-02,
+
+long
+
+distance
+
+telecommunication sectors were also opened up and private players
+started providing long distance services in the domestic as well as
+the international sector. The consequential intense competition had
+the effect of a steep fall in the tariff for long distance calls both
+national and international. In order to compensate for the below cost
+rentals in rural and urban areas, an “Access Deficit Charge”('ADC'
+for brevity) was introduced through regulatory interventions.
+Pursuant to an elaborate consultative process and consideration of
+:6:
+
+WP(C) 2838/2005
+
+representations from various stake holders in the industry, meeting
+and discussions, the telecommunication Interconnection Usage
+Charges(IUC) Regulation 2003 was notified by the TRAI on 24th
+January, 2003. So far as the MTNL was concerned, there was thus
+recognition of the requirement to pay ADC to it due to the deficit in
+rentals for the free calls which it was required to provide to its users
+and for the below cost local call charges. In supersession of the IUC
+Regulation of January, 2003, the petitioner has notified the
+Telecommunication Interconnection Usage Charges Regulation
+2003 on 29th October, 2003 which covers further Access Deficit
+Charges.
+
+By this process, it was contended that there was a
+
+phenomenal growth in the mobile subscriber base without any
+corresponding growth in the subscriber base of the basic service
+operators as the MTNL.
+As the access deficit could not still be recouped, the
+matter was being re-looked at and data was sought from the MTNL
+in a call data record format. The respondent has contended that on
+6th of January, 2005, the petitioner notified an Interconnect Usage
+Charges (4th Amendment) 2005 without considering the data
+:7:
+
+WP(C) 2838/2005
+
+submitted by the respondent and in violation of the principles of
+natural justice.
+
+The respondent MTNL was aggrieved by the
+
+fixation of the ADC on the ground that it had been effected by
+examining traffic to only one service provider; had been effected in
+violation of principles of natural justice and had resulted in
+aggravation of the deficit which had enured to the MTNL.
+9.
+
+The respondent no.2 MTNL challenged the regulations
+
+dated 6th January, 2005 by way of an appeal bearing no. 3 of 2005
+before the TDSAT invoking its jurisdiction under Section 14 of the
+Act.
+10.
+
+The contention of the petitioner is that the regulations
+
+were statutory regulations and the tribunal was a creation of the
+statute. The Appellate Tribunal had no jurisdiction to declare the
+regulations invalid as an Appellate Forum.
+11.
+
+This objection was decided against the petitioner by the
+
+order dated 31st January, 2005 made by the TDSAT which after
+detailed consideration of the matter and the law cited before it, held
+thus:
+(i)“The questions which arise for consideration
+:8:
+
+WP(C) 2838/2005
+
+would be:
+(a) If TRAI can make Regulations in the discharge
+of its functions under sub-clauses(ii), (iii) and (iv)
+of clause (b) of sub section (1) of Section 11?
+(b) Can Regulations under sub clauses (ii), (iii) and
+(iv) be framed under general powers of sub Section
+(1) of Section 36 when read with sub-section (2)
+thereof?”
+(ii) We put it to Mr.Sanghi if any dispute arises
+under the Regulations framed by the TRAI could it
+be that shall be adjudicated by TRAI and
+jurisdiction of TDSAT to determine that dispute
+would be barred. His answer was in affirmative.
+That looks rather strange to us.
+(iii) Can Regulations which are in the nature of a
+subordinate legislation overtake the provision of
+the Principal Act? If Regulations under sub-clauses
+(i) to (ix) of clause (b) of Section 1 of the Act and
+also under clause ( c ) are all framed by the TRAI
+there will be no direction, decision or order of the
+TRAI which could be subject matter of appeal to
+TDSAT and that would in effect mean repealing
+clause (b) of Section 14 of the Act.
+(iv) We also put it to Mr.Sanghi that if there is
+contravention of any direction issued by TRAI it is
+punishable under Section 29 and what will happen
+if there is contravention of any Regulation. He said
+it was for the Parliament to amend the law. There
+was no clear answer to our question as to what was
+the procedure which would have to be gone into
+before issuing direction or Regulation. It appears
+to us that procedure for issuing direction or
+Regulation has to be the same. As to what is the
+:9:
+
+WP(C) 2838/2005
+
+difference between a direction and Regulation, it
+was the submission of Mr.Sanghi that direction can
+be given to a particular service provider and
+Regulation can be of general applicability. This is
+not correct as we have found in number of cases
+that directions have also been issued which are
+applicable generally e.g. that what was in Appeal
+no.2 of 2004. It does not appear to us the right
+approach of the TRAI to clothe a direction in the
+garb of Regulation and then tell the TDSAT that it
+has no appellate power.
+(v) Both the lower authority and the appellate
+authority have to exercise their respective
+jurisdiction as defined in the Act constituting them.
+We could not get any answer which expert body
+will consider if the reduction in ADC by TRAI as
+claimed by the MTNL, is factually and legally
+correct if not TDSAT. As a matter of fact in West
+Bengal Electricity case the Supreme Court itself
+commended the creation of TDSAT by
+recommending a similar expert appellate body be
+created under the Electricity Commission Act
+dealing with the type of factual and technical
+matters and that High Court was not an appropriate
+appellate body for that purpose. The question of
+exclusive jurisdiction of an expert body like
+TDSAT has recently been discussed in the decision
+of the Supreme Court in the case of Clariant
+International Limited vs. Security Exchange Board
+(2004) 8 SCC 524.
+(vi) Supreme Court in the case of Cellular
+Operators Association of India vs. Union of India
+(2003) 3 SCC 186 had clearly spelt out the
+functions of TRAI as well as of the TDSAT. It has
+been clearly held that TDSAT is an expert body.
+: 10 :
+
+WP(C) 2838/2005
+
+Supreme Court in this case examined the extent and
+parameters of the jurisdiction of TDSAT under
+Section 14 of the Act. Supreme Court also held
+that TDSAT was the “only forum for redressing the
+grievance of an aggrieved party inasmuch as the
+appellate jurisdiction to this Court is only on a
+substantial question of law and the jurisdiction of
+civil Court for filing a suit is also ousted. It has
+already been held by us that the tribunal has the
+power to adjudicate any dispute but while
+answering the dispute, due weight has to be given
+to the recommendation of the TRAI, which consists
+of experts.
+(vii) A bare comparison of provisions of Section 14
+which confers jurisdiction on the tribunal and
+Section 18 which confers jurisdiction on the
+Supreme Court, would unequivocally indicate that
+the Tribunal has much wider jurisdiction than the
+jurisdiction of this Court under Section 18, as this
+Court would be entitled to interfere only on a
+substantial question of law, which arises from the
+judgment of the Tribunal and not otherwise.
+(viii) Even if the Regulations are valid piece of
+subordinate legislation, the jurisdiction of TDSAT
+is not barred if any dispute arises under the
+Regulation. For example, in the present case it is
+the contention of MTNL that its entitlement to
+ADC has been wrongly reduced by TRAI on
+various non-existent grounds.
+(ix) Jurisdiction which the High Court exercises
+under Article 226 and 227 of the Constitution is not
+the same as is exercised by an expert appellate body
+in appeal.
+
+: 11 :
+
+WP(C) 2838/2005
+
+(x) The present case before us which involves
+consideration of access deficit charge (ADC) a
+matter of highly complicated and technical nature.
+Arguments by TRAI is in complete variance with
+the observations of the Supreme Court in the West
+Bengal Electricity Regulatory Commission case.
+(xi) The Supreme Court has also held that at least
+one right of appeal be given to the aggrieved party.
+Arguments advanced by TRAI would deprive the
+aggrieved party the MTNL of the right of appeal.
+(xii) In the case of the West Bengal Electricity
+Regulatory Commission the Supreme Court has
+found subordinate legislation to be valid. That is
+not so in the present case before us.
+(xiii) TRAI cannot frame Regulation under those
+sub-clauses which do not provide for framing of
+Regulations. It has certainly power to issue
+directions.
+
+12.
+
+(xiv) Even if the Regulation in the present case is a
+subordinate legislation, validly made, any dispute
+arising thereunder is within the jurisdiction of
+TDSAT as conferred upon it by the Act and no
+subordinate legislation can take away that
+jurisdiction. Any clause in the Regulation which
+seeks to divest the TDSAT to adjudicate upon any
+dispute is non-est and has to be ignored.”
+Aggrieved by this decision, the TRAI has filed the present
+
+writ petition contending that the order of the respondent no.1 was
+erroneous in law and amenable to the writ jurisdiction of this Court.
+The challenge has been laid by the writ petitioner on the same
+: 12 :
+
+WP(C) 2838/2005
+
+grounds which were its objection to the maintainability of the appeal
+before the TDSAT.
+13.
+
+This writ petition has been strenuously opposed by the
+
+respondent no.2. Objection has been taken to the propriety of the
+TRAI filing a writ petition.
+It has been urged by Mr.Vaidyalingam, learned senior
+counsel for the respondent no.2 that the TRAI can frame regulations
+under Section 36(1) only with regard to the matters which are
+specifically provided for under the statute.
+
+It is contended that
+
+anything done by the TRAI in discharge of its functions under
+Section 11(1)(b), 1(ii), (iii)(iv) can be done only by way of
+'directions' and 'decisions'. The TRAI has been statutorily enjoined
+to take 'decisions' in the matters relating to Telecommunication
+Interconnection Usage Charges( hereinafter referred to as IUC) and
+Access Deposit Charges(hereinafter referred to as ADC) and levy
+fees and other charges at different rates.
+On the other hand, under Section 36 the TRAI is
+empowered to make regulations by notification only in respect of the
+purposes specifically set out. The contention of the respondent is
+: 13 :
+
+WP(C) 2838/2005
+
+that merely because a decision of the TRAI is couched or notified as
+a 'regulation', the same does not change its real nature and such a
+'decision' is assailable by way of an Appeal under Section 14 of the
+statute. Notifying its 'decision' as a 'regulation' is merely a procedure
+adopted by the TRAI to give effect to its 'decision' while the real
+purpose of the same is to give effect to the 'decision' taken under
+Section 11(i)(b), (ii), (iii) and (iv) of the Act.
+14.
+
+Reliance has been placed on the pronouncement of the
+
+Constitution Bench of the Apex Court rendered in L Chander Kumar
+Vs. Union of India (1997) 2 SCC 261 (paras 91 to 94 on page 308)
+wherein it was held by the Supreme Court that the tribunals are
+competent even to hear the matters where the vires of statutory
+provisions are in question and would also have the jurisdiction to
+test the vires of subordinate legislation and rules.
+15.
+
+The maintainability of the writ petition is further objected
+
+to by the respondent on the ground that under Section 18 of the
+TRAI Act, 1997 an appeal against any order, not being an
+interlocutory order of the appellate tribunal, lay to the Supreme
+Court on one or more of the grounds specified in Section 100 of the
+: 14 :
+
+WP(C) 2838/2005
+
+Code of Civil Procedure. It is contended that in the instant case, the
+order passed on the preliminary issue relating to the jurisdiction of
+the TDSAT is not an interlocutory order and in fact constitutes a
+final determination on the issue of its jurisdiction. It adjudicates
+upon and decides rights of parties and consequently is appealable
+under Section 18 of the TRAI Act, 1997.
+
+With regard to this
+
+submission, support is sought to be drawn from the principles laid
+down by the Apex Court in Shah Babu Lal Khimji Vs. Jaya Ben D.
+Kania and another AIR 1981 SC 1786.
+16.
+
+Placing reliance on Amarnath vs. State of Haryana (1977)
+
+4 SCC 137 and Central Government of India vs. Gokul Chand AIR
+1967 SC 799. it is further contended that the orders which are
+relating to merely procedural matters and do not effect rights and
+liabilities of the parties or are steps taken towards final adjudication
+and for assisting parties in prosecution of cases as they only regulate
+procedure would be interlocutory orders.
+17.
+
+On facts, according to learned senior counsel for the
+
+respondents, it is urged that the regulation 1 of 2005 which fixes the
+ADC is really in the nature of tariff fixation. In view of the statutory
+: 15 :
+
+WP(C) 2838/2005
+
+stipulation, there is no manner of doubt that tariff fixation is
+appealable under section 14.
+18.
+
+The respondent no.2 has further submitted that assuming
+
+the contention of the petitioner was to be accepted that the regulation
+1 of 2005 was really a statutory regulation, which partakes the main
+statute, then the petitioner can bye pass the provision for statutory
+appeal by expressing any 'order', 'direction' or 'decision' as a
+'regulation', rendering the provision of appeal totally redundant and
+nugatory, which is impermissible.
+19.
+
+According to the respondent, the prohibition upon a
+
+tribunal hearing a challenge to statutory provision is only to the
+extent that the tribunal cannot hear a challenge to a provision of the
+statute under which it was created. In the instant case there was no
+challenge to any provision of the TRAI Act or subordinate
+legislation creating it but only to the issue of correctness of the
+decision of the TRAI relating to levy of the ADC which has been
+undertaken in exercise of the powers and functions under Section
+11(1)(ib) of the Act.
+20.
+
+The respondent no.2 further points out that the contention
+: 16 :
+
+WP(C) 2838/2005
+
+of the petitioner that the Supreme Court as the Appellate Court
+under Section 18 of the TRAI Act 1997 could not have also decided
+the issue of jurisdiction or the legality and validity of regulation 1 of
+2005 on principles laid down in the
+
+West Bengal Electricity
+
+Regulatory Commission vs. EEC Limited 2002(8) SCC 715 is
+misconceived in law and that it is settled law that every Court and
+Tribunal must decide its jurisdiction. Upon a challenge by a party
+being aggrieved by such determination, the same could be impugned
+by way of a statutory appeal. In the instant case the decision of the
+TDSAT is appealable in terms of Section 18 of the TRAI Act.
+21.
+
+Respondent no.2 further submits that according to the
+
+petitioner, the regulation 1 of 2005 is delegated legislation which
+has been framed by it under Section 36 of the TRAI Act 1997. If
+such position was accepted, it would be wholly improper for the
+legislative authority to assail any orders passed by the competent
+forum while dealing with any legislation made by it.
+22.
+
+Having heard learned senior counsel for the parties, the
+
+issues which arise for adjudication in the present case can be
+crystallized thus:: 17 :
+
+WP(C) 2838/2005
+
+(I)
+Whether the TDSAT being an Appellate
+Tribunal constituted under provisions of the
+Telecom Regulatory Authority of India Act, 1997
+has the jurisdiction to adjudicate upon the vires of
+any provisions of the statute where under it has
+been created or the vires of subordinate legislation
+par-taking the character of the statute which was in
+the nature of a regulation framed in exercise of
+statutory powers.
+(II)
+Whether the Appellate Tribunal has the
+jurisdiction to examine the question whether the
+impugned provision is subordinate legislation in
+the nature of a statutory regulation or a mere
+direction issued in exercise of the executive
+powers of the specialised authority.
+(III)
+What would be the appropriate forum
+for laying a challenge to the adjudication on the
+aforestated issues that is to say, whether the same
+would be by way of an appeal statutorily provided
+or could be laid by invoking the writ jurisdiction of
+the High Court under Article 226 of the
+Constitution of India.
+
+23.
+
+(IV)
+Propriety of the present challenge at the
+instance of the expert authority which had framed
+the regulation or passed the impugned decision or
+direction.
+Before dealing with the respective contentions of the
+
+parties, it is necessary to examine the scheme of the concerned
+statute.
+
+It would be useful to set out the relevant statutory
+
+provisions of the Telecom Regulatory Authority of India Act, 1997
+
+: 18 :
+
+WP(C) 2838/2005
+
+which are as hereunder:“11. Functions of Authority
+(1) Not withstanding anything contained in the
+Indian Telegraph Act, 1885, the functions of the
+Authority shall be to (a) make recommendations, either suo motu or on a
+request from the licensor,
+(b) discharge the following functions, namely:xxx
+(ii) notwithstanding anything contained in the terms
+and conditions of the licence granted before the
+commencement of the Telecom Regulatory
+Authority of India(Amendment) Act, 2000, fix the
+terms and conditions of inter-connectivity between
+the service providers;
+(iii) ensure technical compatibility and effective
+inter-connection
+between
+different
+service
+providers;
+(iv) regulate arrangement amongst service
+providers of sharing their revenue derived from
+providing telecommunication services;
+xxx
+(vii) maintain register of inter-connect agreements
+and of all such other matters as may be provided in
+the regulations;
+xxx
+(viii) keep register maintained under clause (vii)
+open for inspection to any member of public on
+payment of such fee and compliance of such other
+requirement as may be provided in the regulations;
+
+: 19 :
+
+WP(C) 2838/2005
+
+( c ) levy fees and other charges at such rates and in
+respect of such services as may be determined by
+regulations.
+(2) Nothwithstanding anything contained in the
+Indian Telegraph Act, 1885(13 of 1885), the
+Authority may, from time to time, by order, notify
+in the Official Gazette the rates at which th
+telecommunication services within India and
+outside India shall be provided under this Act
+including the rates at which messages shall be
+transmitted to any country outside India:
+(4) The Authority shall ensure transparency while
+exercising its powers and discharging its functions.
+12. Powers of Authority to call for information,
+conduct investigations, etc.
+xxx
+(4) The Authority shall have the power to issue
+such directions to service providers as it may
+consider necessary for proper functioning by
+service providers.
+13. Power of Authority to issue directions
+The Authority may, for the discharge of its
+functions under sub-section (1) of section 11, issue
+such directions from time to time to the service
+providers, as it may consider necessary.
+14. Establishment of Appellate Tribunal
+The Central Government shall, by notification,
+establish an Appellate Tribunal to be known as the
+Telecom Disputes Settlement and Appellate
+Tribunal to(a) adjudicate any dispute(i)between a licensor and a licensee;
+: 20 :
+
+WP(C) 2838/2005
+
+(ii)between two or more service providers;
+(iii)between a service provider and a group of
+consumers.
+(b) hear and dispose of appeal against any direction,
+decision or order of the authority under this Act.
+18. Appeal to Supreme Court
+(1)Notwithstanding anything contained in the Cod
+of Civil Procedure, 1908(5 of 1908) or in any
+other law, an appeal shall lie against any order,
+not being an interlocutory order, of the appellate
+Tribunal to the Supreme Court on one or more of
+the grounds specified in section 100 of that Code.
+(2) No appeal shall lie against any decision or order
+made by the Appellate Tribunal with the consent
+of the parties.
+36. Power to make regulations
+(1) The Authority may, by notification, make
+regulations consistent with this Act and the rules
+made thereunder to carry out the purposes of this
+Act.
+(2) In particular, and without prejudice to the
+generality of the foregoing power, such regulations
+may provide for all or any of the following matters,
+namely(d) matters in respect of which register is to be
+maintained by the Authority under sub-clause (vii)
+of clause (b) of sub-section (1) of section 11;
+(e) levy of fee and lay down such other
+requirements on fulfillment of which a copy of
+register may be obtained under sub-clause (viii) of
+clause (b) of sub-section (1) of section 11;
+: 21 :
+
+WP(C) 2838/2005
+
+(f) levy of fees and other charges under clause ( c )
+of sub-section (1) of section11.”
+
+24.
+
+37. Rules and regulations to be laid before
+Parliament
+Every rule and every regulation made under this
+Act shall be laid, as soon as may be after it is made,
+before each House of Parliament, while it is in
+session, for a total period of thirty days which may
+be comprised in one session or in two or more
+successive sessions, and if, before the expiry of the
+session immediately following the session or the
+successive sessions aforesaid, both Houses agree in
+making any modification in the rule or regulation or
+both Houses agree that the rule or regulation should
+not be made, the rule or regulation shall thereafter
+have effect only in such modified form or be of no
+effect, as the case may be; so, however, that any
+such modification or annulment shall be without
+prejudice to the validity of anything previously
+done under that rule or regulation.”
+The reason for the Constitution of the TRAI is to be found
+
+in the objects and reasons for the statute. The need thereof was
+realised long before the statute came into existence and was given
+effect to.
+
+The qualifications prescribed for the post of the
+
+Chairperson and other Members of the authority shows the
+requirement of specialized knowledge and specialised experience in
+telecommunication,
+
+industry,
+
+finance,
+
+accountancy,
+
+law,
+
+management or consumer affairs. There can be no manner of doubt
+: 22 :
+
+WP(C) 2838/2005
+
+that the authority has been consciously and carefully created and
+constituted in order to effectuate the spirit, intendment and purpose
+of the statute.
+The Appellate Forum(TDSAT) statutorily provided also
+consists of persons with similar expertise and ability. Section 15 of
+the TRAI Act excludes the jurisdiction of a civil court to entertain
+any suit or proceedings in respect of any matter which the Appellate
+Tribunal is empowered to determine. Statutory prohibition has been
+laid to grant of an injunction by any court or other authority in
+respect of any action taken or to be taken in exercise of the powers
+conferred under the enactment. Wide powers have been conferred on
+the TDSAT under statutory provisions which are exercisable by a
+civil court under the Code of Civil Procedure, 1908 while trying a
+suit in respect of matters stated. An appeal against an order passed
+by the TDSAT lies only to the Apex Court under Section 18 of the
+Act.
+25.
+
+The conflict of jurisdiction between an expert appellate
+
+tribunal as the TDSAT vis-a-vis the expert board has arisen for
+consideration in cases hitherto before the Apex Court. It has been
+: 23 :
+
+WP(C) 2838/2005
+
+authoritatively held that the limitations on the jurisdiction of the
+Tribunal have to be found in the statutory provisions whereunder it
+is created and the intention of the legislature has to be gathered
+therefrom.
+
+Unless the jurisdiction of the appellate authority is
+
+fettered by the statute, it would have the same authority and
+jurisdiction as that of the expert board under the statute. It can
+exercise its discretionary jurisdiction in the same manner as the
+board.
+26.
+
+Examination of the scheme of the TRAI Act shows that
+
+the statute provides for integration of power in the TRAI under
+Section 11 of the Act by vesting legislative, executive and judicial
+powers in the same body.
+
+The petitioner, TRAI, exercises its
+
+legislative powers by making regulations; executive powers by
+administering the regulations framed by it, issuing directions, taking
+decisions and further by taking action against any entity violating its
+regulations, decisions and directions. It exercises its judicial powers
+by adjudicating the disputes in the implementation thereof.
+
+27.
+
+The Appellate Forum constituted under Section 14 of the
+: 24 :
+
+WP(C) 2838/2005
+
+TRAI Act being the TDSAT is also empowered to exercise its
+jurisdiction conferred by statute without any limitation and the
+scrutiny by this expert Appellate Forum is of a wide import,
+restricted only by the requirement to comply with the constitutional
+mandate and the statutory provisions.
+28.
+
+The conflict of jurisdiction between an expert appellat
+
+tribunal constituted under a statute vis-a-vis the expert board whose
+action/decision is being examined by it, has also arisen for
+consideration before the Apex Court.
+
+This issue arose for
+
+consideration in the context of jurisdiction of Securities & Exchange
+Board vis-a-vis the Appellate Tribunal under the Securities &
+Exchange Board of India Act, 1992.
+29.
+
+In
+
+its
+
+authoritative
+
+pronouncement
+
+in
+
+Clariant
+
+International Limited vs SEBI AIR 2004 SC 4236 entitled, it was
+held by the Apex Court:“69. The Board is indisputably an expert body. But
+when it exercises its quasi judicial functions; its
+decisions are subject to appeal. The appellate
+Tribunal is also an expert Tribunal. Only such
+persons who have the requisite qualifications are to
+be appointed as members thereof as would appear
+from sub-section (2) of Section 15M of the said Act
+which reads thus:: 25 :
+
+WP(C) 2838/2005
+
+“15.M Qualification for appointment as
+Presiding Officer or Member of the
+Securities Appellate Tribunal--(2) A person shall not be qualified for
+appointment as Member of a Securities
+Appellate Tribunal unless he is a person
+of ability, integrity and standing who has
+shown capacity in dealing with problems
+relating to securities market and has
+qualification and experience of corporate
+law, securities laws, finance, economics
+or accountancy:
+Provided that a member of the Board of
+any person holding a post at senior
+management
+level
+equivalent
+to
+Executive Director in the Board shall not
+be appointed as Presiding Officer or
+Member of a Securities Appellate
+Tribunal during his service or tenure as
+such with the Board or within two years
+from the date on which he ceases to hold
+office as such i the Board”.
+72. Throughout the world, specialized adjudicators
+are performing numerous roles. There are diverse
+specialized tribunals in America as also in the
+Common Wealth countries. In certain States,
+statutes have been enacted authorizing appeals to
+the Administrative Division which jurisdiction used
+to be exercised by the High Court alone. The
+appeals range from questions of law to selected
+questions of fact, to full rehearing of all issues. (see
+Stephen Legomsky's 'Specialized Justice).
+
+: 26 :
+
+WP(C) 2838/2005
+
+73. Had the intention of the Parliament been to
+limit the jurisdiction of the Tribunal, it could say so
+explicitly as it has been done in terms of Section
+157 of the Act whereby the jurisdiction of this
+Court to hear the appeal is limited to the question
+of law.
+74. The jurisdiction of the appellate authority under
+the Act is not in any way fettered by the statute and,
+thus, it exercises all the jurisdiction as that of the
+Board. It can exercise its discretionary jurisdiction
+in the same manner as the Board.
+
+30.
+
+75. The SEBI Act confers a wide jurisdiction upon
+the Board. Its duties and functions thereunder, run
+counter to the doctrine of separation of powers.
+Integration of power by vesting legislative,
+executive and judicial powers in the same body, in
+future, may raise several public law concerns as the
+principle of control of one body over the other was
+the central theme underlying the doctrine of
+separation of powers.”
+Thus while considering the jurisdiction of an expert
+
+appellate forum which has been constituted under the provisions of
+the Securities and Exchange Board of India Act, 1992 in Clariant
+International Limited vs. SEBI AIR 2004 SC 4236, the Supreme
+Court held that expert regulatory bodies exercise a wide jurisdiction.
+They lay down the law, may prosecute, may punish. Intrinsically,
+they act like an internal audit. They may fix the price, area of
+operation and so on and so forth. While doing so, they may interfere
+: 27 :
+
+WP(C) 2838/2005
+
+with the existing rights of licencees. The court authoritatively held
+that the Appellate Tribunal was also like an expert body statutorily
+constituted and its powers were wide and circumscribed only by the
+restrictions contained in the Constitution and by the statute under
+which it is created.
+31.
+
+Examination of the scheme of the TRAI Act, 1997 shows
+
+that there is no restriction in the powers of the TDSAT which is an
+expert forum constituted under Section 14 of the statute. However
+appeals against the orders passed by TDSAT lay only to the Apex
+Court under Section 18 of the Act whereby the jurisdiction of the
+Apex Court as the appellate court is restricted to issues of law
+arising from orders which are not in the nature of interlocutory
+orders on grounds specified in section 100 of the Code of Civil
+Procedure.
+32.
+
+Section 100 of the Code of Civil Procedure provides a
+
+second appeal against every decree passed in appeal by any court
+subordinate to the High Court only if the case involves a substantial
+question of law and from an appellate decree passed ex parte. The
+High Court is required to be satisfied that a substantial question of
+: 28 :
+
+WP(C) 2838/2005
+
+law is involved in the case and the appeal shall be heard on that
+question.
+33.
+
+The jurisdiction of the TDSAT and its powers as an expert
+
+appellate forum was considered by the Apex Court in 2003(3) SCC
+186 entitled Cellular Operators Association of India and others
+vs. Union of India.
+The Court considered the powers of the TDSAT as the
+Appellate Tribunal empowered by and under the Act as contained in
+Section 15 and arrived at a conclusion that the power of the TDSAT
+as an Appellate Tribunal was wide as has been indicated in the
+statute itself. In this behalf the law laid down by the Apex Court
+reads thus:“8. ............................ Having regard to the very
+purpose and object for which the Appellate
+Tribunal was constituted and having examined the
+different provisions contained in Chapter IV, more
+particularly, the provision dealing with ousting the
+jurisdiction of the civil court in relation to any
+matter which the Appellate Tribunal is empowered
+by or under the Act, as contained in Section 15, we
+have no hesitation in coming to the conclusion that
+the power of the Appellate Tribunal is quite wide,
+has been indicated in the statute itself and the
+decisions of the court dealing with the power of a
+court, exercising appellate power or original
+: 29 :
+
+WP(C) 2838/2005
+
+power, will have no application for limiting the
+jurisdiction of the Appellate Tribunal under the
+Act.
+Since the Tribunal is the original
+authority to adjudicate any dispute between a
+licensor and a licensee or between two or more
+service providers or between a service provider
+and a group of consumers and since the
+Tribunal has to hear and dispose of appeals
+against the directions, decisions or order of
+TRAI, it is difficult for us to import the selfcontained restrictions and limitations of a court
+under the judge-made law to which reference has
+already been made and reliance was placed by the
+learned Attorney-General. By saying so, we may
+not be understood to mean that the Appellate
+Tribunal while exercising power under Section 14
+of the Act, will not give due weight to the
+recommendations or the decisions of an expert
+body like TRAI or in the case in hand, GOT-IT,
+which was specifically constituted by the Prime
+Minister for redressing the grievances of the
+cellular operators. We would, therefore, answer
+the question of jurisdiction of the Appellate
+Tribunal by holding that the said Tribunal has
+the power to adjudicate any dispute between
+the persons enumerated in clause (a) of Section
+14 and if the dispute is in relation to a decision
+taken by the Government, as in the case in
+hand, due weight has to be attached both to the
+recommendations of TRAI which consists of an
+expert body as well as to the recommendations of
+GOT-IT, a committee of eminent experts from
+different fields of life, which had been constituted
+by the Prime Minister.
+9. So far as the jurisdiction of this Court under
+Section 18 is concerned, there is no dispute from
+any quarter that the appeal would lie against any
+: 30 :
+
+WP(C) 2838/2005
+
+order of the Appellate Tribunal only on the ground
+specified in Section 100 of the Code of Civil
+Procedure and necessarily,therefore, it must be a
+substantial question of law.
+The question,
+therefore, that remains to be considered is, whether
+from the judgment of the Tribunal, the contentions
+raised by the appellants can be held to be a
+substantial question of law, which requires
+interference with the order of the Tribunal.
+xxxxxxxxxxx
+11. .............................At the outset, it may be stated
+that the Tribunal committed an error by holding
+that it exercises supervisory jurisdiction. As has
+been stated earlier, the jurisdiction of the
+Tribunal under Section 14 cannot be held to be
+a supervisory jurisdiction, in view of the
+language of the statute as well as the fact that it is
+the only forum for redressing the grievance of an
+aggrieved party inasmuch as the appellate
+jurisdiction to this Court is only on a
+substantial question of law and the jurisdiction of
+a civil court for filing a suit is also ousted. It has
+already been held by us that the Tribunal has the
+power to adjudicate any dispute but while
+answering the dispute, due weight has to be given
+to the recommendation of TRAI, which consists of
+experts.
+The Tribunal also committed yet
+another error in holding that the jurisdiction of
+the Appellate Tribunal cannot be wider than
+that of the Supreme Court. A bare comparison
+of the provisions of Section 14, which confers
+jurisdiction on the Tribunal and Section 18,
+which confers jurisdiction on the Supreme
+Court, would unequivocally indicate that the
+Tribunal has much wider jurisdiction than the
+jurisdiction of this Court under Section 18, as
+this Court would be entitled to interfere only on a
+: 31 :
+
+WP(C) 2838/2005
+
+34.
+
+substantial question of law, which arises from the
+judgment of the Tribunal and not otherwise.”
+In this binding pronouncement, the Apex Court
+
+emphasised the distinction between a judicial power in contrast to a
+reviewing power in an authority.
+
+While concurring with the
+
+aforenoticed conclusions, additional reasons were assigned for
+remitting the matter back to the tribunal in the judgment of
+S.B.Sinha, J. Referring to the observations by Amnon Rubinstein in
+'Jurisdiction and Illegalities', it was further stated that a :“A judicial power, on the other hand, denotes a
+process in which ascertainable legal rules are
+applied and which, therefore, is subject to an
+objectively correct solution. But that, as will be
+seen, does not mean that the repository of such a
+power is under an enforceable duty to arrive at that
+solution. The legal rules applied are capable of
+various interpretations and the repository of power,
+using his own reasoning faculties, may deviate
+from that solution which the law regards as the
+objectively correct one.
+
+35.
+
+The regulatory bodies exercise wide
+jurisdiction. They lay down the law. They may
+prosecute. They may punish. Intrinsically, they act
+like an internal audit. They may fix the price, they
+may fix the area of operation and so on and so
+forth. While doing so, they may, as in the present
+case, interfere with the existing rights of the
+licencees.”
+Also noticing the celebrated text on 'Judicial Review of
+: 32 :
+
+WP(C) 2838/2005
+
+Administrative Law' by HWR Wade and CF Forsyth, it was further
+stated thus:-
+
+36.
+
+“31.The rule as regard deference to expert bodies
+applies only in respect of a reviewing Court and
+not to an expert Tribunal. It may not be the
+function of a Court exercising power of judicial
+review to act as a super-model as has been stated in
+Administrative Law by Bernard Schwartz, 3rd
+edition in para 10.1 at page 625; but the same
+would not be a case where an expert Tribunal has
+been constituted only with a view to determine the
+correctness of an order passed by another expert
+body. The remedy under Section 14 of the Act is
+not a supervisory one. TDSAT's jurisdiction is
+not akin to a Court issuing a writ of certiorari.
+The Tribunal although is not a Court. It has all
+the trappings of a Court. Its functions are
+judicial.”
+In the light of this position and statement of the legal
+
+principles, so far as the jurisdiction of the TDSAT under Section
+14A of the TRAI Act it was stated:“27. TDSAT was required to exercise its
+jurisdiction in terms of Section 14-A of the Act.
+TDSAT itself is an expert body and its jurisdiction
+is wide having regard to sub-section(7) of Section
+14-A thereof. Its jurisdiction extends to examining
+the legality, propriety or correctness of a
+direction/order or decision of the authority in terms
+of sub-section (2) of Section 14 as also the dispute
+made in application under sub-section (1) thereof.
+The approach of the learned TDSAT, being on the
+premise that its jurisdiction is limited or akin to the
+: 33 :
+
+WP(C) 2838/2005
+
+power of judicial review is, therefore, wholly
+unsustainable. The extent of jurisdiction of a Court
+or a Tribunal depends upon the relevant statute.
+TDSAT is a creature of a statute. Its jurisdiction is
+also conferred by a statute. The purpose of
+creation of TDSAT has expressly been stated by
+the Parliament in the Amending Act of 2000.
+TDSAT, thus, failed to take into consideration the
+amplitude of its jurisdiction and thus misdirected
+itself in law.
+33. The regulatory bodies exercise wide
+jurisdiction. They lay down the law. They may
+prosecute. They may punish. Intrinsically, they act
+like an internal audit. They may fix the price, they
+may fix the area of operation and so on and so
+forth. While doing so, they may, as in the present
+case, interfere with the existing rights of the
+licensees.
+34. Statutory recommendations made by it are
+normally accepted by the Central Government, as a
+result of which the rights and obligations of the
+parties may seriously be affected. It was in the
+aforementioned premise Parliament thought of
+creating an independent expert tribunal which, if an
+occasion arises therefor, may interfere with the
+finding of fact, funding of law or a mixed question
+of law and fact of the authority. Succinctly stated,
+the jurisdiction of the Tribunal is not circumscribed
+in any manner whatsoever.
+37. There cannot be any doubt whatsoever that
+when jurisdiction upon a court or a tribunal is
+conferred by a statute, the same has to be construed
+in terms thereof and not otherwise. The power of
+judicial review of this Court as also of the High
+: 34 :
+
+WP(C) 2838/2005
+
+court, however, stand on a different footing. The
+power of this Court as also the High Court
+although is of wide amplitude, certain restrictions
+by way of self-discipline are imposed. Ordinarily,
+the power of judicial review can be exercised only
+when illegality, irrationality or impropriety is
+found in the decision-making process of the
+authority.
+43.The learned TDSAT should have borne in mind
+that its decision on fact and law is final and appeal
+lies to this Court in terms of Section 18 of the Act
+only on substantial questions of law. It, therefore,
+was obliged to determine the questions of law and
+facts so as to enable this Court to consider the
+matter if any substantial question of law arises on
+the face of the judgment.
+47.Even the scope of judicial review may also vary
+from case to case. It depends upon the nature of
+the matter as also the statute involved therein
+which is required to be dealt with by the Court.
+
+37.
+
+49. Furthermore, the power of this Court under
+Section 18 of the Act cannot be equated with the
+power of judicial review. As this Court will be
+concerned with a substantial question of law
+arising in the case, its jurisdiction would not be
+restricted to illegality, irrationality or procedural
+impropriety in the decision-making process.”
+The authority and jurisdiction of an appellate expert
+
+forum, its importance and necessity, therefore, cannot be belittled or
+narrowed down by strict or a narrow interpretation of the statutory
+provisions. Its importance is to be found in the observations of the
+: 35 :
+
+WP(C) 2838/2005
+
+Apex Court in its earlier judgment in West Bengal Electricity
+Regulatory Commission vs. CESC Limited reported at 2002(8)
+SCC 715. The three Judge Bench of the Apex Court was
+considering the extent of the jurisdiction of the High Court in
+exercise of its appellate power under Section 27 of the Electricity
+Regulatory Commission Act, 1998 which is almost pari materia with
+Section 14 of the TRAI Act with which the present case is
+concerned. The court noticed the absence of an expert appellate
+authority in the Electricity Regulatory Commission Act, 1998 and
+observed thus:“We notice that the Commission constituted under
+Section 17 of the 1998 Act is an expert body and
+the determination of tariff which has to be made by
+the Commission involves a very highly technical
+procedure, requiring working knowledge of law,
+engineering, finance, commerce, economics and
+management. A perusal of the report of the ASCI
+as well as that of the Commission abundantly
+proves this fact. Therefore, we think it would be
+more appropriate and effective if a statutory
+appeal is provided to a similar expert body, so
+that the various questions which are factual and
+technical that arise in such an appeal, get
+appropriate consideration in the first appellate
+stage also. From Section 4 of the 1998 Act, we
+notice that the Central Electricity Regulatory
+Commission which has a Judicial Member as also a
+: 36 :
+
+WP(C) 2838/2005
+
+38.
+
+number of other Members having varied
+qualifications, is better equipped to appreciate the
+technical and factual questions involves in the
+appeals arising from the orders of the Commission.
+Without meaning any disrespect of the Judges of
+the High Court, we think neither the High Court
+nor the Supreme Court would in reality be
+appropriate appellate forums in dealing with
+this type of factual and technical matters.
+Therefore, we recommend that the appellate
+power against an order of the State Commission
+under the 1998 Act should be conferred either
+on the Central Electricity Regulatory
+Commission or on a similar body. We notice
+that under the Telecom Regulatory Authority of
+India Act, 1997 in Chapter IV, a similar
+provision is made for an appeal to a special
+Appellate Tribunal and thereafter a further
+appeal to the Supreme Court on questions of
+law only. We think a similar appellate provision
+may be considered to make the relief of appeal
+more effective.”
+In the light of the aforestated observations, there can be no
+
+manner of doubt that the TDSAT is an expert body and is statutorily
+empowered to exercise jurisdiction without any limitation and its
+powers are wider than the powers of the appellate court under
+Section 18 of the TRAI Act.
+39.
+
+In order to answer the first issue as to the jurisdiction of a
+
+tribunal constituted under a special statute to examine the
+constitutional validity of a statutory provision or delegated
+: 37 :
+
+WP(C) 2838/2005
+
+legislation thereunder, it becomes necessary to examine the
+constitutional scheme with regard to the vesting of the powers of
+judicial review to a statutory tribunal.
+40.
+
+Judicial review in India comprises three aspects: judicial
+
+review of legislative action; judicial review of judicial decisions and
+judicial review of administrative actions.
+41.
+
+The Supreme Court had an opportunity to state the law
+
+and its views on the power of a tribunal to undertake judicial review
+of legislative action. It is well settled that under the Constitutional
+scheme in India, legislative acts of parliament are subject to judicial
+review particularly when they purport to infringe fundamental
+rights. There is no doubt that the Constitution has entrusted the
+jurisdiction in construing the provisions of the Constitution of India
+and of safeguarding the rights of citizens in courts. Challenge may
+be laid to an action or a statute passed by the legislature on the
+grounds of the same being without authority or it otherwise
+unconstitutionally trespasses on fundamental rights. It is for the
+courts to determine such disputes and decide whether the law passed
+by the legislature is valid or not. (Re: 1973 (4) SCC 225 His
+: 38 :
+
+WP(C) 2838/2005
+
+Holiness Kesavananda Bharati Sripadagalvaru vs. State of Kerala
+and another); AIR 1956 SC 479 Bidi Supply Company vs. Union of
+India; AIR 1952 SC 196 State of Madras vs. V.G.Row).
+42.
+
+The thirteen Judge Constitution Bench in His Holiness
+
+Kesavananda Bharati Sripadagalvaru vs. State of Kerala and another
+reported at 1973(4) SCC 225 considered in detail the power of
+judicial review and held that Article 32 and 226 of the Constitution
+of India vests the Supreme Court and High
+
+Courts with the
+
+jurisdiction to decide about the constitutional validity of the
+provisions of statute. If the provisions of the statute are found to be
+violative of any articles of the Constitution, which is the touch stone
+for the validity of all the laws, the Supreme Court and the High
+Courts are empowered to strike down such provisions and that this is
+one of the basic features upon which hinges the system of checks
+and balances and
+
+separation of powers recognised by the
+
+constitutional scheme.
+43.
+
+In exercise of the power of judicial review into legislative
+
+action, it is well settled that the court has to ensure that the balance
+of power envisaged by the Constitution is maintained and that the
+: 39 :
+
+WP(C) 2838/2005
+
+legislature and the executive do not, in discharge of their functions
+transcript constitutional limitations. At the same time, the courts are
+required to oversee that judicial decisions rendered by those in the
+subordinate courts and tribunals do not violate the strict standards of
+legal correctness and judicial independence. The safeguards and
+protection available to the members of the superior judiciary are not
+available to those in the subordinate judiciary or to those manning
+tribunals created by ordinary legislations and for this reason they
+cannot be considered an effective substitute for the higher judiciary
+in discharge of the function of constitutional interpretation.
+44.
+
+It was, therefore, held by the Apex Court in L.Chandra
+
+Kumar vs. Union of India reported at (1997)3 SCC 261 (in para
+78 of the report) that the power of judicial review over legislative
+action vested in the Supreme Court under Article 32 and in the High
+Courts under Article 226 of the Constitution is an integral and
+essential features of the constitution, constituting part of its basic
+structure. Ordinarily, therefore, the powers of these Courts to test
+the constitutional validity of legislation cannot be ousted or
+excluded.
+: 40 :
+
+WP(C) 2838/2005
+
+45.
+
+In para 79 of the pronouncement, the Apex Court held that
+
+the powers vested in the High Courts to exercise judicial
+superintendence over the decisions of all Courts and Tribunals
+within their respective jurisdictions is also part of the basic structure
+of the Constitution.
+46.
+
+It was further held that though the subordinate judiciary or
+
+tribunals created under ordinary legislations cannot exercise the
+power of judicial review of legislative action to the exclusion of the
+High Courts or the Supreme Court, there is no constitutional
+prohibition against their performing a supplemental, as opposed to a
+substitutional role in this report.(para 80 of the report).
+47.
+
+At this stage, it would be useful to notice the observations
+
+of the Apex Court with regard to the jurisdiction of the tribunals to
+the test validity of the legislation against the constitutional
+provisions. In this behalf the Apex Court observed thus:“81. If the power under Article 32 of the
+Constitution, which has been described as the
+“heart” and “soul” of the Constitution, can be
+additionally conferred upon “any other court”,
+there is no reason why the same situation cannot
+subsist in respect of the jurisdiction conferred upon
+the High Courts under Article 226 of the
+: 41 :
+
+WP(C) 2838/2005
+
+Constitution. So long as the jurisdiction of the
+High Courts under Articles 226/227 and that of
+this Court under Article 32 is retained, there is
+no reason why the power to test the validity of
+legislations against the provisions of the
+Constitution cannot be conferred upon
+Administrative Tribunals created under the Act
+or upon Tribunals created under Article 323-B
+of the Constitution. It is to be remembered that,
+apart from the authorisation that flows from
+Articles 323-A and 323-B, both Parliament and
+the State Legislatures possess legislative
+competence to effect changes in the original
+jurisdiction of the Supreme Court and the High
+Courts. This power is available to Parliament
+under Entries 77, 78, 79 and 95 of List I and to
+the State Legislatures under Entry 65 of List II;
+Entry 46 of List III can also be availed of both by
+Parliament and the State Legislatures for this
+purpose.
+xxx xxxx
+90. We may first address the issue of exclusion of
+the power of judicial review of the High Courts.
+We have already held that in respect of the power
+of judicial review, the jurisdiction of the High
+Courts under Articles 226/227 cannot wholly be
+excluded. It has been contended before us that
+the Tribunals should not be allowed to
+adjudicate upon matters where the vires of
+legislations is questioned,and that they should
+restrict themselves to handling matters where
+constitutional issues are not raised. We cannot
+bring ourselves to agree to this proposition as
+that may result in splitting up proceedings and
+may cause avoidable delay. If such a view were
+to be adopted, it would be open for litigants to raise
+constitutional issues, many of which may be quite
+: 42 :
+
+WP(C) 2838/2005
+
+frivolous, to directly approach the High Courts and
+thus subvert the jurisdiction of the Tribunals.
+Moreover, even in these special branches of law,
+some areas do involve the consideration of
+constitutional questions on a regular basis; for
+instance, in service law matters, a large majority of
+cases involve an interpretation of Articles 14, 15
+and 16 of the Constitution. To hold that the
+Tribunals have no power to handle matters
+involving constitutional issues would not serve the
+purpose for which they were constituted. On the
+other hand, to hold that all such decisions will be
+subject to the jurisdiction of the High Courts within
+whose territorial jurisdiction the Tribunal
+concerned falls will serve two purposes. While
+saving the power of judicial review of legislative
+action vested in the High Courts under Articles
+226/227 of the Constitution, it will ensure that
+frivolous claims are filtered out through the
+process of adjudication in the Tribunal. The
+High Court will also have the benefit of a reasoned
+decision on merits which will be of use to it in
+finally deciding the matter.”
+48.
+
+So far as the instant case is concerned, it has been urged
+
+by Mr.G.L.Sanghi, learned senior counsel for the petitioner, that the
+Apex Court has drawn a clear distinction between an ordinary
+tribunal constituted under the ordinary legislation and a tribunal as
+the Central Administrative Tribunal which is created under Article
+323-B of the Constitution which draws its
+
+authorisation from
+
+Articles 323-A and 323-B of the Constitution.
+: 43 :
+
+WP(C) 2838/2005
+
+49.
+
+I find that the Apex Court has noticed that the Parliament
+
+and the State Legislature possess the
+
+legislative competence to
+
+effect the changes in the original jurisdiction of the Apex Court and
+the High Court under Article 323-A and 323-B of the Constitution
+respectively. The Apex Court, in the L Chandra Kumar case(supra),
+has noticed that such power to effect changes in the original
+jurisdiction of the Supreme Court and the High Court is also
+available to the Parliament under Entries 77 & 78, 79 and 95 of ListI and to the State Legislature under Entry 65 of List-II and Entry 46
+of List-III and that such powers can be availed of both by the
+Parliament and the State Legislature for this purpose.
+50.
+
+After a detailed analysis of the applicable laws, the Apex
+
+Court however laid down the principles applicable in the following
+terms:“93. Before moving on to other aspects, we may
+summarise our conclusions on the jurisdictional
+powers of these Tribunals. The Tribunals are
+competent to hear matters where the vires of
+statutory provisions are questioned. However, in
+discharging this duty, they cannot act as substitutes
+for the High Courts and the Supreme Court which
+have, under our constitutional set up, been
+specifically entrusted with such an obligation.
+: 44 :
+
+WP(C) 2838/2005
+
+Their function in this respect is only supplementary
+and all such decisions of the Tribunals will be
+subject to scrutiny before a Division Bench of the
+respective High Courts. The Tribunals will
+consequently also have the power to test the
+vires of subordinate legislations and rules.
+However, this power of the Tribunals will be
+subject to one important exception.
+The
+Tribunals shall not entertain any question
+regarding the vires of their parent statutes
+following the settled principle that a Tribunal
+which is a creature of an Act cannot declare that
+very Act to be unconstitutional. In such cases
+alone, the High Court concerned may be
+approached directly. All other decisions of these
+Tribunals, rendered in cases that they are
+specifically empowered to adjudicate upon by
+virtue of their parent statutes, will also be subject to
+scrutiny before a Division Bench of their respective
+High Courts. We may add that the Tribunals will,
+however, continue to act as the only courts of first
+instance in respect of the areas of law for which
+they have been constituted. By this, we mean that
+it will not be open for litigants to directly approach
+the High Courts even in cases where they question
+the vires of statutory legislations (except, as
+mentioned, where the legislation which creates the
+particular Tribunal is challenged) by overlooking
+the jurisdiction of the Tribunal concerned.
+99. In view of the reasoning adopted by us, we hold
+that clause2(d) of Article 323-A and clause 3(d) of
+Article 323-B, to the extent they exclude the
+jurisdiction of the High Courts and the Supreme
+Court under Articles 226/227 and 32 of the
+Constitution, are unconstitutional. Section 28 of
+the Act and the “exclusion of jurisdiction” clauses
+: 45 :
+
+WP(C) 2838/2005
+
+51.
+doubt
+
+in all other legislations enacted under the aegis of
+Articles 323-A and 323-B would, to the same
+extent, be unconstitutional.
+The jurisdiction
+conferred upon the High Courts under Articles
+226/227 and upon the Supreme Court under
+Article 32 of the Constitution is a part of the
+inviolable basic structure of our Constitution.
+While this jurisdiction cannot be ousted, other
+courts and Tribunals may perform a
+supplemental role in discharging the powers
+conferred by Articles 226/227 and 32 of the
+Constitution. The Tribunals created under
+Article
+323-A and Article 323-B of the
+Constitution are possessed of the competence to
+test the constitutional validity of statutory
+provisions and rules. All decisions of these
+Tribunals will, however, be subject to scrutiny
+before a Division Bench of the High Court within
+whose jurisdiction the Tribunal concerned falls.
+The Tribunals will, nevertheless, continue to act
+like courts of first instance in respect of the areas of
+law for which they have been constituted. It will
+not, therefore, be open for litigants to directly
+approach the High Courts even in cases where they
+question the vires of statutory legislations (except
+where the legislation which creates the particular
+Tribunal is challenged) by overlooking the
+jurisdiction of the Tribunal concerned. Section
+5(6) of the Act is valid and constitutional and is to
+be interpreted in the manner we have indicated.”
+In view of the above discussion, I have no manner of
+that it is not open for a litigant to approach a tribunal
+
+constituted under a statute to question vires of a statutory legislation
+which created the particular tribunal. However it is open for the
+: 46 :
+
+WP(C) 2838/2005
+
+litigant to test the constitutional validity of statutory provisions and
+rules before a tribunal created under Article 323-A and 323-B of the
+Constitution.
+52.
+
+In the light of the authoritative pronouncements of law by
+
+the Apex Court, therefore, it has to be held that the TDSAT in the
+instant case, which has derived its jurisdiction under the specific
+statutory provisions of the TRAI Act and has not been created under
+any constitutional provisions does not have the jurisdiction or the
+competence to decide on the constitutionality of a statutory
+provision under which it has been created. For the same reasoning,
+it would not have the competence to adjudicate on the vires of the
+subordinate legislation framed and effectuated in exercise of power
+conferred under the same statute.
+53.
+
+Having so held, the second issue which has been urged on
+
+behalf of the respondent no.2 requires consideration. It is pointed
+out that in the instant case, the challenge relates to the legality and
+validity of what has been termed by the petitioner as “regulations”.
+Their validity has been assailed before the TDSAT in exercise of its
+jurisdiction as an expert tribunal having the expertise and the legal
+: 47 :
+
+WP(C) 2838/2005
+
+competence to decide the technical issues. The respondents contend
+that the TDSAT was fully competent to examine the legality and
+validity of these regulations inasmuch as even though the petitioner
+has couched the same as regulations, however examination of the
+same would show that they were really in the nature of directions
+issued by the TDSAT resulting in reduction of the Access Deficit
+Charges.
+54.
+
+It is well settled that a tribunal is fully empowered to
+
+examine an issue relating to its jurisdiction. Such a question in the
+instant case necessarily requires examination and determination as to
+whether the challenge relates to the statutory regulations or whether
+the same related to a challenge to directions issued by the petitioner
+in exercise of its administrative or executive jurisdiction under the
+provisions of the TRAI Act.
+55.
+
+The distinction between rules, regulations and their effect
+
+fell for consideration before the apex court in its judgment reported
+at (1975) 1 SCC 421 Sukhdev Singh Vs. Bhagat Ram and it was
+held as follows:24. Broadly stated, the distinction between rules
+: 48 :
+
+WP(C) 2838/2005
+
+and regulations on the one hand and
+administrative instructions on the other is that
+rules and regulations can be made only after
+reciting the
+source of power whereas
+administrative instructions are not issued after
+reciting source of power. Second, the executive
+power of a State is not authorised to frame rules
+under Article 162. This Court held that the Public
+Works Department Code was not a subordinate
+legislation (See G.J. Fernandez vs. State of
+Mysore). The rules under Article 309 on the other
+hand constitute not only the constitutional rights of
+relationship between the State and the government
+servants but also establish that there must be
+specific power to frame rules and regulations.
+26. The character of regulations has been decided
+by this Court in several decisions. One group of
+decisions consists of S.R.Tiwari vs. District Board,
+Agra; Life Insurance Corporation of India vs. Sunil
+Kumar Mukherjee; Calcutta Dock Labour Board vs.
+Jaffar Imam; Mafatlal Naraindas Barot vs.
+Divisional
+Controller
+S.T.C.;
+The
+Sirsi
+Municipality vs. Cecelia Kom Francis; U.P. State
+Warehousing Corporation vs. C.K.Tyagi and Indian
+Airlines Corporation vs. Sukhdeo Rai.
+33. There is no substantial difference between a
+rule and a regulation inasmuch as both are
+subordinate legislation under powers conferred by
+the statute. A regulation framed under a statute
+applies uniform treatment to every one or to all
+members of some group or class. The Oil and
+Natural Gas Commission, the Life Insurance
+Corporation and Industrial Finance Corporation are
+all required by the statute to frame regulations inter
+alia for the purpose of the duties and conduct and
+: 49 :
+
+WP(C) 2838/2005
+
+conditions of service of officers and other
+employees. These regulations impose obligation on
+the statutory authorities. The statutory authorities
+cannot deviate from the conditions of service.
+xxxxx
+This Court has repeatedly observed that whenever a
+man's rights are affected by decision taken under
+statutory powers, the Court would presume the
+existence of a duty to observe the rules of natural
+justice and compliance with rules and regulations
+imposed by statute.”
+56.
+
+The question which was raised before the TDSAT was as
+
+to whether the impugned order 1 of 2005 par took the nature of
+subordinate legislation as it was a regulation framed framed under
+the provisions of TRAI Act, 1997 or was it merely in the nature of
+administrative directions issued by the TRAI under the TRAI Act of
+1997. It was open and certainly incumbent upon the tribunal to
+examine this issue in order to answer the objections raised by the
+petitioner to its jurisdiction.
+57.
+
+As noticed hereinabove, after a detailed consideration, the
+
+Tribunal found that the provisions of Section 14, creating and
+conferring jurisdiction on it, were much wider than the appellate
+jurisdiction of the Apex Court under Section 18 of the TRAI Act.
+The Appellate tribunal was of the view that in the instant case, it has
+: 50 :
+
+WP(C) 2838/2005
+
+been called upon to adjudicate upon a dispute raised by the MTNL
+that its entitlement to the access deficit charges has been wrongly
+reduced by the TRAI on non-existent grounds and in violation of
+principles of natural justice. Such a dispute, it was observed, was
+just the type of factual and technical matter which the Apex Court in
+the West Bengal Electricity Regulatory Commission case had held,
+could be appropriately and more effectively adjudicated in a
+statutory appeal by an expert body so that the factual and technical
+questions which arose in such an appeal would get appropriate
+consideration at the appellate stage as well.
+58.
+
+It is an admitted position that the consideration of the
+
+Access Deficit Charge is a matter of highly complicated and
+technical nature. The Tribunal arrived at a conclusion that the TRAI
+is empowered to frame regulations circumscribed by the statutory
+provisions and that it has no authority to frame regulations in respect
+of matters not specifically provided for. In such areas, it only had a
+jurisdiction to issue directions.
+59.
+
+According to the petitioner,
+
+the notification has been
+
+finalised and issued after an elaborate consultation process involving
+: 51 :
+
+WP(C) 2838/2005
+
+all stake holders.
+
+Such consideration and consultation is not
+
+required to be undertaken in the event of a legislative exercise being
+undertaken to either frame statutes or notify statutory rules and
+regulations.
+60.
+
+Section 11(4) mandates that the TRAI shall ensure
+
+transparency while exercising its powers and discharging its
+functions.
+
+On behalf of TRAI it has been pointed out that the
+
+advertisements were issued and all stake holders were permitted
+participation while a public hearing was effected prior to issuance of
+the impugned notification. I find force in the contention that such
+actions are not consistent with discharge of legislative functions and
+powers which do not mandate compliance with provisions of natural
+justice and hearing while discharging legislature functions.
+61.
+
+In order to appreciate the manner in which the TRAI is to
+
+function, it becomes necessary to closely examine the provisions of
+Section 11 of the TRAI Act, 1997 which provides the source of
+statutory powers of the authority.
+In the instant case, it has been contended by the petitioner
+that it has framed Regulation I of 2005 in exercise of the powers
+: 52 :
+
+WP(C) 2838/2005
+
+conferred on it under Section 36 read with Section 11(1)(b) of the
+TRAI Act. Even the regulation so stipulates.
+62.
+
+Access Deficit Charge which is the subject matter of the
+
+grievance is a deficit arising due to rental revenue being below cost
+based rental minus any net surplus revenue on local calls as well as
+minus any government financial support provided to operators. The
+power to do so is to be found in the provisions of Section 11(1)(b) of
+the TRAI Act whereunder the TRAI is empowered to fix the terms
+and conditions of interconnectivity between the service provider, in
+short technical compatibility and effective interconnection between
+the service providers and ensures compliance of the terms and
+conditions of the licence.
+
+Perusal of the regulation which was
+
+impugned before the TDSAT itself shows that the TRAI has itself
+stated that by the “regulation” it is intended to fix the terms and
+conditions of the interconnectivity and to ensure a effective
+interconnection between the different service providers, regulate
+arrangement amongst them of sharing their revenue derived from
+providing telecommunication services.
+63.
+
+For this reason also, it would appear that the impugned
+: 53 :
+
+WP(C) 2838/2005
+
+decision of the respondents is in the nature of an exercise of the
+executive jurisdiction of the respondents and is not a legislative
+exercise.
+64.
+
+Examination of the provisions of Section 36 whereby the
+
+TRAI is empowered to make regulations shows that it is specifically
+mentioned therein that regulations would be made by notification in
+respect of the subjects set out therein. Section 36(2)(e) empowers
+the TRAI to make regulations in respect of the subject matter of
+Section 11(1)(b)(viii) and Section 11(1)(c) of the Act. In this view
+of the matter, I have no manner of doubt that the TRAI can validly
+make regulations in respect of only such subject matters which have
+been specifically specified under Section 36 of the enactment. It is
+necessary to bear in mind the spirit, intendment and purpose of the
+TRAI Act, 1997 and the functions which the authority is required to
+discharge.
+
+Both the Appellate Forum and the TRAI consist of
+
+experts who are required to go into technical questions which arise
+for consideration.
+
+The Appellate Authority is specifically
+
+empowered to hear and dispose of appeals against directions,
+decisions and orders of the TRAI.
+: 54 :
+
+WP(C) 2838/2005
+
+65.
+
+In this view of the matter, it cannot possibly be
+
+successfully contended that an issue relating to the fixation of the
+access deficit charges cannot be agitated before the TDSAT which is
+specifically empowered to hear such grievance under the provisions
+of Section 14(b) of the TRAI Act, 1997.
+66.
+
+It is the contention of the petitioner to the effect that TRAI
+
+can make regulations in respect of all its functions
+
+under all
+
+statutory provisions and that the jurisdiction of the TDSAT to
+examine disputes in respect thereof would be barred.
+
+If this
+
+objection were to be sustained, it would not be open to any person to
+impugn any action of the petitioner on the ground that the same was
+an exercise of legislative powers under the statute. Such could never
+has been the intention of the legislature. The result, in case such a
+contention was to be sustained, would be that the jurisdiction of
+TDSAT to examine the disputes being raised by different persons
+including service providers would be ousted in almost all the cases
+inasmuch as the TDSAT has been held to be legally incapable of
+examining the vires of the statutory provisions and subordinate
+legislation which confer power and jurisdiction on the tribunal.
+: 55 :
+
+WP(C) 2838/2005
+
+67.
+
+There is no dispute whatsoever that the questions raised
+
+by the respondent MTNL are factual and technical matters. The
+issue relates to the fixation of an appropriate figure as the access
+deficit charge is based on a complicated matrix of facts and figures.
+Dispute has been raised by the MTNL that its entitlement to the
+access deficit charges has been wrongly reduced.
+
+A close
+
+examination of the statutory scheme would show that the legislature
+has clearly differentiated between statutory provisions which will
+require framing and notifications of regulations and those for which
+power has been conferred to issue directions.
+68.
+
+Perusal of the statement of objects and reasons for the Bill
+
+which sought to replace the TRAI(Amendment) Ordinance 2000
+shows that it was intended to clearly lay down the functions of the
+TRAI which included fixation of terms and conditions of interconnetivity between service providers and also mandated that
+decisions of the authority taken discharge of its functions under
+Section 11(1)(b) and 11(2) and 13 which are appealable to the
+Appellate Tribunal shall not be subject to audit by the Comptroller
+and Auditor General of India.
+: 56 :
+
+Section 11(1)(b) of the statute
+WP(C) 2838/2005
+
+provides for the fixation of the terms and conditions of interconnectivity between the service providers.
+69.
+
+I find force in the submissions on behalf of the
+
+respondents to the effect that the access deficit charges would be
+covered within the ambit of the expression “terms and conditions of
+inter-connectivity” between the service providers and hence any
+direction or decision in respect thereof has to be appealable to the
+appellate tribunal constituted under Section 14 of the statute. The
+TDSAT specifically is even otherwise empowered to hear and
+dispose of appeals from any directions, decision or decision or order
+of the TRAI by virtue of the powers vested in it under Section 14(b)
+of the Act. The challenge made by the petitioner on this ground has
+therefore to be answered against it.
+70.
+
+In the instant case there is no manner of doubt that the
+
+TRAI was fully competent to issue directions in respect of the access
+deficit charges for which it has been statutorily empowered.
+Therefore, I find force in the contentions on behalf of the
+respondents to the effect that merely because it has notified its
+decision as a regulations and may even have followed the same
+: 57 :
+
+WP(C) 2838/2005
+
+procedure to give effect to the same, it cannot have the effect of
+converting such directions into statutory regulations. I find that the
+real purpose of the TRAI was to give effect to a decision taken under
+Section 11 of the Act and, therefore, there is no prohibition to the
+maintainability of the appeal before the TDSAT.
+71.
+
+The
+
+respondents
+
+have
+
+strenuously
+
+contended
+
+that
+
+acceptance of the submission of the petitioner would have the effect
+of denuding the Supreme Court of the appellate jurisdiction which
+has been statutorily conferred on it. Placing reliance on certain
+observations made by the Apex Court in K.S.Venkataraman and
+company vs. State of Madras 1996(2) SCR 229 it has been pointed
+out that the Apex Court held thus:“It has been held by this Court that the jurisdiction
+conferred upon the High Court by s.66 of the
+Income tax Act is a special advisory jurisdiction
+and its scope is strictly limited by the section
+conferring the jurisdiction. It can only decide
+questions of law that arise out of the order of the
+Tribunal and that are referred to it. Can it be said
+that a question whether a provision of the Act is
+ultra vires of the Legislature arises out of the
+Tribunal's order? As the Tribunal is a creature of
+the statute, it can only decide the dispute
+between the assessee and the Commissioner in
+terms of the provisions of the Act. The question
+: 58 :
+
+WP(C) 2838/2005
+
+of ultra vires is foreign to the scope of its
+jurisdiction. If an assessee raises such a question,
+the Tribunal can only reject it on the ground that it
+has no jurisdiction to entertain the said objection or
+decide on it. As no such question can be raised or
+can arise on the Tribunal's order, the High Court
+cannot possibly give any decision on the question
+of the ultra vires of a provision. At the most the
+only question that it may be called upon to decide is
+whether the Tribunal has jurisdiction to decide the
+said question. On the express provisions of the Act
+it can only hold that it has no such jurisdiction.
+The appeal under s.66A(2) to the Supreme Court
+does not enlarge the scope of the said jurisdiction.
+This Court can only do what the High Court can.
+The said machinery provisions cannot be construed
+in vacuum: they must be collated with the charging
+sections; that is to say, the Act provided for a
+machinery for deciding disputes that arise under the
+substantive provisions of the Act. To illustrate:
+suppose there is provision in the Act to the effect
+that the said Act does not apply to indivisible
+building contracts. Can the officer decide that the
+Act applies to such building contracts? Such a
+decision, if given, will not be under but outside the
+Act. Take another illustration: suppose this Court
+has held that a provision authorising the taxing of
+an indivisible building contract is ultra vires the
+power of the State Legislature and, therefore, void;
+in that event, how can an authority functioning
+under the Act tax such a contract on the basis of a
+provision declared to be ultra vires and, therefore,
+non-existent? If it does, it will be assessing not
+under the Act but outside it. The same legal
+position will flow though there is no such previous
+declaration by a competent court, but a charging
+: 59 :
+
+WP(C) 2838/2005
+
+provision is in fact and in law ultra vires the
+Legislature. Any assessment made on the basis of
+such a void provision cannot be a decision under
+the provisions of the Act. Briefly stated, the
+procedural machinery under the Act can be utilized
+only to decide disputes that arise under the
+substantive provisions of the Act which are not
+ultra vires.
+The proposition that an authority constituted under
+the Act cannot, unless expressly so authorised,
+question the validity of the Act or any provisions
+thereof, is sound and is also supported by
+authority.”(at pages 248-249)
+“We agree with the said observation. There is,
+therefore, weighty authority for the proposition
+that a tribunal, which is a creature of a statute,
+cannot question the vires of the provisions under
+which it functions.(page 251)
+The legal position that emerges from the
+discussion may be summarized thus : If a statute
+imposes a liability and creates an effective
+machinery for deciding questions of law or fact
+arising in regard to that liability, it may, by
+necessary implication, bar the maintainability of
+a civil suit in respect of the said liability. A
+statute may also confer exclusive jurisdiction on
+the authorities constituting the said machinery
+to decide finally a jurisdictional fact thereby
+excluding by necessary implication the
+jurisdiction of a civil court in that regard. But
+an authority created by a statute cannot question the
+vires of that statute or any of the provisions thereof
+whereunder it functions. It must act under the Act
+and not outside it. If it acts on the basis of a
+: 60 :
+
+WP(C) 2838/2005
+
+72.
+
+provision of the statute, which is ultra vires, to that
+extent it would be acting outside the Act. In that
+event, a suit to question the validity of such an
+order made outside the Act would certainly lie in a
+civil court.”(pages 251-252).”
+In view of Section 18 of the TRAI Act, 1997 an appeal
+
+would lie to the Apex Court against an order passed by the TDSAT
+on grounds which are specified under Section 100 of the Code of
+Civil Procedure.
+
+Section 100 of the Code of Civil Procedure
+
+provides a second appeal to the High Court from a decree passed in
+appeal by a court subordinate to it if the High Court is satisfied that
+the courts involves a substantial question of law.
+
+On such
+
+considerations an appeal may lie from an appellate decree passed ex
+parte. Therefore the statute mandates that the appeal would lie only
+on a substantial question of law.
+73.
+
+Under Section 18 of the TRAI Act, the jurisdiction of the
+
+Apex Court as the appellate forum against orders of the TDSAT is
+restricted to only questions of law and the jurisdiction of the civil
+court for filing a suit has also been ousted.
+It has also been stipulated that an appeal would lie if the
+order of the appellate tribunal was not an interlocutory order.
+
+: 61 :
+
+WP(C) 2838/2005
+
+In Shah Babu Lal Khimji vs. Jaya Ben AIR 1981 SC
+1786, the Supreme Court was required to consider an objection
+relating to maintainability of an appeal against the order passed by a
+Single Judge of the High Court. It was held by the Apex Court that
+an appeal would lie to the Division Bench against a judgment of a
+trial judge.
+
+Every interlocutory order cannot be regarded as a
+
+judgment but only those orders would be judgments which decided
+matters of moment or effected
+
+vital and valuable rights of the
+
+parties and which worked serious injustice to the party concerned.
+An interlocutory order in order to be a judgment, must contain the
+traits and trappings of finality. This may be either when the order
+decides the questions in controversy in an ancilliary proceedings or
+in the suit itself or in a part of the proceedings. Placing reliance on
+AIR 1953 SC 196 Asrumati Dabi vs. Kumar Rupender Deb Raj Kot,
+the Apex Court observed that a judgment within the meaning of
+clause 15 of the Letters Patent would have to satisfy two tests.
+Firstly, the judgment must be a final pronouncement which puts an
+end to the proceedings as far as the court dealing with it is
+concerned. Secondly, the judgment must involve the determination
+: 62 :
+
+WP(C) 2838/2005
+
+of some right or liability though it may not necessarily be a decision
+on merits.
+74.
+
+In Shah Babu Lal Khimji, it was further held that in
+
+finding out whether the order is a“judgment” it has to be found out
+as to whether the order effects the merits of the actions between the
+parties by determining some right or liability.
+75.
+
+The Apex Court in Shah Babu Lal Khimji has specifically
+
+held that orders deciding objections to the maintainability of the suit
+on grounds such as limitation; absence of notice under Section 80 of
+the Code of Civil Procecdure; bar against competency of the suit
+against the defendant even though the suit is kept alive amounts to a
+judgment against which the parties would have a right to prefer an
+appeal.
+76.
+
+In Amarnath vs State of Haryana AIR 1997 SC 2185
+
+the Apex Court held that interlocutory orders appealable must be
+those which effects the rights & liabilities of the parties concerning a
+particular aspect would be assailed before the superior courts.
+77.
+
+In the instant case, the TDSAT has found that the
+
+petitioner has couched its directions as 'regulations' to give it a
+: 63 :
+
+WP(C) 2838/2005
+
+semblance of an exercise of legislative function in order to urge that
+TDSAT had no jurisdiction to entertain the challenge made by the
+respondents. The appellate tribunal had as a fact found that the
+appeal was maintainable before it. So far as the objections to the
+maintainability of the appeal are concerned, the appellate tribunal
+had finally determined its jurisdiction.
+78.
+
+It was further held that
+
+it was the charge of the
+
+appellant(respondent no.2 herein) that its regulation was in the
+nature of subordinate legislation which par took the main legislation
+and that the proceedings before the tribunal were wholly without
+jurisdiction on the ground that a tribunal cannot decide the vires of
+the statutory provisions under which it was constituted.
+
+This
+
+objection went to the root of the jurisdiction of the tribunal and was
+decided against the petitioner. This Court has arrived at a finding
+that the Regulation 1 of January, 2005 though
+
+couched as a
+
+regulation, were really in the nature of a direction fixing the ADC
+under Section 11 sub-Section (1b) of the TRAI Act.
+79.
+
+At this stage, I am examining the objection raised by the
+
+respondent with regard to the maintainability of the present writ
+: 64 :
+
+WP(C) 2838/2005
+
+petition on the ground of availability of an alternative efficacious
+remedy.
+In 1985(1) SCC 641 Indian Express Newspapers(P)
+Ltd. vs. Union of India and others, it was held that a subordinate
+legislation may be questioned on grounds of
+
+(i) legislative
+
+competence on which the plenary legislation which delegated the
+power is also subject; (ii)being ultra vires appearance a statute of
+the constitution in that it fails to take into account the very vital facts
+which either expressly or by necessary implication are required to be
+taken into consideration by the statute or the constitution or that it
+does not conforms to the statutory or constitutional requirements;
+(iii) being in conflict with any other statute; (iv) being so arbitrary
+that it could not be said to conform to the statute or be violative of
+Article 14 of the Constitution of India.
+It was reiterated by the Court that subordinate legislation
+cannot be questioned on grounds of violation of principles of natural
+justice which challenge is available against administrative action. It
+also cannot be challenged merely on the ground that it is not
+reasonable or that it has not taken into account relevant
+: 65 :
+
+WP(C) 2838/2005
+
+circumstances which the court considers relevant.
+A distinction however was drawn between delegation of a
+legislative function of which the question of reasonableness cannot
+be inquired into and the investment by statute to exercise particular
+discretionary powers.
+
+In the later case, the question may be
+
+considered on all grounds on which administrative action may be
+questioned, such as, non application of mind, taking irrelevant
+matters into consideration, failure to take relevant matters into
+consideration, violation of principles of natural justice etc.
+80.
+
+In this context it becomes necessary to examine the
+
+jurisdiction of the appellate forum to examine issues relating to vires
+of statutory provisions. The scope of consideration and limits of
+powers of the appellate tribunal fell for consideration before the
+apex court in the petition filed by the West Bengal Regulatory
+Commission. It is noteworthy that provisions similar to those under
+the TRAI Act, 1997 are to be found in the Electricity Regulatory
+Commission Act, 1998 which was examined by the Apex Court in
+The West Bengal Electricity Regulatory Commission case.
+81.
+
+It would also be useful to set out in extenso the principles
+: 66 :
+
+WP(C) 2838/2005
+
+of law laid down by the Supreme Court in its judgment reported at
+(2002) 8 SCC
+
+715 West Bengal Electricity Regulatory
+
+Commission vs. CESC Limited Etc. which read thus:-
+
+31.
+Being
+aggrieved
+by
+the
+said
+determination of tariff, the Company, as stated
+above, preferred the statutory appeal before the
+High Court, making the Commission alone the
+respondent. The High Court while rejecting the
+impleadment application of the appellant
+organizations, proceeded to re-fix the tariff by only
+following the principles of Schedule VI to the 1948
+Act and to the exclusion of other requirements of
+Section 29 of the 1998 Act. In the said process it
+re-fixed the average tariff for the year 2000-01 at
+Rs.3.96 per unit and at Rs.4 per unit for the year
+2001-02. In the course of its judgment the High
+Court also came to the conclusion that the
+Regulations framed by the Commission,
+especially the ones pertaining to the right of the
+consumers to be heard in the proceedings, as also
+applications of the principles to be followed in
+determining he tariff, were contrary to law and
+directed in no uncertain terms that these
+Regulations will have to be modified to bring
+them in conformity with its observations in the
+judgment, and further stated that failure to do so
+might result in the invocation of the High Court's
+power under the Contempt of Courts Act. In
+deciding the validity of the Regulations, the High
+Court proceeded on the basis that while
+entertaining the power of appeal under Section
+27 of the 1998 Act, it also has the power vested
+: 67 :
+
+WP(C) 2838/2005
+
+in it under Articles 226 and 227 of the
+Constitution of India. It also held that the nonobstante clause found in Section 29 of the 1998 Act
+and the other overriding provisions found in the
+1998 Act could not come in the way of the
+applications of the Sixth Schedule to the 1948 Act
+alone, while determining the tariff by the
+Commission. On factual aspects, it reversed many
+of the findings of the Commission to which
+separate references will be made by us when we
+take up those issues for consideration.
+xxxxxxxxxxxx
+42.
+The question for our consideration is
+whether the High Court sitting as an appellate
+court under Section 27 of the Act has the
+jurisdiction to go into the validity of the
+Regulations framed under the Act and if so,
+factually the Regulations as found by the High
+Court are contrary to the statute.
+xxxxxxxxxxxx
+44.
+Having held on merits that the
+Regulations are not arbitrary and are in conformity
+with the provisions of the Act, we will now
+consider whether the High Court could have gone
+into this issue at all in an appeal filed by the
+respondent Company. First of all, we notice that
+the High Court has proceeded to declare the
+Regulations contrary to the Act in a proceeding
+which was initiated before it in its appellate power
+under Section 27 of the Act. The appellate power
+of the High Court in the instant case is derived
+from the 1998 Act. The Regulations framed by
+the Commission are under the authority of
+subordinate legislation conferred on the
+Commission in Section 58 of the 1998 Act. The
+: 68 :
+
+WP(C) 2838/2005
+
+Regulations so framed have been placed before
+the West Bengal Legislature, therefore they
+have become a part of the statute. That being
+so, in our opinion the High Court sitting as an
+appellate court under the 1998 Act could not
+have gone into the validity of the said
+Regulations in exercise of its appellate power.
+45.
+This Court in the case of K.S.
+Venkataraman & Co. (p) Ltd. v. State of Madras
+after discussing the judgment of the Calcutta High
+Court in the cases of (i) Raleigh Investment Co.
+Ltd. v. Governor General in Council, (ii) United
+Motors (India) Ltd. v. State of Bombay, and (iii)
+M.S.M.M. Meyyappa Chettiar v. ITO held :
+“There is, therefore, weighty authority
+for the proposition that a tribunal,
+which is a creature of a statute, cannot
+question the vires of the provision
+under which it functions.”
+46.
+From the above decision, we hold that
+the High Court while exercising its statutory
+appellate power under Section 27 of the 1998
+Act could not have gone into the validity of the
+Regulations which are part of the statute itself.
+47.
+While deciding the above issue, the High
+Court also held that while exercising the appellate
+power by it under any particular statute, it also
+simultaneously exercises its constitutional power of
+writ under Articles 226 and 227 of the Constitution
+of India.
+48.
+We do not think that the High Court was
+correct in this view of its.
+: 69 :
+
+WP(C) 2838/2005
+
+49.
+In the case of Dhulabai v. State of M.P. a
+Constitution Bench of this Court held :
+“(3)
+Challenge to the provisions of
+the particular Act as ultra vires cannot be
+brought before Tribunals constituted
+under that Act. Even the High Court
+cannot go into that question on a
+revision or reference from the decision
+of the Tribunals.”
+50.
+From the above observations of this
+Court in the said judgment extracted hereinabove,
+it is clear that even the High Court exercising its
+power of appeal under a particular statute
+cannot exercise the constitutional power under
+Articles 226 or 227 of the Constitution. The
+position of course would be entirely different if the
+aggrieved party independently challenges the
+provision by way of a writ petition in the High
+Court invoking the High Court's constitutional
+authority to do so. Therefore, we are of the
+considered opinion that the High Court sitting as
+an appellate court under a statute could not
+have exercised its writ jurisdiction for the
+purpose of declaring a provision of that law as
+invalid when there was no separate challenge by
+way of a writ petition. In the instant case we
+notice that as a matter of fact none of the parties
+had challenged the validity of the Regulations,
+therefore the question of the High Court's suo
+motu exercising the writ power in a statutory
+appeal did not arise. For the reasons stated above
+we hold that the High Court could not have gone
+into the question of validity of the Regulations
+while entertaining a statutory appeal under the
+1998 Act. We also hold that the Commission had
+: 70 :
+
+WP(C) 2838/2005
+
+82.
+
+the necessary statutory power.”
+The principles which are applicable to a challenge before
+
+the appellate court relating to vires of statutory provisions under
+which it was constituted would apply mutatis mutandis to a
+challenge to regulations framed under the authority of subordinate
+legislation conferred on the appellate court under the TRAI Act.
+83.
+
+I am bound by the dicta laid by the Apex Court to the
+
+effect that even a High Court, sitting as an appellate court under the
+provisions of the Electricity Regulatory Commission Act, 1998,
+could not have gone into the validity of the regulations framed
+thereunder in exercise of its appellate power.
+This being the position in law, there can be no manner of
+doubt that the appellate court under the TRAI Act, 1997 cannot go
+into the validity of the regulations framed and notified by the TRAI
+in exercise of its powers under Section 36 of the TRAI Act.
+In the light of such restriction on the jurisdiction of the
+appellate court, it cannot possibly be urged with any success that the
+petitioner has an alternative, adequate, efficacious remedy and the
+writ petition deserves to be rejected for this reason.
+
+: 71 :
+
+WP(C) 2838/2005
+
+84.
+
+It is well settled that refusal to hear a writ petition on the
+
+ground of availability of an alternative efficacious remedy is a rule
+of convenience and is not an absolute prohibition to hearing of
+issues raised by a petitioner under Article 226 of the Constitution of
+India.
+In AIR 1969 SC 556 Babu Ram Prakash Chandra
+Maheshwari Vs. Anturim Zila Parishad, Muzaffar Nagar, the
+Court observed that there are at least two well recognised exceptions
+to the doctrine with regard to the exhaustion of statutory remedies.
+Observing that existence of an adequate alternative legal remedy is a
+thing to be taken into consideration in the matter of granting writ. It
+was held that it should however be remembered that the rule of
+exhaustion of the statutory remedies before a writ is granted is a rule
+of self-imposed limitation, a rule of policy and discretion rather
+than a rule of law and the court may therefore in exceptional cases
+issue a writ, such as a writ of certiorari, notwithstanding the fact the
+statutory remedies have not been exausted.
+So far as the accepted exceptions to the rule are concerned
+it is well settled that where proceedings are taken before a tribunal
+: 72 :
+
+WP(C) 2838/2005
+
+under a provision of law, which is ultra vires, it is open to a party
+aggrieved thereby to move the High Court under Article 226 for an
+appropriate writ quashing them on the ground that they are
+incompetent without his being obliged to wait until those
+proceedings run their full course. In the second place, the doctrine
+would have no application in a case where the impugned order has
+been made in violation of the principles of natural justice.
+85.
+
+The principles governing consideration of an objection
+
+relating to maintainability of a writ petition on the ground of
+availability of an alternate remedy are well settled by binding
+judicial precedents. The remedy has to be efficacious and adequate.
+In an appropriate case, the court may entertain a writ petition despite
+availability of such remedy. In this behalf, the principles laid down
+by the Apex Court in (2003) 2 SCC 107 Harbans Lal Sahnia and
+Anr. vs. Indian Oil Corporation require to be noticed which read
+thus:“7. So far as the view taken by the High Court that
+the remedy by way of recourse to arbitration clause
+was available to the appellants and therefore the
+writ petition filed by the appellants was liable to be
+dismissed is concerned, suffice it to observe that
+: 73 :
+
+WP(C) 2838/2005
+
+86.
+
+the rule of exclusion of writ jurisdiction by
+availability of an alternative remedy is a rule of
+discretion and not one of compulsion. In an
+appropriate case, in spite of availability of the
+alternative remedy, the High Court may still
+exercise its writ jurisdiction in at least three
+contingencies: (i) where the writ petition seeks
+enforcement of any of the fundamental rights; (ii)
+where there is failure of principles of natural
+justice; or (iii) where the orders or proceedings are
+wholly without jurisdiction or the vires of an Act is
+challenged. (see Whirlpool Corpn. vs. Registrar of
+Trade Marks).
+The present case attracts
+applicability of the first two contingencies.
+Moreover, as noted, the petitioners' dealership,
+which is their bread and butter, came to be
+terminated for an irrelevant and non-existent cause.
+In such circumstances, we feel that the appellants
+should have been allowed relief by the High Court
+itself instead of driving them to the need of
+initiating arbitration proceedings.”
+In the instant case, the challenge is to the levy of the
+
+ADC. The statutory provision by which power is conferred to frame
+regulations does not include subjects mentioned in Section 11(1b).
+Examination of a challenge to a direction under Section 11(1)(b) can
+be laid before the TDSAT. However, the challenge to the
+jurisdiction of the TDSAT to examine an objection as to the
+jurisdiction based on a plea that the directions were in the nature of a
+statutory regulations and hence was subordinate legislation for all
+
+: 74 :
+
+WP(C) 2838/2005
+
+purposes, can certainly be examined in a writ petition before this
+court. The petitioner in the instant case has sought the issuance of a
+writ on the plea that the subordinate tribunal has usurped the
+jurisdiction which does not belong to it. When such a situation is
+shown, issuance of a writ would be as of right and would certainly
+not be beyond the discretionary powers of this court.
+The issue raised by the petitioner in the instant case thus
+related to the very jurisdiction and competency of the proceedings
+before the TDSAT.
+In view of the aforenoticed principles of law, in my view,
+the objection on the ground of availability of an alternative
+efficacious remedy ought not to be permitted as a bar to the
+maintainability of the present writ petition.
+87.
+
+Having thus answered questions posed as no.I, II, III, the
+
+last issue which remains for consideration relates to the objection
+raised by the respondent on the propriety of the challenge by the
+TRAI by way of the present petition.
+88.
+
+Reliance is placed on behalf of the respondent no.2 on
+
+AIR 1952 Bombay 165 Mohd Oomer, Mohd. Noorullah vs.
+: 75 :
+
+WP(C) 2838/2005
+
+S.M.Noorudin.
+
+In this matter, the Bombay High Court was
+
+considering a case where an order made by the Registrar of Trade
+Marks had been impugned before it. The Court commented on the
+propriety of the Registrar to have appeared before the Court for the
+purposes of elucidating his own judgment and pointing out errors in
+the judgments of the first appellate court. The court was of the view
+that the Registrar was nothing except the court of first instance and
+he had to submit the judgment of the lower appellate court.
+In the instant case the TRAI has not exercised any judicial
+power and the Regulation I of 2005 assailed by the respondent is
+certainly not in the nature of judgment. The same has been held to
+be a decision in discharge of the executive functions of the TRAI
+under Section 11(1)(d) of the TRAI Act. As noticed by the Apex
+Court, TRAI is an expert body in the field of regulation of
+telecommunication services. For this reason the observations by the
+Apex Court in AIR 1952 Bombay 165 do not apply to the present
+case.
+In AIR 1964 SC 477 Syed Yakoob vs. K S
+Radhakrishnan and others the other case relied upon by the
+: 76 :
+
+WP(C) 2838/2005
+
+respondent no.2, the Court was considering the validity of the order
+passed by the State Transport Authority, Madras under the Motor
+Vehicles Act which had been assailed before the High Court holding
+that the authority and the appellate tribunal were proper and
+necessary parties but their position was akin to that of courts or other
+tribunals against whose decisions writ proceedings are filed and they
+are not interested in the merits of the disputes in any sense. To my
+mind, nothing said in this precedent could be applicable in the
+instant case.
+89.
+
+The petitioner has answered this objection placing
+
+reliance on the pronouncements of the Apex Court wherein
+challenges have been made by statutory authorities. In 1993(3) SCC
+24 Municipal Committee, Bhatinda vs Land Acquisition Collector, a
+challenge was laid by the Municipal Committee Bhatinda to a
+judgment by the High Court whereby it has been held that it has no
+locus standi to file the writ petition.
+
+This case arose out of
+
+proceedings under the Land Acquisition Act. The Municipal
+Committee,Bhatinda was the beneficiary of the acquisition and the
+acquisition was being effected by the Land Acquisition Collector at
+: 77 :
+
+WP(C) 2838/2005
+
+its instance. It is well settled that the beneficiary of the acquisition
+is a necessary and proper party to all phases of the acquisition as it
+has a valuable stake in the matter. For this reason, the principles laid
+down by the Supreme Court in this case would have no application
+in the instant case.
+In the pronouncement of the Apex Court in State of Orissa
+vs. Union of India 1995 Supp(2) SCC 154, which has been relied
+upon by the petitioner, the State Government was the owner of the
+mines and minerals in question. It had challenged an order of the
+Central Government dated 10th May, 1978 directing it to issue a
+mining lease in favour of a particular party. It could not possibly be
+contended that it had no locus standi to challenge an order which
+was directly effecting the mines and minerals of which it was an
+owner. The TRAI cannot possibly claim that it is effected by the
+challenge to the Regulations of 2005 made by the respondent no.2.
+For this reason, this judgment is also of no assistance to the
+respondent.
+90.
+
+I have held that the Regulation I of 2005 was in the nature
+
+of a direction issued by the TRAI which has been statutorily
+: 78 :
+
+WP(C) 2838/2005
+
+enjoined to consider all relevant matters and make appropriate
+directions in respect of the matters set out in Section 11(1)(b) of the
+Telecom Regulatory Authority of India Act, 1997. The respondent
+has submitted that the Regulation 1 has been issued by TRAI in
+exercise of its executive fiat. The material, reasons and
+considerations which weighed with the authority in issuing the
+directions are necessarily to be found with the petitioner. There is
+no adversarial party on the other side before the TDSAT.
+
+The
+
+respondent has itself arrayed the TRAI as a party respondent to its
+appeal before the TDSAT.
+
+In these circumstances, there can
+
+possibly be none other than the authority whose direction has been
+challenged which would be best equipped to defend the same. In
+these circumstances, it is not possible to hold that it was not proper
+for the petitioner to make a challenge to the orders passed by the
+TDSAT by way of the present writ petition or that this writ petition
+deserves to be rejected on the ground of judicial impropriety.
+91.
+
+For all the foregoing reasons, I find no infirmity with the
+
+decision dated 31st January, 2005 of the Telecom Disputes
+Settlement and Appellate Tribunal.
+: 79 :
+
+WP(C) 2838/2005
+
+92.
+
+The present writ petition is devoid of legal merit and is
+
+hereby dismissed.
+
+GITA MITTAL
+JUDGE
+December 23, 2005
+JK
+
+: 80 :
+
+WP(C) 2838/2005
+
+

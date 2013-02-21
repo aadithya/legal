@@ -1,0 +1,414 @@
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+%
+
++
+
+Reserved on :
+18.1.2007
+Date of Decision : 23.1.2007
+W.P. 4478/1992 & C Ms 8096/92, 637, 1642, 2604,
+3108, 5419, 6327, 7306/1993
+
+M/S. BHAI INVESTMENT P. LTD.
+..... PETITIONER
+Through :Mr. S.C. Nigam, Advocate
+versus
+MUNICIPAL CPORATION OF DELHI (DESU)
+.... RESPONDENT
+Through: Ms.Veronica Mohan, Advocate
+
+CORAM:
+HON'BLE DR. JUSTICE S. MURALIDHAR
+
+1. Whether Reporters of local papers may be
+allowed to see the judgment?
+2. To be referred to the Reporter or not?
+
+Yes
+Yes
+
+3. Whether the judgment should be reported in
+Digest?
+Yes
+: Dr. S. Muralidhar, J.
+1.
+
+The petitioner was running a 19-room hotel, known as
+
+Hotel President, at Asaf Ali Road, New Delhi. The petitioner
+was sanctioned a load of 110 KW by the Delhi Electric Supply
+Undertaking ('DESU') a wing of Municipal Corporation of
+Delhi ('MCD'), the respondent herein. With the unbundling of
+the DESU the respondent MCD has, by an order of this Court
+WP(C) 4478 of 1992
+
+page no 1 of 9
+
+dated 10.11.2005, been substituted by the BSES Yamuna
+Power Limited.
+
+2.
+
+The petitioner's premises was inspected on 19.7.1990 by
+
+a joint inspection team of enforcement which found the
+following irregularities:
+
+“(a) Large Industrial Power (LIP), since
+the connected load was found to be
+169.08 KW as against the sanctioned load
+of 110 KW.
+
+(b)
+
+Low
+
+Power
+
+Factor
+
+(LPF),
+
+the
+
+installed shunt capacitors of 3 x 8 KVAR
++ 15 KVAR were of inadequate capacity
+vis-a-vis the connected load of 169.08
+KW. The required capacity of the shunt
+capacitor
+
+has
+
+to
+
+be
+
+1/3rd
+
+of
+
+the
+
+connected load.
+
+(c)
+
+There was subletting on account of
+
+the connection being used by M/s. Bhai
+WP(C) 4478 of 1992
+
+page no 2 of 9
+
+Sunderdas and Sons Company (P) Ltd.,
+also in addition to the same connection
+being used for different floors of Hotel
+President.”
+
+3.
+
+The copy of the inspection report (which has been
+
+annexed by the petitioner as Annexure 'I' to this writ petition)
+was signed by the representative of the petitioner, Mr.Kuljeet
+Singh, as well as by each of the members of the inspection
+team.
+
+The remarks in the inspection report read: “shunt
+
+capacitor 3 x 8 KVAR,
+
+15KVAR found installed (ii) There is
+
+(sic) two sources supply from different sources through
+change over switch which is duly sealed by MTD Department.”
+
+4.
+
+Consequent upon the above inspection, on 2.9.1992 a
+
+letter was addressed to the petitioner by DESU stating that
+misuse of electricity by the petitioner,
+
+as found during the
+
+inspection, would attract surcharge/higher tariff and further
+that
+
+“unless
+
+and
+
+until
+
+sufficient
+
+evidence/proof
+
+to
+
+the
+
+satisfaction of DESU is made available to substantiate
+otherwise without prejudice to our right to take further action
+for disconnection of the supply under Clause 7(2)/7(4) and/or
+WP(C) 4478 of 1992
+
+page no 3 of 9
+
+7(6) of the order ibid.” The said letter further required the
+petitioner
+
+to
+
+remove
+
+the
+
+excess
+
+load
+
+and/or
+
+misuse,
+
+provide/maintain shunt capacitor of adequate capacity so as to
+keep the power factor not below .85 lagging and bring down
+your load within the sanctioned limited.”
+
+The petitioner
+
+replied to this letter dated 10.9.1992 denying both the misuse
+as well as the subletting.
+
+The petitioner further maintained
+
+that there was no excess load and that there was no change in
+the user.
+
+5.
+
+On 7.10.1992 the petitioner was issued a show cause
+
+notice
+
+for
+
+the
+
+levy
+
+of
+
+surcharge
+
+on
+
+account
+
+of
+
+load
+
+violation/misuse of supply/non-installation of shunt capacitor.
+Notice further stated that a bill would be raised w.e.f. July,
+1989 by revising the applicable tariff.
+
+6.
+
+At this stage, the petitioner filed the present writ petition
+
+on 18.12.1992 challenging, inter alia, the said letter dated
+2.9.1992 and notice dated 7.10.1992 issued to it by DESU. On
+21.12.1992 this Court directed notice to issue in the writ
+petition and passed an interim order staying the disconnection
+of electricity at the petitioner's premises at 4/238, Asaf Ali
+WP(C) 4478 of 1992
+
+page no 4 of 9
+
+Road, New Delhi on the condition that the petitioner should
+pay a sum of Rs.80,000/- on or before 24.12.1992. Thereafter,
+numerous
+
+interim
+
+orders
+
+were
+
+passed
+
+permitting
+
+the
+
+petitioner to make ad hoc payments against the bills raised
+including misuser charges. On 5.5.1993 it was noticed by this
+Court that no reply had been filed by the respondent and a
+direction was given that “henceforth the respondent shall not
+charge low tension charges, load violation charges and low
+power factor surcharge from the petitioner.”
+
+7.
+
+On 29.9.1993 since no reply had yet been filed by the
+
+respondent, this Court issued Rule and confirmed the interim
+orders made earlier.
+
+This Court further directed that
+
+“henceforth, the respondent shall not charge misuse charges
+from the petitioner.”
+
+8.
+
+Pursuant to the substitution of BSES Yamuna Power
+
+Limited as a respondent, a counter affidavit has been filed by
+the said substituted respondent.
+
+9.
+
+Mr. S.C. Nigam, learned counsel for the petitioner
+
+submits that none of the three reasons pointed out by the
+WP(C) 4478 of 1992
+
+page no 5 of 9
+
+respondent is tenable for coming to a conclusion about the
+misuser of electricity by the petitioner. As regards the shunt
+capacitor requiring to be placed, a reference is made to a
+letter dated 12.4.1990 written by the petitioner informing
+DESU that it had installed the “40 KVAR capacitor so as to
+keep the power frequency above .85.” This is also, according
+to the petitioner, verified by an expert. As regards the charge
+that
+
+the connected load of 169.08 kw was in excess of the
+
+sanctioned load of 110 KW, it is submitted that nothing has
+been shown by the respondent to indicate the basis on which
+such
+
+conclusion was drawn. Thirdly, it is denied that there
+
+was any “subletting” as alleged. It is submitted that since the
+petitioner is the owner of the property and the Director of
+Hotel President where this electricity connection has been
+installed by the DESU, there was no question of subletting.
+
+10. In reply, Ms. Veronica Mohan, learned counsel appearing
+for the BSES Rajdhani Power Limited points out that the
+petitioner in its letter dated 10.9.1992 did not dispute either
+the fact of the inspection having been carried out or the facts
+recorded in the inspection report. While, it is not denied that
+a shunt capacitor was fixed by the petitioner, it was not of an
+WP(C) 4478 of 1992
+
+page no 6 of 9
+
+appropriate capacity considering that the connected load was
+of 169.08 KW. This would require a shunt capacitor of at least
+60 KVAR, whereas the shunt capacitor installed by the
+petitioner was only upto
+
+39 KVAR.
+
+Even on the issue of
+
+subletting, it is pointed out that there was no denial by the
+petitioner as such. It is pointed out that in rejoinder affidavit
+the petitioner has stated that “the electricity is being used by
+the same persons who besides being the owners of the
+property are also being business in the name of Bhai Sundar
+Das & Sons Co. (P) Ltd. and Hotel President.”
+
+11. After considering the facts of the case, the documents on
+record as well as the submission of learned counsel for the
+parties, this Court finds that the petitioner has not really
+brought on record anything concrete to dispute the factual
+position of misuse of electricity as is evident from the
+inspection report dated 9.7.1992. This report was prepared in
+the presence of the petitioner.
+
+There were two electricity
+
+connections on the premises in question and it was found that
+the shunt capacitor installed was not appropriate for the
+connected load of the premises. The petitioner has not been
+able to show that the inspection report is either erroneous or
+WP(C) 4478 of 1992
+
+page no 7 of 9
+
+perverse or activated by ulterior motives so as to enable the
+Court to take a different view of the matter. In fact, there is
+nothing whatsoever to doubt the genuineness of the inspection
+conducted by the respondent or the report prepared pursuant
+thereto. In that view of the matter, it is difficult for this Court
+to take a contrary view and hold that letter dated 2.9.1992,
+which is also consequent to the said inspection, suffers from
+illegality.
+
+12. The Respondent is right in contending that the Petitioner
+does not in fact deny either that the shunt capacitor was
+inadequate or that the connected load was more than the
+sanctioned load. Even on subletting, the submission in the
+rejoinder is that the petitioner is also doing business “in the
+name of Bhai Sundar Das & Sons Co.(P) Ltd. and Hotel
+President”. This indicates that the present petitioner [Bhai
+Investment
+
+(P)
+
+Limited]
+
+was
+
+a
+
+separate
+
+identity
+
+and
+
+probabilises the fact of sub-letting.
+13. On a conspectus of the facts of the case, there is no
+illegality in the determination by the respondent of the
+misuser of the electricity by the petitioner.
+
+The restricted
+
+scope of judicial review in such matters limits the power of
+WP(C) 4478 of 1992
+
+page no 8 of 9
+
+interfering with the decision sought to be reviewed on grounds
+of either procedural irregularity that has caused irreversible
+prejudice or on substantive grounds of irrationality or
+perversity.
+
+Neither grounds have been made out by the
+
+petitioner in the instant case.
+
+14. The writ petition is, accordingly, dismissed. All interim
+orders stand vacated.
+
+15. Petition and all pending applications stand disposed of.
+
+S.MURALIDHAR, J.
+January 23, 2007
+rk
+
+WP(C) 4478 of 1992
+
+page no 9 of 9
+
+

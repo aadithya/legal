@@ -1,0 +1,353 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 1315 of 2006
+Judgment reserved on: August 06, 2007
+
+%
+
+Judgment delivered on: September 21, 2007
+
+Commissioner of Income Tax
+(Central)-III, New Delhi.
+Through
+
+...Appellant
+
+Mrs.P.L. Bansal, Advocate
+
+Versus
+M/s. J.S. Electronics Pvt. Ltd.
+44, Friends Colony,
+New Delhi.
+Through
+
+...Respondent
+
+Mr.Ajay Vohra with Mrs. Kavita
+Jha, Advocates
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S. MURALIDHAR
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No. 1315/2006
+
+page 1 of 11
+
+MADAN B. LOKUR, J.
+
+The Revenue is aggrieved by an order dated 24th August,
+2004 passed by the Income Tax Appellate Tribunal, Delhi Bench 'F' in
+ITA No.1508/Del/1999 relevant for the assessment year 1992-93.
+
+2.
+
+The Assessee is a private limited company dealing in shares.
+
+The Assessee came to know that the erstwhile HCL had entered into a
+joint venture agreement with Hewlett Packard, USA and that in terms
+thereof, shares of the erstwhile HCL would effectively be transferred to
+HCL Ltd. and HCL HP Ltd. In fact, a scheme of arrangement to this
+end was prepared and sanctioned under Sections 391 and 394 of the
+Companies Act, 1956 by this Court. One of the terms of the scheme of
+arrangement, with which we are concerned, provided that the
+shareholders of the erstwhile HCL would receive, for 100 shares held by
+each shareholder, 68 shares of HCL HP Ltd. and 32 shares of HCL Ltd.
+The Assessee also came to know that Hewlett Packard, USA would buy
+the shares of HCL HP Ltd. at a predetermined price of Rs.168.80 per
+share.
+
+ITA No. 1315/2006
+
+page 2 of 11
+
+3.
+
+Based on this information, the Assessee purchased 7,77,100
+
+shares of the erstwhile HCL. Out of these, the Assessee sold 1,29,600
+shares on various dates leaving behind a balance of 6,47,500 shares of
+the erstwhile HCL.
+
+4.
+
+In terms of the joint venture agreement, for these 6,47,500
+
+shares the Assessee was allotted 4,40,300 shares of HCL HP Ltd. and
+2,07,200 shares of HCL Ltd.
+
+5.
+
+Out of the 4,40,300 shares of HCL HP Ltd. held by the
+
+Assessee, it sold to Hewlett Packard, USA 1,14,486 shares at the
+predetermined price of Rs.168.80 per share.
+
+6.
+
+On these broad facts, two issues arose before the Assessing
+
+Officer on the return of income filed by the Assessee. The first issue
+concerned the high price paid by the Assessee for the purchase of shares
+of the erstwhile HCL. The second issue concerned the valuation of the
+closing stock of shares held by the Assessee.
+
+ITA No. 1315/2006
+
+page 3 of 11
+
+7.
+
+With regard to the first issue, the explanation given by the
+
+Assessee for purchasing shares of the erstwhile HCL at a high price was
+that it had purchased a large number of shares in large blocks from the
+Delhi Stock Exchange. The Assessee submitted that necessary brokers'
+notes were available and the payment made to the brokers was by
+account payee cheques. In other words, according to the Assessee, the
+transactions were above board. The Assessing Officer did not accept
+this explanation and made an addition of Rs.89,29,635/- to the income
+of the Assessee on account of the high price paid by the Assessee for the
+purchase of shares of the erstwhile HCL.
+
+8.
+
+In so far as the second issue regarding valuation of the
+
+closing stock of shares is concerned, the Assessee worked out the
+average cost of the shares of HCL HP Ltd. at Rs.55.82 per share. The
+Assessing Officer took the view that the market price for the shares of
+HCL HP Ltd. was Rs.100/- per share and on this basis he made an
+addition of Rs.1,40,94,839/- to the closing stock of shares held by the
+Assessee.
+
+ITA No. 1315/2006
+
+page 4 of 11
+
+9.
+
+The Assessee challenged both the conclusions arrived at by
+
+the Assessing Officer but the Commissioner of Income Tax (Appeals)
+[CIT (A)] by his order dated 31st October, 1995 rejected the challenge.
+The Assessee then preferred an appeal before the Tribunal which passed
+an order on 20th January, 1997. This order is of some importance
+because the Tribunal remanded the matter to the file of CIT (A) for
+passing a speaking order and also gave certain directions.
+
+10.
+
+The direction given by the Tribunal with regard to the first
+
+issue concerning the addition of Rs.89,29,635/- on account of the high
+price paid for the shares of the erstwhile HCL was that the CIT (A)
+should examine the matter in the light of Section 40A(2) of the Income
+Tax Act, 1961 (the Act) or determine whether the transaction entered
+into by the Assessee with the brokers was a sham or bogus transaction.
+The Tribunal was also of the view that a mere difference in the purchase
+price was not enough to sustain an addition and the explanation given
+by the Assessee needed to be examined.
+
+11.
+
+As regards the second issue relating to the valuation of the
+
+ITA No. 1315/2006
+
+page 5 of 11
+
+closing stock of shares, the Tribunal directed the CIT (A) to examine the
+matter in the light of Section 49(2) of the Act and also to take into
+consideration the fact that shares of the erstwhile HCL were split up into
+shares of HCL HP Ltd. and HCL Ltd.
+
+12.
+
+The CIT (A) then heard the matter on remand in terms of the
+
+directions given by the Tribunal. In respect of the first issue, the CIT
+(A) came to the conclusion that the Assessing Officer had taken the
+price of the shares of the erstwhile HCL as prevalent in the Bombay
+Stock Exchange while the Assessee had actually made purchases from
+the Delhi Stock Exchange. Moreover, the transaction was confirmed by
+the brokers and payments were made to the brokers through account
+payee cheques. The transactions did not appear to be sham transactions
+and the Assessing Officer had not brought on record any evidence to
+show to the contrary or that any part of the consideration had come back
+to the Assessee.
+
+It was noted that the Assessee had some special
+
+knowledge about the joint venture and the scheme of arrangement and
+was, therefore, willing to pay a higher price to corner the shares. The
+CIT (A) came to the conclusion that Section 40A(2) of the Act was
+
+ITA No. 1315/2006
+
+page 6 of 11
+
+inapplicable inasmuch as the expenditure was neither excessive nor
+unreasonable nor was the transaction a sham and, therefore, the addition
+of Rs.89,29,635/- was incorrect and was deleted.
+
+13.
+
+With regard to the second issue of the addition of
+
+Rs.1,43,29,635/- being the difference in the valuation of the closing
+stock of shares on the basis of its market value, the CIT (A) examined
+the case in the light of the provisions of Section 49(2) of the Act. He
+noted that the Assessing Officer had completely lost sight of the scheme
+of arrangement which required the splitting up of the shares of the
+erstwhile HCL into the shares of HCL HP Ltd. and HCL Ltd. and that
+the Assessee was entitled to value the shares of HCL HP Ltd. at the cost
+price of Rs.55.82 per share rather than the undetermined market value of
+Rs.100/- per share. It was, accordingly, held by the CIT (A) that the
+addition was not tenable.
+
+14.
+
+Feeling aggrieved by the order passed by the CIT (A), the
+
+Revenue preferred an appeal before the Tribunal.
+
+ITA No. 1315/2006
+
+page 7 of 11
+
+15.
+
+On a reading of the order of the Tribunal, we find that the
+
+submissions before it really centred around the interpretation of the
+earlier order dated 20th January, 1997 passed by the Tribunal when it
+remanded the case to the CIT (A) and whether the directions given by
+the Tribunal were correctly interpreted and implemented by the CIT (A).
+In this regard, the Tribunal came to the conclusion that the CIT (A)
+correctly understood the earlier order passed by the Tribunal on 20th
+January, 1997 and had fully implemented it.
+
+16.
+
+On the merits of the case, the Tribunal held that on the first
+
+issue, the CIT (A) had clearly held that no case had been made out for
+invoking the provisions of Section 40A(2) of the Act or to hold that the
+transactions entered into by the Assessee were sham transactions. The
+explanation given by the Assessee for purchasing the shares of the
+erstwhile HCL at a high price was plausible and since the payments
+made to the brokers were through account payee cheques, there was
+enough material to negate all doubts about the transaction being a sham.
+Moreover, there was nothing to show that any part of the amount came
+back into the coffers of the Assessee.
+
+ITA No. 1315/2006
+
+page 8 of 11
+
+17.
+
+As regards the second issue, the Tribunal noted the
+
+contention of the Departmental Representative that Section 49(2) of the
+Act was not applicable. It, however, held that since the earlier order
+passed by the Tribunal on 20th January, 1997 was accepted by the
+Revenue, it was now not possible for the Departmental Representative
+to contend that Section 49(2) of the Act was not applicable.
+
+18.
+
+The question whether the closing stock could be valued at
+
+the cost price or the market value was conclusively settled, as noted by
+the Tribunal, by the decision of the Supreme Court in Sakthi Trading
+Co. v. Commissioner of Income-tax, [2001] 250 ITR 871 wherein it is
+held:
+“It is an established rule of commercial practice and
+accountancy that where there is no discontinuation of
+business, the closing stock is to be valued at cost or market
+price, whichever is lower.”
+
+On these facts, the Tribunal found that there was no error committed by
+the CIT (A).
+
+19.
+
+We are of the view that the scope of enquiry before us is
+
+ITA No. 1315/2006
+
+page 9 of 11
+
+rather limited in view of the order passed by the Tribunal. The only
+question that really arises before us is whether the CIT (A) correctly
+understood and implemented the earlier order passed by the Tribunal on
+20th January, 1997. The Tribunal has found no error in the view taken
+by the CIT (A). We do not find any reason to interfere in this regard
+because this is essentially a matter of understanding the order of the
+Tribunal which does not lead to any substantial question of law.
+
+20.
+
+On merits also, we find that the explanation given by the
+
+Assessee with regard to the first issue was a plausible explanation and
+could not be termed as perverse. The CIT (A) as well as the Tribunal
+were quite justified in examining the explanation and coming to a
+conclusion thereon which is that the transactions of purchasing shares of
+the erstwhile HCL at a high price were not sham transactions. This is
+essentially a question of fact which ought not to be disturbed unless it is
+perverse which, in our opinion, is not so. Both the CIT (A) and the
+Tribunal have considered the relevant facts and the submissions of the
+parties in the right perspective. As regards the second question about
+valuation of the closing stock, the Assessee was well within its rights to
+
+ITA No. 1315/2006
+
+page 10 of 11
+
+value the closing stock at cost price which was lower than the market
+price. The action of the Assessee is fully backed by the decision of the
+Supreme Court in Sakthi Trading Co. and no fault can be found in the
+stand taken by the Assessee in this regard.
+
+21.
+
+No substantial question of law arises for our consideration.
+
+The appeal is dismissed.
+
+Madan B. Lokur, J
+
+September 21, 2007
+ncg
+
+S. Muralidhar, J
+
+Certified that the corrected copy of
+the judgment has been transmitted
+in the main Server.
+
+ITA No. 1315/2006
+
+page 11 of 11
+
+

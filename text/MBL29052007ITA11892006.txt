@@ -1,0 +1,357 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 1189 of 2006
+
+Judgment reserved on: May 9, 2007
+%
+
+Judgment delivered on: May 29, 2007
+
+Commissioner of Income Tax
+Delhi-X, New Delhi
+Through
+
+Appellant
+Mrs. Prem Lata Bansal with
+Ms. Sonia Mathur, Advocates
+
+Versus
+Vipin Batra
+D-12, Rana Pratap Bagh
+New Delhi
+Through
+
+...Respondent
+Dr. Rakesh Gupta with Mr. Jitender
+Saini, Advocates
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.1189/2006
+
+Page 1 of 10
+
+MADAN B. LOKUR, J.
+The Revenue is aggrieved by an order dated 30th November,
+2005 passed by the Income Tax Appellate Tribunal, Delhi Bench SMC
+in ITA No.5020/Del02004 relevant for the assessment year 1996-97.
+
+2.
+
+By the impugned order, the Tribunal took the view that re-
+
+assessment proceedings carried out by the Assessing Officer in terms of
+Section 147/148 of the Income Tax Act, 1961 (the Act) lacked in valid
+jurisdiction and were, therefore, liable to be set aside.
+
+3.
+
+After hearing learned counsel for the parties, we admit this
+
+appeal and frame the following substantial question of law for
+consideration:
+“Whether the Income Tax Appellate Tribunal was correct in
+law in holding that the notice issued by the Assessing Officer
+under Section 148 of the Income Tax Act, 1961 was bad in
+law and, therefore, the assessment framed in pursuance
+thereof was liable to be quashed?”
+
+4.
+
+Filing of paper books is dispensed with.
+
+5.
+
+The assessment was framed in respect of the assessee under
+
+ITA No.1189/2006
+
+Page 2 of 10
+
+Section 143(3) of the Act read with Section 147 thereof on 29th March,
+2004. By this assessment, an addition of Rs.1,27,650/- was made to the
+assessee's income as a result of a finding that it represented the
+assessee's own unaccounted money which had been introduced in the
+garb of long term capital gains arising out of the sale of shares.
+
+6.
+
+It appears that the alleged sale of shares was carried out
+
+through a broker M/s Maheswari Sons whose proprietor was Shri
+Shankar Hari Maheswari. The broker appears to have admitted in a
+statement that he has not carried out any sale or purchase of shares.
+
+7.
+
+On these broad facts, the Assessing Officer recorded the
+
+following reasons for issuing a notice under Section 148 of the Act for
+carrying out a re-assessment:
+“Information is received from the office of DDIT
+(Investigation) Gurgaon that investigation were conducted by
+that office with respect to bogus entries of long term capital
+gain taken by some assessees from one bank account of M/s
+Maheswari Sons, A/c No. 8627, Punjab National Bank, Karol
+Bagh, New Delhi.
+It has come to light that beneficiaries have taken entries by
+paying in cash an amount equivalent to the draft/cheque
+amount and certain premium on that. No sale/purchase of
+ITA No.1189/2006
+
+Page 3 of 10
+
+shares has actually taken place. The operator of the said
+account Sh. Praveen Mittal has also admitted in his statement
+that bogus transactions relating to sale/purchase of shares
+were done through this bank account and most of the
+beneficiaries have availed relief u/s 54F of the I.T. Act, 1961.
+Some of the beneficiaries like firm/company took capital
+losses to offset their business gains.
+The name of Shri Vipin Batra is included in the list of
+beneficiaries from the said account of M/s Maheswari Sons
+in the form of following transaction having received the said
+amount in his bank account no. 10007 with Syndicate Bank,
+Mori Gate, Delhi.
+S.No.
+
+Date of taking entry
+
+Amount
+
+1
+
+27.5.95
+
+1,27,650/-
+
+There was a reason to believe that income of the assessee
+from undisclosed sources had escaped assessment in the form
+of bogus capital gain for AY 1996-97.”
+
+8.
+
+It is not necessary to go into the merits of the controversy
+
+because, as noted above, the Tribunal concluded that there was no
+specific information before the Assessing Officer entitling him to come
+to the conclusion that the transaction of long term capital gains was not
+genuine so as to constitute escapement of income. It was held that the
+assumption of jurisdiction was clearly flawed and, therefore, subsequent
+proceedings including the assessment framed were liable to be quashed.
+
+ITA No.1189/2006
+
+Page 4 of 10
+
+9.
+
+We are of the view that the opinion of the Tribunal is
+
+erroneous in law.
+
+10.
+
+In Raymond Woollen Mills Ltd. v. Income-tax Officer &
+
+Ors., (1999) 236 ITR 34, the Supreme Court held that what is required
+to be seen in a case such as this is whether prima facie there was some
+material before the Assessing Officer on the basis of which he could
+reopen the case of the assessee. The sufficiency or correctness of the
+material is not to be considered because it is open to the assessee to
+prove that the facts assumed by the Assessing Officer in the notice were
+erroneous.
+
+11.
+
+Much earlier, in Phool Chand Bajrang Lal & Anr. v.
+
+Income-tax Officer & Anr., (1993) 203 ITR 456, the Supreme Court
+reviewed the entire case law and concluded that:
+(a) There must be some specific, reliable and relevant
+information available with the Assessing Officer.
+(b) The Assessing Officer must have reasons, which he must
+record, that income has escaped assessment.
+
+ITA No.1189/2006
+
+Page 5 of 10
+
+(c) The case should not be one of a mere change of opinion by
+the Assessing Officer or the drawing of a different inference
+from the same facts but that those reasons must be based on
+facts which have subsequently come into possession of the
+Assessing Officer.
+(d) The sufficiency of reasons for forming the belief is not for
+the Court to judge although the assessee can contend that the
+belief was not bona fide or was based on vague, irrelevant
+and non-specific information or that the material did not
+have any rational connection or a live link for the formation
+of the requisite belief.
+
+This is what the Supreme Court said:
+“From a combined review of the judgments of this court, it
+follows that an Income-tax Officer acquires jurisdiction to
+reopen an assessment under section 147(a) read with section
+148 of the Income-tax Act, 1961, only if on the basis of
+specific, reliable and relevant information coming to his
+possession subsequently, he has reasons, which he must
+record, to believe that, by reason of omission or failure on the
+part of the assessee to make a true and full disclosure of all
+material facts necessary for his assessment during the
+concluded assessment proceedings, any part of his income,
+profits or gains chargeable to income-tax has escaped
+assessment. He may start reassessment proceedings either
+ITA No.1189/2006
+
+Page 6 of 10
+
+because some fresh facts had come to light which were not
+previously disclosed or some information with regard to the
+facts previously disclosed comes into his possession which
+tends to expose the untruthfulness of those facts. In such
+situations, it is not a case of mere change of opinion or the
+drawing of a different inference from the same facts as were
+earlier available but acting on fresh information. Since the
+belief is that of the Income-tax Officer, the sufficiency of
+reasons for forming the belief is not for the court to judge but
+it is open to an assessee to establish that there in fact existed
+no belief or that the belief was not at all a bona fide one or
+was based on vague, irrelevant and non-specific information.
+To that limited extend, the court may look into the
+conclusion arrived at by the Income-tax Officer and examine
+whether there was any material available on the record from
+which the requisite belief could be formed by the Income-tax
+Officer and further whether that material had any rational
+connection or a live link for the formation of the requisite
+belief.”
+
+12.
+
+This Court also had occasion to deal with the issue of
+
+reopening a completed assessment in United Electrical Co. P. Ltd. v.
+Commissioner of Income-tax & Ors., (2002) 258 ITR 317.
+
+This
+
+decision has been relied upon by the Tribunal but we find that it is
+clearly distinguishable because in that case the Division Bench came to
+the conclusion that the statement on the basis of which reopening was
+sought was too general and it did not mention any name, much less the
+name of the assessee.
+
+It was, therefore, held that there was no
+
+information on record which could provide a foundation for the
+ITA No.1189/2006
+
+Page 7 of 10
+
+Assessing Officer's belief that the assessee's transaction was not genuine
+and that this income had escaped assessment on that account.
+
+13.
+
+Applying the law laid down by the Supreme Court as well as
+
+this Court, we need to take a look at the reasons recorded by the
+Assessing Officer for initiating proceedings under Section 148 of the
+Act.
+
+14.
+
+In the first place, we find that information available with the
+
+Assessing Officer was not vague or general in nature because it referred
+to bogus entries of long term capital gain taken by some assessees from
+M/s Maheswari Sons whose bank and account number were identified.
+One of the bogus entries related specifically by name to the assessee and
+the date of his taking the entry and his bank and account number as well
+as the amount have been specified in the reasons recorded. It has also
+been noted that in fact no sale or purchase of shares had actually taken
+place and the person who had operated the account of M/s Maheswari
+Sons, that is, Shri Praveen Mittal admitted in his statement that bogus
+transactions relating to sale and purchase of shares were done through
+
+ITA No.1189/2006
+
+Page 8 of 10
+
+this bank account and most of the beneficiaries have availed relief under
+Section 54F of the Act.
+
+15.
+
+On this material, which must be examined only prima facie,
+
+we find that there was specific and adequate reason for the Assessing
+Officer to come to the conclusion that the transaction entered into by the
+assessee with M/s Maheswari Sons for the sale and purchase of shares
+was a bogus transaction which was entered into through an identifiable
+bank and an account number. The truth or otherwise of this information
+is not a matter that is required to be considered by the us. All that we
+have to see is whether there was sufficient material and that it was not
+vague or of a general nature.
+
+16.
+
+We are satisfied, on the basis of the information disclosed in
+
+the reasons to believe recorded by the Assessing Officer, that there was
+legitimate ground for him to issue a notice to the assessee under Section
+148 of the Act and the assessee was entitled to contend that the facts
+taken into consideration by the Assessing Officer were incorrect.
+
+ITA No.1189/2006
+
+Page 9 of 10
+
+17.
+
+We find that the Tribunal has not gone into the merits of the
+
+controversy. Therefore, while answering the question in the negative,
+we set aside the order passed by the Tribunal and remand the matter
+back to its file for taking a decision on merits.
+
+18.
+
+The appeal is, accordingly, disposed of.
+
+Madan B. Lokur, J
+
+May 29, 2007
+ncg
+
+V.B. Gupta, J
+
+Certified that the corrected
+copy of the judgment has
+been transmitted in the main
+Server.
+
+ITA No.1189/2006
+
+Page 10 of 10
+
+

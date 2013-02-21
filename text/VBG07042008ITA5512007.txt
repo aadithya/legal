@@ -1,0 +1,320 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+ITA No.551/2007
+
+%
+
+Judgment reserved on: 31st March, 2008
+Judgment delivered on:7th April, 2008
+
+THE COMMISSIONER OF INCOME TAX-V
+CENTRAL REVENUE BUILDING
+NEW DELHI
+.....Appellant.
+Through: Mr. Sanjeev Sabharwal, Adv.
+Vs.
+REAL TIME MARKETING P. LTD.
+Z-45/3, OKHLA INDL. AREA,
+PHASE-II
+NEW DELHI
+..... Respondent
+Through: None.
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.551/2007
+
+Page 1 of 8
+
+V.B.Gupta, J.
+The Revenue has filed the present appeal under
+Section 260A of the Income Tax Act, 1961 (for short as
+‘Act’) against order dated 15th September, 2006 passed
+by the Income Tax Appellate Tribunal (herein after
+referred as ‘Tribunal’) Delhi Bench ‘A’ in ITA No.2574
+(Del)/2004 relevant for the assessment year 2001-02.
+The Tribunal in its order held that there is absolutely
+no material to link the Assessee with the sum of
+Rs.29,97,000/- deposited in cash in the bank account of
+M/s. FBSL.
+2.
+
+The facts of this case are that the Assessee is a
+
+Private Limited company. During the previous year, it
+had taken an unsecured loan of Rs. 25 lacs from M/s.
+Aishwaray Capital Lease Finance Pvt. Ltd. (herein after
+referred to as ACL). The Assessing Officer asked the
+Assessee to file a copy of income tax return along with
+the audited profit and loss account and the balance
+sheet with annexures and copy of bank statement for
+the period ending 31st March, 2001 of M/s. ACL. The
+ITA No.551/2007
+
+Page 2 of 8
+
+Assessee furnished the same accordingly. On perusal
+of the bank statement of M/s. ACL, the Assessing
+Officer
+
+noticed
+
+that
+
+the
+
+funds
+
+were
+
+transferred
+
+through internal transfer on 28th March, 2001 to M/s.
+ACL and then in the same manner in the bank account
+of the Assessee company. The Assessing Officer called
+for information from the bank under section 133(6) of
+the Act to locate the true nature of these internal
+transfer transactions and the exact source of funds. It
+was revealed on the information furnished by the bank;
+(a) that on 28th March, 2001 cash of Rs.22,97,000/- was
+deposited in account no.4142 pertaining to M/s. Fair
+Business Security and Leasing Pvt. Ltd. (herein after
+referred to as FBSL)
+(b) from this account no.4142 a sum of Rs.25 lacs was
+transferred to account no.4016, which stood in the
+name of M/s. Breeze Trade Links Pvt. Ltd. (herein after
+referred to as BTL) on the same day
+
+ITA No.551/2007
+
+Page 3 of 8
+
+(c) on the same day, Rs.25 lacs were transferred from
+account no.4016 to M/s. ACL, having account no.4144
+and
+(d) on same day, i.e. 28th March, 2001, Rs.25 lacs were
+transferred from account no.4144 from M/s. ACL to the
+Assessee.
+3.
+
+The Assessing Officer also noticed that all the
+
+three companies referred to above had the same
+address, i.e. B-258, Naraina Industrial Area, Phase-I,
+New Delhi. Further, no interest was charged by any of
+these transferees. The Assessing Officer was thus of
+the view that the entire transaction was a sham
+transaction and asked the Assessee to show cause as to
+why cash deposit of Rs.22,97,000/- made into the
+account of M/s. FBSL be not added as the taxable
+income
+
+of
+
+consideration.
+
+the
+
+Assessee
+
+for
+
+the
+
+year
+
+under
+
+The Assessee submitted his reply and
+
+filed confirmation from M/s. ACL. The Assessee also
+submitted that the cash deposited by M/s. FBSL was
+
+ITA No.551/2007
+
+Page 4 of 8
+
+not its money and that it was from the books of the
+said company.
+4.
+
+The Assessing Officer however, held that it was
+
+the Assessee’s money of Rs.22,97,000/- which was
+deposited in cash into the account of M/s. FBSL and
+the same was routed through different accounts and
+received as unsecured loan by the Assessee company
+and thus made an addition of Rs.25 lacs as unexplained
+cash credit under Section 68 of the Act.
+5.
+
+On
+
+appeal
+
+filed
+
+by
+
+the
+
+Assessee,
+
+the
+
+Commissioner of Income Tax (Appeals) (for short as
+‘CIT[A]’) held that the Assessee had discharged its
+burden
+
+of
+
+genuineness
+
+proving
+of
+
+the
+
+the
+
+identity,
+
+transaction
+
+capacity
+
+and
+
+and
+
+the
+
+in
+
+circumstances the addition made by the Assessing
+Officer was not justified. It was also observed by the
+CIT(A) that the Assessing Officer had not chosen to
+issue summons to M/s. FBSL, M/s. ACL or M/s. BTL
+before
+
+coming
+
+ITA No.551/2007
+
+to
+
+the
+
+conclusion
+
+that
+
+all
+
+the
+
+Page 5 of 8
+
+transactions were from and out of the money provided
+by the Assessee.
+6.
+
+Being aggrieved by the order of CIT(A), the
+
+Revenue preferred an appeal before the Tribunal and
+vide impugned order the Tribunal dismissed the appeal
+of the Assessee.
+7.
+
+It has been contended by learned counsel for the
+
+Revenue that the Assessee has used circular route to
+receive the loan in its account and the same is merely
+a device being used to evade tax and as such, loan is
+taxable under Section 68 of the Act.
+8.
+
+There is a finding of fact given by the two
+
+authorities namely CIT(A) and the Tribunal to the
+effect that:“The confirmation of M/s. ACL has been
+filed by the Assessee. The said company
+was assessed to tax. The source of ACL
+had been explained as out of transfer of
+funds from the accounts of M/s. BTL.
+Thus, the Assessee discharged its burden
+of
+proving
+identity,
+capacity
+and
+genuineness of the transaction.
+The
+Assessing Officer has not brought any
+ITA No.551/2007
+
+Page 6 of 8
+
+material to show that the funds to ACL
+were provided by the Assessee. Under
+the circumstances, it cannot be said that
+the cash credit in question has remained
+unexplained.
+There is absolutely no
+material to link the Assessee with the
+sum of Rs.22,97,000/- deposited in cash
+in the bank account of M/s. FBSL.“
+
+9.
+
+In view of the concurrent findings of the fact
+
+given by the two authorities that there is no material to
+link the Assessee with a sum of Rs.22,97,000/deposited in cash in the bank account of M/s. FBSL, as
+such, no case is made out for making addition under
+Section 68 of the Act, since there was no material with
+the Assessing Officer to come to the conclusion
+regarding any genuineness or fictitious identity of the
+entries or non capacity of the lender.
+10. Under these circumstances, we do not find any
+infirmity or perversity in the order passed by the
+Tribunal and in our opinion no substantial question of
+law arises in this case.
+
+ITA No.551/2007
+
+With the result, the present
+
+Page 7 of 8
+
+appeal is not maintainable and the same is hereby
+dismissed.
+
+V. B. GUPTA
+(JUDGE)
+
+MADAN B. LOKUR
+(JUDGE)
+April 07, 2008
+rs
+
+ITA No.551/2007
+
+Page 8 of 8
+
+

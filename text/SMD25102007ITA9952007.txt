@@ -1,0 +1,275 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+Reserved on :
+October 22, 2007
+Date of decision : October 25, 2007
+
++
+
+ITA No. 995/2007
+
+HONDA SIEL POWER PRODUCTS LTD.
+..... Appellant
+Through Mr. Ajay Vohra with Ms. Kavita Jha, Advocate
+
+versus
+
+COMMISSIONER OF INCOME TAX
+..... Respondent
+Through Ms. Prem Lata Bansal with Mr. Vishnu Sharma,
+Advocate
+CORAM:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S.MURALIDHAR
+1. Whether Reporters of local papers may be allowed
+to see the judgment?
+
+Yes
+
+2. To be referred to the Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported in Digest?
+
+Yes
+
+Dr. S. MURALIDHAR, J.
+
+1.
+
+Aggrieved by a decision dated 21st April, 2006 passed by the Income Tax
+
+Appellate Tribunal, Delhi Bench “G”, New Delhi ('Tribunal') in ITA Nos.
+2852/Del/99 and 3144/Del/99 for the Assessment Year 1995-96, the Assessee
+has filed an appeal under Section 260-A of the Income Tax Act, 1961 ('the
+Act').
+2.
+
+The Assessee has urged that the following questions of law arise for
+
+consideration by this Court:
+“(a) Whether on the facts and in the circumstances of
+ITA 995/2007
+
+page no 1 of 7
+
+the case, the Tribunal erred in law in upholding the
+order of the Assessing Officer in reducing the profit
+earned on sale of spare parts and imported gensets
+from the income of the eligible undertaking(s) for the
+purpose of computing deductions under Section 80HH and 80-I of the Act?
+(b) Whether on the facts and in the circumstances of
+the case, the Tribunal erred in law in holding that the
+profit from the sale of spare parts and imported
+gensets could not be regarded as income derived from
+the eligible undertaking(s) for the purpose of
+computing deductions under Section 80-HH and 80-I
+of the Act?
+(c) Whether on the facts and in the circumstances of
+the case, the Tribunal erred in law in segregating after
+sale service from the activity of manufacturing of
+products by the Appellate company for the purpose of
+deductions under Section 80-HH and 80-I of the
+Act?”
+3.
+
+The Appellant is engaged in the manufacture and sale of portable gensets
+
+and water pumps. In the return of income for the Assessment Year 1995-96,
+filed on 30th November, 1995, the Assessee disclosed a business income of
+Rs.4,48,18,770/-. The Assessee claimed a deduction under Section 80-HH of
+the Act at Rs.2,56,76,813/- and under Section 80-I of the Act at
+Rs.3,20,96,017/- respectively. The Assessee imported certain spare parts and
+components which were used in the manufacturing of gensets as well as for
+providing after-sales service to customers. Additionally, the Assessee imported
+gensets of a certain capacity which were not being manufactured in India to
+complement its product profile and present to the customers a choice from a
+complete range of gensets.
+4.
+
+The Assessing Officer ('AO')
+
+denied the claim of deduction under
+
+Section 80-HH and 80-I of the Act in respect of the profits earned from both the
+
+ITA 995/2007
+
+page no 2 of 7
+
+sale of spare parts and components as well as the sale of imported gensets on
+the ground that the profits therefrom could not be considered to be income
+“derived” from the industrial undertaking.
+5.
+
+In the appeal filed by the Assessee, the Commissioner of Income Tax
+
+(Appeals) ['CIT(A)'], by an order dated 22nd April, 1999 held that the profits
+arising from the sale of spare parts was integral to the manufacturing activity
+and therefore, the deduction in respect of such profits under Section 80-HH and
+80-I of the Act was admissible. The CIT(A) however upheld the order of the
+AO disallowing the deduction under Sections 80-HH and 80-I of the Act in
+respect of profits derived from the sale of imported gensets.
+6.
+
+Aggrieved by the order of the CIT(A), both the Revenue and the Assessee
+
+filed appeals. The Assessee contended before the Tribunal that deduction under
+Sections 80-HH and 80-I of the Act should have been allowed in respect of the
+profits arising from the sale of imported gensets whereas the Revenue
+contended that no such deduction should have been allowed in respect of the
+profits earned from the sale of spare parts. Since both the questions were
+connected, the Tribunal considered the appeals together.
+
+The Tribunal
+
+concluded that the import and sale of gensets could not be said to have any
+nexus with any industrial activity of the Assessee in India.
+
+The Tribunal
+
+rejected the Assessee's appeal on the ground that since the very purpose of
+Section 80-HH of the Act was to give a boost to industrial activity in India
+profit earned from sale of imported goods would be ineligible for deduction
+under the said provision.
+
+As far as the Revenue's appeal was concerned, the
+
+Tribunal relied upon the judgments of the Supreme Court in Commissioner of
+Income Tax v. Sterling Foods Limited [1999] 237 ITR 579 (SC) and Pandian
+ITA 995/2007
+
+page no 3 of 7
+
+Chemicals Limited v. Commissioner of Income Tax [2003] 262 ITR 278 (SC)
+to hold that profits from the sale of spare parts was not the immediate source of
+the business profits of the industrial undertaking, but one step was removed
+from it. Although such profits from the sale of spare parts or rendering after sale
+service could be “attributable” to the industrial undertaking, it could not be
+considered as profits “derived” from the industrial undertaking. Accordingly,
+the Tribunal allowed the Revenue's appeal.
+7.
+
+Appearing for the Assessee, Mr. Ajay Vohra, learned counsel submits
+
+that the activity of import of gensets was integral to the business activity of the
+Assessee. He sought to draw a distinction between the expression “profits and
+gains derived from an industrial undertaking” in Section 80-HH (1) of the Act
+and the conditions subject to which an undertaking could be considered to be an
+industrial undertaking for the purpose of Section 80-HH (2) of the Act. His
+submission was that an industrial undertaking which satisfies the requirement of
+Section 80-HH(2) could derive its profits from activities not confined to those
+mentioned in sub-section 80-HH(2) and therefore, a broad meaning had to be
+given to the expression used in Section 80-HH(1) of the Act. He submits that it
+is possible, as in the Assessee's case, for an industrial undertaking to also
+undertake trading activity which in turn could include import of articles in order
+to complete the company's product profile so that the customers are offered a
+wider choice from a complete range of gensets. As regards the import of spare
+parts, he submits that merely because the spare parts that have been imported
+are sold and not used in the manufacture of gensets by the Assessee, that
+cannot deprive the Assessee of the benefit of Section 80-HH of the Act.
+8.
+
+Both Sections 80-HH and 80-I of the Act use the expression “profits and
+
+ITA 995/2007
+
+page no 4 of 7
+
+gains derived from an industrial undertaking”. The Supreme Court has drawn
+a distinction between the expressions “derived from” and “attributable to” in
+Cambay Electric Supply Industrial Co. Limited v. Commissioner of Income
+Tax [1978] 113 ITR 84 in the following manner [page 93] :
+“In our view, since the expression of wider import,
+namely 'attributable to', has been used, the Legislature
+intended to cover receipts from sources other than the
+actual conduct of the business of generation and
+distribution of electricity.”
+
+9.
+
+In the context of Section 80-I, the Supreme Court underscored the above
+
+distinction in its decision in Vellore Electric Corporation Limited v.
+Commissioner of Income Tax [1977] 227 ITR 557 (SC). The decisions of the
+Supreme Court in Sterling Foods Limited and Pandian Chemicals Limited
+reiterate this distinction and insist that only such business profits that have a
+direct nexus to the essential business activity of the Assessee can qualify for
+deduction under Section 80-HH of the Act. Inasmuch as both Sections 80-HH
+and 80-I use the expression “profits and gains derived from an industrial
+undertaking”, the burden is on the Assessee to show the income earned from an
+activity, the profits from which are claimed to qualify for deduction, has an
+immediate and direct nexus to the essential activity of the industrial
+undertaking.
+10.
+
+We are in agreement with the approach adopted by the Tribunal in the
+
+instant case, which is to examine the claim in the background of the purpose of
+providing deductions from business profits under Section 80-HH which was to
+encourage industrial activity in India. It is inconceivable that the deductions
+should be made available in respect of profits and gains which are derived from
+
+ITA 995/2007
+
+page no 5 of 7
+
+an activity not having a direct nexus to the industrial activity as contemplated
+under Section 80-HH (2) of the Act. The entire section has to be read as a
+whole and the interpretation placed thereon has to be fit the overall scheme of
+the provision which is to encourage industrial activity in India.
+
+If the
+
+interpretation sought to be placed by learned counsel for the Assessee is
+accepted then it might possibly lead to a situation where an industrial
+undertaking which has been set up for manufacturing a commodity may
+undertake very little manufacturing in a particular Assessment Year and yet
+claim deduction from the profits and gains from the sale of imported goods.
+That would defeat the very purpose of the provision.
+11.
+
+Learned counsel for the Assessee sought to contend that in an extreme
+
+situation like the one just adverted, the Assessee may not be able to claim
+deduction and that the facts of every case would determine whether the
+Assessee should be deprived of the deduction only because a part of the income
+is earned from a trading activity. In our view, It is not possible to lay down a
+hard and first rule since, according to us, that can be only lead to further
+complication. That also does not appear to be the intention of the legislature in
+enacting the provision as it stands. Therefore, we find no infirmity in the
+conclusion arrived at by the Tribunal.
+12.
+
+As regards the question whether profits and gains from the sale of
+
+imported spare parts used in providing after sales service to customers would
+qualify for deduction, we are in agreement with the conclusions arrived at by
+the Tribunal that this activity might be incidental to the business activity of the
+Assessee but that it has no direct nexus with the activity of the industrial
+undertaking which is the manufacture of gensets. The Tribunal was, in our
+ITA 995/2007
+
+page no 6 of 7
+
+opinion, right in concluding that profits and gains from such activity cannot be
+held to be “derived from the industrial undertaking”.
+13.
+
+For the above reasons, we are of the view that no substantial question of
+
+law arises in this appeal. The appeal is dismissed with no orders as to costs.
+
+S. MURALIDHAR, J
+
+MADAN B. LOKUR, J
+OCTOBER 25, 2007
+rk
+
+ITA 995/2007
+
+page no 7 of 7
+
+

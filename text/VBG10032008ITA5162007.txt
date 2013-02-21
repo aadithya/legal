@@ -1,0 +1,284 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+ITA No.516/2007
+
+%
+
+Judgment delivered on: 10th March, 2008
+
+Commissioner of Income Tax
+Delhi-IV, New Delhi
+
+.....Appellant.
+Through: Ms. P.L.Bansal, Adv.
+
+Vs.
+ESPN Software India (P) Limited
+Building No.22, Pushp Vihar,
+Community Centre, New Delhi
+
+..... Respondent
+
+Through: Ms. Mahua C. Kalra, Adv.
+Coram:
+HON'BLE MR. JUSTICE V.B. GUPTA
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.516/2007
+
+Page 1 of 9
+
+V.B.GUPTA, J. (Oral)
+The short question before us in this appeal is as to whether the
+Income Tax Appellate Tribunal (for short as „Tribunal‟) was right in
+allowing the deduction of expenditure incurred by the Assessee on
+or after 15th August, 1995 holding that the business has commenced
+on this very date.
+2.
+
+Brief facts of this case are that the Assessee Company was
+
+incorporated on 1st August, 1995 and as such this was the first year
+for which the Assessee had filed its return declaring a loss at
+Rs.3,01,78,033/- on 29th November, 1996.
+3.
+
+On 15th August, 1995, the Assessee had acquired license from
+
+ESPN Inc to sub-license for distribution of ESPN Programming
+Services in India via Cable Television System, Satellite Master
+Antenna Systems and Direct to Home via Satellite. By virtue of this
+license, the Assessee entered into an agreement on 1st October, 1995
+
+ITA No.516/2007
+
+Page 2 of 9
+
+with M/s. Modi Entertainment Network (P) Limited (MEN) and
+appointed MEN as its sole distributor for distribution of ESPN
+Programmes to cable operators, hotels and other DTH subscribers.
+4.
+
+It was noticed by the Assessing Officer during the course of
+
+assessment proceedings that the Assessee did not earn any income
+except interest of Rs.95,522/-against which it debited expenses of
+Rs.2,28,85,749/-, relating to the entire period from 1st August, 1995
+to 31st March, 1996. It was claimed by the Assessee that the date of
+incorporation is to be treated as date of commencement of business
+and hence all the expenses are to be treated as Revenue expenses.
+5.
+
+The Assessing Officer held that since the agreement with the
+
+parent company to distribute ESPN Services in India was dated 15th
+August, 1995, while agreement with MEN was dated 1st October,
+1995, therefore it could not be said that before this date, the Assessee
+had commenced business. The Assessing Officer further noted that
+even necessary infrastructure i.e. the decoders were purchased
+
+ITA No.516/2007
+
+Page 3 of 9
+
+by the Assessee much later for an amount of Rs.8.41 crores and
+accordingly it was held by the Assessing Officer that the business of
+the Assessee did not commence during the year and he treated all
+the expenses debited to Profit & Loss Account as expenses incurred
+prior to commencement and did not allow the same as revenue
+expenditure.
+6.
+
+Aggrieved by this order, the Assessee filed an appeal before
+
+the Commissioner of Income Tax (Appeals) [for short as „CIT(A)]
+who held that the business of the Assessee was set up on 15th
+August, 1995 and therefore Assessee was entitled to claim all the
+expenditure incurred on or before this date including depreciation
+allowance.
+7.
+
+Not satisfied with the order passed by the CIT(A), the
+
+Revenue preferred an appeal before the Tribunal. The Tribunal vide
+its impugned order dated 8th September, 2006 passed in ITA
+No.463/Del/02
+
+ITA No.516/2007
+
+relevant
+
+for
+
+the
+
+assessment
+
+year
+
+1997-1998
+
+Page 4 of 9
+
+dismissed the appeal holding that the assessee has commenced the
+business on 15th August, 1995.
+8.
+
+Aggrieved by the order of the Tribunal, the Revenue has filed
+
+the present appeal.
+9.
+
+It has been contended by learned counsel for the Revenue that
+
+though the Assessee had obtained the license on 15th August, 1995,
+however, it had appointed MEN as sole distributor only on 1st
+October, 1995. Moreover, no business activity of revenue nature was
+carried out by the Assessee during the year. It is also contended that
+most of the equipment/infrastructure had arrived in India only in
+the month of November and December and therefore Assessee was
+not even in a condition to start business and merely getting
+incorporation certificate did not mean that the business had
+commenced.
+10.
+
+The question which arises for consideration in the present case
+
+is as to when the Assessee is said to have commenced his business.
+ITA No.516/2007
+
+Page 5 of 9
+
+It has to be borne in mind that there is a distinction between setting
+up of the business and the commencement of the business. What
+is relevant under the Income Tax Act, 1961 (for short as „Act‟) is the
+setting up of the business and not the commencement of the
+business.
+11.
+
+The definition of the previous year as contained in Section 3(1)
+
+of the Act, which is relevant for the present case reads as follows:“ 3. “Previous Year“ Defined
+For the purposes of this Act, “previous year“
+means the financial year immediately preceding
+the assessment year:
+Provided that, in the case of a business or
+profession newly set up, or a source of income
+newly coming into existence, in the said financial
+year, the previous year shall be the period
+beginning with the date of setting up of the
+business or profession or, as the case may be, the
+date on which the source of income newly comes
+into existence and ending with the said financial
+year.”
+12.
+
+According to this section, it is “setting up” of the business and
+
+not the “commencement of the business” that is to be considered. A
+ITA No.516/2007
+
+Page 6 of 9
+
+business is commenced as soon as an essential activity of that
+business is started. Thus, a business commenced with first purchase
+of stock in trade, the date when the first sale is made is not material
+in that respect. Similarly, a manufacturer has to undertake several
+activities in order to bring to produce financial goods and he
+commences his business as soon as he undertakes first of such
+activities (Commissioner of Income Tax vs. Saurashtra Cement and
+Chemical Industries Ltd. 1973 (91) ITR 170 Gujrat).
+13.
+
+It is also well-settled that business is nothing more than a
+
+continuous course of activities and for commencement of business
+all the activities which go to make up the business need not be
+started simultaneously. As soon as an activity which is the essential
+activity in the course of carrying on the business is started, the
+business must be said to have commenced.
+14.
+
+A finding regarding the date when a business was set up is a
+
+finding of fact. Here in the present case, there is a finding of fact
+
+ITA No.516/2007
+
+Page 7 of 9
+
+given by two statutory authorities below that Assessee was ready to
+commence its business on 15th August, 1995 when it acquired license
+to distribute in India through Cable Television Systems, Satellite
+Master Antenna Systems and DTH etc. The relevant findings of the
+Tribunal in this regard are as under:“The Assessee in the present case as one of its business
+activity distribution of T.V. programmes in the area of
+sports, entertainment etc. in furtherance of this objects
+referred to above it obtained the license from ESPN Inc.
+to distribute ESPN Channel Services. This was rightly
+held by the Commissioner of Income Tax (A) to be the
+point of time when the business of the Assessee has
+been set up. By virtue of the license it could discharge
+one of its objects as set out in the Memorandum of
+association of the company. This was the activity,
+which was first in point of time and which must
+necessarily precede all other activities and on this
+activity being done, the business of the Assessee,
+would be deemed to have been set up.”
+15.
+
+Since the Assessee has acquired the license on 15th August,
+
+1995, and after getting the license, the Assessee was in a position to
+start the business, so, under these circumstances, we have no
+hesitation in holding that the Assessee has commenced his business
+
+ITA No.516/2007
+
+Page 8 of 9
+
+on or after 15th August, 1995 and we do not find any infirmity with
+regard to this finding in the order passed by the Tribunal.
+16.
+
+Under these circumstances, no fault can be found with the
+
+view taken by the Tribunal. Thus, the order of the Tribunal does not
+give rise to a question of law, much less a substantial question of
+law, to fall within the limited purview of Section 260-A of the Act,
+which is confined to entertaining only such appeals against the
+order which involves a substantial question of law.
+17.
+
+Accordingly, the present appeal filed by the Revenue is,
+
+hereby, dismissed. .
+
+(V. B. GUPTA)
+JUDGE
+
+10th March, 2008
+rs
+
+ITA No.516/2007
+
+(MADAN B. LOKUR)
+JUDGE
+
+Page 9 of 9
+
+

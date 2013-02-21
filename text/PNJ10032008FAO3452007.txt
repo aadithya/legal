@@ -1,0 +1,862 @@
+IN THE HIGH COURT OF DELHI
+FAO No.345/2007
+#
+!
+
+Oriental Insurance Co. Ltd
+........ Appellant
+through:
+Mr.L.K.Tyagi, Advocate
+VERSUS
+
+$
+^
+
+Nausad & Anr.
+through:
+
+........ Respondents
+None.
+
+RESERVED ON: 5.03.2008
+%
+
+DATE OF DECISION: 10.03.2008
+CORAM:
+
+*
+
+Hon'ble Mr.Justice Pradeep Nandrajog
+
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment? Yes
+
+2.
+
+To be referred to the Reporter or not? Yes
+
+3.
+
+Whether judgment should be reported in Digest? Yes
+
+:
+
+PRADEEP NANDRAJOG, J.
+
+1.
+
+Present appeal has been preferred by the insurance
+
+company under Section 30 of the Workmen’s Compensation Act, 1923
+challenging the award dated 12.07.07 passed by the Commissioner
+Workmen’s Compensation, Delhi.
+2.
+
+By the impugned award, respondent no.1 Sh. Nausad
+
+(hereinafter referred to as the workman) has been awarded a sum of
+Rs.5,24,328/- as compensation along with interest @ 12% per annum.
+3.
+
+Admitted facts which are necessary to be noted are that
+
+the workman was employed by the respondent no.2 Sh. Abdul as a
+driver. On 01.07.04 while on duty and driving a tractor bearing no.UP17-A-5640 in respect whereof respondent no.2 had obtained an
+
+FAO No.345/2007
+
+Page 1 of 16
+
+insurance cover, the workman sustained multiple injuries due to a road
+accident. As a result the left hand of the workman above the wrist had
+to be amputated. The workman was aged 24 years at the time of the
+accident and his last drawn wages were Rs.4,000/- per month.
+4.
+
+Workman filed a claim petition before the Commissioner
+
+Workmen’s Compensation, Delhi claiming compensation.
+
+Appellant
+
+was impleaded as a respondent being the insurer of the tractor.
+5.
+
+Medical Board, Bhagpat, U.P. assessed the disability
+
+suffered by the workman at 65% in relation to the whole body.
+However noting the avocation of the workman, injury suffered by him
+and effect of the injury on the ability of the workman to perform in his
+avocation, the Commissioner Workmen’s Compensation had treated
+the disability suffered by the workman at 100% i.e total disability.
+6.
+
+Insurance company has challenged the award limited to
+
+the extent claiming that the disability suffered by the workman was
+‘permanent partial disablement’ and therefore the compensation
+payable to the workman had to be determined with reference to
+Section 4(1)(c) read with Schedule I of the Workmen’s Compensation
+Act, 1923.
+7.
+
+Before noting the arguments advanced by the learned
+
+counsel for the insurance company it is relevant to have a look at the
+scheme of the Workmen's Compensation Act, 1923.
+8.
+
+Chapter II of the Act deals with Workmen's Compensation.
+
+Section 3 provides that if personal injury is caused to a workman by
+accident arising out of and in the course of his employment, his
+
+FAO No.345/2007
+
+Page 2 of 16
+
+employer shall be liable to pay compensation in accordance with the
+provisions of Chapter II. Section 4 provides as to how compensation
+should be determined where the injuries have resulted in: (i) death; (ii)
+permanent total disablement; (iii) permanent partial disablement,
+specified in Part II of Schedule I to the Act; (iv) permanent partial
+disablement not specified in Schedule I to the Act; and (v) temporary
+disablement. Provisions of Section 4 as are relevant for determination
+of the present case are being extracted hereinunder:
+4.
+Amount of compensation.-(1) Subject to the provisions of this
+Act, the amount of compensation shall be as follows, namely:(a)
+
+xxxx xxxx
+
+(b)
+
+Where permanent total
+disablement results from
+the injury
+
+an amount equal to [sixty per cent]
+of the monthly wages of the injured
+workman multiplied by the relevant
+factor;
+or
+an amount of [ninety thousand
+rupees] whichever is more;
+
+Explanation I.For the purposes of clause (a) and clause (b)
+“relevant factor” in relation to a workman means the factor specified in
+the second column, of Schedule IV against the entry in the first column
+of that Schedule specifying the number of years which are the same as
+the completed years of the age of the workman on his last birthday
+immediately preceding the date on which the compensation fell due.
+Explanation II.Where the monthly wages of a workman exceed
+[four thousand rupees], his monthly wages for the purposes of clause
+(a) and clause (b) shall be deemed to be [four thousand rupees] only;
+(c)
+
+Where permanent
+partial disablement
+result from the injury
+
+FAO No.345/2007
+
+(i)
+
+in the case of an injury
+specified in Part II of
+Schedule I, such percentage
+of the compensation which
+would have been payable in
+the case of permanent total
+disablement as is specified
+therein as being the
+percentage of the loss of
+
+Page 3 of 16
+
+earning capacity caused by
+that injury; and
+(ii)
+
+in the case of an injury not
+specified in Schedule I, such
+percentage of the
+compensation payable in the
+case of permanent total
+disablement as is
+proportionate to the loss of
+earning capacity (as
+assessed by the qualified
+medical practitioner)1
+permanently caused by the
+injury;
+
+Explanation I.Where more injuries than one are caused by the
+same accident, the amount of compensation payable under this head
+shall be aggregated but not so in any case as to exceed the amount
+which would have been payable if permanent total disablement had
+resulted from the injuries.
+Explanation II.In assessing the loss of earning capacity for the
+purpose of sub-clause (ii), the qualified medical practitioner shall have
+due regard to the percentages of loss of earning capacity in relation to
+different injuries specified in Schedule I;”
+9.
+
+Three types of disabilities are provided under Section 4 i.e.
+
+permanent total disablement, permanent partial disablement and
+temporary disablement.
+10.
+
+Temporary disablement is dealt with in Section 4(1)(d) and
+
+needs no elaboration as irrespective of whether such disablement is
+total or partial, the compensation is the same as per the formula
+specified in the Act.
+11.
+
+Section 2(1)(l) defines ‘total disablement’ as under:“'total disablement' means such disablement, whether of
+a temporary or permanent nature, as incapacitates a
+workman for all work which he was capable of performing
+at the time of the accident resulting in such disablement;
+
+1 The words “(as assessed by the qualified medical practitioner)” were inserted in Section 4 (1) (c)
+(ii) by Act 22 of 1984
+
+FAO No.345/2007
+
+Page 4 of 16
+
+Provided that permanent total disablement shall be
+deemed to result from every injury specified in Part I of
+Schedule I or from any combination of injuries specified in
+Part II thereof where the aggregate combination of the loss
+of earning capacity, as specified in the said Part II against
+those injuries, amounts to one hundred per cent or more.”
+12.
+
+Clause (b) of Sub-section (1) of Section 4 deals with
+
+determination
+disablement
+
+of
+
+compensation
+
+resulting
+
+from
+
+in
+
+cases
+
+employment
+
+of
+
+injury.
+
+permanent
+What
+
+is
+
+total
+to
+
+be
+
+determined under Section 4(1)(b) is whether the injuries suffered by
+the workman have in fact resulted in permanent total disablement or
+not. There is no need to decide the percentage of loss of earning
+capacity as a consequence of such permanent total disablement. It is
+assumed that the loss of earning capacity is 100% when there is
+permanent total disablement. Clause (b) of Section 4(1) does not
+contemplate any assessment by a Qualified Medical Practitioner.
+13.
+
+Section 2(1)(g) defines ‘partial disablement’ as under: “'partial disablement' means, where the disablement is
+of a temporary nature, such disablement as reduces the
+earning capacity of a workman in any employment in
+which he was engaged at the time of the accident
+resulting in the disablement, and, where the disablement
+is of a permanent nature, such disablement as reduces his
+earning capacity in every employment which he was
+capable of undertaking at that time;
+Provided that every injury specified in Part II of Schedule I
+shall be deemed to result in permanent partial
+disablement". (Underlining emphasized)
+
+14.
+
+Clause (c) of Section 4(1) deals with determination of
+
+compensation in cases of permanent partial disablement. Recourse to
+Section
+
+4(1)(c)
+
+compensation
+
+FAO No.345/2007
+
+is
+
+warranted either
+
+alleging
+
+that
+
+when the workman claims
+
+employment
+
+injury
+
+has
+
+resulted
+
+in
+
+Page 5 of 16
+
+permanent partial disablement or when the Commissioner does not
+accept a claim of permanent total disablement and decides that the
+disablement is only partial. Clause (c) makes a distinction between the
+extent of physical disability and the extent of loss of earning capacity.
+In the case of permanent partial disablement, the compensation
+depends not on the extent of permanent partial disablement, but on
+the loss of earning capacity resulting from such permanent partial
+disablement.
+
+Where
+
+the
+
+injuries
+
+resulting
+
+in
+
+permanent
+
+partial
+
+disablement are those specified in Part II of Schedule I, then the
+percentage of loss of earning capacity is as specified in the said
+schedule. Where permanent partial disablement has arisen from
+injuries which are not specified in Part II of Schedule I, then the
+percentage of loss of earning capacity resulting therefrom has to be
+determined by the Commissioner on the basis of the assessment made
+by the Qualified Medical Practitioner.
+15.
+
+First argument advanced by the learned counsel for the
+
+insurance
+
+company
+
+was
+
+that
+
+the
+
+Commissioner
+
+Workmen’s
+
+Compensation erred in assessing disability suffered by the workman on
+the basis of his avocation. According to the learned counsel, the words
+‘as incapacitates a workman for all work which he was capable of
+performing at the time of the accident resulting in such disablement’
+employed in the Section 2(1)(l) of the Workmen’s Compensation Act
+make it clear that in order to determine whether an injury results in
+total disablement, whether of a temporary or permanent nature, all the
+work which he was capable of performing at the time of the accident is
+
+FAO No.345/2007
+
+Page 6 of 16
+
+to be seen and not only the work which we was performing at the time
+of the accident. Reliance was placed upon the judgment of the Full
+Bench of the Karnataka High Court in the decision reported as
+Shivalinga Shivanagowda Patil v Erappa Bassapa Bhavihala 2004 ACJ
+333.
+16.
+
+Learned counsel for the insurance company next argued
+
+that since the injury suffered by the workman falls in Part II of the
+Schedule I to the Workmen’s Compensation Act, 1923 the disability
+suffered by the workman must be held to be ‘permanent partial
+disablement’ as provided in the proviso to the Section 2(1)(g) of the
+Workmen’s Compensation Act and compensation payable to the
+workman had to be determined as per Section 4(1)(c)(i) of the
+Workmen’s Compensation Act.
+17.
+
+Learned counsel for the insurance company lastly argued
+
+that even if the injury suffered by the workman is taken to be an
+unscheduled injury the compensation payable to the workman had to
+be
+
+determined
+
+as
+
+per
+
+Section
+
+4(1)(c)(ii)
+
+of
+
+the
+
+Workmen’s
+
+Compensation Act and the disability certificate issued by the Medical
+Board.
+18.
+
+The first question i.e. whether disablement has to be
+
+assessed with reference to the work which the workman was
+performing at the time of the accident, or with reference to his capacity
+to do any other work after he has sustained the disability, in my
+opinion stands answered by their Lordships of the Hon'ble Supreme
+Court.
+
+FAO No.345/2007
+
+Page 7 of 16
+
+19.
+
+In the decision reported as Pratap Narain Singh v
+
+Shrinivas AIR 1976 SC 222 it was held as under:“4. It has not been disputed before us that the injury in
+question was caused to the respondent by an accident
+which arose out of and in the course of his employment
+with the appellant. It is also not in dispute that the injury
+resulted in amputation of his left arm at the elbow. It has
+however been argued that the injury did not result in
+permanent total disablement of the respondent, and that
+the Commissioner committed a gross error of law in taking
+that view as there was only partial disablement within the
+meaning of Section 2(1)(g) of the Act which should have
+been deemed to have resulted in permanent partial
+disablement of the nature referred to in item 3 of Part II of
+Schedule I of the Act. This argument has been advanced on
+the ground that the amputation was from 8" from tip of
+acromion and less than 41/2" below tip of olecranon. As
+will appear, there is no force in this argument.
+5. The expression "total disablement" has been defined in
+Section 2(i)(1) of the Act as follows:
+“(1) XXX”
+It has not been disputed before us that the injury was of
+such a nature as to cause permanent disablement to the
+respondent, and the question for consideration is whether
+the disablement incapacitated the respondent for all work
+which he was capable of performing at the time of the
+accident. The Commissioner has examined the question
+and recorded his finding as follows:
+“The injured workmen in this case is carpenter
+by profession…….By loss of the left hand
+above the elbow, he has evidently been
+rendered unfit for the work of carpenter as he
+work of carpentry cannot be done by one
+hand only.”
+This is obviously a reasonable and correct finding. Counsel
+for the appellant has not been able to assail it on any
+ground and it does not require to be corrected in this
+appeal. There is also no justification for the other argument
+which has been advanced with reference to item 3 of Part II
+of Schedule I, because it was not the appellant's case
+before the Commissioner that amputation of the arm was
+from 8" from tip of acromion to less than 41/2" below the
+tip of olecranon. A new case cannot therefore be allowed to
+be set up on facts which have not been admitted or
+established.” (Underlining emphasized).
+
+FAO No.345/2007
+
+Page 8 of 16
+
+20.
+
+The Hon’ble Supreme Court has made it crystal clear that
+
+whether a workman suffered total disablement or not has to be
+assessed with reference to the work which the workman was
+performing at the time of the accident and not with reference to his
+capacity to do any other work after he has sustained the disability. If a
+workman becomes incapable of performing duties which he was
+engaged to perform before the accident, there is total disablement as
+far as the workman is concerned and the mere fact that he may be
+capable of performing some other work is totally irrelevant.
+21.
+
+The afore-noted ratio laid down by the Supreme Court in
+
+Pratap Narain's case (supra) was followed in under-noted judgments:I
+
+K.P. Hanumantha Gowda & Anr v Devaraju & Anr 1996 ACJ
+
+1253.
+II
+
+National Insurance Company v Mohd. Saleem Khan & Anr
+
+1992 II LLJ 377(AP).
+III
+
+Punambhai Khodabhai v G. Kennel Construction 1985 1 LLJ
+
+98 (Guj).
+22.
+
+In para 25 of the Shivalinga's case (supra) relied upon by
+
+learned counsel for the appellant it was observed as under:“25(iii) Determination of the loss of earning capacity has to
+be with reference to "all the work" which the workman was
+capable of performing at the time of the accident resulting
+in such disablement and not with reference to the work
+which the workman was performing at the time of the
+accident. However, this is subject to the condition that in
+case the workman establishes by acceptable evidence that
+after the injury not only he is not able to do the work which
+he was performing before the accident but he is not able to
+do any other work, the loss of earning capacity could be
+assessed on the basis of such evidence.”
+
+FAO No.345/2007
+
+Page 9 of 16
+
+23.
+
+A perusal of the Shivalinga's case (supra) shows that in
+
+para 19 the judgment of the Supreme Court in Pratap Narain's case
+(supra) was noted.
+24.
+
+Para 11.5 of the Shivalinga's case (supra) reads as under:“The Supreme Court in the case of Amar Nath Singh v
+Continental Construction Ltd, 2001 ACJ 643(SC), while
+referring to Pratap Narain Singh Deo v Srinivas Sabata,
+1976 ACJ 141 (SC), held that the decision turned on its own
+facts and, therefore, the principles therein cannot be
+extended to the present case”.
+
+25.
+Relevant part of para 20 of the Shivalinga's case (supra)
+reads as under:“The cases relied upon are not applicable as the Apex
+Court has nowhere said that the Commissioner has no
+jurisdiction. As discussed, strictly speaking, all the
+aforesaid decisions were rendered on facts and no law as
+such has been laid down.......”
+26.
+
+Probably in coming to the conclusion that no law has been
+
+laid down by the Supreme Court in Pratap Narain's case (supra) Full
+Bench of the Karnataka High Court has been influenced by the
+judgment of the Supreme Court in Amar Nath's case (supra).
+27.
+
+In Amar Nath's case (supra) appellant who had lost his left
+
+eye made a claim as having lost his complete vision in that eye but
+medically it was assessed that loss of vision was only 80%. Noting Item
+no.4 in Part I of Schedule I Commissioner Workmen's Compensation
+assessed the disability suffered by the appellant as 100%. On an
+appeal noting Item no.26 in Part II of Schedule I the High Court reduced
+the disability suffered by the appellant to 30%. The Hon'ble Supreme
+Court noted that the appellant had himself claimed that he was fit for
+work and that there was evidence disclosing the same. Thus there was
+
+FAO No.345/2007
+
+Page 10 of 16
+
+a categorical finding that the avocation/job/work which the appellant
+was performing before the accident was not effected because of the
+disability suffered by him. The ethos of Pratap Narain's case (supra)
+was the effect of the disability suffered by a workman on the
+avocation/job/work performed by him before the accident. In such
+circumstances it was held that Pratap Narain's case (supra) was based
+on its own facts.
+28.
+
+In
+
+Amar
+
+Nathi's
+
+case
+
+(supra)
+
+the
+
+Supreme
+
+Court
+
+distinguished its earlier decision in Pratap Narain's case and did not
+hold that no ratio emerges from the said case.
+29.
+
+With all due respect I differ with the decision of the Full
+
+Bench of the Karnataka High Court in Shivalinga's case (supra) as it has
+not examined Pratap Narain's case in its correct perspective.
+30.
+
+I further note that interpreting the words 'all work which he
+
+was capable of performing at the time of the accident” as referring to
+something other than the job or work which a workman was doing at
+the time of the accident would lead to strange results. Take for
+instance, a driver who has completed his secondary education
+becomes a paraplegic on account of injuries sustained by him in an
+accident may still be able to move around in a wheel chair and be
+capable of doing some work that could be done with his hands such as,
+he may be able to work as a clerk or proof reader or even packer in a
+factory. Does that mean that employment injury making him a
+paraplegic is not total but partial disablement? Even blind persons are
+gainfully employed nowadays. If capacity to do “any work” should be
+the test, there can be no total disablement at all, in most cases.
+
+FAO No.345/2007
+
+Page 11 of 16
+
+31.
+
+The Workmen's Compensation Act, 1923 is a social welfare
+
+legislation enacted for the interest of the workman. It is settled law that
+if any particular provision of the Act is capable of two interpretations,
+that which is more favorable to the person for whose benefit the
+legislature in its wisdom has legislated it, has to be adopted.
+32.
+
+In view of the above discussion and particularly in the light
+
+of decision of the Supreme Court in Pratap Narain's case (supra) I find
+no merits in the first argument advanced by the learned counsel for the
+insurance company.
+33.
+
+Second argument advanced by the learned counsel for the
+
+insurance company is that the combined effect of proviso to Section
+2(1)(g) and Part II of Schedule I is that the injuries enumerated under
+Part II of Schedule I have to be taken as resulting in 'permanent partial
+disablement' and therefore compensation has to be determined with
+reference to Section 4(1)(c)(i) and percentage of loss of earning
+capacity as provided under Part II of Schedule I.
+34.
+
+Item no.4 of Part II of Schedule I reads as under:“Loss of hand or of the thumb and four fingers of one hand
+or amputation from 11.43 cms below the tip of olecranon”.
+
+35.
+
+Percentage of loss of earning capacity for injuries falling
+
+under Item no.4 is provided as 60%.
+36.
+
+In the instant case workman has suffered amputation of his
+
+left hand above the wrist. Therefore, the injury suffered by him falls in
+Item no.4 of Part II of Schedule I.
+37.
+
+Even if for sake of arguments it is accepted that the
+
+combined effect of proviso to Section 2(1)(g) and Part II of Schedule I is
+
+FAO No.345/2007
+
+Page 12 of 16
+
+that the injuries enumerated under Part II of Schedule I have to be
+taken as resulting in 'permanent partial disablement', the question is
+whether
+
+the
+
+Commissioner's
+
+Workmen
+
+Compensation
+
+while
+
+determining loss of earning capacity is bound by the percentage of loss
+of earning capacity provided under Part II of Schedule I or he can go
+beyond the Schedule to determine the loss of earning capacity.
+38.
+
+The answer to afore-noted question is to be found in under-
+
+noted judgments:I
+
+Siddappa v General Manager,KSRTC ILR 1988 Kar 136:- In
+
+said case, a driver had suffered an injury which incapacitated him from
+driving. The Commissioner found that the injury was one falling under
+Part II of Schedule I and accordingly assessed the permanent partial
+disablement as 60%. The workman contended before this Court that
+even in regard to an injury suffered by workman specified in Part II of
+Schedule-I, having regard to the nature of the job in which he was
+employed, there was permanent total disablement. It was held that on
+proving such permanent total disablement, notwithstanding the fact
+that the injury suffered by a workman is one of those specified in Part II
+of Schedule I, he would be entitled to the compensation on the basis of
+total disablement.
+II
+
+National Insurance Company Ltd v Vishnu & Anr ILR 1991
+
+Kar 2406:- In said case, a driver suffered injury in a motor accident
+resulting in amputation of left leg below the knee. There was no
+dispute that workman became totally disabled for continuing in his
+employment as driver. The said injury was described as Item 20 in Part
+II of Schedule I for which the percentage of loss of earning capacity to
+
+FAO No.345/2007
+
+Page 13 of 16
+
+the said injury is specified as 50%. The question that was considered
+was, whether the workman was entitled to plead and prove that he had
+suffered a higher percentage of disability or total disability or whether
+the loss of earning capacity should be restricted to 50% mentioned
+against Entry 20 in Part II of Schedule I. The Court held that the
+question as to whether a particular workman had suffered partial
+disablement or total disablement should depend upon the nature of
+employment. It was further held that in respect of cases specified in
+part II of Schedule I, percentage of loss of earning capacity as specified
+therein should be accepted and compensation should be awarded on
+that basis where there was no proof to the contrary, but the workman
+is not barred from proving that he has suffered a higher percentage of
+loss of earning capacity.
+III
+
+New India Assurance Company Ltd v Subhas 2005 ACJ
+
+479:- In said case, while examining Section 4(1)(c) of the Workmen's
+Compensation Act, 1923 it was held that where the injuries resulting in
+the permanent partial disablement are those specified in Part II of
+Schedule I, then the percentage of loss of earning capacity is as
+specified in the said schedule. But, it is open to the workman, to
+establish by evidence, a higher percentage of loss of earning capacity,
+than what is specified in the said schedule.
+IV
+
+Shivalinga Shivanagowda Patil & Ors v Erappa Bassapa
+
+Bhavihala & Ors 2004 ACJ 33:- In said case, it was held that even if the
+injury complained falls within Part II of Schedule I if evidence is
+adduced to show that such an injury has resulted in permanent total
+disablement, it is open to the Commissioner to consider the loss of
+
+FAO No.345/2007
+
+Page 14 of 16
+
+earning capacity and to hold that notwithstanding what is contained in
+Part II of Schedule I, the injury in question has resulted in permanent
+total disablement.
+39.
+
+In the instant case, admittedly the workman was employed
+
+as a driver and he suffered amputation of his left hand. It cannot be
+disputed that it is impossible to drive a vehicle with one hand only.
+40.
+
+Noting the judgments referred in para 38 above, the
+
+disability suffered by the workman and his avocation, I can safely hold
+that notwithstanding Part II of Schedule I the loss of earning capacity
+suffered by the workman is 100%.
+41.
+
+In case the compensation is re-calculated as per Section
+
+4(1)(c)(i) and the percentage of loss of earning capacity is taken at
+100% the compensation payable would again come to Rs.5,24,328/-.
+Therefore second argument advanced by the learned counsel for the
+insurance company is of no consequence.
+42.
+
+Last argument advanced by the learned counsel for the
+
+insurance company that compensation had to be determined with
+reference to the Section 4(1)(c)(ii) and the disability certificate issued
+by the Medical Board. Much emphasis was placed by the counsel on
+the fact that in the year 1984 Section 4(1)(c)(ii) was amended and that
+the decision in Pratap Narain's case was rendered by the Supreme
+Court prior to the amendment of Section 4(1)(c)(ii).
+43.
+
+As regards the said argument suffice would it be to note
+
+that Section 4(1)(c)(ii) applies only in case of unscheduled injuries. As
+already noted injury suffered by the workman is a scheduled injury,
+therefore Section 4(1)(c)(ii) has no application whatsoever to the
+
+FAO No.345/2007
+
+Page 15 of 16
+
+present case.
+44.
+
+In view of above discussion I find no infirmity in the
+
+impugned award dated 12.07.07.
+45.
+
+The appeal is dismissed.
+
+46.
+
+Award dated 12.07.07 passed by the Commissioner
+
+Workmen's Compensation is affirmed.
+47.
+
+No costs.
+
+March 10, 2008
+sl
+
+FAO No.345/2007
+
+PRADEEP NANDRAJOG
+JUDGE
+
+Page 16 of 16
+
+

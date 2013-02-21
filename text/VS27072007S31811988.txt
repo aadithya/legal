@@ -1,0 +1,641 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++C.S. (OS) No. 3181/1988 & I.A. No. 1961/1989 and 2039/1989
+Judgment reserved on: March 28, 2007
+%
+
+Judgment delivered on: July 27, 2007
+M/s. Simplex Concrete Piles (India) Pvt. Ltd
+..... Plaintiff
+Through: Mr. V. P. Chaudhary, Sr. Advocate
+with Ms. Sushma Sachdeva and
+Mr. Nitinjya Chaudhary Advocates.
+versus
+Union of India
+Through:
+
+..... Defendant
+Mr. Saleem Ahmed, Advocate.
+
+CORAM:
+HON'BLE MR. JUSTICE VIPIN SANGHI
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+No
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+VIPIN SANGHI, J.
+1.
+
+By this order I proceed to dispose of the objections filed
+
+by the parties before me to the Arbitral Award dated 31.10.1988,
+
+CS(OS) 3181-1988
+
+Page 1 of 16
+
+made by the sole Arbitrator, Shri J.P. Singhal.
+2.
+
+Vide his letter dated 5th December 1988, the learned
+
+Arbitrator had filed the award in Court to be made a 'Rule' of the
+Court. Both the parties to the award, i.e., the claimant and the
+respondent before the Arbitrator filed their objections on 15.2.1989
+(registered as I.A. No. 1961/1989) and 7.2.1989 (registered as I.A. No.
+2039/1989) respectively.
+3.
+
+Brief facts leading to the passing of the award are that
+
+Union of India (referred to as 'respondent' hereinafter) had invited
+tender for the work of construction of flyover at Lodhi Hotel intersection, New Delhi at an estimated cost of Rs.2,04,66,773/-. Work
+contract was awarded to M/s. Simplex Concrete Piles India (P) Ltd.
+(referred to as the 'Claimant' hereinafter) for Rs.2,48,85,564/- to be
+completed within a period of 16 months starting 1.1.1981. However,
+the work could not be completed in time, and was thus delayed by a
+month, though extension had been granted for, upto 31.12.1982.
+4.
+
+Final Bill was raised and some deductions etc. were made
+
+to the amount claimed and consequently differences/disputes arose
+between the parties which were referred to the sole Arbitrator.
+5.
+
+The Claimant has objected to the award to the extent it
+
+fails to award pendente lite interest to it as an error apparent on the
+CS(OS) 3181-1988
+
+Page 2 of 16
+
+face of the award.
+6.
+
+The respondent has challenged the award so far as it
+
+relates to claim nos.1, 2, 3, 5, 7, 13(iii) and 21.
+Objections of Respondent:
+7.
+
+Claim No.1 for Rs. 28,30,000/- was made on account of
+
+reduction of capacity of piles by the Respondent/Department, i.e.,
+from 110 tonnes to 80 tonnes, which resulted in increase in the
+number of piles by 82. It is alleged that the Arbitrator misconducted
+himself in coming to the conclusion that the Claimants had, in
+accordance with clause No.2.5.5 of the additional condition to the
+agreement, offered a guaranteed safe load carrying capacity of 110
+tonnes, inasmuch as, there was no acceptance of the above offer by
+the Respondent. On the contrary the requirement of clause 2.5.3 of
+the
+
+agreement
+
+required
+
+the
+
+claimant
+
+to
+
+submit
+
+preliminary
+
+calculations for arriving at the size, length and load carrying capacity
+of the piles.
+8.
+
+It is also argued that the arbitrator also misconstrued the
+
+provisions contained in clause No.2.4.2 of the agreement at page 135
+which was binding on the Claimant. The Arbitrator construed the
+clause to imply that trial bores and testing of soil samples was
+primarily necessary for checking design of retaining walls etc., where
+CS(OS) 3181-1988
+
+Page 3 of 16
+
+design of foundation was other than piles., whereas the words used in
+the said clause were “...for checking and final design of the
+foundations of flyover and its approaches at suitable location....” Thus
+no distinction was made by the arbitrator whether foundations were
+walls or concrete piles.
+9.
+
+It is alleged that the Arbitrator also misconducted himself
+
+by holding that it was the field load test, which ought to have been
+regarded, and the process static formula adopted by the respondent
+ought to have been disregarded. As far as the field load testing was
+concerned the Arbitrator ignored the provisions of clause 5.8.3 and
+5.8.4 of IS:2911 Part 1 Section 1 1979 regarding the factor of safety
+on the test load. The factor of safety adopted by the Claimant was `2'
+only, whereas it ought to have been “2.5”.
+
+Thus, the Arbitrator
+
+erroneously upheld the contention of the Claimant that the fixation of
+capacity of piles as 80 tonnes by the Respondent and its intimation to
+the Claimant on 6.4.1981 was contrary to the provisions of the
+agreement. This was also in violation of clause 4.3 of the agreement.
+10.
+
+The Arbitrator also erred in concluding that the value of 'K'
+
+i.e. the co-efficient of the earth pressure fixed by the Respondent as
+'1' was not correct and the value of 'K' adopted by the Claimants as '2'
+was correct. In arriving to this conclusion the Arbitrator disregarded
+CS(OS) 3181-1988
+
+Page 4 of 16
+
+and ignored the decision of a committee of 4 Chief Engineers and 4
+Superintending
+
+Engineers
+
+assisted
+
+by
+
+the
+
+concerned
+
+executive
+
+Engineers under the Chairmanship of the Additional Director General
+(Bridges), the highest technical authority on bridges of the Ministry of
+Surface Transport, Exh. No. R/155. Thus, the award of Rs.4,92,000/against above claim deserves to be set aside.
+11.
+
+The claimant had relied upon clause 2.5.5 whereby it was
+
+for the claimant to lay down the safe load capacity of each pile and the
+tender bid was to be based on that guaranteed safe foundation. The
+Claimant has accordingly specified safe load carrying capacity of a 50
+CM. dia pile as 110 tonnes. This, as per the Claimants, was duly
+established by the load test conducted on the piles. The reduction of
+capacity of each pile to 80 Tonnes from 110 tonnes by the
+Respondents vide letter dated 7.4.1981 was therefore uncalled for.
+This led to an increase in the work of pile caps and consequently
+Claimant had to supply 82 extra piles than it would have supplied had
+it not been for the above reduction of capacity.
+
+Since the work of
+
+installation of piles was a part of the works covered under lump sum
+price, once the technical approach of design and execution of work
+was disclosed by the contractor in its offer and on that basis the offer
+was accepted, therefore, it was not open for the Respondent to
+CS(OS) 3181-1988
+
+Page 5 of 16
+
+deviate from its stand.
+12.
+
+Claim No.2 was made on account of alleged increase in
+
+reinforcement.
+
+The
+
+Arbitrator
+
+proceeded
+
+to
+
+award
+
+a
+
+sum
+
+of
+
+Rs.20,388/- against the claim of Rs.57,500/- that was made. This is
+allegedly in violation of provisions of clause 4.3 at pg 159 of the
+agreement which provides that any modifications to design suggested
+by Respondent in consultation with the Ministry of Shipping &
+Transport were to be carried out by the Claimants without any extra
+charge. As per the Claimant, the longitudinal reinforcement was
+increased
+
+arbitrarily
+
+without
+
+any
+
+relevance
+
+to
+
+the
+
+contract
+
+specifications and, thus the claim was justified.
+13.
+
+Claim No.3 is regarding the increase in the size of pile caps
+
+on account of increase in the number of piles. Claimants claimed Rs.
+4,82,000/- on this account.
+
+The Arbitrator granted a sum of
+
+Rs.4,60,918/-. As per the Respondent, the Arbitrator has granted this
+claim on the basis of his decision on claim 1. If the award in respect of
+claim No.1 is rejected, this claim would also fall. Further, the Arbitrator
+rejected the 'Truss Theory” based on para S.12 of IS:2911 Part 1
+Section 1 and IS: 4556-1978. It is argued that the Arbitrator has not
+given any indication as to the basis of calculations of the amount
+awarded against this claim.
+CS(OS) 3181-1988
+
+Page 6 of 16
+
+14.
+
+Claim No.5 was on account of the two layers of water
+
+bound mecadem laid under the approach slab and 75 mm thick layer
+of bituminous mecadem on top of the approach slab which the
+Claimant had to lay. This, according to Respondent, was not done on
+the direction of the Respondent, but as an acute technical/contractual
+requirement. Since, as per contract, the top of each carriage way was
+to be kept at uniform level, and nothing was done beyond that,
+therefore the award of Rs.1,43,000/- to the Claimant was not justified.
+15.
+
+Claim No.7 pertained to construction of railing and items of
+
+work connected therewith. The Claimant had preferred a claim of
+Rs.4,96,000/- under this head. Rs.2.5 lakh was claimed on account of
+lump sum cost of 1 meter high railing provided on both sides of
+carriageway and the remaining amount on account of RCC facia
+provided on the safety kerbs. While the former was rejected in toto,
+the claim on account of RCC facia was accepted
+
+to the extent of
+
+Rs.69,000/-. The respondents have challenged this on the ground that
+the Arbitrator ignored the specific provisions of the agreed drawing
+which formed part of the agreement in order to arrive at the above
+conclusion and nothing could have been awarded under Claim 7.
+16.
+
+A bare perusal
+
+of the award in respect of claim Nos.
+
+1,2,3,5 and 7, as well as the objections raised by the respondents,
+CS(OS) 3181-1988
+
+Page 7 of 16
+
+shows that they are touching upon the merits of the claims. Moreover,
+they deal with highly technical and engineering aspects of the
+contract.
+
+The parties to the contract entered into an engineering
+
+contract, to be executed by technicians and engineers.
+
+Since the
+
+disputes were of a technical nature, even the arbitrator appointed
+appears to be a person with technical background and knowhow from
+the Ministry of Urban Development, Government of India. I may notice
+that no oral arguments were advanced by the respondents in support
+of the objections on account of the highly technical nature of the
+claims, the award and the objections. He has rendered his award in
+respect of the aforesaid claims which, on the face of it, does not
+disclose an error apparent on the face of the record. It is not for this
+Court to sit as a Court of Appeal to re-appreciate the claims and
+counter claims/counter statements of the parties on merits.
+
+The
+
+Arbitrator has interpreted the terms of the contract and on that basis
+passed his award.
+
+Consequently, the objections in respect of the
+
+aforesaid claims are rejected.
+17.
+
+Claim 13(iii) was made on account of escalation of labour
+
+wages during the currency of the contract. The Arbitrator awarded the
+entire sum of Rs.4,15,750/- claimed by the claimant under this head.
+18.
+
+The Respondent has questioned the validity of the award
+
+CS(OS) 3181-1988
+
+Page 8 of 16
+
+so far as it relates to this claim on the ground that the same is in
+violation of clause 10-C-3 of the agreement which specifically provides
+that the contractor shall be reimbursed with the actual expenditure
+incurred by the contractor on account of statutory increase in wages.
+It is contended that the Arbitrator awarded the said amount despite
+failure on the part of the Claimant to adduce evidence of the actual
+amount spent on account of increase in labour wages. The Arbitrator
+on his own calculated the supposed additional liability which according
+to him might have been incurred by the Claimant. Moreover, even
+though the Arbitrator reached the figure of Rs.3,40,750/- as the
+amount payable as per his calculations, still he proceeded to award a
+sum of Rs.4,15,750/-. Thus, it is argued that the decision on claim
+13(iii) is totally unsustainable and perverse and liable to be set aside.
+To buttress this contention reliance has been placed on Associated
+Engineering Co. Vs. Government of Andhra Pradesh and Anr.,
+AIR 1992 SC 232.
+19.
+
+In that case, the Hon'ble Supreme Court held that the
+
+Arbitrator acted beyond his jurisdiction by traveling outside the
+permissible territory provided by the contract between the parties
+when the Arbitrator made an award in respect of a liability incurred on
+account of escalation in labour wages, contrary to the terms of the
+CS(OS) 3181-1988
+
+Page 9 of 16
+
+contract. It was observed:
+
+20.
+
+“A deliberate departure from contract amounts to
+not only manifest disregard of his authority or a
+misconduct on his part, but it may tantamount to
+a mala fide action. A conscious disregard of the
+law or the provisions of the contract from which
+he has derived his authority vitiates the award.”
+Coming back to the case before me, it may be relevant to
+
+examine provisions of clause 10-C-3 of the Contract. The said clause
+reads as follows:
+“Labour:- If during the progress of the works,
+wages of labour increases as a direct result of the
+coming into force of any fresh law, or statutory
+rule or order and the contractor thereupon
+necessarily and properly pays of labour engaged
+on the execution of the work such increased
+wages, then the amount of the contract shall
+accordingly be varied, provided always that any
+increase so payable is not, in the opinion of the
+Superintending Engineer (whose decision shall be
+final and binding) attributable to delay in the
+execution of the contract within the control of the
+contractor.
+Provided, however, no reimbursement shall
+be made if such increase has become operative
+after the contract or extended date of completion
+of the work in question...
+...The contractor shall for the purpose of this
+condition, keep such books of account and other
+documents as are necessary to show the amount
+of any increase claimed or reduction available and
+shall allow inspection of the same by a duly
+authorised representative of Government and
+further shall, at the request of the Engineer-incharge furnish, verified in such a manner as the
+Engineer-in-charge may require any documents so
+kept and such other information as the EngineerCS(OS) 3181-1988
+
+Page 10 of 16
+
+21.
+
+in-charge may require.
+The contractor shall, within a reasonable
+time of his becoming aware of any alteration in
+the price of any such wages of labour, give notice
+thereof to the Engineer-in-charge stating that the
+same is given pursuant to this condition together
+with all information relating thereto which he may
+be in position to supply.”
+The Arbitrator was bound to proceed on the basis of the
+
+evidence, if any, adduced in order to ascertain the liability of the
+respondent on account of labour escalation. I should not be read as
+holding that the claim was not admissible, for the contract did contain
+a stipulation as to reimbursement to contractor of the amount spent
+due to labour escalation. The error lies not in upholding the liability but
+in the manner the liability was ascertained, calculated and fastened on
+the respondent in contravention of the said clause 10-C-3. No evidence
+was led by the claimant in support of this claim.
+
+There was no
+
+material on record before the Arbitrator to award the amount of
+Rs.4,15,750/- to the claimant. Thus, the award so far as claim 13(iii) is
+concerned, is vitiated by misconduct and liable to be set aside.
+22.
+
+Claim 21 pertains to pre-suit, pendente lite and future
+
+interest on the awarded amount. The Arbitrator awarded pre suit
+interest (from 31.3.1983 till 23.8.1983) and future interest (from date
+of his award till payment) @ 10% per annum on Rs.19,54,189/-.
+However, pendente lite interest was refused.
+CS(OS) 3181-1988
+
+Page 11 of 16
+
+23.
+
+Both the parties i.e. respondent as well as the claimant
+
+have challenged the award so far as it relates to this claim. The
+respondent is aggrieved by the award of pre suit interest and contends
+that an arbitrator is not a court and therefore, could not have awarded
+pre-suit interest. The Claimant, on the other hand, is aggrieved by the
+refusal by the Arbitrator to award pendente lite interest on the
+awarded amount.
+24.
+
+The respondents contention is that the award, so far as it
+
+refuses pendente lite interest, in perfectly valid and in consonance
+with the law as it was interrupted at the relevant time. The award was
+passed before the decision of the Supreme Court in Secretary,
+Irrigation Department, Government of Orissa Vs. G.C. Roy, AIR
+1992 SC 732 was pronounced, and at the relevant time it was the
+decision in Executive Engineer, Irrigation, Galimala & Ors. V.
+Abhaduta Jena, (1988) 1 SCC 418 which held the field. As per the
+said decision, Arbitrator was not considered a `court' and was
+therefore not considered competent to award pendente lite interest.
+Moreover, even when the decision in Abhaduta Jena (supra) was
+overruled by G.C. Roy (Supra) it was prospectively overruled. The
+Supreme Court restricted the application of G.C. Roy (supra) to
+pending proceedings. Since the Award had already been passed, G.C.
+CS(OS) 3181-1988
+
+Page 12 of 16
+
+Roy (supra) would not apply to the present case.
+25.
+
+The claimant on the other hand has not disputed that G.C.
+
+Roy(supra) is to be given effect prospectively and it would only apply
+to matters pending at the time the said decision was pronounced. His
+contention is that since these objections filed by both the parties were
+already pending before this Court, when the said decision was
+pronounced, G.C. Roy (supra) would apply to this case.
+26.
+
+The question that needs to be answered is whether
+
+proceedings for making the award rule of the court are “matters
+pending” as contemplated by the court in G.C. Roy's case (supra)?
+27.
+
+A matter may be considered to be not pending when it has
+
+been finally disposed of by a court or authority and nothing more
+needs to be determined/or nothing survives for determination. In case
+of an Arbitration Award made under the 1940 Act, a peculiar feature of
+the award is its un-enforceability till it is made Rule of the court/decree
+of a court. Therefore, every award passed has to be filed before the
+court and the court is duty bound to give notice to the parties and
+consider the objections, if any, raised by any of the parties against the
+award. [See (2002) 6 SCC 437]. Even if no objections are filed by any of
+the parties, the court is still obliged to consider whether the award
+calls for interference or not, and if not, whether to make it a Rule of
+CS(OS) 3181-1988
+
+Page 13 of 16
+
+the Court. It is only when the award is made a `Rule' of the Court and
+a decree is passed which has attained finality, can it be said that the
+proceedings have become final. [See (2001) 3 SCC 277].
+28.
+
+Therefore, till the objections filed in pursuance of the
+
+notice of filing of the award in court are pending, or awards has not
+been made decree of the court, it cannot be said to be final. Similarly,
+if an appeal is preferred from the decision of the court making the
+award a `Rule' of the Court, or allowing all or any of the objections to
+the award, since an appeal is a continuation of the
+
+original
+
+proceedings, it would follow that the award would still not be
+considered as “final”. In DDA v. Wee Aar Constructions Builders
+& Anr, 2004 VIII AD (Delhi) 33 and Sudhir Brother v. DDA, 2001 II
+AD(Delhi) 325, this Court has also applied the decision in
+
+G.C.Roy
+
+(supra) to cases similar to the present. I may also refer to the decision
+of the Supreme Court in 1999(2) SCC 594. The Supreme Court, while
+granting pendente lite interest observed as follows:“In the cases at hand, the awards have not
+been made rule of the court so far and are
+being so made by the court today. The award
+of interest pendente lite by the arbitrator
+deserves to be sustained.”
+29.
+
+In view of the above discussion, there is no merit in the
+
+CS(OS) 3181-1988
+
+Page 14 of 16
+
+submission of the respondent and the petitioner is held to be entitled
+to pendente lite interest (during arbitration proceedings) on the
+awarded amount @ 10% per annum.
+30.
+
+As
+
+far
+
+as
+
+pre-reference
+
+interest
+
+is
+
+concerned,
+
+the
+
+respondent has contended that since no notice under the interest Act
+was received from the claimant, the arbitrator acted beyond his
+powers in awarding pre-reference interest. The claimant has in reply
+relied on Ex. C-91, dated 17.9.1982 which has also been relied upon
+by the Arbitrator while awarding pre suit interest. Since the Arbitrator
+has come to this conclusion on the basis of the evidence adduced
+before him, it is not for this Court to interfere in the award so passed.
+Thus, grant of pre-reference interest cannot be disturbed by this
+Court.
+31.
+
+Consequently, the objections of the respondents to claim
+
+No.21 is rejected while the objections to the non grant of pendente lite
+interest raised by the claimant is allowed.
+32.
+
+In view of the aforesaid, the award passed by the learned
+
+arbitrator is made a rule of the Court and the decree is passed in
+terms thereof except in respect of claim no.13(iii). To that extent the
+award is set aside. The claimant shall also be entitled to pendente lite
+interest @ 10% per annum.
+CS(OS) 3181-1988
+
+Page 15 of 16
+
+33.
+
+The claimant shall also be entitled to future interest from
+
+the date of the decree till payment or realization @ 8% per annum, in
+case the decreetal amount
+
+is not paid within three months from
+
+today.
+
+(VIPIN SANGHI)
+JUDGE
+July
+
+, 2007
+
+P.K.Babbar/as
+
+CS(OS) 3181-1988
+
+Page 16 of 16
+
+

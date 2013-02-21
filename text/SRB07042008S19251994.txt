@@ -1,0 +1,369 @@
+39
+*
++
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+April 7, 2008
+
+1.
+
+CS(OS) 1925/1994
+KERLA STATE CONSTRUCTION CORPORATION LTD.
+F+ ..... Plaintiff
+Through Mr. S. Balakrishnan, Sr. Advocate with
+Mr. I.C. Kumar, Mr. Sri Narain Jha, Advocates
+versus
+THE PROJECTS & EQUIPMENT CORPN.OF INDIA
+..... Defendent
+Through Mr. R.K. Watel, Advocate
+
+2.
+
+CS(OS) 1401/1994
+KERLA STATE CONSTRUCTION CORPORATION LTD. F+
+.... Plaintiff
+Through Mr. S. Balakrishnan, Sr. Advocate with
+Mr. I.C. Kumar, Mr. Sri Narain Jha, Advocates
+versus
+THE PROJECTS & EQUIPMENT CORPN.OF INDIA
+..... Defendent
+Through Mr. R.K. Watel, Advocate
+CORAM:
+MR. JUSTICE S. RAVINDRA BHAT
+1.
+
+Whether reporters of local papers may be
+allowed to see the judgment?
+
+2.
+
+To be referred to the Reporter or not?
+
+3.
+
+Whether the judgment should be reported
+in the Digest?
+
+Mr. Justice S. Ravindra Bhat (Open Court)
+I.A. 11992/1994
+1.
+
+These proceedings are under Sections 30/33 of the Arbitration Act, 1940; they question an
+
+interim Award made on 12th May, 1994, by the Arbitrators.
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+1 of 10
+
+2.
+
+The facts are that the respondent successfully offered to execute a work contract, in response to
+
+a global tender by the Government of Libya. The contract was awarded on 6 th December, 1979. On
+29th January, 1980, the claimant, a Public Sector Undertaking of the State of Kerala, entered into an
+agreement
+
+with the respondent to work as its associate in regard to execution, completion and
+
+maintenance of the work that were part of the main contract between the Government of Libya and the
+objector/respondent which is also a Public Sector Undertaking but of the Central Government.
+3.
+
+The agreement between the parties contained an arbitration clause which reads as follows:
+“12.1 If at any time any question, disputes or difference whatsoever shall arise
+between the First Party and the Second Party upon or in relation or in connection with
+this Agreement, either party shall forthwith give to the other party notice in writing of
+the existence of such question, dispute or difference. The First Party and the Second
+Party shall use their reasonable endeavours to settle between themselves any dispute
+which may arise.”
+12.2. All questions disputes and differences which may arise between the First Party
+and the Second Party which cannot be settled amicably between them as to the intent or
+meaning of this Agreement, the respective rights and obligations of the parties hereto or
+any act, matter of thing done or to be done under this Agreement or in relation thereto
+shall be settled by means of Arbitration, by two Arbitrators, one to be appointed by
+each Party to the dispute and the Arbitrators shall, before taking upon themselves the
+burden of reference, appoint an umpire. If the Arbitrators cannot agree on the Award,
+the matter shall be referred to the Umpire. The Arbitration shall be conducted at New
+Delhi in accordance with the Indian Arbitration Act and Rules made thereunder.”
+
+4.
+
+Certain disputes apparently arose and the petitioner claimant sought reference.
+
+Arbitrators, one nominated by either party, entered upon reference.
+
+Two
+
+The claimant presented its
+
+statement of claims; after receiving it the respondent apparently filed a counter claim. At that stage, the
+claimant objected to the maintainability of the counter claim inter alia on several grounds, including
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+2 of 10
+
+that of limitation, maintainability and also that since no demand had been made under the arbitration
+clause and no notice under Clause 12.2 has been issued, the claim was not adjudicable.
+5.
+
+The Arbitrator, framed five preliminary issues on 4.8.1991. These were in the following terms:
+“
+
+1. When did the breaches of contract on the part of Respondent arise as
+causes of action accruing to the Claimant for making Reference to
+Arbitration under S. 37(3) read with S. 37(1) of the Arbitration Act?
+2. When did the breaches of Contract on the part of the Claimant arise giving
+rise to causes of action for the counter-claims (or set-offs) made the
+Respondent against the Claimant for making Reference to Arbitration in
+terms of S. 37(3) read with S. 37(1) of the Arbitration Act?
+3. Is any claim or the claims barred by Limitation under Article 55 of the
+Schedule to the Limitation Act?
+4. Is any counter-claim or counter-claims barred by Limitation under Article 55
+of the Schedule to the Limitation Act?
+5. Are the counter-claims entertainable in this Reference made by the
+Claimant?”
+
+6.
+
+The Arbitrators held that findings on preliminary issues 1 & 3 could be rendered after
+
+considering the evidence, to be led in the further course of the proceedings. So far as preliminary
+issues 2 and 4 were concerned, the Arbitrators held that the counter claims of the respondent were
+within the time prescribed. The 5th preliminary issue was, however, held against the respondent. It is
+in respect of those findings, (which led to rejection of the counter claim), that these objections have
+bee preferred.
+7.
+
+The Arbitrators noted in para 46 of the interim Award that the question of maintainability of the
+
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+3 of 10
+
+counter claim had several nuances i.e. “difference facets”. The Arbitrators listed at least three such
+distinct aspects arising from the issue. It was then noted in significantly enough in para 47 as follows:
+“47. The plea of the claimant, on which this issue is based, does not encompass all
+the facets of the question of maintainability. The claimant, for example, does not
+dispute the maintainability of the counter-claim on the ground that the counter-claim
+does not arise out of the Agreement, or is not connected with the agreement, or does not
+arise out of the agreement. It is also not urged that the counter-claim is outside the
+terms of reference, or the order of reference, and are, therefore, not maintainable.
+There is also no express plea that they are not maintainable because having never been
+raised, before the reference, had not matured into a “dispute or difference”, within the
+meaning of the Arbitration act, and the arbitration Agreement. This aspect may,
+however, be implied from the contention that the “demand” had not been made. The
+limited aspect of maintainability, which is expressly raised by the claimant, is that the
+counter-claim cannot be entertained in the “present reference” because respondent did
+not satisfy the condition precedent to any claim being made in arbitration and that
+conditions precedent is contained in clause 12.1 of the Agreement, and, inter alia,
+obliges the parties to give “prior notice” of their claim to the other party.”
+8.
+
+The Arbitrators thereafter proceeded to analyze Clause 12.1 and rendered their findings in paras
+
+52 and 53, after concluding that since no distinct demand had been made by the respondent counter
+claimant under Clause 12.1 it was not open to it to prefer counter claims in the course of arbitration
+proceedings initiated at the instance of the claimant/petitioner. The analogy to order VIII Rule 6-A
+Civil Procedure Code was turned down.
+9.
+
+Learned counsel for the objector submits that the Arbitrators committed a manifest error in
+
+reading, in the mechanism of Clause 12.1, as a pre-condition for operation of Clause 12.2. According
+to him the said two clauses of the contract are separate and independent of each other. While 12.1 casts
+an obligation on the parties to endeavour at a settlement, Clause 12.2 was the agreed dispute resolving
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+4 of 10
+
+mechanism. In its terms “all disputes” had to be resolved through arbitration.
+10.
+
+Learned counsel relied upon several rulings including the judgment of this Court reported as
+
+C.L. Misra vs. Nehru Bhavan Trust & Ors., AIR 1991 Delhi 39 which had in turn relied upon a
+previous decision reported as Laminated Packings v. Union of India, 1983 Rajdhani LR (Notes) 8. In
+that case, it was held that once disputes are referred to arbitration, the opposite party has a right to
+prefer its counter claim. Learned counsel for the objector also relied upon a decision of the Supreme
+Court reported as Indian Oil Corporation Ltd. vs. Amritsar Gas Service and Ors., (1991) 1 SCC 533
+where it was held that the occasion to make a counter claim in the written statement can arise only after
+an order of reference is made.
+11.
+
+Learned counsel submitted that having been satisfied about the maintainability vis-a-vis the
+
+question of limitation, and also having expressly recorded that the claimant did not dispute
+maintainability of the counter claim on the ground that it does not arise out of the agreement nor was
+connected with it or was outside the terms of reference, the Arbitrators should not have taken upon
+themselves to decide the issue of maintainability by constraining pleadings through implication as it
+were. He heavily relied upon the observations in para 47 and submitted that in the circumstances of
+this case, the Arbitrators should not have implied, by interpreting the word “demand” , that the counter
+claim was not specifically made prior to the reference to the arbitration and, therefore, could not be
+entertained.
+12.
+
+Learned senior counsel for the petitioner on the other hand urged that the pre-condition to
+
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+5 of 10
+
+every valid arbitration or even a claim is the existence of a dispute. He relied upon Clause 12.1 and
+contended that the respondent/objector, at no stage prior to the reference, had demanded any amount
+which it ultimately counter claimed. Learned counsel relied upon the judgment of the Madhya Pradesh
+High Court reported as Dilip Construction Co. v. Hindustan Steel Ltd., AIR 1973 MP 261. In that case,
+the Court held as follows:
+“The principles deducible from these authorities are-(i) The existence of a difference or dispute is an essential condition for the
+arbitrator's jurisdiction to act under an arbitration clause in an
+agreement;
+(ii) the jurisdiction of an arbitrator depends not upon the existence of a claim
+or the accrual of a cause of action, but upon the existence of a dispute. A
+dispute implies an assertion of a right by one party and repudiation
+thereof by another;
+(iii)A failure to pay is not a difference, and the mere fact that a party could
+not or would not pay does not in itself amount to a dispute unless the
+party who chooses not to pay raises a point of controversy regarding, for
+instance, the basis of payment or the time or manner of payment.”
+13.
+
+Learned counsel next relied upon the judgment reported as Bhagawati Oxygen Ltd. vs.
+
+Hindustan Copper Ltd., AIR 2005 SC 2071. Learned senior counsel for the petitioner also relied upon
+the judgment of the Supreme Court reported as State of Rajasthan vs. Nav Bharat Construction Co.,
+(2006) 1 SCC 86. He relied upon the observations of the Court to state that the arbitral Tribunal or the
+umpire—in that case the latter can decide only disputes referred and could not travel beyond it.
+14.
+
+The factual narrative reveals that disputes between the parties stern from a contract entered into
+
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+6 of 10
+
+between them in 1980. The disputes were referred to arbitration in 1991. The respondent, which the
+main contractor filed its counter claim, after the petitioner preferred its claims in arbitration. This was
+objected by the petitioner/claimant as not maintainable along with several other objections.
+
+An
+
+advertence to the findings on issue No. 5 in the interim Award impugned in the present case would
+reveal that most of the issues were held in favour of the respondent objector, particularly, those relating
+to limitation and other questions of maintainability. However, the narrow ground which persuaded the
+Arbitrators to hold against the respondent's counter claim was that no separate or distinct demand had
+been made and that no reference of those alleged disputes had been sought, for resolution through
+arbitration; therefore, the counter claim could not be adjudicated.
+15.
+
+The findings in para 47 of the impugned interim award in the opinion of the Court make
+
+interesting reading. The Arbitrators construed the nature of objections articulated by the petitioner
+claimant. On most a counts, those objections were overruled. However, the Arbitrators felt compelled
+enough to examine that the nuances and facets of the expression “demand” and further imply that since
+no specific demand for any amount or dispute had been sought or made by the respondent, they had no
+jurisdiction to examine the counter claim.
+16.
+
+The decision cited by the objector, particularly, the two decisions of this Court as well as the
+
+Supreme Court judgment in Amritsar Gas Service and Ors. are a clear pointer to the principle that if
+disputes exist between the parties, the Arbitrators derive their jurisdiction to examine and adjudicate
+upon them. This, of course, subject to other well settled and well defined exceptions such as limitation,
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+7 of 10
+
+etc. The expression “ all disputes” which is otherwise a widely accepted contractual norm and is
+factored into most arbitration agreements is in the opinion of the Court of sufficient amplitude to admit
+of all claims of the parties subject to other provisions of law. The petitioner contended —an argument
+which found favour with the Arbitrator—that in the absence of a notice under Clause 12.1 or endeavour
+(by parties) to settle specific disputes which were later founded in the counter claim, the respondent
+could not have approached the Arbitrator with their own claims, in reference made primarily at the
+instance of the claimant.
+17
+
+Though seemingly attractive, the argument has to be seen in the backdrop of the other
+
+conditions. Clause 12.1 is no doubt a part of the dispute resolving mechanism yet it is more in the
+nature of the obligation to explore attempts to settle (in the first instance) differences between the
+parties.
+
+However, Clause 12.2 has been cast imperative terms. It enjoins the parties to refer their
+
+disputes to arbitration. In fact, both parties are given the choice to appoint one of their nominees as
+their Arbitrator. In this case both exercised this option. There is nothing in the language of Clause
+12.2 either express or through necessary implication to import the necessity of a notice, under Clause
+12.1 or any other condition, as has been inferred by the Arbitrators in this case to set into motion the
+disputes resolution mechanism, by one party, independently of the other parties recourse to arbitration.
+All questions, disputes and differences naturally imply existence of some differences of opinion
+between the parties. One cannot ignore is that the expression “all questions, disputes and differences”
+may include a wider spectrum of disputes and not be confined to what is demanded, by one party. For
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+8 of 10
+
+instance, if certain disputes and differences are to put to one party and either not expressly rejected or
+commented they can arguably be described as un-resolved disputes. Likewise, there can be possibly a
+situation where the one party refer demands and obtain a reference of its disputes to arbitration. In its
+defence, the respondent/opposite party could well discover or choose to come forward with its claims
+which it had not been articulated till then or which could be set off in response to the claim.
+18.
+
+From the above, it may be seen that the necessity of separate demand for arbitration would
+
+perhaps vary from circumstance to circumstance having regard to the contents of the counter claim or
+disputes. It is quite possible for a party in the first instance not to seek reference of its disputes, guided
+by the nature of the dispute or the quantum. However, having been arrayed as a party and made an
+answer to a possible
+
+demand it may well choose to raise its disputes. Therefore, on an overall
+
+construction of Clause 12.2 it cannot be said that the necessity of demand in its terms was imperative
+and that the absence of a specific notice for settling the disputes precluded a counter claim in
+arbitration.
+19.
+
+In the opinion of the Court having concluded on almost of the issues in favour of the
+
+maintainability of respondent's counter claim the arbitrators fell into a manifest error in taking upon
+themselves the task of exploring the meaning of “demand” and implying that in the absence of a clear
+demand no counter claim was maintainable. To that extent the impugned interim award discloses an
+error which would fall within the parameters of the Court's jurisdiction under Section 30 and 33.
+20.
+
+Before conclusion, one cannot help but commenting on the peculiar facts of this case. The
+
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+9 of 10
+
+contract here was entered into in 1979; disputes were referred in 1991, the interim Award was made in
+1994 and the correctness of that Award has now been decided 14 years later. This is exactly what the
+Arbitration Act either in its earlier version or the later enactment ostensibly sought to avoid.
+Interlocutory motions, argued for years, leading to hyper-technical construction of pleadings, and
+findings inevitably resulting in layers of multifarious litigation were evils sought to be avoided, but
+what was exactly achieved. The result is that 17 years have passed by and the objective for entering
+into an arbitration agreement--swift and in expensive resolution of disputes, is nowhere in sight.
+21.
+
+In view of the above findings, I.A. 11992/1994 has to succeed; it is therefore allowed In the
+
+circumstances of this case, the claimant petitioner M/s. Kerala State Construction shall bear the costs of
+these proceedings, quantified at Rs. 50,000/-. All rights and contentions of the parties on the merits of
+the disputes on which the Arbitrators have not pronounced their findings are hereby reserved and kept
+open.
+22.
+
+CS(OS) 1925/1994 and CS(OS) 1401/1994 are disposed of in the above terms.
+
+S. RAVINDRA BHAT,J
+APRIL
+dkg
+
+07, 2008
+
+CS(OS) 1925/1994 AND CS(OS) 1401/1994
+
+10 of 10
+
+

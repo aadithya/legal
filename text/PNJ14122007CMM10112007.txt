@@ -1,0 +1,1405 @@
+IN THE HIGH COURT OF DELHI
+CM(M) No. 1011/2007
+#
+!
+
+Daya Sapra
+through:
+
+........
+Petitioner
+Mr. Sunil Satyarathi, Advocate
+Mr. Raman Gandhi, Advocate
+VERSUS
+
+$
+^
+
+Vishnu Dutt Sharma
+........
+Respondent
+through: Mr. J.S.Kanwar, Advocate
+RESERVED ON: 03.12.2007
+
+%
+
+DATE OF DECISION: 14.12.2007
+CORAM:
+
+*
+
+Hon'ble Mr.Justice Pradeep Nandrajog
+
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment? Y
+
+2.
+
+To be referred to the Reporter or not? Y
+
+3.
+
+Whether judgment should be reported in Digest? Y
+
+:
+*
+1.
+
+PRADEEP NANDRAJOG, J.
+An
+
+interesting
+
+question
+
+of
+
+law
+
+arises
+
+for
+
+consideration in the instant petition. It concerns the inherent
+power which a court of justice must possess to prevent misuse
+of its procedures in relation to an action initiation whereof may
+apparently be not inconsistent with the literal application of the
+law but otherwise would be manifestly unjust and unfair to the
+defendant amounting to an abuse of the process of law. In turn
+the question encompasses the scope of the principle of res
+CM(M) No. 1011/2007
+
+Page 1 of 30
+
+judicata:
+
+Is Section 11 of the Code of Civil Procedure 1908
+
+exhaustive of the sweep of res judicata? How is the principle of
+res judicata impacted by Sections 40 to 43 of the Indian
+Evidence Act 1872? Do the inherent powers of the court permit
+it to striffle a suit, cause whereof was an essential part of a
+prosecution for an offence under Section 138 of the Negotiable
+Instruments Act 1881 in particular when the suit is sought to be
+litigated with the same quality and quantity of evidence as
+formed the basis of the prosecution for the offence under
+Section 138 of the Negotiable Instruments Act 1881?
+2.
+
+Explaining res judicata and its twin effect, George
+
+Spencer Bower in his treaties “The Doctrine of Res Judicata”
+IInd Edition, page 1, has to say:“I.
+In English jurisprudence a res judicata,
+that is to say a final judicial decision
+pronounced by a judicial tribunal having
+competent jurisdiction over the cause or
+matter in litigation, and over the parties
+thereto, disposes once and for all of the
+matters decided, so that they cannot
+afterwards be raised for re-litigation between
+the same parties or their privies. The effect of
+such a decision is two-fold.
+Parties estopped from averring to the contrary
+2.
+In the first place, the judicial decision
+estops or precludes any party to the litigation
+from disputing, against any other party
+thereto, in any later litigation, the correctness
+of the earlier decision in law and fact. The
+same issue cannot be raised again between
+them, and this principle extends to all matters
+CM(M) No. 1011/2007
+
+Page 2 of 30
+
+of law and fact which the judgment, decree, or
+order necessarily established as the legal
+foundation or justification of the conclusion
+reached by the Court.
+Transit in rem judicatam
+3.
+In the second place, by virtue of the
+decision the right or cause of action set up in
+the suit is extinguished, merging in the
+judgment which is pronounced. Transit in rem
+judicatam. The result is that no further claim
+may be made upon the same cause of action
+in any subsequent proceedings between the
+same parties or their privies.”
+3.
+
+The term 'res judicata' and the term 'estoppel by
+
+record' have at times been used (indiscriminately if I may beg
+to use the expression) to signify either, or both, resultant effect
+of binding nature of a final judicial decision pronounced by a
+court of competent jurisdiction. Spencer Brown however
+explains that it would be advisable to distinguish the two as:
+estoppel per rem judicatam; and, transit in rem judicatam.
+4.
+
+Two reasons support the jurisprudence of res
+
+judicata. First the general interest of the society/community in
+termination
+
+of
+
+disputes
+
+by
+
+according
+
+finality
+
+and
+
+conclusiveness to judicial decisions. Secondly to protect the
+right of individuals from vexatious multiplication of suits and
+prosecutions at the instance of an opponent. The former is
+public policy and is succinctly expressed in the maxim 'interest
+(or expedit) reipublicae ut sit finis litium'. The latter is private
+CM(M) No. 1011/2007
+
+Page 3 of 30
+
+justice and is reflected in the maxims 'nemo debet bis vexari
+pro una et eadem causa' and in connection with criminal
+litigation 'nemo debet bis vexari pro uno et eodem delicto'.
+5.
+
+In para 13 of his publication, George Spencer Bower
+
+has following to write:-
+
+6.
+
+“13. The applicability of the rule both to civil
+and criminal proceedings, both to decisions of
+courts of record and to those of other judicial
+tribunals, and both to English and to foreign
+res judicatae, is justified by, and rests upon,
+the same theoretical basis of public policy and
+private justice.”
+Since, in its applicability, the twin aspects of res
+
+judicata striffle the second action, the identity of the subject
+matter of the previous decision assumes significance. On the
+identity of the subject matter, in Chapter VI George Spencer
+Bower opines:“184.
+It is of the essence of all estoppels
+that there shall be two statements of the same
+fact
+exhibiting
+inter
+se
+an
+essential
+contradiction or discrepancy; the result of the
+application of the doctrine of estoppel is
+always that the earlier statement is to be
+taken as the truth, precluding an assertion of
+the later. There can be no estoppel per rem
+judicatam unless a substantial discrepancy is
+shown to exist between the res judicata and
+the case set up in the subsequent
+proceedings; and no such discrepancy can be
+shown to exist unless these two relate to the
+same subject matter.
+185.
+It follows that, in
+burden is on the party setting
+of alleging and establishing
+subject-matter - that is to
+CM(M) No. 1011/2007
+
+strictness, the
+up the estoppel
+this identity of
+say, that his
+Page 4 of 30
+
+7.
+
+opponent is seeking to put in controversy and
+re-agitate some question of law, or issue of
+fact, which is the very same question or issue
+which has already been the subject of a final
+decision between the same parties by a
+tribunal of competent jurisdiction. Where there
+are no pleadings or particulars, the identity of
+the subject matter of the two decisions must
+be established by evidence.”
+A decision imports a two fold judicial act. In relation
+
+to the grant or refusal of a claim prayed for, it settles the
+question of law between the parties and additionally settles
+issues of fact between the parties.
+8.
+
+In relation to the binding nature of the decision qua
+
+issues of fact between the parties it becomes imperative to
+view the previous action and the cause on which it is laid for
+only those issues of law and fact which are its essential
+foundation, without which the decision cannot stand, are alone
+capable of being used as the basis of res judicata between the
+parties when a second action is set up.
+decision
+
+reported
+
+as
+
+R.
+
+V.
+
+Coleridge J, in the
+
+Hartington,
+
+Middle
+
+Quarter
+
+(Inhabitants) (1855) 4 E & B 780 put the point with precision
+and lucidity when he wrote:“the judgment concludes not merely to the
+point actually decided, but as to matter which
+it was necessary to decide and which was
+actually decided, as the groundwork of the
+decision itself, though not then directly the
+point at issue.................... is conclusive not
+merely of the facts directly decided but of
+those facts which are necessary steps to the
+decision.......... are so cardinal to it that
+CM(M) No. 1011/2007
+
+Page 5 of 30
+
+9.
+
+without them it cannot stand. Unless they are
+necessary steps, the rule fails and they are
+collateral facts.”
+Sankey L.J. In the report published as Jaeger Co. Ltd.
+
+Vs. Jaeger (1929) 46 RPC 336 expressed as under:-
+
+10.
+
+“Every judgment is conclusive proof as
+against parties and privies of facts directly in
+issue in the case actually decided by the court
+and appearing from the judgment itself to be
+the ground on which it was based.”
+Section 11 of the Code of Civil Procedure, 1908 has
+
+been held to be not the sole repository and exhaustive of the
+principle of res judicata.
+
+They decisions to said effect are
+
+numerous and I need not catalogue them. Suffice would it be to
+guide the anxious reader to AIR Commentaries by W.W.Chitaley
+& V.B.Bakhale on “The Code of Civil Procedure” under Note 3.
+11.
+
+Applicability of the principles of res judicata to both
+
+civil and criminal proceedings have been recognised by George
+Spencer Bower.
+
+(Refer para 5 above.) Decision by courts of
+
+competent criminal jurisdiction have been held to be res
+judicata in subsequent civil actions in New Zealand.
+
+In the
+
+decision by Chapman J reported as Banks Vs. Wilson (1910) 29
+N.2 L.R. 832 where a magistrate had dismissed, on merits, a
+complaint made under sections 9 and 10 of the Impounding Act
+1908 asking for an award of damages for an alleged illegal
+impounding of cattle, the claimant was thereby held estopped
+for subsequently suing in a civil court for damages. Estoppel
+CM(M) No. 1011/2007
+
+Page 6 of 30
+
+per rem judicatam was applied.
+12.
+
+The decision of the House of Lords 1982 A.C. 529
+
+Hunter Vs. Chief Constable of the West Midlands Police & Ors.
+also affirmed the applicability of principle of res judicata in a
+subsequent civil action where the previous decision was of a
+competent court at a criminal trial.
+13.
+
+The decision is interesting as it gave a broader
+
+horizon to what constitutes an abuse of the process of
+
+the
+
+court and used the first principle on which res judicata is
+founded i.e. public policy to hold that if facts warrant, public
+policy can be applied at a latter civil action in relation to a prior
+decision at a criminal trial to strike off a claim under inherent
+powers of the court.
+14.
+
+The facts may be noted as reproduced in the head
+
+note in Hunter's case.
+15.
+
+After bomb explosions in two Birmingham public
+
+houses on November 21, 1974 had killed 21 people and injured
+161 others, the appellant and four others, Irish Republican
+supporters, were arrested by the Lancashire police and taken to
+Morecambe Police Station. On November 22, members of the
+Birmingham police interviewed the five men, and one of them
+made a signed statement.
+
+They were then taken to a
+
+Birmingham police station, where a sixth man was also taken
+CM(M) No. 1011/2007
+
+Page 7 of 30
+
+after his arrest at 10:30 p.m. that night. On November 23, at
+the Birmingham police station, three more of the men made
+signed statements and the two others made oral confessions
+regarding their parts in planting the bombs that had caused the
+explosions. On November 24, all six men were photographed,
+and the photograph of one man showed a mark that might
+have been a bruise under the right eye. On Monday, November
+25, the six men appeared before a magistrates' court, and,
+although three of them complained to the solicitors assigned to
+them of assaults by the police, no marks were noticed on their
+faces save in the case of the man with black eye, which he said
+had been caused by a fall. After formal evidence, the six men
+were remanded in custody and taken to Winson Green Prison.
+When, three days later, on November 28, they again appeared
+at the magistrates' court, their faces showed injuries that
+indicated they had been seriously assaulted. They were again
+remanded in custody, and first the prison governor and then
+the Home Office held an inquiry as to how their injuries had
+been sustained. At the trial of the six men on 21 charges of
+murder, their counsel objected to the admission in evidence of
+their
+
+statements,
+
+which
+
+were
+
+an
+
+essential
+
+part
+
+of
+
+the
+
+prosecution case, on the ground that they had been induced by
+violence and threats by the police.
+CM(M) No. 1011/2007
+
+After an eight day “trial
+Page 8 of 30
+
+within a trial” (voir dire) in the absence of the jury, during
+which the police officers and the six men gave evidence, Bridge
+J. held that the prosecution had discharged the burden of
+proving beyond reasonable doubt that the men had not been
+assaulted by the police and that the statements had been
+voluntary and should be admitted in evidence. The trial then
+continued before the jury, and the six men again alleged that
+their statements had been induced by violence by the police.
+Bridge J. warned the jury that, if their allegations were, or might
+reasonably be, true, the statements were worthless. The jury
+convicted all six, and Bridge J. sentenced them to imprisonment
+for life. Leave to appeal was refused by the Court of Appeal
+(Criminal Division) on March 30, 1976.
+
+The six men issued
+
+writs against the chief constables of the West Midlands and the
+Lancashire police and also against the Home Office claiming
+damages against the police for injuries caused by assaults,
+which were the same allegations as had been made before
+Bridge J. at the voir dire and trial, and also against the Home
+Office in respect of assaults by prison officers and prisoners
+while they had been in Winson Green Prison. They relied, inter
+alia, on new medico-forensic evidence as to the photographs
+taken on November 24, which were said to reveal that some
+injuries had been sustained prior to that date, and statements
+CM(M) No. 1011/2007
+
+Page 9 of 30
+
+from the three prison officers that the six men had been
+bruised and injured on their arrival at the prison.
+
+The chief
+
+constables applied for the statements of claim against them to
+be struck out under R.S.C., Ord. 18, r. 19 and under the
+inherent jurisdiction of the court.
+
+Cantley J. dismissed the
+
+applications, but the Court of Appeal allowed an appeal by the
+chief constables and ordered that the statements of claim be
+struck out.
+16.
+
+Dismissing the appeal against the decision of the
+
+Court of Appeal, the House of Lords speaking through Lord
+Diplock held:
+
+17.
+
+“That where a final decision had been made by a
+criminal court of competent jurisdiction it was a
+general rule of public policy that the use of a civil
+action to initiate a collateral attack on that decision
+was an abuse of the process of the court; and that
+such fresh evidence as the plaintiff sought to
+adduce in his civil action fell far short of satisfying
+the test to be applied in considering whether an
+exception to that general rule of public policy should
+be made, which, in the case of a collateral attack in
+a court of coordinate jurisdiction, was whether the
+fresh evidence entirely changed the aspect of the
+case.”
+At page 539, Lord Diplock noted that in the civil
+
+action, on receipt of summons, the police sought the statement
+of claim to be struck of by pleading that what had happened at
+the murder trial gave rise to an estoppel per rem judicatam of a
+kind which in recent years it had been found convenient to
+describe as “issue estoppel”. The fact that even if what had
+CM(M) No. 1011/2007
+
+Page 10 of 30
+
+happened did not create as against the plaintiff in favour of the
+police what could be strictly classified as “issue estoppel” it
+nevertheless made the initiation of the present civil action
+against the police an abuse of the process of the court.
+18.
+
+Noting thereafter that the trial judge Cantley J.
+
+dismissed the application for a summary rejection of the claim
+holding that estoppel by judgment was not attracted but Court
+of Appeal held to the contrary, at page 540 Lord Diplock held:-
+
+19.
+
+“Nevertheless it is my own view, which I
+understand is shared by all your Lordships,
+that it would be best, in order to avoid
+confusion, if the use of the description “issue
+estoppel” in English law, at any rate (it does
+not appear to have been adopted in the
+United States), were restricted to that species
+of estoppel per rem judicatam that may arise
+in civil actions between the same parties or
+their privies, of which the characteristics are
+stated in a judgment of my own in Mills v.
+Cooper (1967) 2 Q.B. 459, 468-469 that was
+adopted and approved by his House in Reg. v.
+Humphrys (1977) A.C. 1, the case in which it
+was also held that “issue estoppel” had no
+place in English criminal law.”
+But it was held that the civil action was an abuse of
+
+the process of the court.
+
+Reasoning is to be found in the
+
+following passages :“My Lords, collateral attack upon a final
+decision of a court of competent jurisdiction
+may take a variety of forms.
+It is not
+surprising that no reported case is to be found
+in which the facts present a precise parallel
+with those of the instant case.
+But the
+principle applicable is, in my view, simply and
+clearly stated in those passages from the
+CM(M) No. 1011/2007
+
+Page 11 of 30
+
+judgment of A.L.Smith L.J. in Stephension v.
+Garnett (1989) 1 Q.B. 677, 680-681 and the
+speech of Lord Halsbury L.C. in Reichel v.
+Magrath (1889) 14 App. Cas. 665, 668 which
+are cited by Goff L.J. in his judgment in the
+instant case. I need only repeat an extract
+from the passage which he cites from the
+judgment of A.L.Smith L.J.:
+“.....the court ought to be slow to
+strike out a statement of claim or
+defence, and to dismiss an action
+as frivolous and vexatious, yet it
+ought to do so when, as here, it has
+been shown that the identical
+question sought to be raised has
+been already decided by a
+competent court.”
+The passage from Lord Halsbury's speech
+deserves repetition here in full:
+“.....I think it would be a scandal to
+the administration of justice if, the
+same
+question
+having
+been
+disposed of by one case, the
+litigant were to be permitted by
+changing
+the
+form
+of
+the
+proceedings to set up the same
+case again.”
+xxxxx
+My Lords, this is the first case to be reported
+in which the final decision against which it is
+sought to initiate a collateral attack by means
+of a civil action has been a final decision
+reached by a court of criminal jurisdiction.
+xxxxx
+This raises a possible complication that the
+onus of proof of facts that lies upon the
+prosecution in criminal proceedings is higher
+than that required of parties to civil
+proceedings who seek in those proceedings
+CM(M) No. 1011/2007
+
+Page 12 of 30
+
+20.
+
+to prove facts on which they rely. Thus a
+decision in a criminal case upon a particular
+question in favour of a defendant, whether by
+way of acquittal or a ruling on a voir dire, is
+not inconsistent with the fact that the
+decision would have been against him if all
+that were required were the civil standard of
+proof on the balance of probabilities.”
+Referring to the probative weight of evidence and
+
+where the subsequent civil action was predicated on the same
+evidence as was considered at the criminal trial, Lord Diplock
+concluded the decision as under :-
+
+“There remains to be considered the
+circumstances in which the existence at the
+commencement of the civil action of “fresh
+evidence” obtained since the criminal trial and
+the probative weight of such evidence justify
+making an exception to the general rule of
+public policy that the use of civil actions to
+initiate collateral attacks on final decisions
+against the intending plaintiff by criminal
+courts of competent jurisdiction should be
+treated as an abuse of the process of the
+court.
+I can deal with this very shortly, for I find
+myself in full agreement with the judgment of
+Goff. L.J. He points out that on this aspect of
+the case Hunter and the other Birmingham
+Bombers fail in limine because the so-called
+“fresh evidence” on which they seek to rely in
+the civil action was available at the trial or
+could be reasonable diligence have been
+obtained then. He examines also the two
+suggested tests as to the character of fresh
+evidence which would justify departing from
+the general policy by permitting the plaintiff to
+challenge a previous final decision against him
+by a court of competent jurisdiction, and he
+adopts as the proper test that laid down by
+Earl Cairns L.C. in Phosphate Sewage Co. Ltd.
+v. Molleson (1879) 4 App. Cas. 801, 814,
+CM(M) No. 1011/2007
+
+Page 13 of 30
+
+namely that the new evidence must be such
+as “entirely changes the aspect of the case.”
+This is perhaps a little stronger than that
+suggested by Denning L.J. In Ladd v. Marshall
+(1954) 1 W.L.R. 1489, 1491 as justifying the
+reception of fresh evidence by the Court of
+Appeal in a civil action, viz., that the evidence
+“... would probably have an important
+influence on the result of the case, though it
+need not be decisive;....”
+The latter test, however, is applicable where
+the proper course to upset the decision of a
+court of first instance is being taken, that is to
+say, by appealing to a court with jurisdiction to
+hear appeals from the first-instance court and
+whose procedure, like that of the Court of
+Appeal (Civil Division), is by way of a
+rehearing. I agree with Goff. L.J. that in the
+case of collateral attack in a court of
+coordinate jurisdiction the more rigorous test
+laid down by Earl Cairns is appropriate.
+I need not repeat Goff L.J.'s critical
+examination of the “fresh evidence” which
+Hunter sought to adduce in his civil action for
+assault. It fell far short of satisfying either
+test.
+I would dismiss this appeal.”
+21.
+a.
+
+Thus where:The facts were directly in issue and formed the
+
+groundwork of the decision, in that, they were necessary steps
+at the adjudication of the criminal trial;
+b.
+
+The facts were decided by the Criminal court;
+
+c.
+
+The facts appear from the judgment itself to be the
+
+ground on which it was based; and
+d.
+
+The quality and quantity of the evidence at the civil
+
+CM(M) No. 1011/2007
+
+Page 14 of 30
+
+trial intended to be led was the same as at the criminal trial;
+would be the test to be applied and satisfied before the
+civil action can be thrown out as an abuse of the process of the
+court.
+22.
+
+The interplay of Sections 40 to 42 of the Indian
+
+Evidence Act 1872 was considered by their Lordships of the
+Hon'ble Supreme Court in the decision reported as (2002) 8
+SCC 87 K.G.Premshanker Vs. Inspector of Police & Anr. In para
+30 and 31 it was held:“30. What emerges from the aforesaid
+discussion is – (1) the previous judgment which
+is final can be relied upon as provided under
+Sections 40 to 43 of the Evidence Act; (2) in
+civil suits between the same parties, principle
+of res judicata may apply; (3) in a criminal
+case, Section 300 Cr.P.C makes provision that
+once a person is convicted or acquitted he may
+not be tried again for the same offence if the
+conditions mentioned therein are satisfied; (4)
+if the criminal case and the civil proceedings
+are for the same cause, judgment of the civil
+court would be relevant if conditions of any of
+Sections 40 to 43 are satisfied, but it cannot be
+said that the same would be conclusive
+except as provided in Section 41. Section 41
+provides which judgment would be conclusive
+proof of what is stated therein.
+31. Further, the judgment, order or decree
+passed in a previous civil proceedings, if
+relevant, as provided under Section 40 and 42
+or other provisions of the Evidence Act then in
+each case, the court has to decide to what
+extent it is binding or conclusive with regard to
+the matter(s) decided therein.
+Take for
+illustration, in a case of alleged trespass by A
+on B's property, B filed a suit for declaration of
+CM(M) No. 1011/2007
+
+Page 15 of 30
+
+its title and to recover possession from A and
+suit is decreed.
+Thereafter, in a criminal
+prosecution by B against A for trespass,
+judgment passed between the parties in civil
+proceedings would be relevant and the court
+may hold that it conclusively establishes the
+title as well as possession of B over the
+property. In such case, A may be convicted for
+trespass. The illustration to Section 42 which
+is quoted above makes the position clear.
+Hence, in each and every case, the first
+question which would require consideration iswhether judgment,order or decree is relevant,
+if relevant-its effect. It may be relevant for a
+limited purpose, such as, motive or as a fact in
+issue. This would depend upon the facts of
+each case.” (Underlining by way of emphasis)
+23.
+
+Thus, decision attracting Section 41 of the Indian
+
+Evidence Act 1872 would ipso facto be binding in subsequent
+proceedings, but decisions attracting Section 40 and Section
+42 would have to be considered as to their binding or
+conclusive nature with reference to the foundational facts of
+the prior and the subsequent action. This has been emphasized
+by the Hon'ble Supreme Court in the first sentence in para 31
+of the decision in K.G.Premshankar's case (supra).
+24.
+
+A Division Bench decision of this court reported as
+
+Gulab Chand Sharma Vs. Shri H.P.Sharma ILR (1974) Delhi 190
+opined as under :“Conflicting judicial decisions may be found
+cited in commentaries under section 40 to 43
+of the Indian Evidence Act, section 403 Cr.P.C.
+and section 11 Civil Procedure Code as to
+whether a decision in a suit would act as res
+judicata in a criminal trial and vice-versa. In
+CM(M) No. 1011/2007
+
+Page 16 of 30
+
+our view, the general principle of res judicata
+is based firstly on public policy and secondly
+on private justice both of which apply to all
+judicial proceedings whether civil, criminal or
+otherwise. Public policy general interest of the
+community litigation must come to an end and
+its conclusion must have a finality. Private
+justice requires that an individual should be
+protected from vexations multiplication of
+suits and prosecutions at the instance of an
+opponent whose superior power and resources
+may enabic him to abuse the process of court.
+The principle of res judicata should, therefore,
+apply equally to civil and criminal proceedings
+inasmuch as the decisions of courts in both the
+proceedings are justified by and rest upon "the
+same theoretical basis of public policy and
+private justice" (Spencer-Bower and Turner on
+Res Judicata 2nd Edition paragraph 13).
+(9) In Gulabchand v. State of Gujarat A.I.R.
+1965 S.C. 1153, it was contended that the
+decision in a previously decided writ petition
+should not act as res judicata in a
+subsequently instituted suit between the same
+parties inasmuch as the scope of a suit is
+different from the scope of the writ petition.
+The Supreme Court, however, held that the
+principle of res judicata would apply and at
+page 1160 paragraph (29):"The difference in the nature of the
+two proceedings is immaterial if the
+matter decided inter parties in one
+proceeding is the same which is to
+be determined in the subsequent
+proceedings and the parties to the
+suit were also parties to the writ
+petition."
+Shri A. N. Mulla for the petitioner contends that
+an earlier decision can be looked into only for
+the purposes of sections 40 to 43 of the Indian
+Evidence Act and if not admissible thereunder,
+it cannot be used. While the general principle
+of res judicata is treated as a part of the
+principle of estoppel in 15 Halsbury's Laws of
+CM(M) No. 1011/2007
+
+Page 17 of 30
+
+England part II section 11 pages 191 onwards,
+the principle is partially embodied in three
+different statutes in India namely-section 11
+CPC, sections 40 to 43 Indian Evidence Act and
+section 403 Cr.P.C. But none of these
+provisions exhaust the scope of the general
+principle of res judicata. Each of them is
+limited to its own purpose. None of them
+therefore cut down the rest of the principle of
+res judicata. The three essentials of the
+general principle of res judicata may be stated
+as follows:1.
+A decision by a Competent
+Judicial Tribunal which is final,
+2.
+it must determine the same
+questions as are sought to be
+controverted in the litigation in which
+the plea of res judicata is raised, and
+3.
+parties to the proceedings in
+which the plea of res judicata is
+raised must be the same as were
+parties to the decision which acts as
+res judicata.
+Therefore, when section 40 of the Evidence Act
+says that "the existence of any judgment,
+order or decree which by law prevents any
+Court from taking cognizance of a suit or
+holding a trial" as being a relevant fact when
+the question is whether such court ought to
+take cognizance of such suit or to hold such
+trial, it refers not only to the statutory law but
+to the non-statutory general law of res judicata
+also. Therefore, either the general principle of
+res judicata is not cut down by sections 40 to
+43 or it is expressly recognised by section 40.
+25.
+
+A few paragraphs on the Negotiable Instruments Act
+
+1881.
+26.
+
+Section 118 thereof reads as under:“118.
+
+Presumptions
+
+CM(M) No. 1011/2007
+
+as
+
+to
+
+negotiable
+Page 18 of 30
+
+instruments – Until the contrary is proved, the
+following presumptions shall be made:(a) of consideration – that every negotiable
+instrument was made or drawn for consideration, and
+that every such instrument, when it has been
+accepted, indorsed, negotiated or transferred, was
+accepted, indorsed, negotiated or transferred for
+consideration;
+(b) as to date – that every negotiable instrument
+bearing a date was made or drawn on such date;
+(c) as to time of acceptance - that every accepted
+bill of exchange was accepted within a reasonable
+time after its date and before its maturity;
+(d) as to time of transfer – that every transfer of a
+negotiable instrument was made before its maturity;
+(e) as to order of endorsements – that the
+endorsements
+appearing
+upon
+a
+negotiable
+instrument were made in the order in which they
+appear thereon;
+(f)
+as to stamps – that a lost promissory note, bill
+of exchange or cheque was duly stamped;
+(g) that holder is a holder in due course – that the
+holder of a negotiable instrument is a holder in due
+course: provided that, where the instrument has been
+obtained from its lawful owner, or from any person in
+lawful custody thereof, by means of an offence or
+fraud, or has been obtained from the maker or
+acceptor thereof by means of an offence or fraud, or
+for unlawful consideration, the burden of proving that
+the holder is a holder in due course lies upon him.”
+27.
+
+In the decision reported as AIR 1961 SC 1316
+
+Kundan Lal Rallaram Vs. Custodian Evacuee Property it was
+held that presumption under Section 118 is one of law and
+thereunder a court shall presume, inter alia, that the negotiable
+CM(M) No. 1011/2007
+
+Page 19 of 30
+
+instrument or the endorsement was made for consideration. In
+effect it throws the burden of proof of failure of consideration
+on the maker of the negotiable instrument.
+28.
+
+By Act No. 66 of 1988 Chapter XVIII consisting of
+
+Sections 138 to 147 was inserted in the statute book with effect
+from 1.4.1989.
+29.
+
+Sections 138 and 139 read as under:“138.
+Dishonour of cheque for insufficiency,
+etc., of funds in the account – Where any cheque
+drawn by a person on an account maintained by him
+with a banker for payment of any amount of money to
+another person from out of that account for the
+discharge, in whole or in part, of any debt or other
+liability, is returned by the bank unpaid, either
+because of the amount of money standing to the
+credit of that account is insufficient to honour the
+cheque or that it exceeds the amount arranged to be
+paid from that account by an agreement made with
+that bank, such person shall be deemed to have
+committed an offence and shall, without prejudice to
+any other provisions of this Act, be punished with
+imprisonment for a term which may be extended to
+two years, or with fine which may extend to twice the
+amount of the cheque, or with both:
+Provided that nothing contained in this section shall
+apply unless (a) the cheque has been presented to the bank
+within a period of six months from the date on which
+it is drawn or within the period of its validity,
+whichever is earlier;
+(b) The payee or the holder in due course of the
+cheque, as the case may be, makes a demand for the
+payment of the said amount of money by giving a
+notice in writing, to the drawer of the cheque, within
+thirty days of the receipt of information by him from
+the bank regarding the return of the cheque as
+
+CM(M) No. 1011/2007
+
+Page 20 of 30
+
+unpaid; and
+(c) the drawer of such cheque fails to make the
+payment of the said amount of money to the payee
+or, as the case may be, to the holder in due course of
+the cheque, within fifteen days of the receipt of the
+said notice.
+139.
+Presumption in favour of holder – It
+shall be presumed, unless the contrary is proved, that
+the holder of a cheque received the cheque of the
+nature referred to in section 138 for the discharge, in
+whole or in part, of any debt or other liability.”
+30.
+
+Section 139 mirrors the presumption which already
+
+existed under Section 118 of the Act.
+31.
+
+Pertaining to a cheque, at a criminal trial for an
+
+offence under Section 138 of the Act, the complainant has to
+prove that:
+a.
+
+The accused is the drawer of the cheque.
+
+b.
+
+That the cheque, when presented for encashment
+
+was returned unpaid by the bank on which it was drawn.
+c.
+
+Reason for return was insufficiency of funds to the
+
+credit of the account of the drawer or that the cheque amount
+exceeded the amount arranged to be paid from that account by
+an agreement between the bank and the drawer.
+d.
+
+That the cheque was presented within its validity.
+
+e.
+
+That by a written notice issued within 30 days of
+
+receipt of information of return of the cheque demand was
+made to make good the payment regarding the unpaid cheque.
+CM(M) No. 1011/2007
+
+Page 21 of 30
+
+f.
+
+That within 15 days of the receipt of said notice the
+
+payment was not made.
+32.
+
+The drawer has then to prove that the cheque was
+
+neither in discharge of a debt or a liability.
+33.
+
+Be it a civil action or a criminal action, pertaining to
+
+dishonoured cheques the presumption of law is in favour of the
+holder of the cheque that it was issued for good consideration.
+Onus of proving failure of consideration is on the person who
+has issued the cheques.
+34.
+
+The forum and the action whether civil or criminal
+
+may be different but the substance of both actions is likely to
+be the same. There is greater presumption of complete identity
+of the matter which is necessary to be decided and the
+groundwork of the decision meaning thereby the necessary
+steps are cardinally the same.
+
+Ex-facie, there exist stronger
+
+grounds to invoke the legal principles of res judicata when issue
+has been held in favour of an accused on merits at a criminal
+trial pertaining to a prosecution under Section 138 of the NI Act
+1881 when a civil suit is filed on the same cause i.e. the same
+cheque.
+
+I clarify, if at the criminal trial the accused has
+
+successfully rebutted the onus that the cheque was for a
+consideration i.e. in discharge of a debt or a liability or part
+thereof and has earned an acquittal which has attained finality
+CM(M) No. 1011/2007
+
+Page 22 of 30
+
+and the suit is filed alleging same facts as were alleged in the
+criminal complaint, prima facie, it would be an abuse of the
+process of law as explained in Hunter's case (supra).
+35.
+
+Thus, in such a situation it becomes imperative to
+
+carefully view not only the point actually decided at the
+criminal trial for the offence under Section 138 of the NI Act but
+also the matter which was necessary to be decided and which
+was actually decided as also the ground work of the decision
+itself. For if the subsequent civil action raises same questions
+of law and fact which have already been disposed of and same
+set of evidence with same probative value is sought to be used,
+the civil action would be an abuse of the process of the law.
+36.
+
+Reverting to the facts of the instant case it may be
+
+noted that the respondent filed a complaint under Section 138
+of the NI Act impleading the petitioner as the sole accused. In
+the complaint he pleaded as under:“CRIMINAL
+COMPLAINT
+U/S.
+138
+OF
+THE
+NEGOTIABLE INSTRUMENTS ACT, READ WITH
+SECTION 420-I.P.C.
+Sir,
+It is most respectfully submitted as under:1.
+That the complainant is a peace-loving and law
+abiding citizen of the State and has been residing at
+the above mentioned address.
+2.
+That on 10th August, 1999, the accused
+borrowed a loan of Rs.1,50,000/- (Rupees one lac
+CM(M) No. 1011/2007
+
+Page 23 of 30
+
+fifty thousand only) from the complainant and the
+accused promised to repay the said amount of loan
+within two months.
+3.
+That on demand of the complainant, the
+accused gave a cheque of worth Rs.1,50,000/(Rupees one lac fifty thousand only) on 20th October,
+1999 vide cheque No.324162 pertaining to Vijaya
+Bank, Delhi.
+4.
+That on 22nd October, 1999, the complainant
+presented the above cheque in his bank Oriental
+Bank of Commerce Shahdra, Delhi, but the cheque
+was received back with remarks, “INSUFFICIENT
+FUNDS”
+5.
+That the complainant approached the accused
+and expressed his sorrows as the cheque was
+received back with the above remarks.
+6.
+That the accused asked the complainant to
+present the cheque after the expiry of one week and
+ultimately, the complainant presented the cheque on
+3rd November, 1999 but the same was again
+returned with the above remarks.
+7.
+That on the request of the complainant, the
+complainant presented the said cheque on 15th
+November, 1999 and on 10th December 1999 but
+every time the cheque was returned back with the
+remarks “INSUFFICIENT FUNDS”.
+8.
+That in this way, the accused intentionally
+avoided to make the payment of Rs.1,50,000/- which
+were bad on the part of the accused.
+9.
+That the accused committed the offence
+punishable U/s.138 of the Negotiable Instruments
+Act read with Section 420-I.P.C.
+10. That the complainant sent a legal notice dated
+the 10th December, 1999 to the accused in this
+regard but nothing has come out and the accused
+has suppressed the same.
+11.
+
+That the complainant shall suffer an irreparable
+
+CM(M) No. 1011/2007
+
+Page 24 of 30
+
+loss and injury, if the accused is not summoned,
+tried and punished according to law.
+12. That the photocopy of the above notice is being
+filed herewith this complaint.
+13. That the complainant has got no other
+alternative or efficacious remedy except to seek the
+intervention of this Hon'ble Court to get justice.
+14. That
+punishable
+Court and
+jurisdiction
+
+the accused has committed offence
+within the jurisdiction of this Hon'ble
+as such this Hon'ble Court has got
+to entertain this complaint.
+
+Under the circumstances, it is most respectfully
+prayed that this Hon'ble Court may kindly be pleased
+to summon, try and punish the accused persons
+according to law, in the interest of justice.
+Prayed accordingly.”
+37.
+
+Defence taken by the petitioner was that the
+
+respondent had met her husband who was a property dealer in
+connection with some business and that respondent alleged
+that pertaining to same land deal the police had to be bribed
+and that on 10.8.1999 the respondent accompanied by one Mr.
+Malhotra a retired ACP and his son came to the office of her
+husband and forcibly took the cheque in question from her
+husband since the cheque book was with her husband.
+38.
+
+The petitioner successfully established the defence
+
+by producing witnesses. The respondent could not even lead
+any evidence to establish that he had Rs.1.5 lacs with him on
+the day he alleged to have advanced the loan.
+CM(M) No. 1011/2007
+
+Indeed, no
+Page 25 of 30
+
+receipt or acknowledgment evidencing the loan was proved.
+39.
+
+Vide judgment dated 26.9.2003 the petitioner was
+
+exonerated by the learned ADJ who decided the criminal
+complaint holding that the petitioner successfully rebutted the
+presumption that the cheque was for a valuable consideration
+by successfully proving that no loan was ever advanced and
+that the cheque in question was physically lifted under coercion
+and threat.
+40.
+
+Respondents challenge to the decision of the learned
+
+Trial Judge was unsuccessful when, vide order dated 4.12.2003
+in Crl.M.A.153/2003 leave to appeal was declined by a learned
+Single Judge of this Court.
+41.
+
+In the plaint which has now been instituted, case
+
+pleaded by the respondent is as under:“SUIT UNDER ORDER XXVII CPC 1908 FOR RECOVERY
+OF RS.2,04,000/Most Respectfully Showeth:1.
+That the plaintiff is a peace loving and law
+abiding citizen of India and has been residing at the
+above mentioned address.
+2.
+That on 10/08/1999 the defendant borrowed a
+loan of Rs.1,50,000/- from plaintiff and the defendant
+promised to repay the amount of loan of within 2
+months.
+3.
+That on demand of the plaintiff, the defendant
+issued a cheque of worth Rs.1,50,000/- on
+20/10/1999 vide cheque No.324162 pertaining to
+Vijay Bank, Delhi.
+CM(M) No. 1011/2007
+
+Page 26 of 30
+
+4.
+That on 22/10/1999, the plaintiff presented the
+above cheque in his bank, O.B.C., Shahdara, Delhi for
+encashment but the same was dishonoured by the
+defendant bank on the defendant issued the cheque
+with malafide intention.
+5.
+That the plaintiff approached the defendant and
+expressed his sorrows as the cheque was received
+bank with the remark “Insufficient Funds”.
+6.
+That the defendant asked the plaintiff to
+present the cheque after the expiry of one week and
+ultimately, the plaintiff presented the cheque on
+03/11/1999 but the same was again returned unpaid.
+7.
+That on the another request of the defendant,
+the plaintiff represented the said cheque on
+15/11/1999 and on 10/12/1999 but every time the
+cheque was returned back with the remarks
+“Insufficient Fund”.
+8.
+That the defendant issued the above noted
+cheque fraudulently to avoid the payment.
+9.
+That on 18/12/1999, the plaintiff served upon
+the defendant a legal notice through his counsel to
+repay the above loan amount within 15 days. The
+said notice was duly served upon the defendant. the
+defendant filed to repay with the said notice.
+10. That the defendant has filed to repay the
+amount of friendly loan of Rs.1,50,000/- which was
+taken by the defendant from the plaintiff a sum of
+Rs.1,50,000/- with interest @ 12% p.a. while remain
+due from the defendant while is defendant is liable to
+pay the same to the plaintiff.
+11. That the defendant is also liable to pay interest
+@ 12% p.a. from the date of notice till realization as
+54,000/- and a sum of Rs.1,50,000/- is due from
+22.10.1999 to 19.10.2002 from the defendant on
+account of interest.
+12. That the defendant is liable to pay
+Rs.1,50,000/- on account of loan amount taken by
+CM(M) No. 1011/2007
+
+Page 27 of 30
+
+the defendant from the plaintiff and Rs.54,000/- on
+account of interest thereon.
+Thus in all the
+defendant is liable to pay Rs.2,04,000/- to the
+plaintiff.
+13. That no relief which does not full within the
+ambit of this rule has been claimed in the plaint.
+14. That the present suit is filed upto XXXVII of
+C.P.C.1908.
+15. That the cause of action to the suit arose to the
+plaintiff on 10/08/1999 when the defendant had
+taken loan and failure of the defendant to pay the
+same inspite of repeated request and demands. The
+cause of action finally arose as the same of the
+notice dated 18/12/1999 and failure of the defendant
+to comply with the same. Hence, the suit.
+16. That the parties to the suit resides and work for
+gain at Delhi the loan amount taken by the
+defendant at Delhi and as such this Hon'ble Court
+has the jurisdiction to try and decide the present suit.
+17. That the value of the suit for the purpose of
+court fee is Rs.2,04,000/- as which the requisite court
+fee has been affixed.
+It is, therefore, most respectfully prayed that a
+decree of recovery of Rs.2,04,000/- along with
+interest @ 12% p.a. from the date of suit till the
+realization be passed in favour of the plaintiff and
+against the defendant. Cost of the suit be also
+awarded in favour of the plaintiff and against the
+defendant.”
+42.
+
+Ex-facie, the plaint is a virtual repetition of the same
+
+version as was set out in the criminal complaint.
+
+The
+
+respondent has not made any fresh averment pertaining to the
+circumstances under which the cheque in question reached his
+hands. Ex-facie, the suit is based on the same cause and the
+CM(M) No. 1011/2007
+
+Page 28 of 30
+
+averments therein are sought to be established with reference
+to the same evidence and relates to the same point as was the
+evidence and the point in issue before the learned criminal
+court.
+43.
+
+In my opinion the suit is an abuse of the process of
+
+the law. The principle of public policy expounded in Hunter's
+case is fully applicable.
+44.
+
+I note that the learned Trial Judge who has dismissed
+
+the application filed by the petitioner for rejection of the plaint
+has considered the issue with reference to the strict principles
+of res judicata as traditionally understood in relation to the
+binding nature of a previous decision by a court of civil
+jurisdiction in the context of a subsequent civil action. Probably
+for the reason, learned counsel for the petitioner did not draw
+the attention of the learned Trial Judge to the general
+applicability of principles of res judicata and in particular when
+can a subsequent civil action be held to be an abuse of the
+process of the court.
+45.
+
+The petition is allowed. The impugned order dated
+
+17.3.2007 is set aside.
+46.
+
+I hold that the suit filed by the respondent is an
+
+abuse of the process of the law and requires to be rejected at
+the threshold.
+CM(M) No. 1011/2007
+
+Page 29 of 30
+
+47.
+
+Ordered accordingly.
+
+48.
+
+No costs.
+
+December 14, 2007
+VG/MM
+
+CM(M) No. 1011/2007
+
+PRADEEP NANDRAJOG
+JUDGE
+
+Page 30 of 30
+
+

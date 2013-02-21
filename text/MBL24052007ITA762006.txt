@@ -1,0 +1,276 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 76 of 2006
+
+Judgment reserved on: May 21, 2007
+%
+
+Judgment delivered on: May 24, 2007
+
+Commissioner of Income Tax
+Delhi-IV, New Delhi
+
+Through
+
+...Appellant
+
+Mrs. Prem Lata Bansal, Advocate
+
+Versus
+M/s Gujarat Guardian Ltd.
+M-38/1, International Business Centre
+Connaught Place, New Delhi
+Through
+
+...Respondent
+
+Mr. Ajay Vohra with Ms. Kavita Jha,
+Advocates
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.76/2006
+
+Page 1 of 8
+
+MADAN B. LOKUR, J.
+The Revenue is aggrieved by an order dated 30th May, 2005
+passed by the Income Tax Appellate Tribunal, Delhi Bench “F” in I.T.
+Appeals No.4118 and 4119 (Del) of 2001 relevant for the assessment
+years 1994-95 and 1995-96.
+
+2.
+
+In this appeal under Section 260A of the Income Tax Act,
+
+1961 (the Act), we are concerned only with the assessment year 199495.
+
+3.
+
+The question that has arisen for our consideration is whether
+
+the assessee is entitled to depreciation on account of capitalization of
+engineering service fees paid to a foreign company or whether the
+assessee is entitled to a deduction under Section 35AB of the Act.
+According to the Tribunal, the assessee is entitled to depreciation on
+account of capitalization of engineering service fees and it is this
+conclusion that has been disputed by the Revenue.
+
+4.
+
+The broad facts of the case are that the assessee set up a float
+
+ITA No.76/2006
+
+Page 2 of 8
+
+glass plant in Gujarat on the basis of technical know-how obtained from
+Guardian Industries Corporation, USA.
+
+The foreign company also
+
+deputed its technicians for supervising the setting up of the plant.
+During the financial year 1992-93, the assessee paid engineering service
+fees towards know-how to the foreign company. The amount paid was
+initially debited by the assessee under the head “deferred revenue
+expenditure” but later, on being advised that the engineering service
+fees having been incurred by the assessee prior to commencement of
+production are required to be capitalized, the assessee filed a revised
+return of income for the assessment year 1994-95 and also made the
+necessary entries for capitalization in its books of account.
+
+5.
+
+The arrangement between the assessee and the foreign
+
+company was through a collaboration agreement dated 5th June, 1990.
+Paragraph 8.1 of this agreement records that the parties had entered into
+an engineering service and sub-licence agreement separately and that
+the latter agreement was identified as a “Float Plant Services
+Agreement”. As per the collaboration agreement dated 5th June, 1990
+the foreign company agreed to provide complete basic design,
+
+ITA No.76/2006
+
+Page 3 of 8
+
+engineering services, training and assistance to the assessee for setting
+up a float gas glass plant in consideration of a lump sum payment of
+US$ 7.5 million to be paid in three installments. Paragraph 8.2 of the
+collaboration agreement records that the foreign company would
+provide supervision services for the erection, commissioning and setting
+up of the float glass plant by making available personnel and equipment,
+materials and components suppliers. In so far as the float plant services
+agreement is concerned, that was intended to provide to the assessee
+engineering services needed to construct a float glass plant and services
+needed to provide for future process improvements in the operation of
+the float glass plant after it begins production on a commercial basis; to
+provide assistance in the day to day manufacturing operations of the
+float glass plant to ensure its efficient operation; and to grant to the
+assessee a sub-licence to practice certain inventions for the manufacture
+of flat glass by the float process in India and for the sale of such glass
+anywhere in the world.
+
+6.
+
+The Assessing Officer disallowed the depreciation claimed
+
+by the assessee, inter alia, on the ground that it was entitled to a
+
+ITA No.76/2006
+
+Page 4 of 8
+
+deduction under Section 35AB of the Act.
+
+The Commissioner of
+
+Income Tax (Appeals) [CIT (A)] allowed the depreciation on the ground
+that the expenditure incurred by the assessee related to planning, design,
+installation, construction, etc., that is, towards the setting up of the plant
+only. This conclusion of the CIT (A) was disputed by the Revenue
+before the Tribunal.
+
+7.
+
+There are two issues that actually arise for consideration.
+
+One is whether the collaboration agreement between the assessee and
+the foreign company was for setting up a float glass plant or for
+rendering technical know-how for the process of manufacture of float
+glass. The second issue that arises is whether the assessee is entitled to
+claim depreciation under Section 32 of the Act or deduction under
+Section 35AB of the Act.
+
+8.
+
+In so far as the first issue is concerned, the Tribunal
+
+considered the provisions of paragraph 8.1 of the collaboration
+agreement and concluded that the agreement was only for setting up the
+float gas glass plant in consideration of a lump sum fee of US$ 7.5
+
+ITA No.76/2006
+
+Page 5 of 8
+
+million. Similarly, after considering paragraph 8.2 of the collaboration
+agreement, the Tribunal concluded that it deals with erection,
+commissioning and starting of the float glass plant.
+
+9.
+
+On a review of the collaboration agreement, the Tribunal
+
+concluded that there was no doubt, and we think that this conclusion is
+quite correct on the facts of the case, that the payment made by the
+assessee to the foreign company was only for the purposes of setting up
+the float glass plant. It appears that bills that were produced by the
+assessee also indicated that payments were made for services of foreign
+technicians engaged for the purpose of setting up the float glass plant.
+All in all, therefore, the assessee was able to show that the engineering
+service fees paid to the foreign company were towards setting up of the
+plant and not for the manufacture and production of float glass.
+
+10.
+
+With regard to the question whether the assessee is entitled to
+
+claim depreciation under Section 32 of the Act or deduction under
+Section 35AB of the Act, the Tribunal looked at the meaning of “knowhow” as given in the Explanation to sub-section (3) of Section 35AB of
+
+ITA No.76/2006
+
+Page 6 of 8
+
+the Act. This Explanation reads as follows:
+
+“Explanation: For the purposes of this section, “know-how”
+means any industrial information or technique likely to assist in
+the manufacture or processing of goods or in the working of a
+mine, oil well or other sources of mineral deposits (including the
+searching for, discovery or testing of deposits or the winning of
+access thereto).”
+
+11.
+
+On a plain reading of the Explanation, it is clear that know-
+
+how means information or technique likely to assist in the manufacture
+or processing of goods. The payment made by the assessee to the
+foreign company was not in connection with information or technique
+likely to assist in the manufacture or processing of goods – the payment
+was made for setting up of a float glass plant.
+
+The payment for
+
+assistance in manufacture or processing of goods was the subject matter
+of a separate agreement entered into between the assessee and the
+foreign company.
+
+12.
+
+This being the position, the Tribunal was quite right in
+
+holding that the collaboration agreement did not relate to the
+manufacture or processing of goods by the assessee. Consequently, it
+must be held that the assessee is entitled to depreciation under Section
+ITA No.76/2006
+
+Page 7 of 8
+
+32 of the Act and not for deduction under Section 35AB of the Act for
+the expenditure incurred, which was not relatable to the manufacture or
+processing of goods.
+
+13.
+
+The question whether the assessee is at all entitled to
+
+depreciation under Section 32 of the Act in respect of a “plant” is not in
+dispute before us and, therefore, we need not give any finding in this
+regard except to record that the Tribunal found that the word “plant” in
+Section 43(3) of the Act is defined in very wide terms and technical
+know-how in the shape of drawings, designs, charts, plans, etc. falls
+within the definition of “plant” and is, therefore, a depreciable asset.
+
+14.
+
+We find no error in the conclusions of the Tribunal. No
+
+substantial question of law arises for consideration.
+
+15.
+
+The appeal is dismissed.
+
+Madan B. Lokur, J
+
+May 24, 2007
+ncg
+ITA No.76/2006
+
+V.B. Gupta, J
+
+Page 8 of 8
+
+

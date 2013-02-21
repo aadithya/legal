@@ -1,0 +1,738 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
+
+Judgment delivered on : 13.07.2007
+
++
+
+OMP 170/1998
+
+TEHRI HYDRO DEVELOPMENT CORPORATION LTD
+
+...Petitioner
+
+- versus M/S LANCO CONSTRUCTION LTD.
+
+...Respondent
+
+Advocates who appeared in this case:
+For the Petitioner
+: Mr Vikas Singh, ASG with Mr A.K.Vali.
+For the Respondent
+
+: Mr Rakesh Dwivedi, Sr Advocate with Mr G Ramakrishna Prasad,
+Mr B. Suyodhan, Mr Mohd. Warsay Khan and
+Mr Venkat Subramanium.
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1.
+2.
+
+Whether Reporters of local papers may be allowed
+to see the judgment?
+
+YES
+
+To be referred to the Reporter or not?
+
+YES
+
+3. Whether the judgment should be reported in Digest?
+BADAR DURREZ AHMED, J
+1.
+
+YES
+
+This is an application under Section 34 of the Arbitration and
+
+Conciliation Act, 1996 (hereinafter referred to as the 1996 Act) praying for the
+setting aside of the award dated 07.05.1998 published by the respondent No.2
+(Mr H.C. Bhardwaj) who was the sole arbitrator.
+2.
+
+The applicant, Tehri Hydro Development Corporation (THDC)
+
+called for bids for the work of Coffer Dam, Package B for quarrying,
+transporting and placement of shell materials. The bids were received by
+THDC on 20.01.1994. Lanco Construction Limited (LCL) (respondent No.1
+
+OMP 170/1998
+
+Page No.1 of 19
+
+herein) was one of the parties who responded to the tender. LCL's bid was
+accepted by THDC.
+
+A letter of Intent was issued to LCL by THDC on
+
+10.11.1994. Thereafter, certain other letters were issued. The formal contract
+was entered into between the parties on 05.01.1995 for initial amount of Rs
+8.38 crores. The schedule of items covered under the contract included item 3
+which was as under :“3.
+
+Quarrying from Dobata borrow area, transporting and
+spreading shell material in uniform layers of specified
+thickness in shell zone including dressing, watering
+compacting upto required density with all leads and lifts etc.
+complete as per specification.”
+Clause 7 of the Informations and Instructions to Tenderers was as under :“7.
+
+The Contractor shall be deemed to have satisfied himself
+before tendering as to the correctness and sufficiency of
+his tender for the works and of the rates quoted in the
+Schedule of Quantities and rates which shall (except as
+otherwise provided in the tender) cover all his obligations
+under the contract and all matters and things necessary for
+the proper execution and completion for the works in
+accordance with the provisions of the contract and its
+maintenance during construction.”
+
+Clause 24 of the Informations and Instructions to Tenderers is the bone of
+contention in this application and it reads as under:“24.
+
+Borrow Area for shell material :
+The shell material for dam fill (Zone 2A) shall be
+obtained from Dobata borrow area which lies
+approximately 5 km. upstream of dam site on the right
+bank of Bhagirathi river with existing level at 705M
+from MSL. The material for (Shell zone 2A) shall be
+obtained from this borrow area by selective borrowing
+and would in general require and proceeding except
+
+OMP 170/1998
+
+Page No.2 of 19
+
+stripping top soil and removal of particles larger than
+600mm. size in borrow area.”
+The following clauses of the General Conditions of Contract which govern the
+parties are relevant :“5.0
+
+(ii)
+The drawings and technical specifications are
+to be considered as explanatory of each other and should
+anything appear in the former but is not described in the
+later, no advantage shall be taken by the Contractor of any
+such omissions. In case of disagreement between technical
+provisions and drawings, the technical provisions shall
+govern the contract. Should any discrepancies however
+appear or should any misunderstandings as to the meaning
+and interpretation of the technical provisions or drawings
+or dimensions or the quality of the materials for the proper
+execution of the work or as to the measurements of
+quantity and valuation of the work executed arise under
+this contract or in respect of extra item, the same shall be
+clarified by Engineer-in-Charge. The decision of the
+Engineer-in-Charge regarding the true intent and meaning
+of the drawings and specifications shall be final and
+binding.”
+xxxx
+
+“34.0 (iii)
+
+xxxx
+
+xxxx
+
+Valuation of Variation
+
+If, on certified completion of the whole of the works it
+shall be found that a reduction or increase is more than
+thirty percent of the contract value as awarded resulting
+from :(a)
+
+the aggregate effect of all variation orders and
+
+(b)
+
+all adjustments upon measurement of the estimated
+quantities set out in the Bill of Quantities or Schedule of
+Items and adjustment of price made under Price
+Adjustment clause.
+
+OMP 170/1998
+
+Page No.3 of 19
+
+The value of payment for the work beyond this limit will be
+varied by the percentages shown hereinafter for the plus and
+minus amount beyond the above limit.
+Variation in
+contract value of
+work done
+
+Increase in
+Payment for
+minus variation
+
+Decrease in
+payment for plus
+variation
+
+Upto 30%
+
+Nil
+
+Nil
+
+Above 30% &
+upto 35%
+
+6.00%
+
+3.00%
+
+Above 35% &
+upto 60%
+
+8.00%
+
+4.00%
+
+Above 60% &
+upto 100%
+
+10.00%
+
+5.00%
+
+Provided further that if addition, deviation, or
+alteration to the work shall have the effect of increasing the
+work beyond 100% of the contract value, then the rates for
+the work exceeding 100% of the contract value, will be
+settled by agreement between the Contractor and the
+Corporation. Pending the finalisation of rates, the Contractor
+shall continue to complete all the work demanded and shall
+be paid for provisionally at rates mentioned in the provision
+herein before as if the variation had not exceeded 100%. If
+the rates so finalised, entitle the contractor to receive
+amounts over and above those already paid, the Contractor
+shall be paid the same upon submission and checking of the
+bill therefor and if any amounts are due to Corporation on
+that account the same shall be recovered from the
+contractor.”
+Clause 6.02.04 of the Technical Specification is also relevant. It reads as under
+:“6.02.04
+
+Zone 2A Material
+
+It shall comprise of terrace gravelly material from Old
+and New Dobata borrow areas, falling within the
+OMP 170/1998
+
+Page No.4 of 19
+
+gradation limits shown on the drawings. It shall be hard,
+durable and weather resistant and shall meet the
+requirements as are normally set for concrete aggregates
+in respect of abrasion and water absorption tests.
+The silt content for Zone 2A shall not be more than 5%.
+The zone 2C material in downstream shell fill was place
+upto EI 615.00 m in the working season 1990-91 and it is
+no longer required for further fill placement.”
+3.
+
+Disputes had arisen between LCL & THDC. The same were
+
+referred to arbitration.
+
+LCL filed the following three claims before the
+
+arbitrator :“16.2 The Claimant preferred the following claims before the
+Arbitrator :a)
+
+b)
+
+Claim No.2 for reimbursement of recovery
+effected from R A Bill on account of incorrect
+application of clause No. (iii) of Contract
+Agreement for Rs.2,49,56,700 along with past,
+pendente lite & future interest.
+
+c)
+4.
+
+Claim No. 1 for Rs.2,15,50,600 on account of
+longer lead from shell materials for old borrow
+areas along with past, pendente lite & future
+interest.
+
+Claim No.3 for cost of reference to Arbitrator Rs.
+1,00,000.”
+
+Claim No.1 was preferred by LCL on account of the additional lead
+
+due to non-availability of one of the borrow arrears for shell materials (Zone
+2A). According to LCL, the new Dobata area, which was designated as a
+borrow area in the contract for the shell material, was not available and they
+
+OMP 170/1998
+
+Page No.5 of 19
+
+had to obtain the shell material from the old Dobata area which involved a
+longer lead. It is in this background that the claim No.1 was preferred.
+
+5.
+
+Claim No.2 was made by LCL on account of plea that the variation
+
+in the quantities were within the limits prescribed under clause 34(iii) of the
+general conditions of contract referred to above. And, therefore, there could be
+no reduction in rates. Since THDC had misapplied clause 34(iii) of the General
+Conditions of contract, LCL claimed to be entitled to reimbursement of the
+reduced amount. According to LCL, the original contract value was Rs 8.38
+crores which was enhanced to Rs 14.63 by an amendment to the contract and
+the actual work done came to Rs 16.18 crores. The increase would have to be
+judged on the basis of Rs 14.63 crores and not on the basis of Rs 8.38 crores.
+Since the variation was less then 30%, no deduction under clause 34(iii) was
+permissible. Claim No.3 is not relevant for the purposes of this application as
+that had not been brought up by any of the parties.
+
+6.
+
+It must be noted that both claim Nos 1 and 2 were made along with
+
+the claim for past, pendente lite and future interest. With regard to claim No.1,
+the arbitrator, after noting the various terms of the contract, including the said
+clause 24 of Informations and Instructions to Tenderers, clause 6.02.04 of the
+technical specifications, the drawings dated 02.06.1990 and 29.06.1992 and
+after noting the fact that in case of disagreement between technical provisions
+OMP 170/1998
+
+Page No.6 of 19
+
+and drawings, the technical provisions shall govern the contract as per clause 5
+(iii)(a) of the General Conditions of the Contract, held in favour of the
+claimant/LCL to the extent of 50%. The arbitrator also noted that THDC had
+constituted a committee comprising representatives of THDC and LCL to go
+into the claim of additional lead. The Committee recommended acceptance of
+50% of the claim of the quantity and some payment was even released on the
+basis of the report of this Committee.
+
+7.
+
+The award also indicates that in the technical specifications it was
+
+clearly mentioned in clause 6.02.04 that Zone 2A materials shall comprise of
+terrace gravelly material from old and new Dobata borrow areas. The arbitrator
+observed that, according to LCL, the entire quantity of materials was available
+from the new Dobata area which was nearer to the dam site. He further
+observed that since there was no specific limit for the quantity to be lifted from
+a particular borrow area, the claimant was entitled to lift the entire material
+from the borrow area which was nearer to the dam site. It was further noted in
+the award that since the new Dobata area was not available, LCL had to obtain
+the entire material from the old Dobata borrow area involving a longer lead.
+The arbitrator decided the claim of the LCL using the following logic :“However, I would be inclined to believe that while doing
+costing of this item for the tender, the Claimant must have
+taken into account that part of the materials would come
+from old Dobata areas and balance from new Dobata area. It
+would be reasonable to assume that the Claimant would have
+OMP 170/1998
+
+Page No.7 of 19
+
+based his bid considering that 50% of the quantity would be
+obtained from new Dobata area and the balance from the old
+Dobata area. Due to ambiguity in the various contract
+provisions and applying the rule of CONTRA
+PROFERENTUM, I would award the Claimant additional cost
+involved due to longer lead for 50% of the total quantity
+executed for this item of work. I therefore award a sum of
+Rs.1,56,54,100/- (Rupees one crores fifty six lacs fifty four
+thousand one hundred only) to the Claimant on this account as
+per calculation given below.”
+He also awarded past, pendente lite and future interest on the said amount.
+With regard to claim No.2, the arbitrator observed as under :“18.8 Question of applying provision of above clause would
+have arisen only if the contract value would have been
+8.38 crores as originally awarded. The contract value
+was enhanced to Rs 12.88 crores from Rs.8.38 crores
+vide amendment No. 2 dated 21.08.95 by mutual
+agreement between the parties. The contract value was
+further enhanced to Rs.14.63 crores vide amendment
+No.3 dated 2.12.95 by mutual agreement between the
+parties. Since the total value of work done was within a
+deviation limit of 10% of the final contract value of
+Rs.14.63 crores as amended on 2.11.95, question of
+applying increase or decrease in payment in accordance
+with clause 34(iii) does not arise in this case.
+In view of the arguments and evidence available and my
+order dated 24.12.97, I award Rs.16,18,630.00 (Rupees
+sixteen lac eighteen thousand, six hundred thirty only)
+against this claim to the Claimants. I also award interest
+@ 18% p.a.”
+8.
+
+Mr Vikas Singh, the learned Additional Solicitor General, who
+
+appeared on behalf of the THDC, submitted that the award is sought to be
+challenged under Section 34 (2) (a)(iv) and Section 34 (2) (b) (ii). He advanced
+
+OMP 170/1998
+
+Page No.8 of 19
+
+submissions on three points. The first with regard to claim No.1, the second
+with regard to claim No.2 and the third with regard to the question of interest.
+9.
+
+With regard to claim No.1, Mr Vikas Singh submitted that the
+
+contract was for quarrying, transportation of shell material from the Dobata
+area which, as per the said clause 24 of the Information and Instructions to
+Tenderers was approximately 5 k.m. upstream on the right bank of the
+Bhagirathi river. He submitted that the technical specifications, as per clause
+6.02.04, specifically provided that the shell material shall comprise of terrace
+gravelly material “from old and new Dobata borrow areas falling within the
+gradation limits shown on the drawings.” He submitted that LCL, in spite of
+such clear instructions, has made a claim that it was forced to lift material only
+from old Dobata area and that it was not permitted to lift material from the new
+Dobata area and has, therefore, claimed for the extra lead for lifting material
+from the farther of the two Dobata areas. Mr Vikas Singh submitted that the
+arbitrator did not appreciate the fact that both, the new and old Dobata, areas
+were mentioned for the purposes of lifting materials and that both these areas
+were within the 5 km. range as indicated above.
+
+There was, therefore,
+
+according to Mr Vikas Singh, no question of making any claim for lifting
+material from the old Dobata area as clearly the said area was a specified area
+under the contract. He also contended that the arbitrator on his own held that
+the contract was ambiguous and using the phrase “contra proferentum” held
+that LCL was entitled to claim for the extra lead. He submitted that although
+OMP 170/1998
+
+Page No.9 of 19
+
+the award itself noted at one place that according to LCL there was no
+ambiguity in the contract yet, he applied the rule of “contra proferentum” and
+allowed the claim of LCL to the extent of Rs 1,56,54,100/-. According to Mr
+Vikas Singh, the award was contrary to the submissions made to the arbitrator
+as well as contrary to the express terms of the contract in relation to this
+particular claim and hence was opposed to public policy. Therefore, the award
+was liable to be set aside under section 34 (2) (b)(ii) of the 1996 Act.
+
+10.
+
+Mr Rakesh Dwivedi, the learned senior counsel appearing on behalf
+
+of LCL submitted that the Rule of “contra proferentum” had been employed
+by the arbitrator not as the main ground for allowing the claim of LCL but only
+as supportive reasoning. In any event, he submitted that as the contract does
+not say that it would be enough if one of the two areas was available to LCL
+for drawing the shell material, reference to the rule of “contra proferentum”
+was correct. He submitted that the Committee constituted by THDC also gave
+a similar recommendation. He submitted that the simple statement of nonacceptance of this recommendation by THDC does not, in any way, diminish
+the value of the report, particularly, as THDC has not given any good reasons to
+differ from the said recommendation.
+
+11.
+
+Considering the rival contentions advanced by the counsel for the
+
+parties, it is clear that the controversy with regard to claim No.1 centered
+OMP 170/1998
+
+Page No.10 of 19
+
+around two issues. The first issue is with regard to the applicability of the Rule
+of “contra proferentum”. The rule is embodied in the maxim “Verba fortius
+accipiuntur contra proferentum” which implies that words are to be interpreted
+most strongly against the party who uses them. This is, however, subject to the
+general principle that the contract under consideration must be construed in
+accordance with the expressed intention (see: Sahebzada Mohd Kamgar Shah
+v Jagdish Chandra Deo Dhabal Deb : AIR 1960 SC 953 at 957). It must also
+be noted that the rule does not come into operation until a doubt arises with
+regard to the construction of the contract or agreement [(see: Sahebzada Mohd
+Kamgar Shah (supra) and see: Halsbury's Laws of India Volume 9 Para
+120.167 ]. It is, therefore, clear that the rule is applicable only in the event of
+an ambiguity and cannot be invoked contrary to the intention of the parties as
+indicated in the contract.
+
+As I see it, the contract does not contain any
+
+ambiguity on this aspect. The clauses read together clearly indicate that the
+material was to be gathered from the old as well as the new Dobata borrow
+areas. There was no ambiguity about this. Therefore, reference to the said rule
+was not at all necessary.
+
+12.
+
+But this does not mean that the arbitrator misdirected himself to
+
+such an extent as would entitle this court to set aside the award. The scope of
+Section 34(2)(b)(ii) of the 1996 Act has been settled by the Supreme Court in
+
+OMP 170/1998
+
+Page No.11 of 19
+
+Oil & Natural Gas Corporation Ltd v Saw Pipes Ltd : (2003) 5 SCC 705 in the
+following manner :“31. Therefore, in our view, the phrase “public policy of India” used
+in Section 34 in context is required to be given a wider
+meaning. It can be stated that the concept of public policy
+connotes some matter which concerns public good and the
+public interest. What is for public good or in public interest or
+what would be injurious or harmful to the public good or public
+interest has varied from time to time. However, the award
+which is, on the face of it, patently in violation of statutory
+provisions cannot be said to be in public interest. Such
+award/judgment/decision is likely to adversely affect the
+administration of justice. Hence, in our view in addition to
+narrower meaning given to the term “public policy” in
+Renusager case it is required to be held that the award could be
+set aside if it is patently illegal. The result would be – award
+could be set aside if it is contrary to :
+(a)
+
+fundamental policy of Indian law; or
+
+(b)
+
+the interest of India; or
+
+(c)
+
+justice or morality, or
+
+(d)
+
+in addition, if it is patently illegal.
+
+Illegality must go to the root of the matter and if the illegality is
+of trivial nature it cannot be held that award is against the
+public policy. Award could also be set aside if it is so unfair
+and unreasonable that it shocks the conscience of the court.
+Such award is opposed to public policy and is required to be
+adjudged void.”
+The illegality that is necessary to enable the setting aside of an award must be
+such that it goes to the root of the matter. If the illegality is of a trivial nature, it
+cannot be held that the award is against the public policy. The award could be
+set aside if it is so unfair and unreasonable that it shocks the conscience of the
+OMP 170/1998
+
+Page No.12 of 19
+
+court.
+
+Coming back to the facts of the case at hand, has the arbitrator
+
+committed such an illegality or is the award so unfair and unreasonable that it
+shocks the conscience of the court ?
+
+13.
+
+The claim of LCL is based on the fact that the new Dobata area
+
+which was closer to the dam was not available to it for the purposes of lifting
+the shell material. As a result of which a longer route had to be taken for the
+entire shell material which could only be lifted from the old Dobata area. When
+the contract term provided that the shell material could be lifted from the
+Dobata area which comprised of both the old and new areas, it was up to LCL
+to lift the material from whichever area was to its liking. It would have
+preferred to lift the shell material from the new Dobata area as that was closer
+to the site of placement i.e., the dam site, but, it was prevented from doing so
+for reasons beyond its control. The consequence being that LCL was forced to
+lift the material entirely from the old Dobata area which was further away and
+resulted in a cost increase. The arbitrator took these factors into account and
+also observed that while submitting its bid, LCL must have considered lifting
+the shell material from both the areas i.e., new Dobata and old Dobata. Instead
+of allowing the full claim of LCL, the arbitrator reduced the same by
+apportioning the lifting equally between the old Dobata and new Dobata. There
+may be arguments both for and against as to why the arbitrator took the figure
+of 50% and not some other figure. But it cannot be said that the arbitrator, in
+OMP 170/1998
+
+Page No.13 of 19
+
+taking the figure of 50%, was unreasonable. The decision on this claim made
+by the arbitrator is not one which is so unfair and unreasonable that it shocks
+the conscience of the court. Consequently, this court would not interfere with
+the award in respect of claim No.1.
+
+14.
+
+With regard to claim No.2, Mr Vikas singh submitted that under
+
+Clause 34(iii) of the General Conditions of Contract, if there was a reduction or
+increase of more than 30% of the contract value as awarded then there would
+be an increase in the payment for a negative variation and a decrease in the
+payment for a positive variation. He submitted that in the present case, the
+contract value had increased by enhancing the work to be done under the terms
+of the contract and, therefore, the increase in work entitled the THDC to impose
+the decrease in the payment inasmuch as the positive variation was more than
+30%. He submitted that this clause has been incorrectly interpreted by the
+arbitrator and hence the award in respect of this claim is liable to be set aside as
+it is opposed to the public policy of India.
+
+15.
+
+In reply, Mr Dwivedi submitted that in the present case, the initial
+
+contract value was fixed at Rs 8.38 crores. By a letter dated 22.04.95, the
+THDC, while giving extra work by the very same document, amended the
+contract value by enhancing it to Rs 12.88 crores. He further submitted that by
+another letter dated 2.12.95, the contract value was further enhanced to Rs
+OMP 170/1998
+
+Page No.14 of 19
+
+14.63 crores. He submitted that this enhanced contract value of Rs 14.63 crores
+would have to be taken as the basis for calculating the extent of variations. The
+actual work done was about Rs 16.18 crores. Therefore, the difference between
+Rs 16.18 crores and Rs 14.63 crores did not amount to a variation of more than
+30%. That being the case, no deduction was permissible under clause 34(iii).
+It was submitted that once the contract value is enhanced then the original
+contract undergoes novation in terms of Section 62 of the Indian Contract Act ,
+1872 and it is the novated contract value which has been considered for the
+purpose of clause 34(iii) of the General Conditions of Contract.
+
+16.
+
+Considering the submissions made by the counsel for the parties, I
+
+am inclined to agree with those made by Mr Dwivedi. When the contract value
+is enhanced, it becomes part of the contract. The enhanced value, therefore,
+becomes the value of the contract. The variation that is referred to in clause
+34(iii) of the General Conditions of Contract is variation in the extent of work
+with reference to the contract value. This means that although the contract
+value remains the same, the extent of the work under that contract is different.
+The variation, therefore, has to be seen with regard to the contract value which
+had been enhanced to Rs 14.63 crores. Accordingly, I see no reason to interfere
+with the award in respect of this claim also.
+
+OMP 170/1998
+
+Page No.15 of 19
+
+17.
+
+Lastly, Mr Vikas Singh, submitted that the arbitrator had gone
+
+wrong in holding that LCL was entitled to interest on the payments on account
+of claim Nos 1 and 2. He submitted that clause 51 of the General Conditions of
+Contract specifically provided that “no claim for interest or damage would be
+entertained or be payable by the corporation in respect of any amount .... or in
+any other respect whatsoever”. Therefore, there was no question of awarding
+interest.
+
+It was contended by Mr Dwivedi that the award has been made
+
+under the 1996 Act. Section 31(7) (a) provides that unless there is agreement to
+the contrary, the arbitrator shall have power to award interest at such rates as he
+deems reasonable. He submitted, with reference to the Supreme Court decision
+in Bhagawati Oxygen Limited v Hindustan Copper Limited : (2005) 6 SCC
+462, that the arbitrator has the authority to award interest for all stages. He
+also submitted that the Supreme Court in the context of identical provisions in
+the contract regarding the non-entitlement of claims of interest held that such
+clauses do not take away the authority of the arbitrator to award interest. First
+of all, he placed reliance on Board of Trustees v Engineers De-Space Age :
+(1996) 1 SCC 516. The clause under consideration in that case was as under :“No claim for interest will be entertained by the
+Commissioners with respect to any money or balance
+which may be in their hands owing to any dispute
+between themselves and the Contractor or with respect
+to any delay on the part of the Commissioners in
+making interim or final payment or otherwise.”
+
+OMP 170/1998
+
+Page No.16 of 19
+
+Interpreting this clause, the Supreme court observed that it merely prohibits the
+Commissioners from entertaining any claim for interest and does not prohibit
+the arbitrator from awarding interest. Though, in this case, the Supreme Court
+was not dealing with a case with regard to award of interest for the period prior
+to the reference, it observed that such a clause must be strictly construed and if
+it is so construed, the same merely prohibits the commissioners from paying
+interest to the contractor for delayed payment but once the matter goes to
+arbitration the discretion of the arbitrator is not in any manner stifled by this
+term of the contract and the arbitrator would be entitled to consider the question
+of grant of interest pendente lite and award interest if he finds the claim to be
+justified.
+
+The supreme Court concluded by observing that under the said
+
+clause, the arbitrator was in no manner prohibited from awarding interest
+pendente lite.
+
+18.
+
+The other decision relied upon by Mr Dwivedi was in the case of
+
+State of U.P. v Harish Chandra and Co (1999) : 1 SCC 63 Here also the
+clause under consideration was similar. It read as under :
+“1.9 No claim for delayed payment due to dispute etc. - No claim
+for interest or damages will be entertained by the Government
+with respect to any moneys or balances which may be lying
+with the Government owing to any dispute, difference, or
+misunderstanding between the Engineer-in-Change in
+marking periodical or final payments or in any other respect
+whatsoever.”
+
+OMP 170/1998
+
+Page No.17 of 19
+
+The question was with regard to award of interest prior to the date of reference
+and whether even if the arbitrator had the power and jurisdiction to award such
+interest, it was not barred by the above clause 1.9.
+
+The Supreme court
+
+examined the said clause and came to the conclusion that the said clause did not
+bar the consideration by the arbitrator of such a claim for interest.
+
+19.
+
+A similar decision of the Supreme Court is in State of Rajasthan &
+
+Another v Nav Bharat Construction Co: (2002) 1 SCC 659 and a division
+Bench of the Andhra Pradesh High Court has also taken a similar view
+following the decision in the case of Board of Trustees (supra) while
+construing the following clause :
+“No interest will be payable upon the earned money or the
+security deposit or amounts payable to the Contractor under
+the contract,but Government Securities deposited in terms of
+Sub-Clause (1) of this clause will be repayable interest
+accrued thereon.”
+In State of Orissa v B.N. Agarwalla : (1997) 2 SCC 469, a decision relied
+upon by the applicant, it has been held that there can be no doubt that if the
+terms of the contract expressly stipulate that no interest would be payable then,
+notwithstanding the provisions of the Interest Act, 1978, an arbitrator would not
+get the jurisdiction or right to award interest. However, the position with
+regard to clause 51 is an akin to what has been decided by the Supreme court in
+the case of Board of Trustees (supra) and other decisions referred to above.
+
+OMP 170/1998
+
+Page No.18 of 19
+
+The prohibition that is contained in the said clause is for the THDC in
+entertaining any claim of interest on account of delayed or disputed amount and
+/ or in making payments in respect thereof. It does not contain a prohibition
+insofar as the arbitrator is concerned. However, the arbitrator's power to grant
+interest would be limited to the post reference period. And, therefore, he would
+only be entitled to award interest pendente lite and for the future. The arbitrator
+has, while allowing claim Nos 1 and 2 of the petitioner, granted past, pendente
+lite and future interest. That has to be restricted only to pendente lite and future
+interest in view of the decision of the Supreme Court in the case of Board of
+Trustees (supra).
+
+20.
+
+Accordingly, this application is disposed of with the only
+
+modification in the award that grant of interest for the pre-reference period is
+set aside. The rest of the award remains undisturbed.
+No order as to costs.
+
+BADAR DURREZ AHMED
+(JUDGE)
+July 13, 2007
+M
+
+OMP 170/1998
+
+Page No.19 of 19
+
+

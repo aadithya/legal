@@ -1,0 +1,509 @@
+*
+
+HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+Co.APP No.46/2006
+
+%
+
+Date of decision : 4th March, 2008
+
+M/S.MAGMA LEASING LIMITED
+.....APPELLANT
+Through:Mr.B.B.Sawhney, Sr.Advocate
+with Mr.S.Singhani and
+Mr.V.K.Mishra, Advocates
+Versus
+M/S. HCL INFOSYSTEMS LIMITED
+......RESPONDENT
+Through: Mr. V.N.Koura with
+Ms.Divya Bahl, Advocates
+CORAM:
+HON'BLE THE CHIEF JUSTICE
+HON'BLE MS. JUSTICE REVA KHETRAPAL
+1.Whether reporters of local papers may be
+allowed to see the Judgment ? yes
+2. To be referred to the Reporter or not? yes
+3.Whether the Judgment should be reported in the Digest? yes
+
+DR. MUKUNDAKAM SHARMA, CJ :
+1.
+
+By filing this appeal the appellant challenges legality of
+
+the order dated 10th July, 2006 passed by the learned
+Company Judge in C.P. No.105/2005, holding that some of the
+claims of the appellant for payment of interest
+
+would be
+
+barred by limitation and some other claims would be within
+(Co.App.46/2006)
+
+Page 1 of 13
+
+limitation. The direction issued by the learned Company Judge
+to the parties to carry out fresh calculations and to file a chart
+calculating interest payable under Clause 4 of the Agreement
+dated 11/12th November, 1998 is also under challenge in this
+appeal.
+2.
+
+In order to appreciate the contentions of the parties it
+
+is necessary to place on record a few facts leading to the
+filing of the present appeal.
+3.
+
+The appellant herein filed a Company Petition under
+
+Section 433 read with Section 434 of the Companies Act,
+1956 for winding up of the respondent company on the
+ground that the respondent had failed to make payment of
+lease rentals and also interest accrued thereon.
+
+On 25th
+
+September, 1998 the respondent entered into an Agreement
+for Rental and Maintenance Service with Bharat Heavy
+Electricals Limited (BHEL for short). In the said agreement it
+was also stipulated that the respondent agreed to supply,
+install and maintain various hardwares being computer
+accessories and peripherals, at various establishments of
+(Co.App.46/2006)
+
+Page 2 of 13
+
+BHEL, for which respondent had entered into a separate
+agreement with the BHEL for different locations.
+
+After
+
+entering into the aforesaid agreements, the respondent
+approached
+
+the
+
+appellant
+
+for
+
+financing
+
+the
+
+aforesaid
+
+transaction. The appellant agreed to provide finance to the
+respondent which was repayable in 20 quarterly instalments
+covering a period of five years from the date of installation of
+computers at each of the locations in respect whereof the
+respondent
+
+had
+
+entered
+
+into
+
+rental
+
+and
+
+maintenance
+
+agreements with BHEL. Agreement dated 11/12th November,
+1998 entered into between the HCL Infosystems Limited, the
+respondent herein,
+
+and the appellant
+
+is placed on record.
+
+The said agreement relates to the Rental and Maintenance
+Service Agreement executed on 21st October, 1998 by and
+between the respondent and the BHEL.
+
+Clause 4 of the
+
+agreement dated 11/12th November, 1998 reads as follows:
+“4. HCL hereby ensures payment of lease
+rentals as due and payable by BHEL to be
+paid to MLL directly which rental is due and
+payable every quarter and is due to
+commence from the date of installation of the
+equipments at BHEL's site payable within 30
+(Co.App.46/2006)
+
+Page 3 of 13
+
+days of the end of the particular quarter
+during which the equipment is installed at
+BHEL and MLL will be treated as “lessor” for
+the purpose of the same.
+It is further clarified that HCL will pay
+interest for the delay in obtaining receipt of
+lease rentals from BHEL pursuant to the
+performance under the Lease Agreement @
+2% per month after 30 days from the
+respective due dates until payment thereof
+and further HCL will also make good to MLL
+the short fall if any, in the respective lease
+rental due and payable together with interest
+@ 2% per month till the date of payment.”
+4.
+
+By the aforesaid clause, the respondent has given
+
+assurance of payment of lease rentals which was due and
+payable every quarter by BHEL to be paid to the appellant
+directly. There is no dispute with regard to the fact that there
+are other agreements also between the parties with an
+identical clause.
+
+In the aforesaid Company Petition the
+
+dispute arose with regard to liability of payment of interest by
+the respondent company to the appellant on the delayed
+payment of lease instalments by BHEL, as per clause 4 of the
+aforesaid agreement dated 11/12th November, 1998.
+
+In
+
+terms of the said clause there was a liability to pay interest
+(Co.App.46/2006)
+
+Page 4 of 13
+
+@ 2% per month to the appellant for any default/delay in
+payment of instalment by BHEL beyond 30 days
+
+from the
+
+due date. On behalf of the respondent company a stand was
+taken that the claim for payment of interest raised by the
+appellant for alleged defaults in payment of instalments was
+barred by limitation. The learned Company Judge considered
+the said aspect and by order dated 10th July, 2006 held that
+each default in payment of instalment would constitute a
+separate cause of action as in the case of payment of
+monthly rent and interest, each default has to be separately
+calculated and that interest is payable for each period of
+default and not after the entire instalment was paid.
+Accordingly, It was held by the learned Company Judge that
+some of the claims for payment of interest made by the
+appellant would therefore be barred by limitation whereas
+some other claims would be within the limitation. In the light
+of the aforesaid observations, a direction was issued to the
+appellant and the respondent to carry out fresh calculations
+as aforesaid with reference to the date on which the winding
+(Co.App.46/2006)
+
+Page 5 of 13
+
+up petition was filed i.e. 17th March, 2005.
+
+The aforesaid
+
+order of the learned Company Judge is under challenge in his
+appeal.
+5.
+
+In support of the appeal, the appellant relied upon
+
+communication dated 17th April, 2001, annexed as Annexure
+A-4 and also letter dated 11th October, 2002 which is
+Annexure A-6.
+
+Relying on the said communications, it was
+
+submitted by the learned counsel appearing for the appellant
+that there was acknowledgment of default in the said letters
+and, therefore, it was not proper for the learned Company
+Judge to hold that some of the claims for payment of interest
+accruing for non-payment of some instalments were barred
+by limitation. It was also submitted by the counsel appearing
+for the appellant that clauses 1&2 of the agreement dated
+12th March, 1998, which is a Buy Back Agreement, would
+make it clear that there was continuing cause of action and
+continuing obligation to pay rentals and the interest accrued
+thereon, which was required to be calculated only at the time
+of final payment made and, therefore, the findings arrived at
+(Co.App.46/2006)
+
+Page 6 of 13
+
+by the learned Company Judge are required to be set aside
+and quashed. The other submission of the counsel appearing
+for the appellant was that the liability to pay instalments and
+interest in lieu thereof could be said to have been extended
+in view of clauses 4&5 of the aforesaid agreement which read
+as follows:
+“4. This agreement shall come into force
+immediately and shall remain in full force and
+effect and shall continue to be enforceable
+until all the dues of MLL are fully paid to the
+satisfaction of MLL and a certificate of
+satisfaction as and when issued by MLL shall
+be conclusive proof to that effect.
+5. HCL undertakes to pay MLL the amount
+due under this agreement immediately on
+demand notwithstanding any dispute of
+disputes raised by and between itself and
+BHEL and also any suit or proceeding pending
+before Court or Tribunal and the liability of
+HCL under these presents is absolute and
+unequivocal.”
+6.
+
+Strong reliance was placed by the appellant on clause-4
+
+of the aforesaid agreement. Reliance was also placed by the
+appellant on the decision of the Supreme Court in the case of
+Food Corporation of India v. Assam State Cooperative
+Marketing & Consumer Federation Ltd and Others
+(Co.App.46/2006)
+
+Page 7 of 13
+
+reported in (2004) 12 SCC 360.
+7.
+
+Mr.V.N.Koura, the learned counsel appearing for the
+
+respondent, however,
+
+refuted the aforesaid submissions
+
+contending inter alia that there was no acknowledgment as
+sought to be made out by the appellant and, therefore, the
+order passed by the learned Company Judge is legal and
+valid. He also submitted that on a proper interpretation of
+clauses 4 & 5, it
+
+would
+
+be established that there was no
+
+continuing cause of action as sought to be pleaded and
+argued by the appellant and what was enforceable was only
+the agreement between the parties which could be only
+enforced till all the dues were fully paid to the satisfaction of
+the appellant, and the same never contemplated and
+stipulated that the cause of action for payment of each rental
+and interest thereon also stood extended which could be paid
+at the end of the contract.
+
+Counsel appearing for the
+
+respondent also relied upon the Division Bench decisions of
+this Court in the case of National Small Industrial
+Corporation
+(Co.App.46/2006)
+
+Limited
+
+v.
+
+Takdir
+
+Singh
+
+reported
+
+Page 8 of 13
+
+in
+
+120(2005) DLT 397 and in the case of Globe Motors
+Limited v. Mehta Teja Singh & Co reported in 24 (1993)
+DLT 214 and also a decision of the Madras High Court in the
+case of Union of India v. Seyadu Beedi Co. & Another
+reported in AIR 1970 Madras 108. The aforesaid decision of
+the Madras High Court was also a Division Bench decision
+wherein it was held
+
+that
+
+even if letter is written by the
+
+Railway authorities to the effect that the claim of the plaintiff
+was under investigation and he would be advised definitely
+on the finalisation of the claim, the same cannot be construed
+as even an implied admission of liability.
+8.
+
+In light of the aforesaid submissions of the counsel
+
+appearing for the parties, we have looked into the various
+clauses of the agreement for Rental and Maintenance Service
+executed on 25th September, 1998 between the respondent
+and BHEL. We have also perused the agreement executed on
+11/12th November, 1998 as also the agreement entered on
+30th November, 1998 between BHEL, the respondent and the
+appellant and also the Buy Back Agreement dated 12th March,
+(Co.App.46/2006)
+
+Page 9 of 13
+
+1998 between the respondent and the appellant. There is an
+irrevocable power of attorney executed on 12/13th November,
+1998 by the respondent in favour of the appellant and a
+supplemental
+
+agreement
+
+executed
+
+on
+
+23th
+
+June,
+
+1999
+
+between BHEL, the respondent and the appellant, Clause 2
+of which is relevant which we have perused.
+9.
+
+A perusal of the aforesaid
+
+documents makes it clear
+
+that the fixed lease rentals were payable in 20 quarterly
+instalments covering a period of five years. There is also a
+stipulation that in the event of a default in the payment of
+the instalment, either by short payment or delayed payment,
+the appellant was entitled to recover from the respondent
+interest at 2% per month after 30 days from the respective
+due date of payment until payment and short fall in the lease
+rental with interest @ 2% per month till the date of payment.
+On going through the records we also find that the finding of
+the learned Company Judge that the cause of action for
+default of each instalment arose separately is justified. The
+period
+
+of
+
+limitation
+
+(Co.App.46/2006)
+
+for
+
+any
+
+recovery
+
+is
+
+three
+
+years
+
+Page 10 of 13
+
+commencing from the date on which the instalment becomes
+due. The learned Company Judge was therefore justified in
+holding that
+
+since the appellant has filed the Company
+
+Petition only on 17th March, 2005 therefore the parties would
+go back three years from the said date with reference to the
+date when the instalment was belatedly paid by BHEL. So far
+as acknowledgments pointed out by the appellant in the
+letters dated 17th April, 2001 and 11th October, 2002 are
+concerned, in our considered opinion, the same could not be
+interpreted and construed to be any acknowledgment in any
+manner. The aforesaid letters only indicate that what was
+communicated was only a statement that the claim of the
+appellant would be looked into.
+
+Madras High Court under
+
+similar circumstances in the case of Seyadu Beedi Co.
+(supra) has clearly held that such correspondence cannot be
+interpreted as any form of acknowledgment.
+
+In our
+
+considered opinion, the interpretation that is sought to be
+given to the aforesaid letters by the appellant is fallacious
+and cannot be accepted.
+(Co.App.46/2006)
+
+Food Corporation of India
+Page 11 of 13
+
+(supra) was the decision of the Supreme Court which is relied
+upon by the counsel appearing for the appellant. A close look
+at the facts of the said case would prove and establish that
+the facts in the said decision are distinctly different and
+distinguishable from the facts of the present case. In the said
+decision, the Supreme Court has found that the two letters
+dated
+
+29th
+
+March,
+
+1977
+
+and
+
+30th
+
+July
+
+1977
+
+clearly
+
+acknowledged the amount of Rs.2 crores, whether by way of
+advance or by way of deposit against paddy procurement,
+which was accepted as an admission of jural relationship of
+buyer and seller, which stood converted into relation of
+creditor and debtor on the failure of the principal transaction.
+In the lease under reference in the present case, we have
+already held that there is no acknowledgment of liability in
+any of the aforesaid letters as sought to be made out and,
+therefore, the said decision has no application to the facts of
+the present case. The Division Bench decision of this Court in
+National Small Industries Corporation Limited (supra)
+that cause of action would accrue separately with regard to
+(Co.App.46/2006)
+
+Page 12 of 13
+
+each instalment when that particular instalment became due,
+and that period of limitation for that particular instalment is
+three years commencing from the date that particular
+instalment become payable, and also the other decision of
+the Division Bench in Globe Motors Limited (supra) that
+limitation would start from the date of default, would be
+applicable to the facts of the present case.
+10.
+
+In this view of the matter we find no merit in this
+
+appeal which is dismissed. The parties shall appear before
+the learned Company Judge on 17th March, 2008, for
+directions and further orders in this regard.
+
+CHIEF JUSTICE
+
+March 4th , 2008
+“v”
+
+(Co.App.46/2006)
+
+REVA KHETRAPAL
+JUDGE
+
+Page 13 of 13
+
+

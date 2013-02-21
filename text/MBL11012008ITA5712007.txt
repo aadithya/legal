@@ -1,0 +1,305 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 571 of 2007
+Judgment reserved on: January 4, 2008
+
+%
+
+Judgment delivered on: January 11, 2008
+
+The Commissioner of Income Tax (Central)
+New Delhi
+
+...Appellant
+
+Through Mr. R.D. Jolly, Advocate
+Versus
+Saraya Industries Ltd.
+11, Panchsheel Park Shopping Centre
+New Delhi
+
+...Respondent
+
+Through Mr. Krishan Mahajan with
+Mr. K. Sampath, Advocates
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+MADAN B. LOKUR, J.
+The Revenue is aggrieved by an order dated 8th June,
+2006 passed by the Income Tax Appellate Tribunal, Delhi Bench
+
+ITA No.571/2007
+
+Page 1 of 8
+
+‘B’, New Delhi in ITA No.1886/Del/2003 relevant for the
+assessment year 1990-91.
+
+2.
+
+The grievance of the Revenue relates to the deletion of
+
+penalty by the Commissioner of Income Tax (Appeals) as well as
+by the Income Tax Appellate Tribunal. The penalty was imposed
+by the Assessing Officer under Section 271(1)(c) of the Income
+Tax Act, 1961 (for short the Act).
+
+3.
+
+The Assessee claimed depreciation on a biogas plant
+
+and that was disallowed by the Assessing Officer on the ground
+that the plant had not started giving the end product, that is,
+biogas during the relevant previous year but only from the
+subsequent accounting year. According to the Assessing Officer,
+by claiming depreciation in the assessment year 1990-91, the
+Assessee had furnished inaccurate particulars for reducing its tax
+liability and was, therefore, liable to be penalized.
+
+4.
+
+The Commissioner reversed the Assessing Officer by
+
+holding that the Assessee had not furnished inaccurate
+particulars. At best, it was a case of rejection of the Assessee’s
+explanation for a claim of depreciation and, therefore, the case
+
+ITA No.571/2007
+
+Page 2 of 8
+
+would not be covered by Section 271(1)(c) of the Act.
+
+5.
+
+The Tribunal held that the Assessee is really a distillery
+
+unit and in terms of the provisions of the Water (Prevention and
+Control of Pollution) Act, 1974, it was mandatory for the Assessee
+to treat its effluent before discharging the same either on the
+ground or in a drain or a water body.
+
+The Assessee had
+
+employed Swiss technology for treatment of the distillery effluent
+and it so transpires that the technology is such that it also helps in
+producing biogas which could be utilized by the Assessee for its
+business of running a distillery.
+
+6.
+
+Possession of the effluent treatment plant was handed
+
+over to the Assessee on 20th March, 1990 and the Assessee
+immediately put it to use on 21st March, 1990 by filling the main
+reactor with water and providing media for injecting seed
+material and development of bio-cell for methane gas generation.
+The required quantity of sludge, that is, industrial waste was also
+added to the plant.
+
+7.
+
+According to the Assessee, since the process was
+
+technical and biological, it took some time for the biological
+
+ITA No.571/2007
+
+Page 3 of 8
+
+reaction to stabilize and the actual manufacture of biogas started
+in the subsequent year, that is, 1991-92.
+
+8.
+
+The Assessee claimed depreciation on the ground that
+
+since the effluent treatment plant had been put to use for its
+business purposes, and even though the gestation period resulted
+in production of biogas only in the subsequent assessment year,
+that would not deprive the Assessee from claiming depreciation.
+
+9.
+
+On the above reasoning, the Tribunal accepted the view
+
+of the Commissioner and set aside the levy of penalty by the
+Assessing Officer. According to learned counsel for the Revenue
+before us, the imposition of penalty was fully justified since the
+Assessee had furnished inaccurate particulars and was liable
+under Section 271(1)(c) of the Act.
+
+10.
+
+We are not in a position to agree with learned counsel
+
+for the Revenue. In the first instance, it must be noted that the
+business of the Assessee was not that of manufacture of biogas. It
+was a distillery and the Assessee was required by law to treat the
+effluent before discharging it.
+
+It just so transpires that the
+
+technology used by the Assessee for treatment of effluent was
+
+ITA No.571/2007
+
+Page 4 of 8
+
+capable of enabling the Assessee to produce biogas. Manufacture
+of biogas was not the business of the Assessee but was ancillary
+to the treatment of effluent.
+
+11.
+
+The claim of depreciation by the Assessee was in terms
+
+of Section 32(1) of the Act and as pointed out by learned counsel
+for the Assessee, what is of importance is that the plant or
+machinery should be owned by the Assessee and used for the
+purposes of its business. According to the Assessee, both
+conditions were satisfied by the Assessee but, unfortunately, the
+Assessing Officer took a different view.
+
+12.
+
+In The Liquidators of Pursa Limited v. Commissioner
+
+of Income-tax, Bihar, [1954] 25 ITR 265, the expression “used for
+the purpose of the business” as appearing in Section 10(2)(vii) of
+the Income Tax Act, 1922 was considered by the Supreme Court.
+It was held that the words obviously mean “used for the purpose
+of enabling the owner to carry on the business and earn profits in
+the business.”
+
+13.
+
+This Court had occasion to consider the expression as
+
+appearing in the 1922 Act in Capital Bus Service (P) Ltd. v.
+
+ITA No.571/2007
+
+Page 5 of 8
+
+Commissioner of Income-tax, New Delhi, [1980] 123 ITR 404.
+After surveying the decisions on the subject, it was held that there
+was a consensus of judicial opinion in favour of adopting a liberal
+interpretation or a wider interpretation to the expression “used
+for the purposes of the business”.
+
+14.
+
+In Multican Builders Ltd. v. Commissioner of Income-
+
+tax [2005] 278 ITR 142, the Calcutta High Court considered the
+expression “used for the purpose of business or profession” as
+appearing in Section 32 of the Act and concluded that the claim of
+depreciation is not dependent on the “actual” use or the asset
+being “put to” use. The expression has to be interpreted in the
+ordinary grammatical sense, as in common parlance and not in
+the legal or technical sense.
+
+15.
+
+This Court had occasion to consider the expression as
+
+appearing in Section 32 of the Act in Commissioner of Income-tax
+v. Refrigeration & Allied Industries Ltd., [2000] 113 TAXMAN
+103. This Court noted that even though the Supreme Court had
+left the question of active or passive user open in the Liquidators
+of Pursa Ltd., but in Machinery Manufacturers Corporation Ltd.
+v. Commissioner of Income-tax, [1957] 31 ITR 203, the Bombay
+
+ITA No.571/2007
+
+Page 6 of 8
+
+High Court had given it a wider meaning. After considering
+Commissioner of Income-tax v. Dalmia Cement Ltd., [1945] 13
+ITR 415 and Commissioner of Income-tax v. Viswanath Bhaskar
+Sathe, [1937] 5 ITR 621, this Court was of the view that passive
+user of machinery such as by keeping it in good working
+condition so that it could be used at any moment would be the
+correct approach to adopt for interpreting the expression “used
+for the purposes of the business” occurring in Section 32 of the
+Act.
+
+16.
+
+All these decisions suggest that the expression “used
+
+for the purposes of the business” needs to be liberally interpreted.
+This is precisely what the Assessee did and the view taken by the
+Assessee was certainly a plausible view – it just so happens that
+the Assessing Officer did not agree with the Assessee. But that by
+itself would not mean that the Assessee had furnished inaccurate
+particulars for the purposes of reducing its tax liability. A penal
+provision such as the one that we are concerned with ought to be
+strictly construed.
+
+17.
+
+We may also note that it has concurrently been held by
+
+the Commissioner as well as by the Tribunal that the Assessee
+
+ITA No.571/2007
+
+Page 7 of 8
+
+had not furnished inaccurate particulars. We do not think, under
+these circumstances, that it would be appropriate to reverse the
+view taken by the Commissioner as well as by the Tribunal. No
+substantial question of law arises in this regard inasmuch as there
+is nothing to show that the decision of the Tribunal is perverse or
+that the claim made by the Assessee was motivated.
+
+18.
+
+The appeal is dismissed with costs. We assess counsel’s
+
+fee at Rs.10,000/- which will be paid by the Revenue by
+depositing the amount by way of a cheque in the name of the
+Registrar General of this Court within four weeks from today.
+
+19.
+
+List for compliance on 20th February, 2008.
+
+MADAN B. LOKUR, J
+
+JANUARY 11, 2008
+ncg
+
+V.B. GUPTA, J
+
+Certified that the corrected
+copy of the judgment has
+been transmitted in the
+main Server.
+
+ITA No.571/2007
+
+Page 8 of 8
+
+

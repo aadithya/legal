@@ -1,0 +1,380 @@
+IN THE HIGH COURT OF DELHI AT NEW DELHI
++ IA No.4162/2001 in CS (OS) 802/1999
+%
+
+Judgment delivered on : 09.07.2007
+
+NATIONAL WESTMINSTER BANK
+
+.... Plaintiff
+
+versus
+M/S INTRAPORT INDIA LIMITED
+
+.... Defendant
+
+Advocates who appeared in this case:For the Plaintiffs
+: Mr Kapil Kher
+For the Defendant
+: Mr M. Dutta
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1. Whether the Reporters of local papers may be allowed to
+see the judgment ?
+
+YES
+
+2. To be referred to the Reporter or not ?
+
+YES
+
+3. Whether the judgment should be reported in the Digest ?
+
+YES
+
+BADAR DURREZ AHMED, J
+1.
+
+This application has been filed on behalf of the defendant for rejection
+
+of the plaint under the provisions of Order VII Rule 11 read with Section 151 of
+the Code of Civil Procedure, 1908 (hereinafter referred to as “the CPC”) and, in
+the alternative, under Order XXXVII Rule 3 (5) of the CPC for grant of
+unconditional leave to defend. Although the application primarily purports to
+be under Order VII Rule 11 for rejection of the plaint, the same was not argued
+before this Court. In any event, nothing has been pointed out so as to warrant
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 1 of 10
+
+the rejection of the plaint under Order VII Rule 11 CPC. Only two questions
+arise for consideration:(1)
+
+(2)
+2.
+
+Whether this suit, which is essentially for recovery of
+money paid under mistake, can fall under Order XXXVII
+CPC and be tried as a summary suit?
+If yes, whether the applicant/ defendant is entitled to
+unconditional leave to defend?
+
+Before I embark upon a discussion relating to the above two questions, it
+
+would be necessary to point out the nature of the suit, as indicated in the plaint.
+The plaintiff is a bank incorporated under English Law in the United Kingdom.
+There were some dealings between the defendant with regard to supply of
+garments and M/s Inwear Fashions, New York, USA. On 13.03.1997, the
+plaintiff received a communication from one Fleet Bank N.A., New York, USA
+authorising one wire transfer for Pound Sterling 80,000 on behalf of its
+customer M/s Inwear Fashions.
+
+The remittance was to be made to the
+
+defendant through their bankers, UTI Bank Limited, 18 Barakhamba Road,
+Kanchanjunga Building, New Delhi. Since the plaintiff did not maintain a
+Sterling Account for the UTI Bank, New Delhi, it opened a Query file in its
+information system and asked the Fleet Bank N.A. New York to inform as to
+how the payment should be made. On 18.03.1997, the said Fleet Bank N.A.
+New York reverted to the plaintiff and requested the plaintiff to pay the amount
+through Chase Manhattan Bank, London, U. K.
+
+Accordingly, the plaintiff
+
+made the payment on 19.03.1997 for Pound Sterling 79,964 being the principal
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 2 of 10
+
+sum excluding the bank charges.
+
+Due to an inadvertent mistake of the
+
+employees of the plaintiff, although the payment had been made, the said Query
+file was not deleted from the records.
+
+3.
+
+On 25.03.1997, Fleet Bank N.A. New York, contacted the plaintiff and
+
+stated that the beneficiary, that is, the defendant was claiming non-receipt of the
+payment against the above transfer made by the plaintiff. On receiving the
+above information, the plaintiff noticed that the Query file opened on
+13.03.1997 did not reflect the fact that payment had already been made through
+Chase Manhattan Bank, London, U.K. on 19.03.1997.
+
+Consequently, the
+
+plaintiff immediately remitted the amount once again as a third party CHAPS
+payment to Chase Manhattan Bank, London, for Pound Sterling 79,988 being
+the principal sum less bank charges. Subsequently, in the course of verification
+of transactions of the plaintiff, the duplication of the payment to the defendant
+came to light and the plaintiff requested Chase Manhattan Bank to refund the
+said Pound Sterling 79,988 paid erroneously for onward payment to the
+defendant. It is averred that Chase Manhattan Bank in turn had taken up the
+matter with UTI Bank Limited, which informed that the amount had been
+credited to the account of the defendant and that the funds had already been
+withdrawn by the defendant from the said account.
+
+It is further averred that
+
+the New Delhi office of UTI Bank had been following up the matter with the
+defendant for refund of the double payment and various efforts had been made
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 3 of 10
+
+in this regard but did not yield any result. It is in these circumstances that the
+plaintiff filed the present suit for a sum of Pound Sterling 1,06,220, out of
+which Pound Sterling 79,988 was the principal sum payable by the defendant
+and Pound Sterling 26,232 was the interest thereon calculated at the rate of
+18% per annum from 04.04.1997 till 28.01.1999.
+
+4.
+
+From the aforesaid averments made in the plaint, the case of the plaintiff
+
+is simply this, that through inadvertence and under mistake of fact, the plaintiff
+paid the defendant twice. Although M/s Inwear Fashions had only instructed
+the plaintiff to pay once. The defendant had received both the payments in its
+bank and had withdrawn the same.
+
+5.
+
+The defendant has stated in the application that a suit under Order
+
+XXXVII CPC is not maintainable inasmuch as it does not fall under the six
+categories of suits referred to in Order XXXVII Rule 1 (2). It is also contended
+on behalf of the defendant that there is no privity of contract between M/s
+Inwear Fashions and the plaintiff or between the plaintiff and Chase Manhattan
+Bank or between the plaintiff and UTI Bank. As regards the receipt of the
+payments, the defendant has admitted that it had received two payments dated
+20.03.1997 and 04.04.1997 of Pound Sterling 79,964 and Pound Sterling
+79,988. The defendant has, however, stated that the defendant had received
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 4 of 10
+
+only what was due to it from its buyer and that no amount was recoverable from
+the defendant.
+
+6.
+
+Order XXXVII Rule 1 (2) of the CPC specifies that the summary
+
+procedure prescribed under the said Order applies to the following classes of
+suits, namely:“(a)
+
+suits upon bills of exchange, hundies and promissory notes;
+
+(b) suits in which the plaintiff seeks only to recover a debt or
+liquidated demand in money payable by the defendant, with
+or without interest, arising, —
+(i) on a written contract, or
+(ii) on an enactment, where the sum sought to be
+recovered is a fixed sum of money or in the
+nature of a debt other than a penalty; or
+(iii) on a guarantee, where the claim against the
+principal is in respect of a debt or liquidated
+demand only”
+
+There is no difficulty with stating straightway that the present suit is not
+covered under Clause (a) inasmuch as it is not a suit upon a bill of exchange,
+hundy or a promissory note. It has been contended on behalf of the defendant
+that the present suit, which seeks to recover a sum of money from the
+defendant, does not arise out of any written contract or on an enactment or on a
+guarantee and, therefore, even Clause (b) would not be applicable.
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 5 of 10
+
+7.
+
+In order to arrive at a conclusion as to whether the present suit can
+
+qualify as a suit under Clause (b) of Rule 1(2) of Order XXXVII, it would be
+necessary to ascertain the meaning of the word “debt”. In Union of India v.
+Raman Iron Foundry: AIR 1974 SC 1265, the Supreme Court observed that:“The classical definition of 'debt' is to be found in
+Webb v Stenton, (1883) 11 QBD 518 where Lindley
+L.J., said: “........ a debt is a sum of money which is
+now payable or will become payable in the future by
+reason of a present obligation.””
+In J. Jermons v. Aliammal: (1999) 7 SCC 382, the Supreme Court considered
+the word “debt” in the following manner:“.... Ordinarily, “debt” means money that is owed; an
+existing obligation to pay a certain amount; a sum of
+money due from one person to another. Debts can be
+classified, having regard to the criteria for payment,
+into three categories:
+(i) debt which has become due and is payable at
+present (debitum in praesenti) e.g. in monthly tenancy,
+rent becomes due after the expiry of each month like
+rent for the month of January becoming due and
+payable on February 1;
+(ii) debt which has become due but is payable at a
+future date (debitum in praesenti solvendum in futuro);
+in the above example if under an agreement of tenancy
+rent is payable on the 15th of the following month, the
+rent for January becomes due on February 1, but is
+payable on February 15; and
+(iii) contingent debt which becomes payable on the
+happening of a certain event which may or may not
+occur; in the above instance the rent for the month of
+January will not be a debt in the preceding month of
+December for the tenant may or may not reside in the
+next month.
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 6 of 10
+
+Thus, rent that has not become due is not debt. It
+follows that rent for the unexpired period of lease is
+not debt...”
+
+8.
+
+The meaning of “debt”, therefore, is that it has reference to a sum of
+
+money which is now due and payable as also a sum of money which has been
+promised at a future date. But this distinction is not relevant for the purposes of
+the present case as will become clear shortly. The question then is whether the
+amount, which the plaintiff is seeking to recover by virtue of this suit, could be
+construed as a “debt”. On the basis of the averments in the plaint and on the
+basis of the statement made by the defendant that it received the two payments,
+it is clear that the money was paid twice by the plaintiff to the defendant. The
+second payment was made by the plaintiff under mistake. By virtue of Section
+72 of the Indian Contract Act, 1872 a person to whom money has been paid, or
+anything delivered, by mistake or under coercion, must repay or return it.
+Illustration (a) to the said Section gives a further clue as to the meaning and
+purport of the said word. The said illustration indicates that where A and B
+jointly owe 100 rupees to C, if A alone pays the amount to C, and B, not
+knowing of this fact, pays 100 rupees over again to C, then C is bound to repay
+the amount to B.
+
+This makes it clear that the recipient of money paid under
+
+mistake is obliged under law to repay it.
+
+In the present case, money has been
+
+paid by mistake twice over to the defendant by the plaintiff.
+
+By virtue of
+
+Section 72 of the Indian Contract Act, 1872, the defendant is obliged to repay
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 7 of 10
+
+it. The plaintiff seeks to recover only the said debt and it would clearly be
+arising on an enactment. The enactment being the Indian Contract Act, 1872
+and in particular Section 72 thereof. The sum sought to be recovered is a fixed
+sum of money. It is also in the nature of debt other than a penalty. Therefore,
+in my view, the present suit, as framed, falls within Order XXXVII Rule
+1(2)(b)(ii) and the first question that has been posed above, is accordingly
+decided in favour of the plaintiff.
+
+9.
+
+This leads me to the discussion of the second question. The principles
+
+for grant of leave to defend are well settled and they were set out in the
+Supreme Court decision in M/s Mechelec Engineers & Manufacturers v
+Basic Equipment Corporation: (1976) 4 SCC 687. Paragraph 8 of the said
+decision reads as under:“8. In Sm Kiranmoyee Dassi v Dr. J. Chatterjee10, Das, J.,
+after a comprehensive review of authorities on the subject,
+stated the principles applicable to cases covered by Order 37
+C.P.C. in the form of the following propositions (at p. 253) :
+(a)
+If the defendant satisfies the court that he
+has a good defence to the claim on its merits the
+plaintiff is not entitled to leave to sign judgment
+and the defendant is entitled to unconditional
+leave to defend.
+(b)
+If the defendant raises a triable issue
+indicating that he has a fair or bona fide or
+reasonable defence although not a positively
+good defence the plaintiff is not entitled to sign
+judgment and the defendant is entitled to
+10 49 CWN 246, 253: AIR 1949 Cal 479: ILR (1945) 2 Cal 145.
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 8 of 10
+
+unconditional leave to defend.
+(c)
+If the defendant discloses such facts as
+may be deemed sufficient to entitle him to
+defend, that is to say, although the affidavit does
+not positively and immediately make it clear that
+he has a defence, yet, shews such a state of facts
+as leads to the inference that at the trial of the
+action he may be able to establish a defence to
+the plaintiff's claim the plaintiff is not entitled to
+judgment and the defendant is entitled to leave
+to defend but in such a case the court may in its
+discretion impose conditions as to the time or
+mode of trial but not as to payment into court or
+furnishing security.
+(d)
+If the defendant has no defence or the
+defence set up is illusory or sham or practically
+moonshine then ordinarily the plaintiff is
+entitled to leave to sign judgment and the
+defendant is not entitled to leave to defend.
+(e)
+If the defendant has no defence or the
+defence is illusory or sham or practically
+moonshine then although ordinarily the plaintiff
+is entitled to leave to sign judgment, the court
+may protect the plaintiff by only allowing the
+defence to proceed if the amount claimed is paid
+into court or otherwise secured and give leave to
+the defendant on such condition, and thereby
+show mercy to the defendant by enabling him to
+try to prove a defence.”
+10.
+
+Considering the facts and circumstances of the case, I am of the view
+
+that the defendant has no defence. It has admitted the double payment and has
+sought to only set up an illusory or a sham defence by suggesting that it has
+only received what was owed to it by M/s. Inwear Fashions. This defence
+completely glosses over the fact that M/s. Inwear Fashions gave one instruction
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 9 of 10
+
+for payment. That instruction ought to have, ordinarily, resulted in only one
+payment. Through inadvertence and mistake on behalf of the employees of the
+plaintiff, the single instruction for payment to the defendant resulted in two
+payments. The second being clearly under mistake. There is no doubt in my
+mind that the defendant has no defence and has only purported to set up one
+which, in any event, is illusory and is practically a moonshine defence. Though
+I hold these views, I would “show mercy” to the defendant by enabling him to
+try to prove a defence, but, that can only be done, as indicated by the Supreme
+Court, in
+
+M/s Mechelec Engineers (supra) by protecting the plaintiff.
+
+Accordingly, conditional leave to defend is granted to the defendant. The
+condition being that the entire amount claimed in the suit be deposited in Court
+within a period of six weeks.
+With these directions, this application stands disposed of.
+
+BADAR DURREZ AHMED
+(JUDGE)
+July 09, 2007
+SR
+
+IA 4162/2001 in CS(OS) 802/99
+
+Page No. 10 of 10
+
+

@@ -1,0 +1,501 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+OMP. 15/2008, OMP. 19/2008
+
+1. OMP. 15/2008
+CHOLA TURBO MACHINERY INTERNATIONAL PVT LTD .... Petitioner
+Through Mr. Chetan Sharma, Sr. Advocate
+with Mr. Manish Vashisht, Mr. Sameer
+Vashisht, Advocates
+versus
+DEVELOPMENT CREDIT BANK THORUGH
+ITS GENREAL MANAGER & ANOTHER ..... Respondent
+Through Mr. Valmiki Mehta, Sr. Advocate with Mr.
+Deepak Tukral, Mr. Amit Singh, Advocates for R-2
+Mr. Puneet Taneja, Advocate for R-1
+2. OMP. 19/2008
+CHOLA TURBO MACHINERY INTERNAIONAL PVT LTD .... Petitioner
+Through Mr. Chetan Sharma, Sr. Advocate
+with Mr. Manish Vashisht, Mr. Sameer
+Vashisht, Advocates
+versus
+THE SOUTH INDIAN BANK LTD & ANOTHER..... Respondent
+Through Mr. Valmiki Mehta, Sr. Advocate with Mr.
+Deepak Tukral, Mr. Amit Singh, Advocates for R-2
+Mr. Puneet Taneja, Advocate for R-1
+COARM
+MR. JUSTICE S. RAVINDRA BHAT
+ORDER
+%
+
+24.1.2008
+
+1. These are two proceedings under section 9 of the Arbitration and Conciliation Act, 1996
+
+OMP. 15/2008, OMP. 19/2008
+
+1 of 16
+
+(hereafter referred to as “the Act”). The petitioner seeks orders from this court, to restrain the
+respondents from encashing and realizing the proceeds of two bank guarantees issued at its
+request, by the respondent banks. With consent of counsel for the parties, the two petitions were
+heard today. Reasons are indicated by this order, today, as the Court concluded hearing at 4.15
+P.M., and announced its decision, in open Court.
+2. Briefly, the facts are that the petitioner and the second respondent (referred to hereafter as “the
+supplier” and “the purchaser” respectively) entered into an agreement on. 21st October 2007 for
+the design, supply, erection and commissioning of two 11 MW power plants at Afghanistan.
+Among others, the agreement contained the following condition, in Schedule 12, requiring the
+petitioner to furnish bank guarantees to the seller, in the following terms:
+“ 1. Payment Terms:
+A. For supplies
+a) Performance Bond/ Bank guarantee of 5% of the total contract
+supply of value shall be issued by the SELLER valid up to the end
+of the daily period.
+b) 10% of the contract supply price as interest-free advance
+together with the order, against bank guarantee of equal in
+amount. Value of the bank guarantee shall be adjusted to the
+extent of advance adjusted in the SELLERS bills on monthly basis.
+c) 10% of the contract supply price after submission of proof of
+placement of the orders on major equipment suppliers through LC.
+xxxxxxxxxxxx
+g) 8% of the supply contract price shall be kept as guarantee value
+and shall be made 12 months after the successful commissioning
+of the powerplant. Sellers shall be able to draw this amount
+against the bank guarantee together with (e) above...”
+
+OMP. 15/2008, OMP. 19/2008
+
+2 of 16
+
+Schedule 11dealt with supply price; it mentioned US$ 18,300,000 (US dollars eighteen million,
+three hundred thousand) as the agreed supply price. Clause 11.2 stated that the price was based
+on US dollar – Indian rupee equivalent of 40 Rupees per dollar. The final price payable to the
+seller was to be adjusted according to the exchange rates prevailing on the date of Exim Bank
+loan sanction and an establishment of letter of credit. After that event, the contract price was to
+remain fixed. Effective date of contract, according to clause 2.0, Schedule 2, was defined as
+follows:
+“ The effective date of the Contract shall be
+2.1 Signing of this contract with 10% advance against bank guarantee of
+equal amount.
+2.2 Subject to the approval of Exim Bank of India, Buyer shall open a letter of
+credit (L/C). If the approval of the line of credit by Exim Bank of India to
+buyer is delayed beyond six weeks then the effective date of the contract
+shall be amended accordingly.
+2.3 Soil Investigation report and Topography Survey report with drawings
+within four weeks of signing of contract.
+If the buyer delay is the above, the effective date automatically gets
+extended by equal time.”
+
+The Delivery Schedule was outlined in Schedule 13; condition 13.1 stipulated that the petitioner
+would dispatch all the civil drawings, Bill of Quantities instructions and specifications within
+four months.
+
+Schedule 18 dealt with Liquidated Damages, in terms of clause 18.1 such
+
+liquidated damages are payable for delayed delivery; clause 18.2 deals with liquidated damages
+for shortfall in performance. The last part of clause 18.2 reads thus:
+OMP. 15/2008, OMP. 19/2008
+
+3 of 16
+
+“ the total amount of all liquidated damages for delayed supply and
+shortfall in performance shall not exceed 8% of the FOB supply price.”
+
+There is no dispute that the purchaser released the advance payment equivalent to Rs. 8 crores,
+to the petitioner.
+
+3.
+
+In OP No. 15/2008, the Development Credit Bank (first respondent, referred to as “the
+
+bank”) issued a guarantee, dated 29-11-2007, containing, inter alia, the following terms:
+“ WHEREAS the Purchaser has entered into a contract dated 21-10-2007
+with M/s Chola Turbo Machinery International Pvt Ltd, a company
+Registered under the Companies Act, 1956 and having its registered office
+at 401, Trade Center 45/7, Dickinson Road, Bangalore, India, (hereinafter
+referred as the “SELLER” or “SUPPLIER”) for Design,
+Engineering,Manufacturing, Testing, Supply, Supervision of civil works,
+Erection and Commissioning of 2 X 11 MW Coal Based Power Plant on
+Turnkey basis excluding Erection and Civil Job Execution (hereinafter
+referred to as the Contract)
+AND WHEREAS in terms of the contract, the seller has agreed to furnish
+and a bank guarantee for US $ 1,424,000 (One Million, Four Hundred
+and twenty four thousand only) to secure suppliers obligations in regard
+to arranging completion of schedule and against any loss or damage
+caused to or suffered by the purchaser by reasons of quantifiable breach
+of the terms and conditions of the said order on the part of the supplier
+and to cover an equal portion of (US $ 1,424,000 ) of advance payment
+already received by the seller.
+AND WHEREAS at the request of the Seller the bank has agreed to give
+this Bank Guarantee in the manner hereinafter appearing.
+1. NOW, THEREFORE, IN CONSIDERATION OF THE PREMISES, the
+OMP. 15/2008, OMP. 19/2008
+
+4 of 16
+
+Guarantor does hereby guarantee to the Purchaser the payment of an
+amount not exceeding S $ 1,424,000 (One Million, Four Hundred and
+twenty four thousand only ) against the written demand of the purchaser
+stating that the sum mentioned therein is due to the Purchaser on account
+of the seller's failure to fulfill the seller's obligations relating with the said
+contract, such statement in the demand being binding on the guarantor
+with regard to the amount due. The Guarantor also increased that such
+the mind may be made or routed through the Bankers of the purchaser.
+2. The Guarantor undertake to make payment against the said demand
+without any demur, discussions, or objections and irrespective of any
+dispute between the supplier and the
+Purchaser which is not
+subject to arbitration. The Guarantor does hereby declare that the
+obligation of the Guarantor hereunder are intended to be and shall be
+treated and construed
+as per terms of “the Contract” and the
+Guarantor shall not be entitled to withhold or delay payment of the net
+amount due to the Purchaser in the manner aforesaid as per the
+enumerated in the manner aforesaid as per the enumerated in the
+said contract and its schedules 1 to 28 all inclusive. This guarantee shall
+not be impaired or discharged or released by
+any amendment or
+change or modification to the terms of the said purchase order or by any
+alteration or amendment in the obligations undertaken by the supplier
+thereunder or any allied documents or by any change in the constitution of
+the Bank or the supplier or by any arrangement made between the
+Supplier or the Purchaser without the assent of the Bank or
+by any
+forebearance as to time, performance or otherwise shown or extended by
+the purchaser to the supplier...”
+
+In OP No. 19/2008, the South Indian Bank (first respondent, referred to as “the bank”) issued a
+bank guarantee, dated 24-12-2007 containing, inter alia, the following terms:
+“ WHEREAS the Purchaser has entered into a contract dated 21-10-2007
+with M/s Chola Turbo Machinery International Pvt Ltd, a company
+Registered under the Companies Act, 1956 and having its registered office
+at 401, Trade Center 45/7, Dickinson Road, Bangalore, India, (hereinafter
+OMP. 15/2008, OMP. 19/2008
+
+5 of 16
+
+referred as the “SELLER” or “SUPPLIER”) for Design,
+Engineering,Manufacturing, Testing, Supply, Supervision of civil works,
+Erection and Commissioning of 2 X 11 MW Coal Based Power Plant on
+Turnkey basis excluding Erection and Civil Job Execution (hereinafter
+referred to as the Contract)
+AND WHEREAS in terms of the contract, the seller has agreed to
+furnish and a bank guarantee for US $ 356,000 (Three Hundred and fifty
+six thousand only) to secure suppliers obligation in regard to arranging
+completion of schedule and against any loss or damage caused to or
+suffered by the purchaser by reasons of quantifiable breach of the terms
+and conditions of the said order on the part of the supplier and to cover an
+equal portion of (US $ 356,000) of advance payment already received by
+the seller.
+AND WHEREAS at the request of the Seller the bank has agreed to give
+this Bank Guarantee in the manner hereinafter appearing.
+1. NOW, THEREFORE, IN CONSIDERATION OF THE PREMISES, the
+Guarantor does hereby guarantee to the Purchaser the payment of an
+amount not exceeding US $ 356,000 (Three Hundred and fifty six
+thousand only) again the written demand of the purchaser stating that the
+sum mentioned therein is due to the Purchaser on account of the seller's
+failure to fulfill the seller's obligations relating with the said contract,
+such statement in the demand being binding on the guarantor with regard
+to the amount due. The Guarantor also increased that such the mind may
+be made or routed through the Bankers of the purchaser.
+2.
+The Guarantor undertake to make payment against the said
+demand without any demur, discussions, or objections and irrespective of
+any dispute between the supplier and the Purchaser which is not
+subject to arbitration. The Guarantor does hereby declare that the
+obligation of the Guarantor hereunder are intended to be and shall be
+treated and construed
+as per terms of “the Contract” and the
+Guarantor shall not be entitled to withhold or delay payment of the net
+amount due to the Purchaser in the manner aforesaid as per the
+enumerated in the manner aforesaid as per the enumerated in the
+OMP. 15/2008, OMP. 19/2008
+
+6 of 16
+
+said contract and its schedules 1 to 28 all inclusive. This guarantee shall
+not be impaired or discharged or released by
+any amendment or
+change or modification to the terms of the said purchase order or by any
+alteration or amendment in the obligations undertaken by the supplier
+thereunder or any allied documents or by any change in the constitution of
+the Bank or the supplier or by any arrangement made between the
+Supplier or the Purchaser without the assent of the Bank or
+by any
+forbearance as to time, performance or otherwise shown or extended by
+the purchaser to the supplier...”
+
+4.
+
+On 6-1-2007, the Purchaser issued identically phrased demands to the two banks,
+
+claiming the amounts guaranteed, requesting that the amounts i.e US $ 1,424,000 and US $
+356,000/- should be paid to it by the concerned bank. These demands contained the following
+statement:
+“ In view of the breach of the contract dated 21-10-2007 between us and
+Chola Turbo Machinery International Pvt. Ltd, a constituent of yours, on
+whose behalf the above Bank Guarantee has been issued in our favour, we
+hereby invoke the subject Bank Guarantee. This letter may please be
+treated as the notice of invocation.”
+5.
+
+The petitioner claimed that the invocation of the bank guarantees was unsupportable in
+
+law as it amounted to a fraud; it claimed irretrievable injustice and filed OMP No. 15/2008,
+under Section of the Act, since the contract contained an arbitration clause. By an interim order
+
+dated 9
+
+th
+
+January 2008, this court restrained the supplier from encashing the guarantee for US $
+
+1,424,000 and listed the case, after notice on 1
+
+OMP. 15/2008, OMP. 19/2008
+
+st
+
+February. The petitioner filed the second
+
+7 of 16
+
+proceeding under Section 9 i.e OMP 19/2008, challenging the invocation of the guarantee
+issued by the South Indian Bank, for US $ 356,000/-. Ex-parte injunction was refused; the
+petition was heard for some time on 14-1-2008. It was also recorded that the petitioner was
+willing to furnish a bank guarantee for the sum equivalent to 10% of the contract in accordance
+with schedule 12 to the contract, towards interest free advance, containing advertence
+(reference) to that condition; and that the existing guarantees would be substituted. Counsel for
+the respondent purchaser had then indicated according to instructions that such course of action
+was acceptable and that the matters could be resolved. Both petitions were listed, with consent
+of counsel for the parties, for further proceedings and possible hearing today. In the course of
+hearing, today, both parties leveled accusations against each other; the respondent's counsel,
+upon instructions from the Chief Executive Officer of the said party, submitted that a resolution
+of the dispute was not possible. Therefore, with the consent of counsel for the parties, the
+petitions were heard together.
+6. Mr. Chetan Sharma, learned senior counsel relied on the pleadings and submitted that exfacie, the Bank guarantees were conditional; clauses 1 and 2 clearly referred to conditions of the
+contract between the parties, i.e the Supplier and Purchaser. Therefore, the bank was under an
+obligation to be satisfied that invocation of the guarantee was in accordance with its terms; that
+the invocation had to spell out, in some basic detail about the failure or breach of the contract.
+The invocation of the guarantees, in general terms, without mentioning what breaches were
+OMP. 15/2008, OMP. 19/2008
+
+8 of 16
+
+committed by the supplier, did not comply with the terms of the guarantee. The bank was
+therefore not obliged to comply with the demand. Counsel submitted that to permit the
+purchaser to encash the guarantees, in these circumstances, would result in irretrievable
+injustice. Therefore, the order restraining the purchaser from receiving proceeds and restraining
+the bank from paying the amounts, had to be issued.
+7.
+
+Learned counsel next adverted to the pleadings to say that the delivery dates mentioned
+
+in the contract had not even passed. Therefore, the purchaser could not justifiably allege breach.
+It was contended that in fact the petitioner-supplier had furnished technical drawings to the
+purchaser. He also relied upon copies of some correspondence exchanged between the
+purchaser and the seller.
+
+It was further contended that though the purchaser had paid the
+
+advance amount equivalent to 10%, the same was duly secured by the two bank guarantees in
+question. It was submitted that on the other hand, the purchaser had not obtained the essential
+requirement of having to secure the EXIM Bank's approval for the line of credit to be made
+available to the supplier. Therefore, according to clause 2.2, Schedule 2, the effective date of
+the contract had not even taken place or occurred. Counsel urged that seen from the backdrop of
+these facts, the purchaser's demand for encashing the bank guarantees was not only unjustified,
+but utterly unlawful; it amounted to an egregious fraud, enabling this court to issue the
+injunction claimed, for the duration of pendency of arbitration proceedings.
+8.
+
+Learned counsel urged that the respondent- purchaser was driven by ill-motives to
+
+OMP. 15/2008, OMP. 19/2008
+
+9 of 16
+
+encash the guarantees, since the supplier had already dispatched the technical and engineering
+drawings. The invocation of the bank guarantees was a ruse to circumvent the obligation to pay
+fees or charges, for cancellation of the contract, agreed to by the parties, according to Schedule
+26 to the contract. In terms of the relevant clause, the petitioner would be entitled to 50% of the
+value of the contract if cancelled by the purchaser, in the present case. Learned counsel placed
+reliance on Hindustan Construction Co -vs- State of Bihar, 1999 (8) SCC 436 and submitted
+that in guarantees like the present one, the court has to construe the intention of the parties not
+only to discern whether they wanted incorporation of the terms of the main contract, in the bank
+guarantee, but also whether in such case, the guarantee itself is invoked in terms of the contract.
+It would not be enough if the beneficiary blandly asserts about breach; there should be some
+mention about the nature of the breach and the attendant facts. In their absence, the invocation
+is suspect.
+9.
+
+Mr. Valmiki Mehta, learned senior counsel for the respondent- purchaser opposed the
+
+petitions. According to counsel, a plain reading of the payment clause (Schedule 12) would
+reveal that three different kinds of guarantees were to be furnished. Firstly, a guarantee for the
+sum equal to 10% of the contract value, to secure the advance payment made by the purchaser
+had to be furnished. Secondly, a 5% performance bond/ bank guarantee to secure due
+performance of the contract had to be furnished. Lastly, 8% of the supply contract price had to
+be kept as guarantee value and payment of the said amount can be made 12 months after the
+OMP. 15/2008, OMP. 19/2008
+
+10 of 16
+
+successful commissioning of the power plant. Counsel submitted that the true intention of the
+supplier not to fulfil its obligations was apparent, since the bank guarantees issued by it were
+not in accordance with the contract. The guarantees made a composite, rolled up statement
+about their issuance,
+“to secure suppliers obligation in regard to arranging completion of
+schedule and against any loss or damage caused to or suffered by the
+purchaser by reasons of quantifiable breach of the terms and conditions
+of the said order on the part of the supplier and to cover an equal portion
+of ....of advance payment already received by the seller.”
+The guarantees were neither for securing 10% advance, nor amounted to the 5% performance
+guarantee; it could not also be construed as securing amounts payable for quantifiable breach,
+for which a maximum of 8% of the value of the contract was payable. It was urged that the
+supplier had to furnish guarantee for at least 15% of the contract value; instead it issued
+documents, which were unclear, and also fell short of the agreed stipulations. On the other
+hand, the supplier had enjoyed the benefit of vast sums of money paid as advance. In these
+circumstances, the purchaser acted within the bounds of commercial prudence in invoking the
+bank guarantees, on a fair construction of the contract.
+
+10. Learned counsel relied upon the judgments of the Supreme Court reported as Mahatma Gandhi
+Sahakra Sakkare Karkhane vs. National Heavy Engineering Coop. Ltd., (2007) 6 SCC 470 and
+Himadri Chemicals Industries Ltd. vs. Coal Tar Refining Co., (2007) 8 SCC 110 and submitted
+OMP. 15/2008, OMP. 19/2008
+
+11 of 16
+
+that wherever the Court is called upon to injunct the encahsment of an unconditional bank
+guarantee, the fundamental principle to be kept in mind is not the bank cannot rely of the term
+underlying contract between the parties. The bank furnishing such a guarantee is bound to
+honour it irrespective of any disputes raised by its customer, since it is an independent contract,
+absolute in nature. Counsel also contended that mere mention of fraud is not sufficient, for a
+case to fall within the exception, empowering the Court to injunct operation of a bank
+guarantee. The evidence must be clear, both as to the fact of fraud and to the bank's knowledge.
+It was urged that there is nothing on record even remotely suggesting that a fraud had been
+played upon the petitioner by the respondent which would entitle this Court issue interim
+injuction.
+11. The above discussion would show that parties to these proceedings entered into a contract for
+supply of design, engineering specifications and commissioning of 11 MW power plants in
+Afganistan. It is not in dispute that contemporaneously or immediately after the agreement, the
+purchaser paid an advance amount aggregating 10% of the value of the contract i.e. about US $
+1.8 million. The supplier/petitioner furnished two bank guarantees which are in question. It
+alleges that in addition, it supplied drawings and some specifications to the purchaser.
+According to the contentions made on its behalf, when even the initial part of the time schedule
+has not lapsed and without even obtaining EXIM Bank's approval, (which would in term
+render the contract effective), the respondent/purchaser has without cause and fraudulently
+OMP. 15/2008, OMP. 19/2008
+
+12 of 16
+
+invoked the guarantee. It is contended on its behalf that the guarantees issued were conditional
+as they are premised upon mutual obligations under the contract; it is also alleged that the
+ground for invoking the guarantees i.e. failure to issue guarantees in accordance with the
+contract, is a ground not available. Apart from fraud, irretrievable injustice has also been urged.
+12.
+
+Now, a reading of the bank guarantees which is subject matter of the present cases, no
+doubt shows that there is some mention of the contract between the parties. Yet, if one sees the
+recital and the unequivocal declaration of the bank in Clause 1 (extracted above), there can be
+no doubt that the obligation to pay his absolute and unconditional, if a demand is made by the
+beneficiary, i.e. the purchaser. This Court is of the opinion that the mere advertence to the
+underlying contract between the parties without any other internal evidence—as in the present
+case does not automatically lead to the inference that all contractual terms would have to be
+necessarily scrutinized by the bank or that the guarantee are conditional. Clause 2 of the
+guarantees is to a certain extent inelegant as it refer to the guarantors dis-entitlement to
+withhold or pay the net amount due to the purchaser. But, if one understands the nature of the
+bank guarantee, what is secured is the amount mentioned in each of them and not the entirety of
+the contract amount. This Court accordingly rules against the petitioner on the issue of the
+nature of the bank guarantees i.e. that being conditional; it is held that the instruments are
+unconditional.
+
+13.
+
+So far as the other grounds raised, on behalf of the petitioner with regard to the alleged
+
+OMP. 15/2008, OMP. 19/2008
+
+13 of 16
+
+fraud (since some drawings had been supplied) and that the defect in the guarantees and
+furnishing of guarantees being not a condition enabling invocation of the two instruments are
+concerned, it must be remembered, what must be kept in mind is that the bank guarantees are
+autonomous commercial documents. The Court's power interdict and prevent the beneficiary
+from receiving its proceeds has to be exercised in exceptional and rare circumstances where a
+clear case of fraud has been made out. Such is the purport of the law declared consistently by
+the Supreme Court for these last 25 years, from United Commercial Bank vs. Bank of India,
+(1981) 2 SCC 766 down to the decision Himadri Chemicals Industries Ltd. (supra) referred to
+above. The rationale invoking the bank guarantees given on behalf of the respondents was that
+according to the contract, a clear bank guarantee for securing 10% of the advance amounts had
+to be furnished; likewise a clear bank guarantee, by way of performance bond (for 5% contract
+value), in terms of Clause 11 too had to be furnished. The bank guarantees furnished by the
+petitioner were rolled up as they mentioned the intention to secure advances paid, towards
+performance and also towards commissioning (which was the subject matter of the right to
+retain 8% of the contract value).
+14.
+
+They covered only 10% of the contract.
+
+In a normal commercial dispute, if this court were go into the merits of all the
+contentions, it could perhaps be open for the petitioner to contend that the termination of
+contract on such ground without further ado is not justified. However, that is not the case here;
+those are matters for trial. What this court has to determine is whether the invocation on that
+
+OMP. 15/2008, OMP. 19/2008
+
+14 of 16
+
+ground amounts a fraud or would be a factor resulting in irretrievable injustice, empowering
+the Court to issue injunction.
+15.
+
+The authorities have consistently ruled that the beneficiary is entitled to realise a bank
+guarantee in its terms of irrespective of any pending disputes upon the construction or
+performance of the contract. The bank cannot rely upon the terms of the contract to embark
+upon an enquiry about the justification of the invocation.
+
+Courts should be slow and
+
+circumspect in issuing injunction restraining operation of bank guarantees. Fraud which is
+carved out as an exception, has been emphasised as one which should be “egregious” in nature,
+committed in notice of the bank, which would sully the foundation of the guarantee or that the
+invocation would result in injustice which would make it impossible for the guarantor to be
+compensated later or result in irretrievable harm. The decision to invoke the two guarantees
+was based upon a commercial determination that not furnishing proper guarantees amounted to
+a breach of the contract. That decision cannot by any stretch of the imagination be called a
+fraud.
+16.
+
+One last limb of the arguments made on behalf of the petitioner was that the impugned
+invocations are motivated since they would result in circumventing the obligation of the
+purchaser under Schedule 26 to pay cancellation charges. This contention in the opinion of this
+Court is unmerited since the recovery of such charges can always be a subject matter of
+arbitration proceedings; in any event no special equities or materials in support of such a plea
+
+OMP. 15/2008, OMP. 19/2008
+
+15 of 16
+
+have been shown in this regard.
+17.
+
+For the above reasons, this petition has to fail. The interim order made in OMP 15/2008
+on 9.1.2008 is hereby vacated.
+
+The petitions i.e. OMP 15/2008 and OMP 19/2008 are
+
+accordingly dismissed without any order on costs.
+Order Dasti.
+
+S. RAVINDRA BHAT,J
+JANUARY 24, 2008
+
+OMP. 15/2008, OMP. 19/2008
+
+16 of 16
+
+

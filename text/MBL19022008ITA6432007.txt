@@ -1,0 +1,440 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No.643 of 2007
+Judgment reserved on: January 23, 2008
+
+%
+
+Judgment delivered on: February 19, 2008
+The Commissioner of Income Tax
+Delhi-IV
+New Delhi.
+
+...Appellant
+
+Through Mrs. P.L. Bansal, Adv.
+Versus
+Eltek SGS (P) Ltd.
+F-225A, Sainik Farms,
+New Delhi.
+
+...Respondent
+
+Through Mr.Kaanan Kapur, Adv.
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.643/2007
+
+Page 1 of 12
+
+MADAN B. LOKUR, J.
+The Revenue is aggrieved by an order dated 30th June, 2006
+passed by the Income Tax Appellate Tribunal, Delhi Bench „C‟ in ITA
+No. 3669/D/2003 relevant for the Assessment Year 2001-2002.
+2.
+
+The short question that has arisen for consideration in this
+
+appeal under Section 260-A of the Income Tax Act, 1961 (for short the
+Act) is with regard to the claim of deduction by the Assessee on
+customs duty drawback of Rs.42,92,725/- under Section 80-IB of the
+Act.
+3.
+
+The Assessing Officer declined to grant a deduction by
+
+relying upon the decision of the Supreme Court in Commissioner of
+Income Tax v. Sterling Foods, [1999] 237 ITR 579. It may at one be
+pointed out that the decision of the Supreme Court related to import
+entitlement under the Export Promotion Scheme of the Government of
+India and on the interpretation of Section 80-HH of the Act.
+4.
+
+Feeling aggrieved by the assessment order, the Assessee
+
+preferred an appeal before the Commissioner of Income Tax (Appeals)
+[CIT (A)] who set aside the order passed by the Assessing Officer by
+holding that Sterling Foods did not apply to the facts of the case and
+
+ITA No.643/2007
+
+Page 2 of 12
+
+the language used in Section 80-HH of the Act was materially different
+from the language used in Section 80-IB of the Act.
+5.
+
+The Revenue preferred an appeal before the Tribunal which
+
+dismissed the appeal and upheld the view expressed by the CIT (A).
+6.
+
+In the first instance, it is necessary to appreciate the decision
+
+of the Supreme Court in Sterling Foods.
+7.
+
+The Assessee in that case was engaged in processing prawn
+
+and other sea foods which it had exported. As a result of an Export
+Promotion Scheme announced by the Central Government, the
+Assessee earned certain import entitlements. The Assessee could either
+use the import entitlement or sell it to others. In that case, the Assessee
+sold the import entitlements to some third parties and its income,
+therefore, included the sale proceeds of such import entitlements, for
+which the Assessee claimed relief under Section 80-HH(1) of the Act,
+which reads as follows:
+“80HH. Deduction in respect of profits and gains from
+newly established industrial undertakings or hotel
+business in backward areas. – (1) Where the gross total
+income of an assessee includes any profits and gains
+derived from an industrial undertaking, or the business of
+a hotel, to which this section applies, there shall, in
+accordance with and subject to the provisions of this
+section, be allowed, in computing the total income of the
+assessee, a deduction from such profits and gains of an
+
+ITA No.643/2007
+
+Page 3 of 12
+
+amount equal to twenty per cent thereof.”
+It will at once be seen that the language used in Section 80HH of the Act relates to “profits and gains derived from an industrial
+undertaking”.
+8.
+
+In Cambay Electric Supply Industrial Co. Ltd. v. CIT, [1978]
+
+113 ITR 84, the Supreme Court drew a distinction between the
+expression “derived from” and “attributable to”, the latter being wider
+in import than the expression “derived from”. It was observed that the
+expression “attributable to” was used when the legislature intended to
+cover receipts from sources other than the actual conduct of the
+business.
+9.
+
+In Sterling Foods, the Supreme Court held that on the
+
+language of Section 80-HH of the Act, the expression “derived from” is
+a narrower expression and so the industrial undertaking had to be the
+source of the profit or gain. In other words, the industrial undertaking
+had to be the direct source of the profit and not a means to earn the
+profit. Referring to import entitlements under the Export Promotion
+Scheme, the Supreme Court concluded that they were entitlements that
+the Assessee had earned under the scheme of the Central Government
+which was intended to encourage exports. The source referable to the
+
+ITA No.643/2007
+
+Page 4 of 12
+
+profits and gains arose out of the sale proceeds of the import
+entitlements and was, therefore, referable to the Scheme of the Central
+Government and not the industrial undertaking of the Assessee. This
+is what the Supreme Court had to say in the penultimate paragraph of
+the decision –
+“We do not think that the source of the import
+entitlements can be said to be the industrial undertaking of
+the assessee. The source of the import entitlements can, in
+the circumstances, only be said to be the Export Promotion
+Scheme of the Central Government whereunder the export
+entitlements become available. There must be, for the
+application of the words “derived from”, a direct nexus
+between the profits and gains and the industrial
+undertaking. In the instant case, the nexus is not direct but
+only incidental.
+The industrial undertaking exports
+processed sea food. By reason of such export, the Export
+Promotion Scheme applies. Thereunder the assessee is
+entitled to import entitlements, which it can sell. The sale
+considerations therefrom cannot, in our view, be held to
+constitute a profit and gain derived from the assessee‟s
+industrial undertaking.”
+10.
+
+On the other hand, the entitlement to duty drawback that
+
+we are concerned with is referable to Section 75 of the Customs Act,
+1962. This Section reads as follows: “75. Drawback on imported materials used in the
+manufacture of goods which are exported. – (1) Where it
+appears to the Central Government that in respect of
+goods of any class or description manufactured, processed
+or on which any operation has been carried out in India,
+being goods which have been entered for export and in
+
+ITA No.643/2007
+
+Page 5 of 12
+
+respect of which an order permitting the clearance and
+loading thereof for exportation has been made under
+section 51 by the proper officer, or being goods entered for
+export by post under section 82 and in respect of which an
+order permitting clearance for exportation has been made
+by the proper officer, a drawback should be allowed of
+duties of customs chargeable under this Act on any
+imported materials of a class or description used in the
+manufacture or processing of such goods or carrying out
+any operation on such goods, the Central Government
+may, by notification in the Official Gazette, direct that
+drawback shall be allowed in respect of such goods in
+accordance with, and subject to, the rules made under subsection (2):
+Provided
+
+xxx
+
+xxx
+
+Provided further that
+
+xxx
+
+xxx”
+
+A perusal of the above provision shows that an exporter is
+entitled to drawback on the duty of customs chargeable under this Act
+on any imported material if those imported materials have been used
+in the manufacture or processing of goods for export. Of course, this is
+subject to a notification issued by the Central Government with respect
+to the goods of any class or description.
+12.
+
+In other words, duty drawback is in the nature of re-
+
+imbursement of the customs duty that an exporter has paid on
+imported goods, which are subjected to a manufacturing process and
+then exported. In that sense, the export has a direct nexus with the
+
+ITA No.643/2007
+
+Page 6 of 12
+
+industrial undertaking itself.
+13.
+
+That apart, Section 80-IB of the Act does not use the
+
+expression “profits and gains derived from an industrial undertaking”
+as used in Section 80-HH of the Act but uses the expression “profits
+and gains derived from any business referred to in sub-section……..”
+Section 80-IB (1) of the Act reads as follows: “80-IB (1) Where the gross total income of an assessee
+includes any profits and gains derived from any business
+referred to in sub-section (3) to (11), (11A) and (11B) such
+business being hereinafter referred to as the eligible
+business, there shall, in accordance with and subject to the
+provisions of this section, be allowed, in computing the
+total income of the assessee, a deduction from such profits
+and gains of an amount equal to such percentage and for
+such number of assessment years as specified in this
+section.”
+A perusal of the above would show that there is a material
+difference between the language used in Section 80-HH of the Act and
+Section 80-IB of the Act. While Section 80-HH requires that the profits
+and gains should be derived from the industrial undertaking, Section
+80-IB of the Act requires that the profits and gains should be derived
+from any business of the industrial undertaking. In other words, there
+need not necessarily be a direct nexus between the activity of an
+industrial undertaking and the profits and gains.
+
+ITA No.643/2007
+
+Page 7 of 12
+
+14.
+
+This issue, particularly in relation to duty drawback, came
+
+up for consideration in Commissioner of Income Tax v. Indian Gelatine
+and Chemicals Ltd., [2005] 275 ITR 284. While considering the object
+of the duty drawback scheme, the Gujarat High Court explained it in
+the following terms –
+“The object of the duty drawback scheme is to reimburse
+exporters for tariffs paid on the imported raw materials
+and intermediates and Central excise duties paid on
+domestically produced inputs which enter into export
+production. Customs duties and excise duties on inputs
+raise the cost of production in industries and thereby affect
+the competitiveness of exports. Therefore, exporters need
+to be assisted for neutralizing the escalation in their costs
+attributable to such customs and excise duties. Duty
+drawback is, therefore, intended to reduce the cost of
+production. Hence, duty drawback is an integral part of
+the pricing of the goods and, therefore, part of the cost of
+production of the industrial undertaking and, therefore
+duty drawback has to be treated as “derived from” the
+industrial undertaking.”
+15.
+
+We have no reason to disagree with the interpretation given
+
+by the Gujarat High Court to the object of the duty drawback scheme.
+16.
+
+While dealing with the merits of the case, the Gujarat High
+
+Court rejected the contention of the Revenue that benefits under the
+duty drawback scheme are not derived from the industrial undertaking
+but merely attributable to it. The Gujarat High Court observed as
+
+ITA No.643/2007
+
+Page 8 of 12
+
+follows –
+“The object of the duty drawback is to reimburse customs
+duties and excise duties paid by the assessee. As customs
+duties and excise duties are admittedly an integral part of
+the cost of production any receipts by way of
+reimbursement of such duties are inextricably linked with
+the cost of production which has to be reflected in the
+profit and loss account of the assessee and, therefore, the
+Revenue‟s argument cannot be accepted”
+17.
+
+Learned counsel for the Revenue has relied upon a decision
+
+of this Court in Commissioner of Income Tax v. Ritesh Industries Ltd.,
+[2005] 274 ITR 324.
+
+The question of law that was framed for
+
+consideration by this Court was as follows “Whether the amount of „duty drawback‟ can be regarded
+as income derived from an industrial undertaking so as to
+entitle the assessee to a deduction under section 80-I of the
+Income Tax Act, 1961?”
+18.
+
+While answering the question in favour of the Revenue, in
+
+the context of Section 80-I of the Act, this Court held that “merely
+because under the scheme to encourage exports the duty is refunded
+subsequently by way of “duty drawback”, it cannot be regarded as the
+profit and gain “derived” from the industrial undertaking.
+
+It may
+
+constitute profits or gains of the business by virtue of Section 28 of the
+Act, but, it cannot be construed as profits or gains “derived” from the
+
+ITA No.643/2007
+
+Page 9 of 12
+
+industrial undertaking for, its immediate and proximate source is not
+the industrial undertaking but the scheme for duty drawback.”
+19.
+
+We are of the view that the decision in Ritesh Industries is
+
+distinguishable since it concerns Section 80-I of the Act which again
+uses the expression “profits and gains derived from an industrial
+undertaking”.
+20.
+
+It is crucial to appreciate the difference in language in
+
+Section 80-HH, Section 80-I and Section 80-IB of the Act. While the
+language used in Section 80-HH of the Act and in Section 80-I of the
+Act is similar, there is a clear departure in the language used in Section
+80-IB of the Act and it is this choice of words that makes all the
+difference that we are concerned with.
+21.
+
+We are of the opinion that it is not necessary for us to go as
+
+far as the Gujarat High Court has done in coming to the conclusion that
+duty drawback is profit or gain derived from an industrial
+undertaking. It is sufficient if we stick to the language used in Section
+80-IB of the Act and come to the conclusion that duty drawback is
+profit or gain derived from the business of an industrial undertaking.
+The language used in Section 80-IB of the Act is not as broad as the
+expression “attributable to” referred to by the Supreme Court in
+
+ITA No.643/2007
+
+Page 10 of 12
+
+Sterling Foods and Cambay Electric nor is it as narrow as the
+expression “derived from”. The expression “derived from the business
+of an industrial undertaking” is somewhere in between.
+22.
+
+Consequently, we are of the view that the source of the duty
+
+drawback is the business of the industrial undertaking which is to
+manufacture and export goods out of raw material that is imported and
+on which customs duty is paid. The entitlement for duty drawback
+arises from Section 75(1) of the Customs Act, 1962 read with the
+relevant notification issued by the Central Government in that regard.
+23.
+
+Learned counsel for the Revenue also drew our attention to
+
+Pandian Chemicals Ltd. v. Commissioner of Income Tax, [2003] 262
+ITR 278. However, on a reading of the judgment we find that that also
+deals with Section 80-HH of the Act and does not lay down any
+principle different from Sterling Foods. In fact, in Pandian Chemicals
+reliance has been placed on Cambay Electric Supply Industrial Co. Ltd.
+and the decision seems to suggest, as we have held above, that the
+expression “derived from an industrial undertaking” is a step removed
+from “the business of the industrial undertaking”.
+24.
+
+In view of the law laid down and explained by various
+
+decisions, in our opinion, no substantial question of law arises for
+
+ITA No.643/2007
+
+Page 11 of 12
+
+consideration.
+25.
+
+The appeal is dismissed.
+
+We assess counsel‟s fee at
+
+Rs.10,000/-. The Revenue will deposit this amount by a cheque drawn
+in favour of the Registrar General of this Court within four weeks from
+today.
+26.
+
+List for compliance on 24th March, 2008.
+
+MADAN B. LOKUR, J
+
+FEBRUARY 19, 2008
+kapil
+
+V.B. GUPTA, J
+
+Certified that the corrected
+copy of the judgment has
+been transmitted in the
+main Server.
+
+ITA No.643/2007
+
+Page 12 of 12
+
+

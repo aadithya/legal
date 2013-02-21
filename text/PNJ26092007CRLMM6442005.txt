@@ -1,0 +1,355 @@
+IN THE HIGH COURT OF DELHI
+CRL.M.C.No.644/2005
+#
+!
+
+M/s. Webcity Infosys Ltd.
+........
+Petitioner
+through: Mr. Neeraj K.Singh, Advocate
+VERSUS
+
+$
+^
+
+Registrar of Companies
+(Delhi & Haryana)
+.......
+Respondent
+through : Mr. Baldev Malik, Advocate
+CRL.M.C.No.646/2005
+
+#
+!
+
+M/s. Webcity Infosys Ltd.
+........
+Petitioner
+through: Mr. Neeraj K.Singh, Advocate
+VERSUS
+
+$
+^
+
+Registrar of Companies
+(Delhi & Haryana)
+.......
+Respondent
+through : Mr. Baldev Malik, Advocate
+
+%
+
+DATE OF DECISION: 26.09.2007
+CORAM:
+
+*
+
+Hon'ble Mr.Justice Pradeep Nandrajog
+
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment? Y
+
+2.
+
+To be referred to the Reporter or not? Y
+
+3.
+
+Whether judgment should be reported in Digest? Y
+
+:
+1.
+
+PRADEEP NANDRAJOG, J. (ORAL)
+Facts are not in dispute. Undisputed position is that if
+
+it is not a case of a continuing cause
+
+of
+
+action,
+
+admittedly
+
+complaints being filed beyond a period of 6 months from the date
+when actionable knowledge was with the competent authority,
+they would be barred by limitation.
+
+2.
+
+Alleging violation of sub-section (1) and sub-section (2)
+
+of Section 205-A of the Companies Act 1956, complaint in
+question was filed beyond a period of 6 months from the date
+when the offence was completed i.e. reckoned with effect from 6
+months after dividend was declared and remained unpaid and
+even beyond 6 months when knowledge of the offence was with
+the Registrar of Companies.
+3.
+
+Whereas petitioners urge that by virtue of sub-section
+
+(8) of Section 205-A of the Companies Act the offence being
+punishable with only fine, limitation would be 6 months by virtue
+of Section 468(2)(a) of the Code of Criminal Procedure 1973,
+prosecution states that though limitation would be 6 months but
+since it is a continuing cause of action, complaint is not barred by
+limitation.
+4.
+
+To decide the rival versions it would be relevant to
+
+note sub-section (8) of Section 205-A of the Companies Act. It
+reads as under:-
+
+5.
+
+“205-A. (8)
+If a company fails to comply with
+any of the requirements of the section, the
+company and every officer of the company who is in
+default, shall be punishable with fine which may
+extend to five thousand rupees for every day during
+which the failure continues.”
+Distinction between offences which take place when an
+
+act or remission is committed once for all and a continuing
+offence has been pithly drawn in the decision of the Supreme
+Court reported as AIR 1973 SC 908 State of Bihar vs. Deokaran
+
+Nenshi & Anr.
+6.
+
+In para 5 of the judgment it was opined as under:-
+
+7.
+
+“5.
+Continuing offence is one which is
+susceptible of continuance and is distinguishable
+from the one which is committed once and for all. It
+is one of those offences which arises out of a failure
+to obey or comply with a rule or its requirement and
+which involves a penalty, the liability for which
+continues until the rule or its requirement is obeyed
+or complied with. On every occasion that such
+disobedience or non-compliance occurs and recurs,
+there is the offence committed. The distinction
+between the two kinds of offences is between an
+act or omission which constitutes an offence once
+and for all and an act or omission which continues
+and therefore constitutes a fresh offence every time
+or occasion on which it continues. In the case of a
+continuing offence there is thus the ingredient of
+continuance of the offence which is absent in the
+case of an offence which takes place when act or
+omission is committed once and for all.
+Their Lordships of the Supreme Court were considering
+
+regulation 3 of the Indian Metalliferous Mines Regulations and
+Section 66 of the Mines Act 1952. In para 9 of the report it was
+opined as under:“9.
+Reg.3 read with Section 66 of the Mines
+Act makes failure to furnish annual returns for the
+preceding year by the 21st of January of the
+succeeding year an offence. The language of Reg.3
+clearly indicates that an owner, manager etc. of a
+mine would be liable to the penalty if he were to
+commit an infringement of the Regulation and that
+infringement consists in the failure to furnish
+returns on or before January 21 of the succeeding
+year.
+The infringement, therefore, occurs on
+January 21 of the relevant year and is complete on
+the owner failing to furnish the annual returns by
+that day. The Regulation does not lay down that
+the owner, manager etc. of the mine concerned
+would be guilty of an offence if he continues to
+carry on the mine without furnishing the returns or
+that the offence continues until the requirement of
+
+8.
+
+Reg.3 is complied with. In other words Reg.3 does
+not render a continued disobedience or noncompliance of it an offence. As in the case of a
+construction of a wall in violation of a rule or a byelaw of a local body, the offence would be complete
+once and for all as soon as such construction is
+made a default occurs in furnishing the returns by
+the prescribed date. There is nothing in Reg.3 or in
+any other provision in the Act or the Regulations
+which renders the continued non-compliance an
+offence until its requirement is carried out.”
+A Division Bench of the Calcutta High Court
+
+considered Section 162 of the Companies Act which deals with a
+failure to submit returns. Sub-section (1) of Section 162 of the
+Companies Act reads as under:-
+
+9.
+
+“162.
+Penalty and interpretation. - (1) If a
+company fails to comply with any of the provisions
+contained in sections 159, 160 or 161, the
+company, and every officer of the company who is
+in default, shall be punishable with fine which may,
+extend to five hundred rupees for every day
+during which the default continues.”
+Suffice would it be to note that offence under Section
+
+162 of the Companies Act is a failure to submit a return. Further,
+the penalty is up to Rs.500/- for every day during which the
+default continues.
+10.
+
+Contrasted with the language of sub-section (8) of
+
+Section 205 of the Companies Act, it be noted that the 2
+provisions are pari materia. Only difference being that word used
+in sub-section (1) of Section 162 is 'default' and the word used in
+sub-section (8) of Section 205-A of the Companies Act is 'failure'.
+11.
+
+Interpreting Section 162 of the Companies Act, in para
+
+14 of the decision of the Division Bench of the Calcutta High Court
+
+reported as 1984 Tax L.R. 2043 National Cotton Mills Ltd. vs.
+Assistant Registrar of Companies, it was held as under:“14.
+On a careful review of the legal position,
+it is difficult for us to agree with the view expressed
+by a learned single Judge in the above case. As
+pointed out by the Supreme Court, in order to
+constitute a continuing offence, the offence must
+arise out of a failure to obey or comply with a rule
+or its requirement and which involves a penalty, the
+liability for which continues until the rule or its
+requirement is obeyed or complied with. Section
+150 of the Companies Act does not impose any
+liability which so continues. The offence on the
+breach thereof is complete with the failure to
+furnish the return in the manner or within the time
+stipulated.
+Such an offence is committed once and for all as
+and when one commits the default. That provision
+does not contemplate that the obligation to submit
+such returns continues from day to day until the
+return is actually submitted nor does it provide that
+continuance of business without filling of such
+returns is prohibited so that non-fulfillment of a
+continuing obligation or continuing of business
+without filing of such returns becomes a continuing
+offence. When Section 162 of the Companies Act
+prescribed the penalty of fine 'which may extend to
+fifty rupees for every day during which the default
+continues', it merely prescribed the measure of
+penalty – such a prescription being made with the
+object of enforcing strict compliance with the
+requirement of Section 159 under the threat of
+enhanced penalty and getting relief from such
+penalty on enhancing scale by early submission of
+returns even after the default. That does not
+render the initial default a continuous one. It
+cannot be said that the offence is repeated or
+committed from day to day after the initial default.
+It is only where the offence is committed from day
+to day that it can be called a continuing offence.
+There being no express provision in Section 234,
+598 etc. of the Companies Act it will not be proper
+to hold that the offence under Section 162 is a
+continuing offence.
+When the statute itself
+provides for continuance of offence irrespective of
+
+initial default in some cases but does not make
+similar provisions in respect of some other offences,
+it would not be correct to say that the latter class of
+cases also would be continuing offences.
+I note that the Division Bench of Calcutta High Court
+
+12.
+
+based its decision and heavily relied upon the decision of the
+Supreme Court in Deokaran Nanshi's case (supra).
+13.
+
+Thus, there is no need for me to explain any
+
+further
+
+save and except to record that the logical conclusion of following
+the ratio of law declared in Deokaran Nanshi's case (supra) as
+followed and elaborated by the Division Bench of the Calcutta
+High Court in National Cotton Mills' case (supra) requires this
+Court to hold that offence under Section 205-A of the Companies
+Act, as punishable under sub-section (8) thereof, is not a
+continuing offence. The offence arises out of a failure to obey or
+comply with the rule and involves a penalty.
+
+The liability may
+
+continue until the requirement is obeyed or complied with. It is
+not a case where the offence is repeated or committed from dayto-day after the initial default.
+14.
+was
+
+I thus hold that the complaint against the petitioner
+barred
+
+by
+
+limitation
+
+and
+
+hence
+
+learned
+
+Metropolitan
+
+Magistrate could not take cognizance thereof. I also note that in
+the summoning order, the learned Magistrate has not condoned
+the delay.
+15.
+
+Before concluding, a submission made when judgment
+
+was being dictated may be noted.
+
+The submission was by
+
+learned counsel for the respondent. It was urged that limitation
+would commence with effect from the date Regional Director
+accorded permission for filing of the complaint.
+16.
+
+I am afraid, the submission is based on a complete
+
+ignorance of law. Limitation has to commence when actionable
+knowledge is gained by the competent authority. In the instant
+case, it may be noted that the inspections were completed and
+reports were available with the Regional Director, Northern
+Region, Kanpur by the end of December 2000.
+17.
+
+The complaints in question were filed on 16.5.2002.
+
+18.
+
+The petitions stand disposed of quashing the complaint
+
+as also the summoning order dated 16.5.2002 in both the
+complaints, summoning the petitioners to face trial.
+19.
+
+No costs.
+
+September 26, 2007
+dk
+
+PRADEEP NANDRAJOG, J.
+
+

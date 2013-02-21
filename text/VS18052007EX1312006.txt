@@ -1,0 +1,359 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+Ex. P. No. 131 of 2006
+Judgment Reserved on : January 29, 2007
+
+%
+
+Judgment delivered on : May 18, 2007
+
+M/s. Kanhai Engineering (Towers)
+Pvt. Ltd.
+..... Decree Holder
+Through: Mr.Ratan K. Singh &
+Mr. Nikhilesh Krishan,
+Advocates
+versus
+M/s. Telecommunications
+Consultants India Ltd.
+..... Judgment
+Debtor
+Through: Mr. Shivram, Advocates
+CORAM:
+HON'BLE MR. JUSTICE VIPIN SANGHI
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+VIPIN SANGHI, J
+1.
+
+The present Execution Petition arisen from an Arbitration Award
+
+dated 06.07.2001 passed by the Sole Arbitrator Shri A. K. Duggal in
+Ex. P. No. 131 of 2006
+
+Page 1 of 9
+
+Arbitration between M/s Kanhai Engineering (Towers) Pvt. Ltd.
+(hereinafter
+
+referred
+
+to
+
+as
+
+the
+
+Decree
+
+Holder)
+
+and
+
+M/s.
+
+Telecommunication Consultants India Pvt. Ltd. (hereinafter referred to
+as the Judgment Debtor). The learned arbitrator, inter alia, awarded
+the Decree Holder interest as per Clause 5.1.1. of the Agreement
+between the parties. The objections filed under Section 34 of the
+Arbitration and Conciliation Act, 1996 in O.M.P. No. 302/2001 came to
+be dismissed and the award was upheld vide order dated 09.03.2006
+by this Court. The Award was modified to the extent that interest was
+granted under the provisions of “The Interest on Delayed Payments to
+Small
+
+Scale
+
+Industrial
+
+and
+
+Ancillary
+
+Undertakings
+
+Act,
+
+1993”
+
+(hereinafter referred to as the Act).
+2.
+
+The Decree Holder while computing the amount due, calculated
+
+the same by adding compound interest with monthly rest at a fixed
+rate of 23% and arrived at a sum of Rs.45,67,163.00 (Forty five lakhs
+sixty seven thousands one hundred sixty three only). After deducting
+the amount tendered by the Judgment Debtor, the claim of the Decree
+Holder is Rs.30,90,571.00 (Thirty lakhs ninety thousands five hundred
+seventy one only) calculated as mentioned herein above.
+3.
+
+On the other hand, the Judgment Debtor calculated its liability
+
+under the decree by assuming the same principal liability, the same
+time frame for the computation of interest, and computed its liability
+with compound interest compounded monthly, but the rate of interest
+
+Ex. P. No. 131 of 2006
+
+Page 2 of 9
+
+has been arrived on the basis of the floating rate of interest based on
+the lending rates of the banks from time to time. The Judgment Debtor
+has also added 5 per cent points to the floor rate of interest under
+Section 4 of the Act.
+4.
+
+The only question that arises for determination is with regard to
+
+the correct manner of arriving at the rate at which interest is to be
+applied in computing the overdue interest. The Decree Holder claims
+that interest is to be paid at a fixed compounded rate, with monthly
+rests, while the Judgment Debtor seeks to pay interest at a floating
+rate, with monthly rests.
+5.
+
+Having heard arguments of the both the counsels for the parties,
+
+I am of the view that the rate of interest adopted by the Judgment
+Debtor is correct, for the reasons to follow.
+6.
+
+The Act is a legislation intended for the benefit of Small Scale
+
+Industries and Ancillary Undertakings. It seeks to prevent delay in flow
+of institutional credit due to such Small Scale Industries and Ancillary
+Undertakings. The main purpose of the Act as stated in the Objects
+and Reasons is to provide for and regulate the payment of interest on
+delayed
+
+payments
+
+to
+
+Small
+
+Scale
+
+Industries
+
+and
+
+Ancillary
+
+Undertakings. Sections 4 and 5 of the Act being relevant are
+reproduced herein below:
+“4. Date from which and rate at which
+interest is payable.- Where any buyer fails to
+make payment of the amount to the supplier,
+as required under section 3, the buyer shall,
+Ex. P. No. 131 of 2006
+
+Page 3 of 9
+
+notwithstanding anything contained in any
+agreement between the buyer and the supplier
+or in any law for the time being in force, be
+liable to pay interest to the supplier on that
+amount from the appointed day or, as the case
+may be, from the date immediately following
+the date agreed upon, at such rate which is five
+per cent points above the floor rate for
+comparable lending.
+Explanation. – For the purposes of this
+section, “floor rate for comparable lending”
+means the highest of the minimum lending
+rates charged by scheduled banks (not being
+co-operative banks) on credit limits in
+accordance with the directions given or issued
+to banking companies generally by the Reserve
+Bank of India under the Banking Regulation Act,
+1949.”
+“5. Liability of buyer to pay compound
+interest.
+–
+Notwithstanding
+anything
+contained in any agreement between a supplier
+and a buyer or in any law for the time being in
+force, the buyer shall be liable to pay
+compound interest (with monthly rests) at the
+rate mentioned in section 4 on the amount due
+to the supplier.”
+7.
+
+Small Scale Industries and ancillary undertakings, by the very
+
+nature, are those industries which work on smaller capital and
+infrastructure. Invariably such industries would be more sensitive to
+any blockade of their working capital. It is also not uncommon that
+such industries and undertakings are dependent upon interest bearing
+loans and facilities that are provided by banks and financial
+institutions. The Act, firstly seeks to create a disincentive for a debtor
+or lender of/and to such industries and undertakings to withhold their
+dues by prescribing a higher rate of interest on the dues of the small
+
+Ex. P. No. 131 of 2006
+
+Page 4 of 9
+
+scale industries and ancillary undertaking, than would normally be
+payable to other creditors. Secondly, it seeks to insulate the small
+scale industries and ancillary undertakings against the erosion of their
+capital on account of the said industries/undertakings having to pay a
+higher rate of interest on the loans and facilities taken by them from
+banks and financial institutions, than they may be entitled to recover
+under the law from their debtors.
+7.
+
+It is settled
+
+law that whenever
+
+there
+
+are two possible
+
+interpretations of a statute, the one that subserves the objective of an
+enactment and leads to the advancement of the object and purpose of
+the legislation is to be accepted. In the instant case, the adoption of
+the fluctuating rate of interest would provide the desired cover to the
+Small Scale Industry/Ancillary Undertaking, and not the fixed rate of
+interest as claimed by the Decree Holder. In case the fluctuating rate
+of interest is adopted, the Small Scale Industries would remain
+protected if there is an upward revision in the highest minimum
+lending rate charged by scheduled banks on credit limits. In the event
+of the rates of lending by banks being lowered, they would still
+continue to remain protected since they would continue to earn
+interest at a rate that is 5% above the highest minimum lending rate
+charged by scheduled banks on credit limits. On the other hand, if a
+fixed rate of interest is adopted, relatable to the highest of the
+minimum lending rates charged by scheduled banks on credit limits
+
+Ex. P. No. 131 of 2006
+
+Page 5 of 9
+
+that has been fixed by Reserve Bank of India at the time when the
+amount becomes due and payable to the Small Scale Industry, an
+upward revision in the rates of lending would adversely affect the
+Small Scale Industry, since the rate of interest to which it would be
+entitled would get pegged down, while it may have to pay interest at a
+higher rate on its own borrowings from banks and financial institutions,
+who normally charge interest on their lending at fluctuating rates on
+directions issued by Reserve Bank of India.
+8.
+
+I also find support from the use of the words ‘rates charged by
+
+scheduled banks’ and the words ‘in accordance with the
+directions given or issued to banking companies generally by
+Reserve Bank of India’, used in the Explanation to section 4 of the
+Act, which defines ‘floor rate for comparable lending’. There
+expressions show that what is contemplated by the legislature is not
+just and single highest minimum lending rate, but different highest
+minimum lending rates, which could only be at different times, i.e.,
+from time to time. Directions are issued by the Reserve Bank of India,
+under the Banking Regulations Act, 1949, from time to time under
+Section 21 thereof. Section 21(2)(e) specifically empowers the
+Reserve Bank of India to issue binding directions to banking
+companies, thereby prescribing the rate of interest and other terms
+and conditions on which advances or other financial accommodation
+may be made on guarantees may be given. The rates fixed by the
+
+Ex. P. No. 131 of 2006
+
+Page 6 of 9
+
+Reserve Bank of India are dependent on factors such as money supply,
+inflation, price index, etc. etc., and it keeps fluctuating from time to
+time.
+9.
+
+The judgment reported in 2005 (13) SCC 19, Assam Small Scale
+
+Industries Development Corporation Ltd. Vs. J.D. Pharmaceuticals
+relied upon by the Decree Holder is of little assistance, since the issue
+raised in the present case was neither raised before, nor considered
+by the Hon’ble Supreme Court in that case. A perusal of the said
+judgment, particularly paragraph 14, thereof would show that the
+Hon’ble Supreme Court granted compound interest @ 23.5% per
+annum, however, without going into the issue that has now arisen
+before me. Similar is the position with regard to the decision of the
+Patna High Court in First Appeal No.461/2000.
+10.
+
+The decision of the Hon’ble Supreme Court in Central Bank of
+
+India Vs. Ravindra, 2002 (1) SCC 367, in my view, supports the
+reasoning adopted by me. Interest once capitalized sheds its colour of
+interest and becomes a part of the principal liability. Consequently,
+when interest is compounded every month, interest would be added
+for one month to the amount which was the principal at the beginning
+in the month, and for the next month, the whole amount would be
+treated as the principal, which would then earn interest at the
+applicable rate. Consequently, at the beginning of every month, the
+principal amount would be determined, on which the rate of interest,
+
+Ex. P. No. 131 of 2006
+
+Page 7 of 9
+
+which is arrived at by adding 5% to the floating rate for comparable
+lending, would be applied for one month. This exercise would be
+repeated every month. When the principal amount is not a constant,
+and changes each month, and each month the exercise of calculation
+of interest has to be undertaken afresh, there is no difficulty in
+applying the rate of interest computed with reference to the floor rate
+for comparable lending.
+11.
+
+There could be no quarrel with the proposition that the
+
+amendments to the Act, which came in the year 1998, would not apply
+to the present case. This is so held in 2000 (7) SCC 756, Krishi
+Utpadan Mandi Samiti Vs. Kanhiya Lal and others, as has been rightly
+pointed out by the counsel for the Decree Holder. However, it appears
+that the Judgment Debtor has not sought to reduce the 5% additional
+interest as contemplated by section 4 of the Act, on the basis of the
+amendment while making their computation of payment due to the
+Decree Holder. The Judgment Debtor has also proceeded to compute
+and pay its liability on the basis of the unamended law.
+12.
+
+For the aforesaid reasons, I hold that the computation of interest
+
+as resorted to by the Judgment Debtor is correct and I accept the
+same. Since the Judgment Debtor has already paid to the Decree
+Holder the amount computed by it as per its calculation amounting to
+Rs.18,69,812/-, the decree stands satisfied and the execution petition
+is therefore disposed of as satisfied.
+
+Ex. P. No. 131 of 2006
+
+Page 8 of 9
+
+(VIPIN SANGHI)
+JUDGE
+May 18, 2007
+P.K. BABBAR
+
+Ex. P. No. 131 of 2006
+
+Page 9 of 9
+
+

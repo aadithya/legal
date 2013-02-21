@@ -1,0 +1,593 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 611 of 2007
+Judgment reserved on: January 10, 2008
+
+%
+
+Judgment delivered on: March 20, 2008
+
+Rohitasava Chand
+B-19, Defence Colony
+New Delhi-110024.
+…Appellant
+Through Mr. B. Gupta with Mr. R.K. Chaufla,
+Advocates
+Versus
+Commissioner of Income Tax
+New Delhi .
+…Respondent
+Through Ms. Prem Lata Bansal, Advocate
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+MADAN B. LOKUR, J.
+The Assessee is aggrieved by an order dated 19th January,
+2007 passed by the Income Tax Appellate Tribunal, Delhi Bench „B‟ in
+ITA No.4713 (Del)/2003 relevant for the assessment year 2000-2001.
+ITA No.611/2007
+
+Page 1 of 16
+
+2.
+
+After hearing learned counsel for the parties, we admit this
+
+appeal and frame the following substantial question of law for
+consideration:
+“Whether the Income Tax Appellate Tribunal was correct in
+law in holding that the non-compete fee received by the
+Assessee in terms of the agreement dated 4th December, 1997
+was a capital receipt in the hands of the Assessee?”
+Filing of paper books is dispensed with.
+
+3.
+
+The Assessee was a shareholder and a Director in a company
+
+called IIS Infotech Ltd.
+
+He entered into two agreements dated 4 th
+
+December, 1997 with F.I. Group Plc, U.K. (hereinafter referred to as the
+„foreign company‟). By one agreement, the Assessee agreed to sell all
+his shares in IIS Infotech Ltd. and by the other agreement, the Assessee
+agreed that till 31st May, 1999 he would not take up any business
+activity
+
+relating
+
+to
+
+software
+
+development
+
+in
+
+all
+
+the
+
+seven
+
+companies/organizations in which he was a director, major shareholder
+or a member since his expertise in the matter may adversely affect the
+business of the foreign company.
+
+For convenience, the second
+
+agreement is referred to as the “non-compete agreement”.
+
+ITA No.611/2007
+
+Page 2 of 16
+
+4.
+
+The relevant terms of the non-compete agreement are as
+
+follows:
+“2.1 Save in relation to a potential breach of Article (b) as
+otherwise disclosed to the Covenantee and accepted by the
+Covenantee in writing from time to time provided however
+such acceptance shall not be unreasonably withheld by the
+Covenantee, the Covenantor shall not for the period up to
+May 31, 1999 directly or indirectly, either alone or jointly
+with or on behalf of any person, firm, company or entity and
+whether on his own account or as principal, partner,
+shareholder (unless such shareholding is less than 10% of the
+issued share capital of the company concerned and is held by
+way of bona fide investment only), director, employee,
+consultant or in any other capacity whatsoever:
+(a)
+solicit or interfere with or endeavor in the Relevant
+Territory to entice away from the Covenantee Group any
+person, firm, company or entity who was a client or customer
+of the Covenantee Group in relation to the Relevant Business
+in the months (12) prior to the Completion Date or becomes a
+client or customer of the Covenantee Group in relation to the
+Relevant Business prior to May 31, 1999;
+(b)
+be concerned with the supply of services or products
+in the Relevant Territory to any person, firm, company or
+entity which is or was a client or customer of the Covenantee
+Group in relation to the Relevant Business in the months (12)
+prior to the Completion Date or becomes a client or customer
+of the Covenantee Group in relation to the Relevant Business
+prior to May 31, 1999 where such services or products are
+identical or similar to or in competition with those services or
+products supplied by the Covenantee Group;
+(c)
+solicit or interfere with or endeavor in the Relevant
+Territory to entice away from the Covenantee Group any
+person, firm, company or entity who is was a supplier of
+services or goods to the Covenantee Group in relation to the
+Relevant Business in the months (12) prior to the Completion
+ITA No.611/2007
+
+Page 3 of 16
+
+Date or becomes a supplier of services or goods to the
+Covenantee Group in relation to the Relevant Business prior
+to May 31, 1999;
+(d)
+offer to employ or engage or solicit the employment
+or engagement of any person who, at the time of, or
+immediately prior to the date of, making an order to employ
+or engage or solicitation, was an employee of the Covenantee
+Group, provided that nothing contained herein shall prevent
+the Covenantor from making an offer to employ or engage
+his personal staff such as secretary, personal assistant or
+driver;
+(e)
+save as consistent with the provisions of any
+agreement entered into with the Company, represent himself
+as being in any way connected with or interested in the
+business of the Covenantee Group;”
+
+5.
+
+In terms of the non-compete agreement, the Assessee was
+
+required to be paid an amount of Rs.1,07,36,570/- as the first installment
+and a sum of Rs.1,26,25,940/- as the second installment towards noncompete fees.
+
+The Assessee received the first installment of
+
+Rs.1,07,36,570/- in the period relevant to the assessment year 1998-99.
+According to the Assessing Officer, this was a capital receipt as stated
+by the Assessee in his return.
+
+6.
+
+When the Assessee received the second installment of
+
+Rs.1,26,25,940/- in the previous year relevant to the assessment year
+
+ITA No.611/2007
+
+Page 4 of 16
+
+2000-2001 he relinquished the office of Director of IIS Infotech Ltd.
+and also transferred all his shares in IIS Infotech Ltd. to the foreign
+company.
+
+7.
+
+In respect of the assessment year 2000-2001, the Assessee
+
+again claimed the receipt as a capital receipt and this was accepted by
+the Assessing Officer. Later on, however, the Assessing Officer initiated
+re-assessment proceedings by issuing a notice to the Assessee under
+Section 148 of the Income Tax Act, 1961 (for short the Act).
+
+8.
+
+In the reassessment order, the Assessing Officer did not
+
+accept the contention of the Assessee that the second installment
+received by him was a capital receipt.
+
+The following facts (as
+
+mentioned in the order of the Tribunal) were taken into consideration by
+the Assessing Officer in coming to this conclusion:
+(i)
+
+The Assessee was not carrying on the business of software
+and, thus, there was no question of putting any embargo on
+him from carrying on software business by paying him noncompete fees;
+
+(ii)
+
+There was no loss to the Assessee for which he was
+required to be compensated in any manner;
+
+(iii)
+
+The Assessee was not doing any business in the line of
+computer software, it was only his employer that was doing
+
+ITA No.611/2007
+
+Page 5 of 16
+
+this business, and
+(iv)
+
+9.
+
+The question whether a particular receipt is capital or
+revenue in nature is largely a question of fact.
+
+Feeling aggrieved, the Assessee preferred an appeal before
+
+the Commissioner of Income Tax (Appeals) [CIT (A)]. With regard to
+reopening of the assessment, the CIT (A) came to the conclusion that the
+assessment order had been validly reopened and that the principles of
+res judicata would not apply to the facts of the case. On merits, the CIT
+(A) set aside the assessment order and came to the conclusion that since
+the non-compete agreement was valid only for 1½ years and that too in
+some limited jurisdictions, it was not really in the nature of a noncompete agreement. He was of the view that the main reason behind
+signing the non-compete agreement was not to put restrictions on the
+Assessee but to compensate him and he, therefore, held that the amount
+received by the Assessee towards the second installment was in fact a
+capital receipt.
+
+10.
+
+In the appeal filed by the Revenue, the Tribunal agreed with
+
+the view expressed by CIT (A) on the question of reopening the
+assessment. Feeling aggrieved, the Assessee has preferred this appeal
+ITA No.611/2007
+
+Page 6 of 16
+
+before us under Section 260-A of the Act. On 10th July, 2007, we heard
+learned counsel for the Appellant but were not inclined to issue notice
+on the correctness of the assessment being reopened.
+
+11.
+
+On the merits of the case, the Tribunal was of the view that
+
+the second installment received by the Assessee represented a revenue
+receipt in his hands. We are required to consider only the correctness of
+this conclusion arrived at by the Tribunal.
+
+12.
+
+At the outset, it needs to be appreciated that the Assessee was
+
+a Director and an employee in IIS Infotech Ltd. It is true that he was
+also a shareholder but he transferred all his shares in favour of the
+foreign company by an agreement other than the non-compete
+agreement. In terms of the non-compete agreement, the prohibition in
+respect of the Assessee was with regard to software development and
+that pertained to his activity in IIS Infotech Ltd. and the six other
+companies in which he was a director or a shareholder or a member.
+
+13.
+
+According to the Tribunal, there was no increase in the profit
+
+making apparatus of the Assessee. Indeed, the Assessee did not own
+
+ITA No.611/2007
+
+Page 7 of 16
+
+any profit making apparatus. He was not carrying on any business on
+his own but was merely an employee of IIS Infotech Ltd. In regard to
+this company, the Assessee had resigned as its Director and transferred
+his shares to the foreign company and, therefore, had nothing further to
+do with IIS Infotech Ltd. In so far as the other six organizations are
+concerned, it appears that the Assessee had agreed not to carry on his
+activity of software development in these companies also in which he
+was a director, shareholder or member. In essence, therefore, the noncompete agreement was consideration paid to the Assessee for loss of
+his office as a Director and shareholder of IIS Infotech Ltd. leaving him
+free to carry out his other employment but without being involved in
+software development. Payment for loss of office was held by the
+Tribunal to be a revenue receipt and not a capital receipt.
+
+14.
+
+In our opinion, the Tribunal has approached the issue from
+
+an incorrect legal standpoint and a narrow interpretation of the noncompete agreement. As such, a substantial question of law arises for
+consideration.
+
+15.
+
+Among the first few cases on the subject of a restrictive
+
+ITA No.611/2007
+
+Page 8 of 16
+
+covenant or a non-compete agreement is the decision of the Supreme
+Court in Commissioner of Income Tax v. Best & Co. (Pvt). Ltd., [1966]
+60 ITR 11. In that case, the assessee was paid, as a result of a restrictive
+covenant, some compensation to refrain from selling or accepting any
+business which would compete with the business of the covenantor.
+The question was whether the compensation received for the noncompete agreement is a revenue receipt. The Supreme Court observed
+as follows:
+“The next question is whether that part of the compensation
+attributable to the restrictive covenant is a capital receipt or a
+revenue receipt.
+The House of Lords in Beak (H.M. Inspector of Taxes) v.
+Robson ([1942] 25 T.C. 33.), had to consider, whether
+compensation paid for a restrictive covenant was a capital
+receipt or a revenue receipt. Under a service agreement the
+respondent therein covenanted in consideration of the
+payment to him of sterling pounds 7,000 on the execution of
+the agreement, that if the agreement were determined by
+notice given by him or by his breach of its provisions, he
+would not compete directly or indirectly with the company
+within a radius of fifty miles of its place of business until the
+five years had expired. The House of Lords held that the said
+amount was a payment for giving up a right wholly
+unconnected with his office and operative only after he
+ceased to hold that office and, therefore, it was not taxable
+under Schedule E of the Income-tax Acts.
+This Court in Gillanders Arbuthnot and Co. Ltd. v.
+Commissioner of Income-tax, Calcutta [1964] 53 ITR 283
+accepted the said principle and held that the compensation
+paid for agreeing to refrain from carrying on competitive
+ITA No.611/2007
+
+Page 9 of 16
+
+business in the commodities in respect of the agency
+terminated or for loss of goodwill was prima facie of the
+nature of a capital receipt.
+In the present case, the covenant was an independent
+obligation undertaken by the assessee not to compete with
+the new agents in the same field for a specified period. It
+came into operation only after the agency was terminated. It
+was wholly unconnected with the assessee‟s agency
+termination. We, therefore, hold that that part of the
+compensation attributable to the restrictive covenant was a
+capital receipt and hence not assessable to tax.”
+
+16.
+
+In Commissioner of Income Tax v. Saraswathi Publicities,
+
+[1981] 132 ITR 207 the question was the nature of compensation
+received under an agreement to refrain from carrying on competitive
+business. One of the findings in Saraswathi was that no business was
+taken over or acquired of the assessee. On this basis, the Madras High
+Court considered the law applicable to restrictive covenants and receipts
+in connection therewith. After discussing the law laid down in Best &
+Co. and Gillanders Arbuthnot it was held by the Madras High Court
+that the compensation paid was a capital receipt and not liable to income
+tax. This is how the Madras High Court dealt with the two decisions:
+After considering the agreement in the case in CIT v. Best
+and Co. (P.) Ltd., the Supreme Court held that the
+compensation agreed to be paid was not only in lieu of the
+giving up of the agency but also for the assessee accepting a
+ITA No.611/2007
+
+Page 10 of 16
+
+restrictive covenant for a specified period. As far as the loss
+of agency was concerned, it was only a normal trading loss
+and the income received on that account was only a revenue
+receipt. But, with reference to the loss on account of the
+restrictive covenant, after referring to the decision in
+Gillanders Arbuthnot and Co. Ltd. v. CIT the Supreme
+Court reiterated that the restrictive covenant was an
+independent obligation undertaken by the assessee not to
+compete with the new agent in the same field and that part of
+the compensation attributable to the restrictive covenant was
+a capital receipt, not assessable to tax. As to how the
+compensation was to be apportioned was left to be
+determined by the assessing authorities.”
+
+17.
+
+The Madras High Court noted that the cases decided by the
+
+Supreme Court fell into two categories: the first category consisting of
+those cases where there is a mere loss of a trading agency of a company
+which has a number of such agencies while the second category refers to
+those cases where the receipt is not for the loss of an agency but for
+certain restrictive covenants preventing the assessee from carrying on
+business to that extent.
+
+On the facts of the case, it was held that
+
+Saraswathi Publicities fell in the second category and the amounts
+received by it amounted to a capital receipt.
+
+18.
+
+In Commissioner of Income Tax v. Late G.D. Naidu, [1987]
+
+165 ITR 63 payment was received pursuant to a restrictive covenant and
+
+ITA No.611/2007
+
+Page 11 of 16
+
+the question was whether it was a revenue receipt. The Madras High
+court followed its earlier view and held that compensation received in
+respect of a restrictive covenant is not taxable as it is a capital receipt.
+
+19.
+
+In Commissioner of Income Tax v. Saroj Kumar Poddar,
+
+[2005] 279 ITR 573, the assessee had acquired considerable knowledge
+and expertise in the field of manufacture of shaving blades and other
+products with special reference to the manufacturing process, sources of
+raw materials and the marketing of the products of Gillette. On 18th
+January, 1996, Gillette entered into a non-compete agreement with the
+assessee wherein the facts relating to the expertise of the assessee were
+mentioned and thereafter the assessee undertook, on receipt of
+consideration of Rs.18 million, that he would not engage himself in any
+business relating to the manufacturing, marketing or distribution of
+razors, razor blade, shaving systems or shaving preparations.
+
+20.
+
+On these facts, the question before the Calcutta High Court
+
+was whether the payment under the non-compete agreement is a
+colourable device to earn some income since the assessee did not sell
+any assets. After considering the case law, the Calcutta High Court
+
+ITA No.611/2007
+
+Page 12 of 16
+
+came to the conclusion that the non-compete agreement entered into
+between the assessee and Gillette resulted in a payment to the assessee
+which was in the nature of the capital receipt.
+
+21.
+
+In Commissioner of Income Tax v. A.S. Wardekar, [2006]
+
+283 ITR 432, the assessee received a sum of Rs.1.75 crores for entering
+into a restrictive covenant of not entering into a competing business
+with the United Breweries Group for a period of five years. Referring to
+and relying upon Saroj Kumar Poddar, the question was answered in
+favour of the assessee by holding that the amount received by the
+assessee for entering into a restrictive covenant of not entering into a
+competitive business was a receipt by the assessee of a capital nature
+and thus not liable to tax.
+
+22.
+
+On the other hand, in Tam Tam Pedda Guruva Reddy v.
+
+Joint Commissioner of Income Tax, [2007] 291 ITR 44, the question
+before the Karnataka High Court related to an agreement whereby the
+assessee agreed not to compete with Tam Tam Pedda Guruva Reddy
+Constructions (P) Ltd. within the local limits of Turuvekere, Tumkur
+and Kunigal for a period of five years.
+
+ITA No.611/2007
+
+In consideration of this
+
+Page 13 of 16
+
+covenant, the assessee was paid a sum of Rs.8 lakhs by way of
+compensation. The Karnataka High Court referred to Saraswathi
+Publicities and A.S. Wardekar but concluded, on the facts of the case,
+that the amount received was not a capital receipt but a revenue receipt.
+
+23.
+
+The various decisions that we have referred to above show
+
+that the law is quite well settled that where an amount is received by
+way of compensation under a restrictive covenant or under a noncompete agreement, it would amount to a capital receipt in the hands of
+the recipient but a lot would depend on the agreement entered into
+between the parties. This being the position, it is necessary to take note
+of the relevant clauses of the agreement that we are concerned with.
+
+24.
+
+There is no doubt that the non-compete agreement
+
+incorporates a restrictive covenant on the right of the Assessee to carry
+on his activity of development of software. It may not alter the structure
+of his activity, in the sense that he could carry on the same activity in an
+organization in which he had a small stake, but it certainly impairs the
+carrying on of his activity. To that extent it is a loss of a source of
+income for him and it is of an enduring nature, as contrasted with a
+
+ITA No.611/2007
+
+Page 14 of 16
+
+transitory or ephemeral loss. During the currency of the non-compete
+agreement, the Assessee was restrained from soliciting, interfering,
+engaging in or endeavouring to carry on any activity, including supply
+or services or goods concerning software development. The noncompete agreement was independent of the first agreement whereby the
+Assessee agreed to transfer his shares to the foreign company. Under the
+circumstances, looking to the case law on the subject and the terms of
+the non-compete agreement, particularly the restrictive covenant, it is
+difficult to agree with the view taken by the Tribunal. The receipt in the
+hands of the Assessee was certainly a capital receipt in as much as it
+dented his profit making capabilities.
+
+25.
+
+In so far as the question of consistency is concerned, this was
+
+agitated before us by learned counsel for the Assessee on the basis that
+in the assessment year 1998-99 the receipt of non-compete fee was held
+to be a capital receipt by the Assessing Officer and, therefore, in the
+assessment year 2000-2001, the Assessing Officer ought to have been
+consistent and ought to have held the receipt to be a capital receipt. We
+find that for the assessment year 2000-2001, a notice under Section 148
+of the Act was issued to the Assessee and the re-assessment order was
+
+ITA No.611/2007
+
+Page 15 of 16
+
+passed on 21st February, 2003.
+
+The reopening of the assessment
+
+proceedings has been upheld both by CIT (A) as well as by the Tribunal.
+Even we have not issued any notice on the grievance made by the
+Assessee in this regard. The reopening having been held to be valid, the
+question of consistency would not arise because if this argument were to
+be accepted, then it would mean that the reopening was erroneous. We
+cannot do something indirectly if it cannot be done directly. We are,
+therefore, not in agreement with learned counsel for the Assessee that
+the rule of consistency would be applicable to the facts of this case.
+
+26.
+
+Consequently, the substantial question of law is answered in
+
+the negative, in favour of the Assessee and against the Revenue.
+
+The
+
+appeal is disposed of.
+
+MADAN B. LOKUR, J
+
+March 20, 2008
+ncg
+
+V.B. GUPTA, J
+
+Certified that the corrected
+copy of the judgment has been
+transmitted in the main Server.
+
+ITA No.611/2007
+
+Page 16 of 16
+
+

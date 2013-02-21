@@ -1,0 +1,320 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+
++
+
+ITA No. 641 of 2006
+Judgment reserved on: January 17, 2007
+
+%
+
+Judgment delivered on: May 9, 2007
+
+The Commissioner of Income Tax-V
+New Delhi.
+Through
+
+...Appellant
+
+Mr. Sanjiv Sabharwal, Adv.
+
+Versus
+M/s Oracle Software India Ltd.
+705, International Trade Tower
+Nehru Place, New Delhi
+Through
+
+...Respondent
+Mr. M.S. Syali, Senior Advocate
+with Mr. Saubhagya Aggarwal, Adv.
+
+WITH
+
+ITA No.785 of 2006
+The Commissioner of Income Tax-V
+Central Revenue Building, New Delhi.
+Through
+
+...Appellant
+
+Mr. Sanjiv Sabharwal, Adv.
+
+Versus
+
+ITA No.641/2006
+
+Page 1 of 9
+
+M/s Oracle Software India Ltd.
+705, International Trade Tower
+Nehru Place, New Delhi
+...Respondent
+Through Mr. M.S. Syali, Senior Advocate
+with Mr. Saurabh Aggarwal, Adv.
+
+ITA No. 811 of 2006
+The Commissioner of Income Tax-V
+New Delhi.
+...Appellant
+Through Mr. Sanjiv Sabharwal, Adv.
+
+Versus
+
+M/s Oracle Software India Ltd.
+705, International Trade Tower
+Nehru Place, New Delhi
+...Respondent
+Through Mr. M.S. Syali, Senior Advocate
+with Mr. Saurabh Aggarwal, Adv.
+
+ITA No. 815 of 2006
+The Commissioner of Income Tax-V
+New Delhi.
+...Appellant
+Through Mr. Sanjiv Sabharwal, Adv.
+
+Versus
+M/s Oracle Software India Ltd.
+705, International Trade Tower
+Nehru Place, New Delhi
+...Respondent
+Through Mr. M.S. Syali, Senior Advocate
+with Mr. Saurabh Aggarwal, Adv.
+ITA No.641/2006
+
+Page 2 of 9
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+MADAN B. LOKUR, J.
+The Revenue is aggrieved by an order dated 28th October,
+2005 passed by the Income Tax Appellate Tribunal, Delhi Bench B (for
+short the Tribunal) in ITA Nos.328D/98, 1783/D/99 and 916/D/2000
+relevant for the assessment years 1994-95 to 1996-97.
+
+2.
+
+Although three issues arose before the Tribunal, we are really
+
+concerned with two issues that have been urged by the Revenue.
+
+3.
+
+The assessee is a 100% subsidiary of Oracle Corporation,
+
+USA and was incorporated with the object of developing, designing,
+improving, producing, marketing, distributing, buying, selling and
+
+ITA No.641/2006
+
+Page 3 of 9
+
+importing of computer software. The assessee is entitled to sub-license
+the software developed by Oracle Corporation, USA to its local clients.
+
+4.
+
+The assessee imports master copies of the software from
+
+Oracle Corporation, USA. These are then duplicated on blank discs,
+packed and sold in the market along with the relevant brochures and
+information by way of a sub-license. The assessee pays a lump sum
+amount to Oracle Corporation, USA for the import of the master copy
+and in addition thereto it also pays royalty at 30% of the list price of the
+licensed product.
+
+5.
+
+The first issue that we are concerned with is the disallowance
+
+of royalty paid by the assessee to Oracle Corporation, USA on the
+ground that TDS was not paid by the assessee in the relevant previous
+year; the second issue relates to the allowability of a deduction under
+Section 80IA of the Income Tax Act, 1961 (the Act).
+
+6.
+
+The issue regarding disallowance of royalty is relevant for
+
+the assessment years 1994-95 and 1995-96.
+
+ITA No.641/2006
+
+The Assessing Officer
+
+Page 4 of 9
+
+noted that for the assessment year 1994-95, tax was deducted at source
+on the royalty paid by the assessee and after deduction, it was deposited
+on 6th September, 1994. For the assessment year 1995-96, tax was
+deducted at source and deposited on 6th July, 1995. The Assessing
+Officer took the view that in view of Section 40(a)(i) of the Act, the
+assessee was not entitled to a deduction in respect of payment of royalty
+to Oracle Corporation, USA. This provision reads as under:“40. Amounts not deductible. Notwithstanding anything to
+the contrary in sections 30 to 38, the following amounts shall
+not be deducted in computing the income chargeable under
+the head “Profits and gains of business or profession”, –
+(a) in the case of any assessee –
+(i) any interest (not being interest on a loan issued for public
+subscription before the 1st day of April, 1938), royalty, fees
+for technical services or other sum chargeable under this Act,
+which is payable outside India, on which tax has not been
+paid or deducted under Chapter XVII-B.
+Provided that where in respect of any such sum, tax has been
+paid or deducted under Chapter XVII-B in any subsequent
+year, such sum shall be allowed as a deduction in computing
+the income of the previous year in which such tax has been
+paid or deducted.”
+The interpretation given by the Assessing Officer to the
+above provision was that tax must not only be deducted but also actually
+paid within the relevant previous year.
+ITA No.641/2006
+
+Page 5 of 9
+
+7.
+
+Feeling aggrieved, the assessee filed an appeal before the
+
+Commissioner of Income Tax (Appeals) [CIT (A)] who relied upon a
+decision of the Rajasthan High Court in Additional Commissioner of
+Income-Tax v. Farasol Ltd., (1987) 163 ITR 364 for deciding in favour
+of the assessee.
+
+8.
+
+We do not think the decision rendered by the Rajasthan High
+
+Court is quite apposite. However, in so far as we are concerned, the
+Tribunal noted that there is no dispute that the assessee deducted the tax
+during the relevant year. The Assessing Officer made the disallowance
+only on the ground that payment was actually made in the next financial
+year. On a plain reading of Section 40 (a)(i) of the Act, as long as the
+tax was deducted within the year, as was done in the present case, the
+provisions of the Section come into play and the assessee must,
+therefore, be entitled to its benefit. There is no dispute about the fact
+that tax for the assessment year 1994-95 was deducted during the
+relevant previous year (but paid on 6th September, 1994). For the
+assessment year 1995-96 the tax was deducted during the relevant
+previous year and while most of the amount (Rs.1,97,23,418/-) was paid
+
+ITA No.641/2006
+
+Page 6 of 9
+
+during the relevant previous year, a small amount of Rs.11,011/- was
+deposited on 6th July, 1995. On a reading of Section 40(a)(i) of the Act,
+we are of the view that the Assessing Officer erred while the appellate
+authorities rightly held in favour of the assessee.
+
+No substantial
+
+question of law arises for consideration.
+
+9.
+
+As regards the second issue pertaining to Section 80IA of the
+
+Act, the question that arose was whether the assessee manufactures any
+goods.
+
+10.
+
+As noted above, the assessee duplicates the software from the
+
+imported master copies by formatting a blank disc and copying the
+software onto it. The duly formatted disc with the software is then
+packed and sold in the market along with the relevant brochures.
+According to the Assessing Officer, this did not amount to manufacture
+and this view was affirmed by the CIT (A).
+
+11.
+
+The Tribunal made a note that in fact the assessee converted
+
+blank discs (which are raw material for it) into software loaded discs
+
+ITA No.641/2006
+
+Page 7 of 9
+
+with the help of the imported master copy. This by itself amounted to a
+change or a conversion of the blank disc into a different and distinct
+commercial product which was then marketed after labelling and
+packing.
+
+12.
+
+The Tribunal took into consideration the decision of the
+
+Supreme Court in Gramophone Co. of India Ltd. v. Collector of
+Customs, 1999 (114) ELT 770 wherein the Supreme Court considered
+the meaning of the word “manufacture” as used in the Central Excise
+Act, 1944. The Supreme Court noted that pre-recorded audio cassettes
+are known in the market as goods different and distinct from blank
+audio cassettes. The two have different uses and since the appellant
+therein was converting blank audio cassettes into recorded audio
+cassettes which were sold in the market as such, it was carrying out a
+manufacturing activity.
+
+13.
+
+It is true that the meaning of the word “manufacture” as used
+
+in the Central Excise Act, 1944 cannot be automatically applied to the
+provisions of the Income Tax Act, 1961, but in the absence of any
+
+ITA No.641/2006
+
+Page 8 of 9
+
+definition of the word “manufacture” as used in Section 80IA of the Act,
+one has to appreciate its meaning as commonly understood by any
+reasonable person. Looked at from this point of view, the conversion of
+a blank disc, which has its own utility, to a software loaded disc clearly
+amounts to a manufacturing activity because a new commercial product
+enters the market which is distinct and different product from the blank
+disc.
+
+14.
+
+On this issue, we see no reason to differ with the view taken
+
+by the Tribunal which merely follows the decision of the Supreme
+Court. Under the circumstances, we are clearly of the view that the
+assessee would be entitled to the benefit of Section 80IA of the Act
+since it carries out a manufacturing activity.
+
+15.
+
+No substantial question of law arises for consideration. The
+
+appeals are dismissed.
+
+Madan B. Lokur, J
+
+May 9, 2007
+ncg
+ITA No.641/2006
+
+V.B. Gupta, J
+
+Page 9 of 9
+
+

@@ -1,0 +1,950 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
++
+
+Judgment delivered on: 31.10.2008
+I.T.A. 1120/2007
+
+COMMISSIONER OF INCOME TAX
+
+….Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
++
+
+I.T.A. 697/2008
+
+COMMISSIONER OF INCOME
+TAX (TDS)
+
+…Petitioner
+Versus
+
+ESCOTEL MOBILE COMMUNICATIONS
+LIMITED
+
+…Respondent
+
+WITH
++
+
+I.T.A. 1177/2007
+
+COMMISSIONER OF INCOME TAX XVII
+
+…Petitioner
+
+Versus
+HUTCHISON ESSAR TELECOM LTD
+
+…Respondent
+
+WITH
++
+
+I.T.A.1020/2008
+
+COMMISSIONER OF INCOME TAX
+
+…Petitioner
+
+Versus
+ESCOTEL MOBILE COMMUNICATIONS
+
+…. Respondent
+
+WITH
++
+
+I.T.A. 698/2008
+
+COMMISSIONER OF INCOME TAX
+
+ITA Nos.1120/07& Ors
+
+…Petitioner
+
+Page No.1 of 21
+
+Versus
+ESCOTEL MOBILE COMMUNICATIONS
+LIMITED
+
+…Respondent.
+
+WITH
++
+
+ITA 1154/2007
+
+COMMISSIONER OF INCOME TAX
+
+... Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
++
+
+I.T.A. 1155/2007
+
+COMMISSIONER OF INCOME TAX
+
+... Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
++
+
+I.T.A. 1129/2007
+
+COMMISSIONER OF INCOME TAX
+
+... Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
++
+
+I.T.A1159/2007
+
+COMMISSIONER OF INCOME TAX
+
+... Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
+ITA Nos.1120/07& Ors
+
+Page No.2 of 21
+
++
+
+I.T.A. 1135/2007
+
+COMMISSIONER OF INCOME TAX
+
+... Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
++
+
+I.T.A. 1171/2007
+
+COMMISSIONER OF INCOME TAX
+
+... Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+WITH
+
++
+
+I.T.A. 1121/2007
+
+COMMISSIONER OF INCOME TAX
+
+….Petitioner
+
+- Versus –
+BHARTI CELLULAR LTD
+
+...Respondent
+
+Advocates who appeared in this case:
+For the Appellant
+Mrs Premlata Bansal in ITA 1120/07, 1020/08,
+697/08 and 698/2008, 1121/07, 1171/07, 1135/07,
+1159/07, 1129/07, 1155/07, 1154/07
+Ms Rashmi Chopra in ITA 1177/2007
+For the Respondent
+
+Mr Tarun Sharma in ITA 1177/2007, 1145/07.
+Mr Kanan Kapur in ITA 1120/2007, 1121/07. 1171/07,
+1159/07, 1129/07, 1155/07, 1154/07
+None for respondents in ITA 1020/08, 697/08, 698/08.
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+HON’BLE MR JUSTICE RAJIV SHAKHDHER.
+1.
+
+Whether Reporters of local papers may be allowed to see
+the judgment ?
+YES
+
+2.
+
+To be referred to the Reporter or not ?
+
+3.
+
+Whether the judgment should be reported in Digest ? YES
+
+ITA Nos.1120/07& Ors
+
+YES
+
+Page No.3 of 21
+
+BADAR DURREZ AHMED, J
+1.
+
+In all these appeals under Section 260A of the Income
+
+Tax Act, 1961 (hereinafter referred to as ‗the said Act‘), the
+following substantial questions of law have been framed:(a) Whether the payments made by the assessee to the
+MTNL/other companies for the services provided
+through interconnect/port/access/toll were liable for
+tax deduction at source in view of the provisions of
+section 194J of the Act?
+(b) Whether the Ld. ITAT erred in holding that the
+payment for use of services for MTNL/other
+companies via the interconnect/port/access/toll by the
+assessee would not fall within the purview of
+payments as provided for under section 194J of the
+Act, so as to be eligible for tax deduction at source?
+
+2.
+
+The facts in all these appeals are similar.
+
+The
+
+respondents/assessees in these appeals are companies engaged in the
+business of providing cellular telephone facilities to their
+subscribers. The assessees/respondents had been granted licences by
+the Department of Telecommunication for operating in their
+respective specified circles. The assessees are required to set up
+their own equipments and necessary infrastructure for operating and
+maintaining their networks. The licences granted to the assessees
+stipulated that the Department of Telecommunication/MTNL/BSNL
+would continue to operate in the service areas for which the licences
+were issued. In respect of subscribers which fell within the specified
+circles of the assessees, the calls would be handled exclusively
+
+ITA Nos.1120/07& Ors
+
+Page No.4 of 21
+
+through the assessees‘ own networks. However, where calls were to
+be made by subscribers of one network to another network, such
+calls are necessarily to be routed through MTNL/BSNL. The inter
+connection between the two networks is provided by MTNL/BSNL
+at interconnection points known as Ports.
+
+For the purposes of
+
+providing this interconnection, the assessees have entered into
+agreements with MTNL/BSNL etc. The agreements are regulated by
+the Telecom Regulatory Authority of India (TRAI). Under these
+agreements,
+
+the
+
+assessees/respondents
+
+are
+
+required
+
+to
+
+pay
+
+interconnection, access charges and port charges. As per the policy
+document of TRAI, interconnection has been understood to mean the
+commercial and technical arrangements under which service
+providers connect their equipments, networks and services to enable
+their customers to have access to the customers, services and
+networks of other service providers. Interconnection charges are
+paid by the interconnection seeker to the interconnection provider.
+
+3.
+
+The manner in which this system works can be explained
+
+by examples.
+
+Example 1: Assume that subscriber ―A‖ of Airtel intends to call
+subscriber ―X‖ of MTNL within New Delhi. Subscriber ―A‘s call
+which originates within the circle of Airtel would have to be handed
+over (through interconnection) to MTNL‘s network so as to reach
+subscriber ―X‖.
+ITA Nos.1120/07& Ors
+
+In such a case, while Airtel would recover the
+Page No.5 of 21
+
+normal call charges from its subscriber ―A‖, it would have to pay a
+part of it to MTNL for its inter-connect usage charges.
+Example 2: Assume that subscriber ―A‖ of IDEA in Maharashtra
+wants to make a call to subscriber ―B‖ of Airtel at New Delhi. The
+call would originate within the IDEA network in Maharashtra and
+would have to be inter-connected with BSNL (being the national
+long distance service provider) which would carry the call to the
+Airtel Delhi network and after interconnection would be transferred
+to the subscriber ―B‖ of Airtel, Delhi. In such a case, following the
+principle of the inter-connect seeker paying the charges to the interconnect provider, Airtel - Delhi would raise an invoice for interconnect charges on BSNL which, in turn, would raise an invoice on
+IDEA (Maharashtra) for the national long distance inter-connect
+charges. IDEA (Maharashtra) would recover the normal call charges
+from its subscriber ―A‖ and make the payment to BSNL as per the
+invoice for the national long distance inter-connect charges. BSNL,
+in turn, would make the payment to Airtel (Delhi) for the local interconnect charges.
+
+4.
+
+From the above examples, it is clear that MTNL/BSNL or
+
+other companies providing the interconnection access/ports are
+entitled
+
+to
+
+charge
+
+those
+
+networks
+
+which
+
+seek
+
+such
+
+interconnection/port access facility for completing their calls. The
+questions which have been framed in these appeals are related to the
+nature of these charges.
+ITA Nos.1120/07& Ors
+
+According to the Revenue, the said
+Page No.6 of 21
+
+interconnect/port access charges are liable for tax deduction at
+source in view of the provisions of Section 194J of the said Act and
+that these interconnect/port access charges are in the nature of fees
+for technical services.
+
+5.
+
+In the present appeals, it is the case of the Revenue that
+
+the assessees were liable to deduct tax at source when they made the
+payments in respect of the inter-connect/port access charges. It was
+contended before us that the non-deduction/short deduction under
+section 201 (1) of the said Act is not required to be made good by the
+assessee inasmuch as MTNL/BSNL/other companies who would
+have been the deductees, have already declared receipts of the
+payments made by the assessees in their respective returns of income
+tax and have paid the entire tax.
+
+The learned counsel for the
+
+Appellant however, contended that the respondents/assessees were
+liable to pay interest under section 201 (1A) of the said Act, as they
+had not deducted tax at source which they were liable to deduct
+under section 194J in respect of the payments made by them to
+MTNL/BSNL/other companies for inter-connect/port access charges
+as the same were fees for technical services.
+
+According to the
+
+learned counsel, the provision of the interconnect/port access facility
+was itself a service. According to her, the agreement between the
+parties themselves described the arrangement
+
+as providing
+
+telecommunication services. It was then contended that since the
+services were of a technical nature in the sense that it was connected
+ITA Nos.1120/07& Ors
+
+Page No.7 of 21
+
+with the use of machinery involving expertise, skill and technical
+knowledge, the charges paid by the respondents/assessees were
+nothing but fees for technical services.
+
+6.
+
+On the other hand, the counsel appearing on behalf of the
+
+respondents submitted that the payments made by the respondents to
+MTNL/other companies in respect of interconnect/port/access
+charges were not covered within the expression ―fees for technical
+services‖ as used in section 194J of the said Act. They submitted
+that their case was clearly covered by the decision of the Madras
+High Court in the case of Skycell Communications Ltd. and
+Another v. Deputy Commissioner of Income–tax and others:
+[2001] 251 ITR 53 (Mad), wherein the payment made by a
+subscriber to the provider of cellular mobile facility was held not to
+amount to fees for technical services within the meaning of Section
+194J read with Section 9 (1) (vii), Explanation 2 of the said Act. It
+was contended that the mere collection of a fee for use of a standard
+facility provided to all those willing to pay for it does not amount to
+the fee having been received for ―technical services.‖ It was also
+contended that unless and until, there is an element of human
+interface, the facility of interconnection/port access cannot be
+regarded as a technical service. Reliance were also placed on an
+earlier decision of this Court in the case of J.K. (Bombay) Ltd v
+Central BVoard of Direct Taxes and Anr : (1979) 118 ITR 312,
+which has considered the expression ―technical service‖ within the
+ITA Nos.1120/07& Ors
+
+Page No.8 of 21
+
+context of Section 80-O. It was contended that in the said decision,
+it was pointed out that ―technical service‖ has two components. The
+first is the use of tools and the second being the application of human
+reason to the properties of matter and energy. It was, therefore,
+contended that unless and until the element of human interface was
+present, the facility provided by the MTNL/other companies could
+not be regarded as a ―technical service‖.
+
+7.
+
+It was also contended that since the expression ―fee for
+
+technical service‖ as appearing in Section 194J, is to be construed in
+the same manner as given in Explanation 2 of Section 9 (1) (vii) of
+the said Act, the entire expression ―managerial, technical or
+consultancy services‖ would have to be considered. Thus, the word
+―technical‖ would take colour from the words ―managerial" and
+―consultancy‖ and cannot be considered in the general or wider
+sense. Since both managerial and consultancy services, by their
+very nature, involve a human element, the technical services which
+are relevant for the purpose of Section 194J would be those technical
+services which involve human interface/element.
+
+8.
+
+It was also contended on behalf of the respondents that
+
+the entire process of making a call and switching the call from one
+network to the other is done automatically on the basis of machines
+without the provisions of any service by human beings. Therefore, it
+was submitted on behalf of the respondents, the interconnect/port
+ITA Nos.1120/07& Ors
+
+Page No.9 of 21
+
+access facility cannot be regarded as a technical service.
+Consequently, the payments made for such interconnect/port access
+charges could not fall within the meaning of ―fees for technical
+service‖ as used in Section 194J of the said Act.
+
+9.
+
+In
+
+rejoinder,
+
+the
+
+learned
+
+counsel
+
+for
+
+the
+
+Appellant/Revenue submitted that the decision of the Madras High
+Court in the case of Skycell (supra) is clearly distinguishable. She
+submitted that in the case of Skycell (supra), the payments which
+were under contemplation, were the payments by individual
+subscribers to their respective cellular mobile service providers,
+whereas in the present appeals, the payments in question are those
+made by the cellular mobile service providers to MTNL/other
+companies for interconnect/port access charges. Consequently, she
+submitted that the decision of the Tribunal in holding that the
+payments made to MTNL/other companies in respect of the
+interconnect/port access charges were outside the purview of Section
+194J of the said Act, was not correct in law. She contended that the
+Tribunal, having followed the decision of the Madras High Court in
+the case of Skycell (supra), had erred in law inasmuch as that
+decision was clearly distinguishable.
+
+10.
+
+Section 194J which relates to ―fees for professional or
+
+technical services‖, so much as is relevant, reads as under:-
+
+ITA Nos.1120/07& Ors
+
+Page No.10 of 21
+
+“194J. (1) Any person, not being an individual or a
+Hindu undivided family, who is responsible for paying
+to a resident any sum by way of—
+(a)
+fees for professional services, or
+(b)
+fees for technical services,
+xxxx
+
+xxxx
+
+xxxx
+
+xxxx
+
+shall, at the time of credit of such sum to the account of
+the payee or at the time of payment thereof in cash or by
+issue of a cheque or draft or by any other mode,
+whichever is earlier, deduct an amount equal to five per
+cent of such sum as income-tax on income comprised
+therein :
+xxxx
+
+xxxx
+
+xxxx
+
+xxxx
+
+Explanation.—For the purposes of this section,—
+(a) ―professional services‖ means services rendered
+by a person in the course of carrying on legal,
+medical, engineering or architectural profession
+or the profession of accountancy or technical
+consultancy or interior decoration or advertising
+or such other profession as is notified by the
+Board for the purposes of section 44AA or of
+this section;
+(b) ―fees for technical services‖ shall have the same
+meaning as in Explanation 2 to clause (vii) of
+sub-section (1) of section 9;
+xxx
+
+11.
+
+xxx
+
+xxx
+
+xxx”
+
+It is apparent that in respect of fees for technical services
+
+tax is to be deducted at source at 5% (as it then was). It is also clear
+that the expression ―fees for technical services‖ has the same
+meaning as in Explanation 2 to clause (vii) of sub-section (1) of
+Section 9. The said Explanation 2 reads as under:Explanation 2.—For the purposes of this clause, ―fees
+for technical services‖ means any consideration
+(including any lump sum consideration) for the
+ITA Nos.1120/07& Ors
+
+Page No.11 of 21
+
+rendering of any managerial, technical or consultancy
+services (including the provision of services of
+technical or other personnel) but does not include
+consideration for any construction, assembly, mining
+or like project undertaken by the recipient or
+consideration which would be income of the recipient
+chargeable under the head ―Salaries‖.
+The aforesaid explanation makes it clear that ―fees for technical
+services‖ means any consideration (including any lump sum
+consideration) for the rendering of any ―managerial, technical or
+consultancy services‖ but does not include consideration for any
+construction, assembly, mining or like products in the country by the
+recipients or consideration which would be income of the recipients
+chargeable under the head ―salaries‖. The said definition is in two
+parts. The first part is ―means and includes‖ type of definition and
+the second part is ―does not include‖ definition. In the present
+appeals we are not concerned with the second part. The entire focus
+is on attracted to the first part and that, too, to the expression
+“consideration …. for the rendering of any managerial, technical
+for consultancy services.” It is only if the payments made by the
+respondents/assessees to MTNL/other companies in respect of
+interconnect/port access charges fall within the ambit of this
+expression that the said payments could be regarded as fees for
+technical services as contemplated under Section 194J of the said
+Act.
+
+12.
+
+In Skycell (supra), a learned single judge of the Madras
+
+High Court noted that installation and operatrion of sophisticated
+ITA Nos.1120/07& Ors
+
+Page No.12 of 21
+
+equipments with a view to earn income by allowing customers to
+avail of the benefit of the user of such equipment does not result in
+the provision of technical service to the customer for a fee. It was
+also held that technical service referred to in Explanation 2 to
+Section 9 (1) (vii) contemplated the rendering of a ―service‖ to the
+payer of the fee and that mere collection of a ―fee‖ for use of a
+standard facility provided to all those willing to pay for it did not
+amount to the fee having been received for technical services. We
+find ourselves to be in agreement with the views expressed by the
+learned single Judge of the Madras High Court in Skycell (supra).
+However, we still have to deal with the submissions made by the
+learned counsel for the Appellants/Revenue that the payments that
+were considered in the case of Skycell (supra) were those made by a
+subscriber to the cellular mobile telephone facility provider and not
+by one cellular network provider to another.
+
+For this purpose, we
+
+must examine the appeals at hand de hors the decision of the Madras
+High Court in Skycell (supra).
+
+13.
+
+We have already pointed out that the expression ―fees for
+
+technical services‖ as appearing in section 194J of the said Act has
+the same meaning as given to the expression in Explanation 2 to
+section 9 (1) (vii) of the said Act. In the said Explanation the
+expression ―fees for technical services‖ means any consideration for
+rendering of any ―managerial, technical or consultancy services‖.
+The word ―technical‖ is preceded by the word ―managerial‖ and
+ITA Nos.1120/07& Ors
+
+Page No.13 of 21
+
+succeeded by the word ―consultancy‖.
+
+Since the expression
+
+―technical services‖ is in doubt and is unclear, the rule of noscitur a
+sociis is clearly applicable. The said rule is explained in Maxwell on
+The Interpretation of Statutes (Twelfth Edition) in the following
+words:―Where two or more words which are susceptible of
+analogous meaning are coupled together, noscitur a
+sociis, they are understood to be used in their cognate
+sense. They take, as it were, their colour from each
+other, the meaning of the more general being restricted to
+a sense analogous to that of the less general.‖
+This would mean that the word ―technical‖ would take colour from
+the words ―managerial‖ and ―consultancy‖, between which it is
+sandwiched. The word ―managerial‖ has been defined in the Shorter
+Oxford English Dictionary, Fifth Edition as:―of pertaining to, or characteristic of a manager, esp. a
+professional manager of or within an organization,
+business, establishment, etc.‖
+The word ―manager‖ has been defined, inter alia, as:―a person whose office it is to manage an organization,
+business establishment, or public institution, or part of
+one; a person with the primarily executive or
+supervisory function within an organization etc; a
+person controlling the activities of a person or team in
+sports, entertainment, etc.‖
+It is, therefore, clear that a managerial service would be one which
+pertains to or has the characteristic of a manager. It is obvious that
+the expression ―manager‖ and consequently ―managerial service‖ has
+
+ITA Nos.1120/07& Ors
+
+Page No.14 of 21
+
+a definite human element attached to it. To put it bluntly, a machine
+cannot be a manager.
+
+14.
+
+Similarly, the word ―consultancy‖ has been defined in the
+
+said Dictionary as ―the work or position of a consultant; a
+department of consultants.‖ ―Consultant‖ itself has been defined,
+inter alia, as ―a person who gives professional advice or services in a
+specialized field.‖ It is obvious that the word ―consultant‖ is a
+derivative of the word ―consult‖ which entails deliberations,
+consideration, conferring with someone, conferring about or upon a
+matter. Consult has also been defined in the said Dictionary as ―ask
+advice for, seek counsel or a professional opinion from; refer to (a
+source of information); seek permission or approval from for a
+proposed action‖. It is obvious that the service of consultancy also
+necessarily entails human intervention.
+
+The consultant, who
+
+provides the consultancy service, has to be a human being.
+
+A
+
+machine cannot be regarded as a consultant.
+
+15.
+
+From the above discussion, it is apparent that both the
+
+words ―managerial‖ and ―consultancy‖ involve a human element.
+And, both, managerial service and consultancy service, are provided
+by humans. Consequently, applying the rule of noscitur a sociis, the
+word ―technical‖ as appearing in Explanation 2 to Section 9 (1) (vii)
+would also have to be construed as involving a human element. But,
+the
+
+facility
+
+ITA Nos.1120/07& Ors
+
+provided
+
+by
+
+MTNL/other
+
+companies
+
+for
+Page No.15 of 21
+
+interconnection/port access is one which is provided automatically
+by machines. It is independently provided by the use of technology
+and that too, sophisticated technology, but that does not mean that
+MTNL/other companies which provide such facilities are rendering
+any technical services as contemplated in Explanation 2 to Section 9
+(1) (vii) of the said Act. This is so because the expression ―technical
+services‖ takes colour from the expressions ―managerial services‖
+and ―consultancy services‖ which necessarily involve a human
+element or, what is now days fashionably called, human interface.
+In the facts of the present appeals, the services rendered qua
+interconnection/Port access do not involve any human interface and,
+therefore, the same cannot be regarded as ―technical services‖ as
+contemplated under Section 194J of the said Act.
+
+16.
+
+Since we have applied the rule of noscitur a sociis, it
+
+would be necessary to indicate that this rule or principle has been
+applied and accepted by the Supreme Court whenever the meaning of
+a word, which falls within a group of words, is unclear and the
+intention of the legislature is doubtful. In Godfrey Phillips India
+Ltd and Another v. State of U.P. and Others: (2005) 2 SCC 515, a
+Constitution Bench of the Supreme Court was considering the
+meaning of the word ―Luxuries‖ as appearing in Entry 62 of the List
+II of the VIIth Schedule to the Constitution which empowers the State
+Legislature to make laws with respect to ―taxes on luxuries including
+taxes on entertainment, amusement, betting and gambling.‖ The
+ITA Nos.1120/07& Ors
+
+Page No.16 of 21
+
+Supreme Court was of the view that the general meaning of ―luxury‖
+had been explained or clarified and must be understood in a sense
+analogous to that of the less general words such as ―entertainment‖,
+―amusements‖, ―gambling‖ and ―betting‖, which were clubbed with
+it. The Supreme Court, employing the said principle of noscitur a
+sociis, noted that this principle of interpretation had received the
+approval of the Supreme Court in an earlier decision in Rainbow
+Steels Ltd. v. CST: (1981) 2 SCC 141. The Supreme Court also
+noted that earlier, indiscriminate application of this rule was doubted
+in the case of The State of Bombay v. The Hospital Mazdoor
+Sabha: AIR 1960 SC 610. However, after referring to the said
+decision (Hospital Mazdoor Sabha), the Supreme Court in Godfrey
+Phillips India Ltd (supra) observed that they did not read the said
+decision as excluding the application of the principle of noscitur a
+sociis to the case before them inasmuch as it had been amply
+demonstrated that the word ―luxury‖ in Entry 62 was doubtful and
+had been defined and construed in different senses. The Supreme
+Court further observed as under:―81. We are aware that the maxim of noscitur a sociis
+may be a treacherous one unless the “societas” to which
+the “socii” belong, are known. The risk may be present
+when there is no other factor except contiguity to
+suggest the “societas”. But where there is, as here, a
+term of wide denotation which is not free from
+ambiguity, the addition of the words such as ―including‖
+is sufficiently indicative of the societas. As we have
+said, the word ―includes‖ in the present context
+indicates a commonality or shared features or attributes
+of the including word with the included.‖
+
+ITA Nos.1120/07& Ors
+
+Page No.17 of 21
+
+17.
+
+In the appeals before us it is obvious that the meaning of
+
+the expression ―technical services‖ by itself, is far from clear. It is
+also clear that the word ―technical‖ has been used in the ―society‖ of
+the words ―managerial‖ and ―consultancy‖. In such a situation, the
+rule would clearly apply and, therefore, the expression ―technical
+services‖ would have to take colour from the expressions
+―managerial services‖ and ―consultancy services.‖
+
+18.
+
+To conclude the discussion on the application of the rule
+
+of noscitur a sociis, we think that a reference to the Supreme Court
+decision in the case of Stonecraft Enterprises v. Commissioner of
+Income Tax: (1999) 3 SCC 343 would be apposite. In that case the
+Supreme Court was required to interpret the provisions of Section
+80-HHC (2) (b) of the said Act relating to assessment years 1985-86,
+1987-88 and 1988-89. In the said sub-section (2) (b) of Section 80HHC, it was provided that the Section did not apply to the following
+goods or merchandise, namely:(i) mineral oil; and
+(ii) minerals and ores.
+The question that arose before the Supreme Court was whether
+granite fell within the meaning of the word ―minerals‖.
+
+The
+
+contention of the assessee before the Supreme Court was that while
+Granite was a mineral in the general sense, it was not a mineral for
+the purposes of Section 80-HHC and, therefore, the deduction
+provided for therein was available to the assessee who was in the
+ITA Nos.1120/07& Ors
+
+Page No.18 of 21
+
+business of exporting granite.
+
+The Supreme Court noted the
+
+arguments of the learned counsel for the assessee based upon the
+doctrine of noscitur a sociis that the word ―minerals‖ in Section 80HHC should be read in the context of the words ―ores‖ which it was
+associated with and must draw colour therefrom. It was submitted
+that the word ―minerals‖ must be read as referring only to such
+minerals as are extracted from ores and not others.
+
+While the
+
+Supreme Court agreed that the doctrine of noscitur a sociis was
+applicable, it held that the word ―minerals‖, in sub-section (2) (b) of
+Section 80-HHC must be read in the context of both ―mineral oil‖
+and ―ores‖ and not just ―ores‖. The Supreme Court held that these
+three words taken together are intended to encompass all that may be
+extracted from the earth. Consequently, the Supreme Court held that
+all minerals extracted from the earth, granite included, must,
+therefore, be held to be covered by the provisions of sub-section (2)
+(b) of Section 80-HHC, and the exporter thereof was, therefore,
+disentitled to the benefit of that section.
+
+19.
+
+From this decision, it is apparent that the Supreme Court
+
+employed the doctrine of noscitur a sociis and held that the word
+―minerals‖ took colour from the words ―mineral oil which preceded
+it and the word ―ores‖ which succeeded it. A somewhat similar
+situation has arisen in the present appeals where the word ―technical‖
+is preceded by the word ―managerial‖ and succeeded by the word
+―consultancy‖. Therefore, the word ―technical‖ has to take colour
+ITA Nos.1120/07& Ors
+
+Page No.19 of 21
+
+from the word ―managerial‖ and ―consultancy‖ and the three words
+taken together are intended to apply to those services which involve
+a human element. This concludes our discussion on the applicability
+of the principle of noscitur a sociis.
+
+20.
+
+Before concluding we would also like to point out that the
+
+interconnect/port access facility is only a facility to use the gateway
+and the network of MTNL/other companies.
+
+MTNL or other
+
+companies do not provide any assistance or aid or help to the
+respondents/assessees in managing, operating, setting up their
+infrastructure
+
+and
+
+networks.
+
+No
+
+doubt,
+
+the
+
+facility
+
+of
+
+interconnection and port access provided by MTNL/other companies
+is `technical‘ in the sense that it involves sophisticated technology.
+The facility may even be construed as a `service‘ in the broader sense
+such as a `communication service‘. But, when we are required to
+interpret the expression `technical service‘, the individual meaning
+of the words `technical‘ and `service‘ have to be shed. And, only
+the meaning of the whole expression `technical services‘ has to be
+seen.
+
+Moreover, the expression `technical service‘ is not to be
+
+construed in the abstract and general sense but in the narrower sense
+as circumscribed by the expressions `managerial service‘ and
+`consultancy service‘ as appearing in Explanation 2 to section 9 (1)
+(vii) of the said Act.
+
+Considered in this light, the expression
+
+`technical service‘ would have reference to only technical service
+
+ITA Nos.1120/07& Ors
+
+Page No.20 of 21
+
+rendered by a human. It would not include any service provided by
+machines or robots.
+
+21.
+
+Thus, it is clear, whether we follow the line of reasoning
+
+taken in Skycell (supra) or not, the result is the same.
+
+The
+
+interconnect charges/port access charges cannot be regarded as fees
+for technical services.
+
+Consequently, both the questions are
+
+answered against the Revenue and in favour of the assesses.
+The appeals are dismissed. The parties are left to bear
+their own costs.
+BADAR DURREZ AHMED
+(JUDGE)
+
+RAJIV SHAKHDHER
+(JUDGE)
+October 31, 2008
+J
+
+ITA Nos.1120/07& Ors
+
+Page No.21 of 21
+
+

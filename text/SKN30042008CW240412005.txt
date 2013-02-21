@@ -1,0 +1,637 @@
+WPC 24041 of 2005
+
+Page No.1
+
+REPORTABLE
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+WRIT PETITION (C) NO. 24041/ 2005
+
+%
+
+April 30th , 2008.
+
+Date of Decision :
+….
+
+VINOD KUMAR JAIN
+
+Petitioner.
+
+Through Mr. Arvind Sah, Advocate.
+VERSUS
+BSES RAJDHANI POWER LIMITED
+
+….
+
+Respondent.
+
+Through Mr. Amit Kapur, Mr. Apoorva Misra and Mr.
+Mohit Jolly, Advocates.
+CORAM:
+HON'BLE MR. JUSTICE SANJIV KHANNA
+1. Whether Reporters of local papers may be
+allowed to see the judgment?
+2. To be referred to the Reporter or not ?
+3. Whether the judgment should be reported
+in the Digest ?
+SANJIV KHANNA, J:
+
+1.
+
+The petitioner Mr. Vinod Kumar Jain has filed this writ petition,
+
+which involves interpretation of Rule 57 of the Electricity Rules, 1956
+as to when an electricity meter can be regarded as defective.
+2.
+
+The respondents in their counter affidavit to the writ petition did
+
+not raise any objection as to maintainability of the writ petition on the
+
+WPC 24041 of 2005
+
+Page No.2
+
+ground of alternative remedy under Section 42(5) of the Electricity
+Act, 2003, being available to the petitioner but during the course of
+arguments an objection to this effect was raised. However, I am not
+inclined to entertain the said objection at this belated stage as the writ
+petition was filed in 2005. Moreover, alternative remedy is not an
+absolute bar and a Writ Court has discretion, whether or not to
+entertain the Writ or relegate the parties to take recourse to
+alternative remedy. As legal interpretation of Rule 57 of the Electricity
+Rules, 1956 arises for consideration, I do not think it will be
+appropriate to dismiss the writ petitions on the ground of alternative
+remedy and at this belated stage relegate the parties and force them
+to go before the Grievance Forum and Ombudsman and thereafter
+approach this Court.
+3.
+
+Rule 57 of the Indian Electricity Rules 1956, reads as under:“57. Meters, maximum demand indicators
+and other apparatus on consumer’s
+premises.- (1) Any meter or maximum
+demand indicator or other apparatus placed
+upon a consumer’s premises in accordance
+with section 26 shall be of appropriate
+capacity and shall be deemed to be correct if
+its limits of error are within the limits specified
+in the relevant Indian Standard Specification
+and where no such specification exists, the
+limits of error do not exceed 3 per cent above
+or below absolute accuracy at all loads in
+excess of one tenth of full load and up to full
+load:
+[Provided that for extra high voltage
+consumers the limit of error shall be + 1 per
+cent.]
+
+WPC 24041 of 2005
+
+Page No.3
+
+(2) No meter shall register at no load.
+(3) Every supplier shall provide and maintain
+in proper condition such suitable apparatus as
+may be prescribed or approved by the
+Inspector for the examination, testing and
+regulation of meters used or intended to be
+used in connection with the supply of energy:
+Provided that the supplier may with the
+approval of the Inspector and shall, if required
+by the Inspector, enter into a joint
+arrangement with any other supplier for the
+purpose aforesaid.
+(4) Every supplier shall examine, test and
+regulate all meters, maximum demand
+indicators
+and
+other
+apparatus
+for
+ascertaining the amount of energy supplied
+before their first installation at the consumer’s
+premises and at such other intervals as may
+be directed by the State Government in this
+behalf.
+(5) Every supplier shall maintain a register of
+meters showing the date of the last test, the
+error recorded at the time of the test, the limit
+of accuracy after adjustment and final test, the
+date of installation, withdrawal, reinstallation,
+etc., for the examination of the Inspector or his
+authorized representative.
+[(6) Where the supplier has failed to examine,
+test and regulate the meters and keep records
+thereof as aforesaid, the Inspector may cause
+such meters to be tested and sealed at the
+cost of the owner of the meters in case these
+are found defective.]”
+
+4.
+
+Rule 57(1) stipulates in plain and simple words that a meter
+
+shall be placed upon a consumer’s premises for recording
+consumption of electricity and shall be deemed to be correct, if the
+limit of error is within the limits as specified under the relevant Indian
+
+WPC 24041 of 2005
+
+Page No.4
+
+Standard Specification and if no such specification exists, the limits of
+error should not exceed 3% (or 1% in case of high voltage
+consumers) above or below absolute accuracy at all loads in excess
+of 1/10th of the full load. The first part of the aforesaid Rule states
+that a meter would be deemed to be correct, if the errors are within
+the specified limits as are fixed by Indian Standard Specifications.
+Where Indian Standard Specifications have not fixed limits of error,
+then the error should not exceed 3% or 1% above or below absolute
+accuracy. 3% or 1% error formula does not apply, when limits of
+error are fixed and specified under the relevant Indian Standard
+Specification.
+5.
+
+The petitioner submits that at his request the meter installed at
+
+his premises at 47/3, Jonapur, Vindhyachal Farms, Mehrauli, Delhi
+was inspected on 9th November, 2005 and the inspection showed that
+the meter was running fast by 2.82%. This is obviously within 3%
+limit as stipulated in second part of Rule 57. It is the case of the
+petitioner that first part of Rule 57 is applicable as Indian Standard
+Specifications have fixed limits of error for electricity meters recording
+consumption. Per contra, the case of the respondent is that Indian
+Standard Specifications fixed by Bureau of Indian Standards under
+ET 13 and subsequent amendments are not applicable. ET 13 or IS
+13779/1999 is not applicable as the said specifications and limits of
+error cannot be applied to actual field conditions and as they do not
+
+WPC 24041 of 2005
+
+Page No.5
+
+take into consideration reference values at site which may be
+different from the parameters on the basis of which limit of error has
+been fixed by Bureau of Indian Standards.
+6.
+
+Rule 57(1) as quoted above does not draw any distinction
+
+between field standards or standards fixed under ideal testing
+conditions. Rule 57(1) stipulates that where Indian Standard
+Specifications have been fixed, a meter will be deemed to be correct
+if it is within the limits of error fixed by Indian Standard Specifications.
+It is not for the Court to modify, amend or rewrite the relevant Rule.
+The Rule is plain, clear and unequivocal. There is no ambiguity which
+requires any other interpretation to be given. Once Indian Standard
+Specifications are fixed, a meter will be deemed to be correct if it
+meets the parameters fixed. Error beyond the parameters fixed will
+mean that the meter is defective. 3% or 1% Rule will apply only if no
+parameters
+
+or
+
+Specifications.
+
+specifications
+
+are
+
+fixed
+
+by
+
+Indian
+
+Standard
+
+The second part of Rule 57, therefore, does not
+
+apply, when specifications, error limits are fixed by Bureau of Indian
+Standards. It is, therefore, not possible to accept the contention of
+the respondent-Distcom that even if Bureau of Indian Standards has
+fixed specifications-error limits, 3% or 1% formula will continue to
+apply.
+7.
+
+I have also examined the contention of the respondent that IS
+
+13779, which was introduced in the year 1999, and standards fixed
+
+WPC 24041 of 2005
+
+Page No.6
+
+therein cannot be applied to the actual field conditions and is
+applicable in case of laboratory tests. The respondent-Distcom relies
+upon minutes of the meeting held on 1st September, 2005 in which
+members of the respondent-Distcom and the other private Distcoms
+including meter manufacturers were present. The Additional Director
+General requested discussion on the following three points:
+a. The applicable limits of errors for meters in field condition.
+b. The validity of calibration of a meter
+c. Guidelines on calibration of meters once the meter is calibrated.
+
+8.
+
+The stand taken by the respondent-distcom was that the
+
+behavior of the meters in the field depends upon varying conditions of
+influenced quantities acting together including neutral, proper
+connections of the phases etc. BSES had taken a stand that the
+meters when tested in the field tend to have positive errors because
+of factors such as voltage and frequency being lower than the
+reference values and temperature being higher than the reference
+temperature. This admission made by the BSES is recorded in the
+minute dated 1st September, 2005. The relevant portion of the minute
+reads as under:
+“It was informed by member from BSES that
+meters which are tested in field tend to have
+positive errors because of factors such as
+voltage and frequency being lower than the
+reference values and temperature being
+higher than the reference temperature.”
+
+WPC 24041 of 2005
+
+9.
+
+Page No.7
+
+There is clear admission in the said statement that meters in
+
+field conditions show positive errors. This is also fortified by the report
+submitted by Public Grievance Cell dated 21st August, 2007 in which
+it was pointed out that out of 243 meters tested by them, 218 meters
+were found showing excess consumption and only 25 meters were
+found showing less consumption. It appears that the Chairman
+presiding over the meeting dated 1st September, 2005 agreed with
+the views expressed by BSES by stating that the limits of error
+specified in the Indian Standards are valid under ideal conditions and
+do not give true picture of the effect of several influence quantities on
+the meters at a given time, which is the case when
+
+meters are
+
+installed and tested in the field. It was, in fact, stated by him that no
+international standard has been specified for testing of meters in field
+conditions.
+
+The said observation recorded by the Chairman is
+
+contrary to the statement made on behalf of North Delhi Power
+Limited, who had opined that testing of energy meters in field
+conditions is already covered by the existing Indian standards. He
+made specific reference to table 17 of IS 13779. It would be pertinent
+to quote the relevant portion of the minutes of the meeting for the
+sake of clarity; the said portion runs as under:
+“Shri S.P. Naphade of NDPL opined that
+accuracy of energy meters in field conditions is
+already covered in the existing Indian
+Standards. He quoted Table 17 of IS 13779
+which gives limit of variation of error under
+different influence quantities and also specifies
+
+WPC 24041 of 2005
+
+Page No.8
+
+the positive limits of error below 0.7 of
+reference voltage. The Chairman clarified that
+the limits of errors specified in the Indian
+Standards are valid under reference conditions
+and do not give the true picture of the effect of
+several influence quantities on the meter at a
+given time, which is the case when meters are
+installed and tested in field. He clarified the
+distinction between error and uncertainty and
+emphasized that no international standard has
+specified errors for testing in field conditions.”
+10.
+
+I have made reference to the various viewpoints expressed by
+
+the different participants representing stakeholders, as they appear in
+the minutes of the meeting dated 1st September 2005. However, the
+minutes of the meeting dated 1st September, 2005 cannot be a
+determining factor as far as Rule 57(1) is concerned. Rule 57(1) in
+simple words stipulates that once the limits of error are specified
+under the Indian Standards Specifications, the same will be used as a
+bench mark for determining whether a meter is correct or defective.
+Opinions expressed cannot be used for interpreting a Rule or even
+the specification fixed, for which the specification itself has to be
+referred to. Minutes of meeting dated 1st September, 2005 is an
+internal document incorporating views expressed by different and
+divergent persons.
+11.
+
+I have examined IS 13779/1999, a copy of which has been
+
+placed on record by the respondent-Distcom. The foreword to the
+said Rules states that the draft was finalized by the Equipment for
+Electrical Measurement and Load Control Sectional Committee and
+
+WPC 24041 of 2005
+
+Page No.9
+
+the same was approved by the Electrotechnical Division Council.
+The standard was first published in 1993 and had been updated
+when it was adopted in 1999. Thus, the standards approved by IS
+13779 were laid down after proper scrutiny and examination by a
+qualified committee which finalized the draft and it was approved by a
+Division Council. It had undergone detailed scrutiny and examination
+at the hands of experts before it was accepted. The specifications
+cannot be altered, amended or changed without following the
+prescribed procedure and examination by experts. The fourth
+paragraph of the foreword to IS 13779 reads as under:“The test levels as specified in this standard
+are regarded as minimum values to guarantee
+the proper function of the meter under normal
+working conditions. For special applications
+other test levels might be necessary and have
+to be fixed between the user and the
+manufacturer.”
+12.
+
+Thus, the Expert Committee and the Division Council had
+
+finalized and formulated the standards. The test levels were specified
+to ensure that the minimum prescribed parameters are met under the
+normal working conditions. The Expert Committee and the Council
+was aware of the normal conditions including the relevant factors
+which influence and affect performance. The values fixed were corelatable to proper functioning of a meter under normal working
+conditions. Clause 3.5.5 fixes the Class Index and stipulates that
+meter is to be tested under reference conditions including permitted
+
+WPC 24041 of 2005
+
+Page No.10
+
+tolerance on reference values as defined in the standard itself.
+Clause 3.6 defines influence quantities and the term reference
+conditions. The Bureau was conscious of the fact that there may be
+variation of errors due to influence quantities and operating
+conditions.
+
+The requirements specify that the meter shall be
+
+designed and constructed in a way to avoid error beyond prescribed
+limits in use under normal conditions and to ensure protection against
+solid objects, dust and water. “Normal conditions”, obviously has
+reference to actual field conditions and not to “ideal” or “laboratory
+conditions”. A meter casing should be such that any non-permanent
+deformation cannot affect the satisfactory operation of the meter
+(Clause 6.2).
+
+A meter is also required to be insulated to have
+
+resistance against penetration of dust and water and have resistance
+to heat and fire. Clause 9.4 stipulates that under normal conditions of
+use, electrical circuits and insulation should not reach a temperature
+which might adversely affect the operation of the meter. Temperature
+rise at any point on the external surface of the meter should not
+exceed 20K with an ambient temperature of 45 degree Celsius.
+Table 15 specifies percentage of error limits.
+
+Clause 12.10
+
+prescribes test for accuracy requirements. Tables 23 and 24 deal
+with voltage and current balance and the percentage of error which
+are acceptable. The said tables read as under:-
+
+WPC 24041 of 2005
+
+Page No.11
+
+“Table 23 Voltage and Current Balance
+(Clauses 12.10.1 and 12.11)
+Sl. No.
+
+Polyphase Meters
+
+(1)
+
+(2)
+
+i)
+
+Class of Meters
+(3)
+
+Each of voltages between line and + 1%
+neutral or between any two lines
+shall not differ from the average
+corresponding voltage by more than
+Each of the currents in the current + 2%
+circuit shall not differ from the
+average current by more than
+
+ii)
+
+iii)
+
+The phase displacements of each of 2 deg
+these
+currents
+from
+the
+corresponding
+line-to-neutral
+voltage, irrespective of the power
+factor, shall not differ from each
+other by more than
+
+(4)
++ 1%
+
++ 2%
+
+2 deg
+
+Table 24 Reference Conditions
+(Clause 12.10.1)
+Sl. No.
+(1)
+i)
+
+Influence
+Quantity
+(2)
+
+ii)
+
+Ambient
+temperature
+(see Note I)
+Voltage
+
+iii)
+
+Frequency
+
+iv)
+
+Waveform
+
+Reference Value
+(3)
+
+Permissible
+Tolerances
+(4)
+
+Reference temperature
++ 2 Degree
+or in its absence 27
+Celsius
+Degree Celsius
+Reference voltage (see
++ 1 percent
+Note 3)
+Reference frequency
++ 0.3 percent
+(see Note 3)
+Sinusoidal voltage and Distortion
+current
+factor less
+than 2
+
+WPC 24041 of 2005
+
+percent
+Magnetic
+Magnetic induction
+Induction
+induction
+of equal to zero (see Note value which
+external origin 4)
+causes a
+at
+the
+variation of
+reference
+error not
+frequency
+greater than
+0.2 per cent
+(class I) and
+0.3 per cent
+(class 2) but
+in any case
+should not be
+greater than
+0.05mT (see
+Note 2)
+
+v)
+
+13.
+
+Page No.12
+
+A bare perusal of table 24 shows that while fixing specifications,
+
+the bureau was conscious that ambient temperature, voltage
+frequency wherefrom magnetic induction can vary and, therefore,
+permissible tolerances have been indicated in column 4. In these
+circumstances, it cannot be held that the specifications fixed in IS
+13779 are not for field specifications. The specifications fixed are for
+normal working conditions with permissible tolerances as indicated in
+table 24.
+
+Clauses 12.11 and 12.16 of IS 13779 provide for
+
+parameters to be taken into consideration and the variation that may
+be caused by one influence quantity. Adjustments can also be made.
+The relevant clauses are as under:“12.16 Limits of Error and Interpretation of
+Test Results
+a) Limits of error as specified in 11.1 shall be
+verified.
+
+WPC 24041 of 2005
+
+Page No.13
+
+b) Certain test results may fall outside the limits
+indicted in Tables 15 and 16. Owing to
+uncertainties of measurements and other
+parameters capable of influencing the
+measurements.
+However, if by one
+displacement of the zero line parallel to itself
+by no more than the limits indicated in Table
+25, all the test result are brought within the
+limits indicated in Tables 15 and 16, the meter
+type shall be considered acceptable.
+c) If the tests are made at a temperature other
+than the reference temperature, including
+permissible tolerances, the results shall be
+corrected by applying the appropriate
+temperature coefficient of the meter.”
+14. The test of accuracy is also required to be carried out by meter
+testing equipment of requisite accuracy clause as laid down in
+IS12346.
+
+I may notice here that the respondents in their counter
+
+affidavit have pointed out that another test was done on 27th
+December, 2005. The said test report indicated that the same meter
+which was earlier inspected on 3rd October, 2005 and had shown
+inaccuracy level of +2.81% had jumped to inaccuracy level of
++25.64%. The said test on 27th December, 2005 was done by officers
+of the Respondent-Distcom. There is huge variation between the two
+test reports, which is a cause of concern.
+15.
+
+In view of the findings given above, the Writ Petition is partly
+
+allowed to the limited extent that it is held that the IS 13779/1999 as
+amended up-to-date is applicable for determining whether a meter is
+defective under Rule 57 of the Electricity Rules, 1956.The said
+specification forms the
+
+benchmark
+
+to
+
+decide
+
+whether
+
+WPC 24041 of 2005
+
+Page No.14
+
+or not a meter is defective. It appears that the test report dated 3rd
+October, 2005, did not take the said parameters into consideration
+and is accordingly contrary to the Rules. However, it is not possible
+for this Court to give any specific finding whether parameters and
+specifications as fixed by IS 13779/1999 were met and the meter was
+defective or was not defective, at the time of the inspection on 3rd
+October, 2005. I may also notice here that on 27th December, 2005
+as per the meter testing report, the meter in question was found to be
+running fast by 25.64%, which is admittedly excessive and beyond
+the prescribed limit. The said meter was thereafter replaced. To do
+substantial justice between the parties, it is directed that the
+respondents will pass a speaking order after hearing the petitioner on
+the basis of new meter, which was installed after 27th December 2005
+for the period 16th July, 2004 onwards till the new meter was fixed.
+The question whether the petitioner is entitled to any benefit in view
+of inspection report dated 27th December, 2005 is left open as this is
+not a subject matter of the cause mentioned in the petition and was
+not urged by the petitioner.
+The writ petition is accordingly disposed of. No costs.
+
+(SANJIV KHANNA)
+JUDGE
+APRIL
+VKR/P
+
+30, 2008
+
+

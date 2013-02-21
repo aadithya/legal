@@ -1,0 +1,292 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+Orders reserved: 4th October, 2007
+Date of decision: 12th October, 2007
+
++
+
+ITA No. 84 of 2005
+M/S KASHMIR ARTS
+..... Appellant
+Through Mr. Gyan Prakash, Advocate.
+Versus
+COMMISSIONER OF INCOME TAX VII
+..... Respondent
+Through Ms. P.L. Bansal, Advocate.
+CORAM:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE DR. JUSTICE S. MURALIDHAR
+1. Whether Reporters of local papers may be allowed
+to see the judgment?
+Yes
+2. To be referred to the Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported in Digest? Yes
+
+: Dr. S. Muralidhar, J.
+
+1.1
+
+This appeal under Section 260 A of the Income Tax Act, 1961 ('Act') is
+
+directed against the order dated 7th October, 2004 passed by the Income Tax
+Appellate Tribunal ('Tribunal'), Delhi Bench “G”, New Delhi in M.A.
+No.159/Del/2004 in ITA No.3523/Del/1997. By the said impugned order the
+Tribunal dismissed the application filed by the Appellant before it under
+Section 254(2) of the Act seeking rectification of its order dated 30 th
+September, 2003 by which it dismissed the Assessee’s appeal.
+1.2 It requires to be noticed that the Appellant had challenged the main order
+dated 30th September, 2003 passed by the Tribunal dismissing ITA No.
+3523/Del/1997, in ITA No.34 of 2005. However, on 18th February, 2005 the
+
+ITA No. 84 of 2005
+
+page 1 of 8
+
+appellant withdrew the ITA No. 34 of 2005 and accordingly this Court
+dismissed the said appeal as withdrawn on that date. Further this Court framed
+the following question of law for consideration in the present appeal :
+“Whether the Income Tax Appellate Tribunal was
+correct in law in holding that the assessee is entitled to
+reduce interest paid by it from the interest received by it,
+while calculating deduction under Section 80-HHC (3A)
+read with Explanation (baa) of the Income Tax Act,
+1961?”
+Upon perusing the orders in the present matter and hearing submissions of
+counsel, we find that the question ought to be re-formulated in the following
+manner:
+“Whether the Income Tax Appellate Tribunal was
+justified in declining to entertain the rectification
+application and consequently the Assessee's contention
+that it is entitled to reduce the interest paid by it from the
+interest received by it, while calculating deduction under
+Section 80-HHC (3A) read with Explanation (baa) of the
+Income Tax Act, 1961?”
+2.
+
+The facts relevant for the present appeal are that for the Assessment Year
+
+1993-94 the Assessee, which is in the business of exporting carpets, filed a
+return on 12th October, 1993 showing an income of Rs.12,04,030/-. Later on 3rd
+September, 1995 the Assessee filed a revised return disclosing an income of
+Rs.12,82,976/-. The case was processed by the Assessing Officer ('AO') under
+Section 143 (1) (a) of the Act.
+
+3.
+
+While the assessment proceedings were in progress, the Assessee by its
+
+letter dated 19th September, 1995 claimed deduction of Rs.3,62,76,246/(revised) under Section 80HHC of the Act. In addition, the Appellant furnished
+an explanation that it had deducted 10% of the receipts amounting to
+
+ITA No. 84 of 2005
+
+page 2 of 8
+
+Rs.50,48,648/- from the total indirect cost while calculating the said deduction.
+
+4.
+
+The AO held that the Assessee's claim for a deduction of 10% of the
+
+receipts from the total indirect cost was not correct and disallowed the same.
+The AO further took the view that the Assessee had debited a sum of
+Rs.4,03,422/- to the Profit & Loss Account ('P&L Account') as interest on
+Fixed Deposit Receipts ('FDRs'). The details produced revealed that the
+Assessee had paid a sum of Rs.12,54,280/- as interest to the bank on the credit
+facilities enjoyed by it and received a sum of Rs.8,50,858/- as interest on FDRs
+kept as margin money with the bank. After ‘netting’ the interest earned against
+the interest paid, the difference was debited by the Assessee to the P&L
+account. The AO held that that the interest paid and the interest received were
+two separate transactions. Since the Assessee had utilised the loans from the
+bank for business purpose and the same not having used for making fixed
+deposits, there was no correlation between the loan taken by the Assessee from
+the bank and the fixed deposits kept with the bank. Accordingly the AO
+directed that the amount of Rs.8,50,858/- constituting the interest received on
+FDRs should be deducted from the profits and gains of the business in terms of
+Explanation (baa) (1) to sub Section (4A) of Section 80HHC.
+
+5.
+
+Aggrieved by the order of the AO, the Assessee filed an appeal before
+
+the Commissioner of Income Tax (Appeals) ['CIT(A)']. The CIT(A) by his
+order dated 18th March, 1997 held that “since interest was paid and received
+from the same bank, the net amount of the two transactions has to be
+considered while computing business income under Section 28 to 44.”
+
+ITA No. 84 of 2005
+
+page 3 of 8
+
+6.
+
+The Revenue then filed an appeal to the Tribunal. By an order dated
+
+30th September, 2003 the Tribunal followed the dictum of the Kerala High
+Court in K.Ravindranathan Nair v. CIT 262 ITR 669 where in similar
+circumstances it was found that “the interest from short-term deposits received
+by the appellant was not the direct result of any export of any goods or
+merchandise” and that “the interest income received on the short term deposit
+though it could be attributed to the export business could not be treated as
+income derived from the export business.” Accordingly the appeal filed by the
+Revenue was allowed.
+
+7.
+
+After the decision of the Special Bench of the Tribunal in Lalsons
+
+Enterprises v. Deputy CIT (2004) 89 ITD 25 (Del) [SB], the assessee filed an
+application before the Tribunal under Section 254 (2) of the Act for
+rectification stating that it was entitled to netting of interest in terms of that
+decision. By its order dated 7th October, 2004 the Tribunal dismissed the
+application on the ground that the judgment in Lalsons Enterprises had been
+rendered after the decision dated 30th September 2003 of the Tribunal in the
+Assessee’s appeal and that therefore this did not constitute a ground for
+rectification.
+
+8.
+
+The learned counsel for the Assessee submitted that in view of the
+
+judgments of this Court in Commissioner of Income Tax v. Shri Ram Honda
+Power Equip [2007] 289 ITR 475 (Del) and CIT v. Punjab Stainless Steel
+Ind. [2007] 162 Taxman 9 (Del) the Assessee is bound to succeed. Since
+according to him the AO had held that the interest income was business
+ITA No. 84 of 2005
+
+page 4 of 8
+
+income, netting had to follow.
+
+9.
+
+We are unable to accept the submission made on behalf of the Assessee.
+
+We find that the decision of the Special Bench of the Tribunal in Lalsons
+Enterprises as explained and modified by this Court in Shri Ram Honda
+Power Equip does not help the Assessee at all. We may recall what was said in
+the said decision (ITR, p.506):
+“....we entirely agree with the following formulation of the Special
+Bench of the Tribunal in Lalsons (ITD, p. 62):
+“If the interest received is found to have a nexus with the
+business, still it remains to be excluded from the profits of
+the business by virtue of Explanation (baa) (1), but the
+claim is that the quantum of such interest income to be
+excluded must be determined in accordance with the
+computation provisions relating to business by allowing
+expenditure by way of interest which bears a nexus with
+the interest receipt. The computation provisions include
+Section 37 (1) under which any expenditure incurred or
+laid wholly and exclusively for the purpose of the
+business is to be allowed as a deduction. Therefore, any
+expenditure incurred which has a connection or nexus
+with the interest receipt has to be allowed as a deduction
+and only the balance can be excluded from business
+profits.”
+To the above, we may add a few lines by way of clarification. It will
+bear examination whether obtaining the loan and paying interest
+thereon (laying out the expenditure by way of interest) was “wholly
+and exclusively” for the purpose of earning the interest on the fixed
+deposit, to draw an analogy from Section 37. This nexus will have
+to be shown by the assessee for application of the netting
+
+ITA No. 84 of 2005
+
+page 5 of 8
+
+principle.” (emphasis supplied)
+This Court in Shriram Honda Power Equip further concluded (ITR, p.509):
+“(i) to (iii) xxxxxxxx
+(iv) Where surplus funds are parked with the bank and interest is
+earned thereon it can only be categorised as income from other
+sources. This receipt merits separate treatment under section 56 of
+the Act which is outside the singe of profits and gains from business
+and profession.
+
+It goes entirely out of the reckoning for the
+
+purposes of section 80HHC.
+(v) Interest earned on fixed deposits for the purposes of availing of
+credit facilities from the bank, does not have an immediate nexus
+with the export business and therefore has to necessarily be treated
+as income from other sources and not business income.
+(vi) and (vii)xxxxxxx
+(viii) The word ‘interest’ in clause (baa) of the Explanation connotes
+‘net interest’ and not ‘gross interest’. Therefore, in deducting such
+interest, the AO will take into account the net interest i.e. gross
+interest as reduced by expenditure incurred for earning such interest.
+The decision of the Special Bench of the ITAT in Lalsons to this
+effect is affirmed. In holding as above, we differ from the judgments
+of the Punjab & Haryana High Court in Rani Paliwal and the
+Madras High Court in Chinnapandi and affirm the ruling of the
+Special Bench of the ITAT in Lalsons.
+(ix) Where, as a result of the computation of profits and gains of
+business and profession, the AO treats the interest receipt as
+business income, then deduction should be permissible, in terms of
+Explanation (baa) of the net interest i.e. the gross interest less the
+expenditure incurred for the purposes of earning such interest. The
+nexus between obtaining the loan and paying interest thereon
+(laying out the expenditure by way of interest) for the purpose of
+earning the interest on the fixed deposit, to draw an analogy from
+Section 37, will require to be shown by the assessee for application
+ITA No. 84 of 2005
+
+page 6 of 8
+
+of the netting principle.”
+
+It may be recalled that this Court in fact followed the line of reasoning adopted
+by the Kerala High Court in K.Ravindranathan Nair.
+
+10.
+
+Turning to the case on hand, the first question is whether the interest
+
+earned by the Assessee on FDRs kept with the Bank for the purpose of margin
+money as a condition for availing credit facilities could be termed as business
+income? If the answer to this is in the affirmative the second question is
+whether netting is to be permitted? For the second question to be answered in
+the affirmative, the assessee will have to show that there is a nexus between the
+interest paid on the credit facilities availed from the Bank and the interest
+earned on the FDRs kept with the Bank. Nowhere in the Assessment Order has
+the AO found that the interest earned by the Assessee was business income.
+Therefore the first question stands answered against the Assessee in view of the
+categorical pronouncement in Shriram Honda Power Equip that interest
+earned on FDRs kept for availing credit facilities is not business income but
+‘income from other sources.’ The decision in Punjab Stainless Steel Ind.
+where the AO had held the interest income to be business income and which
+finding was not challenged is therefore of no assistance to the Assessee. Also,
+in view of the finding by the AO in the instant case that there is no nexus
+between the interest paid and the interest earned by the Assessee, the second
+question will also have to be answered against the Assessee.
+
+11.
+
+In view of the above discussion, the question of law as re-framed by us
+
+ITA No. 84 of 2005
+
+page 7 of 8
+
+in Para 1.2 above is answered in the affirmative, that is, against the Assessee
+and in favour of the Revenue.
+
+12.
+
+The appeal is dismissed.
+
+S. MURALIDHAR, J
+
+MADAN B. LOKUR, J
+OCTOBER 12, 2007
+dn
+
+ITA No. 84 of 2005
+
+page 8 of 8
+
+

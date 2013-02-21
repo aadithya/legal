@@ -1,0 +1,448 @@
+REPORTABLE
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+*
+
++
+
+Arb.P.No.471/2006
+
+#TVC India Pvt.Ltd.
+
+..... Petitioner
+
+!
+
+Through: Mr.Ajay Verma, Advocate
+Versus
+
+$ABN Amro Bank N.V
+.....Respondent
+Through: Mr.Samrat Nigam, Advocate
+
+^
+
+CORAM:* HON'BLE MR. JUSTICE S.N. AGGARWAL
+1.
+2.
+3.
+
+Whether reporters of Local paper may be allowed to
+see the judgment?
+To be referred to the reporter or not?
+Whether the judgment should be reported in the
+Digest?
+
+S.N.AGGARWAL, J (ORAL)
+*1.
+
+The petitioner has filed this petition against the
+
+respondent seeking appointment of an Arbitrator under Section
+11(6) of the Arbitration & Conciliation Act, 1996.
+2.
+
+Briefly stated the facts of the case are as follows:
+
+3.
+
+The
+
+petitioner
+
+is
+
+engaged
+
+in
+
+the
+
+business
+
+of
+
+establishing, maintaining and operating the closed users group
+domestic 64 kbps Network via INSAT satellite system using VSATs
+(Very Small Aperture Terminals) throughout India. The parties
+entered into an agreement dated 17.5.1999 whereby the
+petitioner
+
+agreed
+
+to
+
+provide
+
+the
+
+agreed
+
+services
+
+to
+
+the
+
+respondent at its various sites in India using the equipment
+Arb.P.No.471/2006
+
+Page 1 of 8
+
+leased to respondent on the basis of the terms and conditions
+contained in the agreement. The said agreement executed
+between
+
+the
+
+parties
+
+contained
+
+an
+
+arbitration
+
+clause
+
+for
+
+adjudication of dispute that may arise between the parties under
+the contract through arbitration. Clause 9.3 is the relevant clause
+in the agreement which provide for dispute resolution mechanism
+agreed upon between the parties and the same is extracted
+below:
+“9.3 Dispute Resolution
+9.3.1 All disputes arising directly under the
+express terms of this Agreement or grounds for
+termination thereof shall be resolved as follows
+a)
+The nominated representatives of both
+parties shall meet to attempt to resolve such
+disputes. If disputes cannot be resolved by the
+nominated representatives, either party may
+make a written demand for formal dispute
+resolution. Within thirty (30) days after such
+written notification, the parties agree to meet for
+one day with an impartial mediator and consider
+dispute resolution alternatives other than by way
+of arbitration.
+b)
+If an alternative method of dispute resolution
+is not agreed upon within thirty (30) days after the
+one day mediation, either party may begin
+arbitration proceedings.
+9.3.2 Any disputes submitted for arbitration in
+accordance with the provisions of sub-clause 9.3.1
+hereinabove shall be settled within a period of two
+(2) months from the date of submissions of such
+disputes. Arbitration shall be in accordance with
+the provisions of the Arbitration and Conciliation
+Act, 1996.
+9.3.3 The Courts of Delhi shall have jurisdiction
+for the purposes of the implementation of any
+arbitral award given under the provisions of this
+clause 9.3.2.
+9.3.4 The decision of the arbitrator under subclause 9.3.2 shall be final, binding and
+incontestable and may be used as a basis for
+judgment thereon.
+9.3.5 No party shall be entitled to commence or
+Arb.P.No.471/2006
+
+Page 2 of 8
+
+maintain any action in court of law upon any
+matter in dispute until such matter shall have
+been submitted and determined as hereinabove
+before provided and then only for the
+enforcement of the amount found due on such
+arbitration.
+9.3.6 Pending the submission to arbitration and
+thereafter until the Arbitrator publishes his award,
+the parties shall, except in the event of
+termination, continue to perform all their
+obligations under this Agreement without
+prejudice to a final adjustment in accordance with
+the said award. Provided that in the event of
+termination of this Agreement, Telestra V-Comm
+will be entitled to forthwith possess or repossess
+the Equipment owned by Telestra V-Comm,
+notwithstanding the continuance or otherwise of
+the any arbitration or other proceeding. Similarly,
+Subscriber will be entitled to refund of advance
+fee paid for the balance period from the date of
+termination arising out of any of the reasons as
+contained in 5.4 above, notwithstanding the
+continuance or otherwise of any arbitration or any
+other proceeding.”
+4.
+
+Certain disputes and differences are alleged to have
+
+arisen between the parties under the above-referred agreement.
+The petitioner in terms of Clause 9.3 of the agreement, vide its
+letter dated 25.9.2003 had nominated its representative to
+resolve the dispute and also called upon the respondent to
+nominate its representative for the said purpose. However, the
+respondent failed to nominate its representative and, therefore,
+the petitioner vide its letter dated 27.3.2004 made a written
+demand on the respondent for formal dispute resolution by
+nominating Justice K. Ramamoorthy (a former Judge of this Court)
+
+Arb.P.No.471/2006
+
+Page 3 of 8
+
+as an impartial mediator. The respondent vide its letter dated
+12.4.2004 agreed to the appointment of Justice Ramamoorthy as
+a mediator in terms of Clause 9.3 of the agreement. The
+proceedings before the Mediator continued till 30.6.2006 when
+the respondent allegedly withdrew itself from the mediation
+proceedings. Thereafter, the petitioner vide its letter dated
+17.8.2006 called upon the respondent to inform which alternative
+method of dispute resolution it was agreeable to so that the
+same could be considered. It was further clarified that in the
+event respondent fail to do so, the petitioner would be
+constrained
+
+to
+
+initiate
+
+appropriate
+
+proceedings
+
+under
+
+the
+
+contract. Since the respondent did not respond to the petitioner's
+letter dated 17.8.2006, the petitioner filed the present petition
+seeking appointment of an Arbitrator in terms of arbitration
+agreement between the parties on 13.11.2006.
+5.
+
+Mr.Nigam appearing on behalf of the respondent has
+
+raised a preliminary objection to the maintainability of the
+present petition on the ground of limitation. Mr.Nigam has
+contended that the contract between the parties was terminated
+by
+
+the
+
+respondent
+
+on
+
+30.11.2002
+
+to
+
+be
+
+effective
+
+from
+
+31.12.2002. Mr.Nigam has contended that the cause of action in
+favour of the petitioner for demanding arbitration arose on the
+date when the contract was terminated on 30.11.2002. According
+
+Arb.P.No.471/2006
+
+Page 4 of 8
+
+to Mr.Nigam, provisions of Article 137 of the Limitation Act are
+applicable to the present case and according to him, this petition
+could have been filed by the petitioner within three years to be
+reckoned from 30.11.2002. It is contended that since the present
+petition was filed by the petitioner beyond three years reckoned
+from 30.11.2002, the present petition is liable to be dismissed as
+barred by limitation.
+6.
+
+Upon hearing the learned counsel for the parties and
+
+on perusal of the relevant documents, this Court could not
+persuade itself to agree with the contentions on the point of
+limitation urged on behalf of the respondent. A perusal of Clause
+9.3 of the agreement extracted above would show that the
+parties had agreed for an inbuilt dispute resolution mechanism
+while they had entered into the contract in question. This inbuilt
+dispute resolution mechanism provided in the contract refers for
+resolution
+
+of
+
+dispute
+
+in
+
+the
+
+first
+
+instance
+
+through
+
+the
+
+representatives to be nominated by both the parties and
+thereafter in case it was not possible for the representatives of
+the parties to resolve the dispute, the aggrieved party could
+demand appointment of a mediator for one day mediation which
+was agreed to be appointed within thirty days of such demand.
+Further perusal of Clause 9.3 would show that no time limit was
+fixed in the said clause for demanding appointment of a mediator
+
+Arb.P.No.471/2006
+
+Page 5 of 8
+
+for one day mediation. What was provided in Clause 9.3 is that
+the mediator for one day mediation was to be appointed within
+thirty days of such demand being made by the aggrieved party.
+In the present case Hon'ble Mr.Justice K. Ramamoorthy (a former
+Judge of this Court) was appointed as a mediator with the
+consent of both the parties. However, instead of one day
+mediation
+
+agreed
+
+by
+
+the
+
+parties
+
+in
+
+the
+
+agreement,
+
+the
+
+proceedings before the mediator went on for about two years
+when the respondent admittedly withdrew itself from the
+mediation proceedings on 30.6.2006. It shall be significant to
+mention that the respondent acquiesced itself in the mediation
+proceedings by continuing in the mediation proceedings till
+30.6.2006. It was only after the mediation failed or could not
+work, the petitioner
+
+has
+
+to
+
+file
+
+the present petition
+
+for
+
+appointment of an Arbitrator for resolving the dispute that have
+arisen between the parties under the contract. In the opinion of
+this Court the cause of action for appointment of Arbitrator has
+arisen in favour of the petitioner when the mediation did not work
+out as a result of withdrawal by the respondent on 30.6.2006. In
+case the limitation for filing of the present petition is reckoned
+from the said date of 30.6.2006, the present petition filed by the
+petitioner on 13.11.2006 cannot be said to be beyond limitation
+prescribed in Article 137 of the Limitation Act.
+
+Arb.P.No.471/2006
+
+Page 6 of 8
+
+7.
+
+In Hari Shamkar Singhania & Ors. vs. Gaur Hari
+
+Singhania & Ors. reported as (2006) 4 SCC 658 the Hon'ble
+Supreme Court has held in Para 24 of the said judgment as under
+:“Where a settlement with or without conciliation is
+not possible, then comes the stage of adjudication
+by way of arbitration. Article 137, as construed in
+this sense, then as long as parties are in dialogue
+and even the differences would have surfaced it
+cannot be asserted that a limitation under Article
+137 has commenced. Such an interpretation will
+compel the parties to resort to litigation/arbitration
+even where there is serious hope of the parties
+themselves resolving the issues.”
+8.
+
+The above-referred judgment of the Hon'ble Supreme
+
+Court lend support to the view of this Court that the cause of
+action for seeking appointment of an Arbitrator arose to the
+petitioner only when the disputes could not be resolved through
+mediation or other alternative dispute resolution mechanism
+provided in the agreement. Hence, this Court does not find any
+merit in the contention on the point of limitation urged on behalf
+of the respondent.
+9.
+very
+
+Mr.Nigam appearing on behalf of the respondent has
+fairly
+
+submitted
+
+that
+
+all
+
+contentions
+
+raised
+
+by
+
+the
+
+respondent on merits of the case may be examined by the
+Arbitrator to be appointed by the Court. The existence of
+arbitration agreement and the dispute under the contract
+
+Arb.P.No.471/2006
+
+Page 7 of 8
+
+between the parties is not denied by the counsel appearing on
+behalf of the respondent.
+10.
+
+In view of the above and having regard to the facts
+
+and circumstances of the case and the submissions made by the
+learned counsel for the parties, Hon'ble Mr.Justice Satpal, a
+former Judge of this Court (SFS, 53, DDA Flats, East Mukherjee
+Nagar, Delhi-9; 27653129, 27654302) is hereby appointed as the
+sole Arbitrator to decide the disputes and differences between
+the parties that have arisen between them under the contract in
+question. The fees of the learned Arbitrator, to be shared initially
+by both the parties equally, is left to be decided by the learned
+Arbitrator himself. The parties are directed to appear before the
+learned Arbitrator for further directions at 5.00 pm on 14.3.2008.
+11.
+
+A copy of this order be sent to the learned Arbitrator
+
+for information forthwith.
+
+February 13, 2008
+mb
+
+Arb.P.No.471/2006
+
+S.N.AGGARWAL
+[JUDGE]
+
+Page 8 of 8
+
+

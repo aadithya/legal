@@ -1,0 +1,886 @@
+*
+
+THE HIGH COURT OF DELHI AT NEW DELHI
+Date of Decision: 11th April, 2008
+
++
+
+W.P.(C) 1133/2008
+M/S ACTECH INFORMATION SYSTEMS LTD. .... Petitioner
+Through
+Mr. Sunil Kumar, Sr. Adv. with
+Mr. Jitendra Kumar Jha, Adv.
+versus
+UOI & ORS
+Through
+
+..... Respondents
+Mr. Rajeeve Mehra, Adv.with
+Ms. Divya Chaturvedi, Adv.
+
+CORAM:
+HON'BLE MR. JUSTICE T.S. THAKUR
+HON'BLE MS. JUSTICE ARUNA SURESH
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment?
+
+Yes
+
+2.
+
+To be referred to the Reporter or not?
+
+Yes
+
+3.
+
+Whether the judgment should be reported in the Digest? Yes
+
+Per Thakur, J :
+Judicial
+
+review
+
+of
+
+administrative
+
+decisions
+
+is
+
+limited
+
+to
+
+examining whether the decision making process is vitiated by any
+illegality, procedural irregularity or perversity. The Court does not sit
+in appeal over the decision so long as the process leading to the same
+is found to be satisfactory and free from anyone of the infirmities
+mentioned above.
+
+In cases where the decision making process
+
+involves technical expertise, the scope of review gets further reduced.
+That is because the courts are not equipped with the expertise
+necessary to sit in judgment over the decisions taken by experts. The
+process of review shows deference to the opinions of the experts. The
+legal position on the subject is settled by a long line of decisions
+rendered by the Supreme Court to which we shall presently refer, but
+before we do so, we need to briefly set out the facts in the backdrop
+
+WP(C) 1133/2008
+
+page 1 of 11
+
+whereof the petitioner challenges the rejection of the technical bid
+offered by it for a certain scientific equipment being purchased by the
+respondents. What is however significant and may be stated at the
+threshold is that the rejection of the petitioner's technical bid is based
+entirely on the opinion of the experts according to whom the
+equipment offered by the petitioner did not satisfy the technical
+requirements stipulated in the request for proposal (RFP for short).
+The petitioner however contends that the said rejection was unfair
+inasmuch as while the Experts Committee had granted an opportunity
+to other bidders to make up the deficiencies in the equipment offered
+by them, no such opportunity was given to the petitioner.
+
+This,
+
+according to the petitioner, led to discrimination between parties that
+were similarly circumstanced and hence entitled to similar treatment.
+The respondents deny that allegation and urge that the evaluation of
+the
+
+technical
+
+bids
+
+submitted
+
+by
+
+the
+
+intending
+
+suppliers
+
+was
+
+undertaken by an Expert Committee which had adopted an objective
+standard that was applied uniformly to all the bidders. Inasmuch as
+the Committee had found that the petitioner's bid was not technically
+compliant on account of the “Data Logger” offered by it being not up
+to the required specifications, it committed no mistake leave alone an
+error bordering on perversity to warrant interference by this Court. It
+is also contended that the “Data Logger” offered by the petitioner was
+upon a proper evaluation, found to be unacceptable in terms of the
+requirements of the RFP which fact was admitted even by the
+petitioner in a communication dated 27th December, 2007 addressed
+after the technical evaluation of the bid whereby it had offered to
+remove the deficiencies in the machines it was selling. That belated
+offer was not however acceptable to the respondents who were
+proceeding under a time schedule for the supplies in question. In the
+circumstances, the rejection of the bid on the ground of nonWP(C) 1133/2008
+
+page 2 of 11
+
+compliance of the essential requirements of the RFP could not be
+described as illegal, irregular or in any way perverse. Time now to
+state a few facts.
+2.
+
+Indian Meteorological Department (IMD for short) is operating a
+
+network of 125 Automatic Weather Stations (AWS for short) under
+what is described as Pseudo Random Burst Sequence (PRBS),
+technique of transmission through the Data Relay Transponder (DRT)
+of Kalpana-I satellite. These AWS are also compatible to INSAT series
+of satellites.
+
+In PRBS mode of transmission, satellite Data Relay
+
+Transponder (DRT) has a capacity to accommodate only 400 AWS in
+the present carrier slot of 402.75 Mhz. This carrier is, according to
+the Government, being utilized by various users like the Government
+of Andhra Pradesh, Central Water Commission (CWC), Snow and
+Avalanche Studies Establishment (SASE) including IMD is already
+saturated.
+
+No additional allocation is said to be possible to this
+
+system. In order however to accommodate more number of AWS, the
+respondents proposed to switch over to what is described as Time
+Division Multiple Access (TDMA) type of transmission technique. This
+switch over is possible in view of the current scientific and technical
+developments in the field of operational forecasting which most of the
+developed countries have adopted.
+
+The Government therefore
+
+appears to have taken a decision to utilize this new technique for all
+future AWS to facilitate installation and data reception from more
+number of AWS. A modernization plan for commissioning of 550 AWS
+has accordingly been drawn up by the Government based on a
+feasibility report prepared by the IMD.
+3.
+
+With the approval of the above project by the Government, a
+
+request for proposal (RFP) document was prepared and issued for
+procurement of the equipment for the automatic weather stations and
+one TDMA type data receiving earth station. A global tender enquiry
+WP(C) 1133/2008
+
+page 3 of 11
+
+was accordingly floated in July, 2007 which stipulated 20th September,
+2007 as the cut off date for submission of the bids. A pre-bid meeting
+was then conducted in IMD, New Delhi on 21st August, 2007 with the
+suppliers of AWS equipments to provide clarifications to their queries
+on the IMD Request For Proposal document. Information regarding
+the meeting was provided even in the IMD website. In response to
+the global tender enquiry, as many as 11 firms submitted their bids
+including the petitioner herein.
+
+These bids were then submitted to
+
+the Technical Evaluation Committee (TEC) drawn by the Director
+General of Meteorology comprising eminent scientists and experts
+mostly in the fields of atmospheric sciences and instrumentation from
+different
+
+organizations
+
+Establishment,
+
+like
+
+Chandigarh,
+
+Snow
+
+and
+
+Ministry
+
+of
+
+Avalanche
+Defence,
+
+Studies
+Indian
+
+and
+
+Space
+
+Research Organization and IMD representative for evaluation of the
+bids. The Committee evaluated the technical bids received from the
+bidders and came to the conclusion that four of the bidders did not
+have the requisite certification from the IMD for data logger and
+transmitter for functional operation with INSAT/Kalpana series of
+satellite. The technical bids offered by the following firms were thus
+rejected:
+(i)
+(ii)
+
+Axys Technologies India, New Delhi.
+
+(iii)
+
+Bharat Electronics Ltd., Bangalore
+
+(iv)
+4.
+
+Alpha Design Technologies, Bangalore
+
+Electronics Corporation of India Ltd., Hyderabad.
+
+Aggrieved by the rejection of its technical bid, the petitioner has
+
+filed the present writ petition challenging the rejection inter alia on
+the ground of its being arbitrary and unfair. The primary ground on
+which the petitioner has assailed the rejection of its technical bid is
+that
+
+the
+
+Technical
+
+Committee
+
+had
+
+adopted
+
+double
+
+standards
+
+inasmuch as some of the bids which were similarly found to be
+WP(C) 1133/2008
+
+page 4 of 11
+
+deficient by it were taken to the next stage of evaluation, giving to the
+bidders time to remove the deficiencies pointed out by the Committee.
+No such concession or opportunity was however given to the
+petitioner thereby exposing the petitioner to hostile treatment and
+rendering the decision to reject the bid arbitrary and discriminatory in
+nature.
+5.
+
+The respondents have appeared to contest the writ petition and
+
+filed their counter affidavits in which the entire background leading to
+the issue of the RPF has been set out. The counter affidavit inter alia
+points out that the data logger offered by the petitioner was found to
+be technically non-compliant by the TEC. It is further stated that data
+logger is the heart of an Automatic Weather Station and that the
+technical experts had found that component offered by the petitioner
+to be non-compliant with the requirements of RFP.
+
+The petitioner
+
+thus failed to satisfy an essential RFP requirement which was
+sufficient to justify the rejection of the equipment offered by it. It is
+also alleged that the IMD or the Expert Committee had not granted
+any extension to any vendor beyond the scope of RFP which is an
+exhaustive document and contains essential mandatory requirements
+apart from those that are minor condonable and non-critical in nature.
+6.
+
+Appearing for the petitioner, Mr. Sunil Kumar, made a two-fold
+
+submission before us. Firstly, it was contended by him that the RFP
+did not contain any provision for the grant of time to any bidder
+whose technical bid did not comply with the requirements stipulated
+for the equipment. Even so, the Technical Committee had given to
+three different bidders, namely, M/s Jin Yang Industrial Company Ltd.,
+M/s Instrumentation Ltd. and M/s PEC & AMSH, time to comply with
+the technical requirements stipulated for different components of the
+equipment offered by them.
+
+No such extension or concession was
+
+shown to the petitioner thereby rendering the entire process of
+WP(C) 1133/2008
+
+page 5 of 11
+
+evaluation illegal. Since the RFP binds the parties, the grant of time
+to the other three defaulting companies while denying the same
+treatment to the petitioner was, argued the learned counsel, illegal.
+Secondly, it was contended by the learned counsel that the RFP did
+not make any distinction between vital and non-vital components of
+the equipment.
+
+The attempt to classify the equipment into two
+
+categories
+
+therefore,
+
+was,
+
+unjustified
+
+and
+
+aimed
+
+at
+
+somehow
+
+supporting and sustaining the action of the respondents which was
+otherwise untenable in law.
+7.
+
+On behalf of the respondents, it was on the other hand
+
+contended by Mr.Mehra that the evaluation of the technical bids
+having been entrusted to a Committee of Experts, there was very little
+room for a writ court to interfere with the decision of the Technical
+Committee. It was further submitted that while the petitioner's bid
+was found to be non-compliant in respect of a very critical part of the
+equipment, the deficiencies noted in the equipment of other three
+bidders were not comparable to the deficiencies found in the
+petitioner's equipment. He drew our attention to the observations of
+TEC in this regard to buttress his argument that technical noncompliance qua essential equipment like data logger was totally
+different from incidental or minor deficiencies in regard to some other
+equipment which the TEC found to be remediable by the bidder
+without affecting the essence of the equipment and the underlying
+tender process.
+8.
+
+We have given our careful consideration to the submissions
+
+made at the bar and perused the record. It is common ground that
+the TEC comprised as many as seven technical experts on the subject.
+These experts have admittedly evaluated the equipment offered by the
+bidders and recorded specific reasons why the same has been found
+to
+
+be
+
+non-compliant
+
+WP(C) 1133/2008
+
+wherever
+
+such
+
+non-compliance
+
+has
+
+been
+
+page 6 of 11
+
+reported. The minutes of the TEC based on their technical evaluation
+of the equipment have been placed on record.
+
+In so far as the
+
+petitioner's bid is concerned, the TEC observed:
+“1. M/s Actech Information Systems Pvt. Ltd., New Delhi
+M/s Actech Information Systems Pvt. Ltd., is representing M/s Microcom Inc.,
+Maryland, USA and has offered to provide a turn-key solution to IMD. The firm
+is found to be technically not acceptable and the following equipments quoted
+by the firm are not complied due to the reasons stated below:
+Products quoted
+
+Reasons for non-acceptance
+
+Comments
+
+AWS : Unilog SEBA
+data logger,
+
+PCMCIA slot / SD RAM card
+slot has not been provided as
+required in Para 3.5 of RFP,
+Rs.485 to USB port is provided
+but retrieval of data/transfer of
+set-up files through the USB
+port of the data logger was not
+demonstrated (5.1.6.3 of RFP)
+
+Memory card slot is
+required
+for
+retrieval/
+transfer of set-up files from
+and to the data logger.
+Alternatively, the USB port
+shown did not support the
+requirement of IMD in
+retrieval of data/set up files.
+
+Transmitter : GTX
+1.0
+P/N DL 101
+
+The other model with all
+features claimed to be
+complied was not brought
+for demonstration and hence
+not complied.
+Facility for manual transmission
+from the Unilog data logger was Manual
+transmission
+not
+present
+and
+not facility is required in field
+demonstrated. (3.11 of RFP doc) remote sites for testing and
+troubleshooting.
+In the Unilog data logger only
+one Rs.232 port is present. Two Rs.232, 1 Rs.485 and 1
+Existing Rs.485 port is utilized USB port is required for
+as USB by conversion and hence programming
+through
+not available for other utility laptop,
+connecting
+(required as per 3.9 of RFP)
+telephone
+modem,
+interfacing remote display
+The number of analog / digital unit and transfer of set up
+channels in Unilog data logger is files.
+not
+compatible
+to
+the
+requirement (5.1.3 of RFP).
+Using an SDI-12 port and
+attaching
+an
+external
+Facility for configuration of converter (SDI to analog
+sensors from the front panel channel) is not acceptable
+display was not available since the complexity of the
+(5.1.6.4)
+system increases.
+Essentially required as per
+IMD RFP document.
+
+WP(C) 1133/2008
+
+page 7 of 11
+
+Products quoted
+
+Comments
+
+Transmitting
+Antenna : SAM GOES – 11
+
+9.
+
+Reasons for non-acceptance
+The SAM-GOES-11 antenna
+specifications provided support
+only RHCP polarization whereas
+the requirement is both LHCP
+and RHCP field switchable
+(5.2.2.1 of RFP). The axial ratio
+is not mentioned (5.2.2.7)
+3 dB beam width of 40o (5.2.2.4)
+is also not mentioned.
+
+Facility is required for
+utilisation with any type of
+satellite Kalpana / INSAT
+series with either RHCP or
+LHCP polarizations. Axial
+ratio is to be stated clearly
+to
+ensure
+polarization
+compatibility. Beam width
+is required to be known
+proper transmission of data.
+
+Learned counsel for the petitioner did not make any attempt to
+
+question the correctness of the above reasons nor was it disputed that
+the deficiencies noted by the TEC did actually exist in the equipment
+offered by it. As can be seen from a careful reading of the minutes
+extracted above, the TEC has even referred the relevant paragraphs
+in RFP while holding that the equipment offered by the petitioner
+does not satisfy the requirements stipulated therein. This position is
+made abundantly clear even by the letter dated 27th December, 2007
+addressed by the petitioner to the Director General of Meteorology in
+which the petitioner has referred to certain modifications having been
+carried out in the data logger offered by it to make the same fully
+compliant with the requirements of RFP.
+
+The following paragraph
+
+from the said letter is in this regard relevant:
+
+“We are now pleased to confirm as promised by our team during presentation
+that the modifications are carried out and data logger (100% complaint) is now
+ready with our manufacturer and will be made available, if we get opportunity to
+supply the equipments.”
+
+10.
+
+In the light of the above, there is no gainsaying that the
+
+equipment offered by the petitioner was technically non-compliant
+and was therefore liable to be rejected by the TEC who was perfectly
+within its powers to insist that the equipment should strictly comply
+with the standards stipulated for the same. The question however is
+whether grant of time to the other three bidders, namely, M/s Jin
+WP(C) 1133/2008
+
+page 8 of 11
+
+Yang, M/s Instrumentation Ltd. and M/s PEC & AMSH to remove
+certain deficiencies in IDMA earth station transmission which is
+another component of the equipment would render the process illegal
+or irregular. There are two reasons why the decision making process
+is not, in our view, vitiated on that account in the instant case. Firstly
+because in so far as the data logger is concerned, none of the three
+companies mentioned above were found to be non-compliant as was
+the position with the petitioner, nor has any time been granted to
+them to comply with the requirements of the RFP in regard to that
+equipment.
+
+It is not therefore a case where the decision making
+
+authority or an expert/agency assessing the same adopts two different
+standards while dealing with the same subject matter qua parties that
+are similarly situate. M/s Jin Yang, M/s Instrumentation and M/s PEC
+& AMSH were all found to be compliant in so far as the data logger
+was concerned.
+
+It was only the petitioner whose equipment was
+
+found to be non-compliant. Grant of time to some while denying the
+same to the petitioner would have made material difference if it
+related to data logger. It is not however the petitioner's case that any
+time was granted to any one of the three other bidders to remove the
+deficiencies in data logger. There was in fact no occasion for any one
+to do so as the Data Logger offered by the three bidders mentioned
+above were fully compliant.
+11.
+
+Secondly, because the deficiencies noticed by the TEC in
+
+relation to the earth station were not of such a critical nature as to
+render the equipment offered for the earth station transmission to be
+wholly unacceptable.
+
+The TEC has tabulated the position of the
+
+bidders in the following words:
+Major
+Systems
+Data Logger
+
+Actech
+
+Astra
+
+Not
+Complied
+
+Complied
+
+WP(C) 1133/2008
+
+Jin Yang
+Complied
+
+Instrumentation
+Complied
+
+PEC &
+AMSH
+
+Sutron
+
+Telvent
+
+Complied
+
+Complied
+
+Not
+Complied
+
+page 9 of 11
+
+Major
+Systems
+
+Actech
+
+Astra
+
+PEC &
+AMSH
+
+Sutron
+
+Telvent
+
+Transmitter
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Sensors
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Not
+Complied
+
+TDMA
+Complied
+Complied
+Earth Station DownconTransmission verter details
+provided to
+the TEC on
+1 Nov2007.
+Receiver will
+be of
+Microcom
+DAMS-NT
+make.
+
+Acquisition
+time of (0.5
+sec for 9.6
+kbps, BPSK)
+is not
+agreeable as
+per IMD
+RFP, Firm
+has provided
+an
+undertaking
+to customize
+the
+demodulator
+as per IMD
+specifications
+(within 6
+months)
+
+Demodulator
+details not
+provided.
+Had
+committed in
+the bid and
+during the
+discussions
+on 1 Nov
+2007 that it
+will be
+implemented
+within six
+months,
+through
+partnership
+with signal
+engineering,
+USA. Firm
+was asked to
+provide
+details of the
+demodulator
+to the TEC.
+But they
+have not
+responded till
+the
+completion
+of the TEC
+meeting.
+
+Technical
+Complied
+bid contains
+information
+about Lyman
+Bros., USA
+who will be
+the firm
+responsible
+for
+implementation of the
+Receiving
+Earth Station
+in association
+with llex
+Engg. USA.
+Sufficient
+details not
+provided in
+the bid but
+during the
+discussions
+on 2 Nov
+2007 the firm
+confirmed
+that
+integrated
+system will
+be provided
+within six
+months
+
+Not
+Complied
+
+Processing
+software
+
+Development in
+progress
+
+In progress
+
+Development within
+the time
+frame of
+delivery of
+equipments
+
+Development within
+the time
+frame of
+delivery of
+equipments
+
+DevelopNot
+ment in
+complied
+progress 8 to
+12 weeks for
+full
+customization
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Complied
+
+Yet to
+develop for
+IMD
+requirement
+
+Installation & Complied
+commissioning
+
+12.
+
+Jin Yang
+
+Instrumentation
+
+Complied
+
+What is evident from the above is that in so far as data logger is
+
+concerned, while the petitioner was found to be non-compliant, M/s
+Jin Yang, M/s Instrumentation and M/s PEC & AMSH were found to be
+compliant. It is also evident that deficiencies mentioned by the TEC
+related to another equipment viz; “earth station transmission” in the
+bids offered by the other three companies referred to above and not
+WP(C) 1133/2008
+
+page 10 of 11
+
+data logger.
+
+Whether or not the deficiencies noticed in the TDMA
+
+earth station transmission equipment were of critical nature is
+however a matter which the experts evaluating the equipment were
+better qualified to judge and decide. Inasmuch as the experts took
+the view that the deficiencies were not of a kind that would justify the
+rejection of the equipment in toto, the said decision cannot be readily
+found fault with. In situations involving judicial review of decisions
+that are founded on technical evaluation by experts, the courts are
+extremely slow in interfering. Reference may in this regard be made
+to the decisions of the Supreme Court in Tata Iron & Steel Co. Ltd. v.
+
+Union of India & Ors. (1996) 9 SCC 709, Union Public Service
+Commission v. Jagannath Mishra (2003) 9 SCC 237 and U.P. Public
+Service Commission v. Subhash Chandra Dixit and Others (2003) 12
+SCC 701. Respectfully
+
+following
+
+the
+
+above
+
+authoritative
+
+pronouncements, we see no reason to interfere with the decision
+taken by the Expert Committee rejecting the bid offered by the
+petitioner. That is particularly so when the view taken by the experts
+does not appear to us to be erroneous much less so outrageously
+perverse as to call for any interference in exercise of our writ
+jurisdiction.
+13.
+
+In the result, this writ petition fails and is hereby dismissed but
+
+in the circumstances without any order as to costs.
+
+T.S. THAKUR, J.
+
+ARUNA SURESH, J.
+April, 11, 2008
+pk
+
+WP(C) 1133/2008
+
+page 11 of 11
+
+

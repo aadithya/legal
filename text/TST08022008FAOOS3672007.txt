@@ -1,0 +1,427 @@
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++
+
+FAO (OS) 367/2007
+Date of Decision : 08
+
+TH
+
+FEBRUARY, 2008
+
+EUREKA FORBES LTD. & ANR.
+..... Appellants
+Through : Mr. Valmiki Mehta, Sr. Adv. with Mr.C. Mukund,
+Ms. Neeraj, Advs.
+
+versus
+HINDUSTAN UNILEVER LTD.
+..... Respondent
+Through : Mr. Sudhir Chandra, Sr. Adv. with Ms. Swathi
+Sukumar, Mr. Dhruv Anand, Advs.
+CORAM:
+HON'BLE MR. JUSTICE T.S. THAKUR
+HON'BLE MS. JUSTICE VEENA BIRBAL
+1.
+2.
+
+Whether reporters of local papers may be allowed
+to see the judgment?
+To be referred to the Reporter or not?
+
+3.
+
+Whether the judgment should be reported in the Digest? Yes
+
+Yes
+Yes
+
+Per THAKUR, J.
+
+A learned Single Judge sitting on the original side of this Court had
+declined to reject the plaint in a suit for infringement of a patent and
+dismissed the application filed by the defendant under Order VII Rule 11 of
+the Code of Civil Procedure. The present appeal assails the correctness of
+that order.
+2.
+
+The legal position as to the approach that the Courts have to adopt
+
+while dealing with applications under Order VII Rule 11 of the CPC is well
+settled by a series of judicial pronouncements including those by the Supreme
+Court. Before we refer to some of those decisions, we may extract Order VII
+Rule 11 of the CPC for ready reference. It reads :
+
+FAO(OS) 367/2007
+
+Pg. 1 of 10
+
+11. Rejection of plaint. - The plaint shall be rejected in the
+following cases:(a) where it does not disclose a cause of action;
+(b) where the relief claimed is undervalued, and the plaintiff, on
+being required by the Court to correct the valuation within a
+time to be fixed by the Court, fails to do so;
+(c) where the relief claimed is properly valued but the plaint is
+written upon paper insufficiently stamped, and the plaintiff,
+on being required by the Court to supply the requisite stamppaper within a time to be fixed by the Court, fails to do so;
+(d) where the suit appears from the statement in the plaint to be
+barred by any law;
+[Provided that the time fixed by the Court for the correction of the
+valuation or supplying of the requisite stamp-paper shall not be
+extended unless the Court, for reasons to be recorded, is satisfied
+that the plaintiff was prevented by any cause of an exceptional
+nature for correcting the valuation or supplying the requisite stamppaper, as the case may be, within the time fixed by the Court and
+that refusal to extend such time would cause grave injustice to the
+plaintiff.]
+
+3.
+
+It would appear from the above that a plaint may be rejected on anyone
+
+of the grounds enumerated under clauses (a) to (f) of Rule 11 supra which
+include the ground that the plaint does not disclose a cause of action. The
+expression “cause of action” has not been defined by the Code but judicial
+decisions have universally understood that expression to mean the bundle of
+facts which the plaintiff must prove in order to obtain the reliefs prayed for in
+the suit. Whether or not the plaint discloses a cause of action would depend
+upon whether the averments made in the plaint if proved at the trial would
+entitle the plaintiff to the relief prayed for by him. What is noteworthy is
+that the Court has for purposes of answering that question to presume the
+avernments in the plaint to be factually correct. It is only if no relief can at
+all be given to the plaintiff even if the avernments are taken as admitted that
+the Court may declare that the plaint does not disclose any cause of action.
+We at at this stage refer to a few decisions on the subject before proceeding
+further.
+4.
+
+In Vijai Pratap v. Dukh Haran Nath AIR 1962 SC 941, the Court was
+
+dealing with a petition under Order 33 of the CPC, Rule 5(d) whereof
+FAO(OS) 367/2007
+
+Pg. 2 of 10
+
+empowers the Court to decline permission to sue as an indigent person if the
+petition does not show a cause of action. Their Lordships held that while
+applying Order 33 Rule 5(d), the Court does not have to see whether the claim
+made by the petitioner is likely to succeed. It has simply to see whether the
+petitioner would be entitled to the reliefs prayed if the averments made in the
+plaint are all taken to be true. The Court observed :
+“By the express terms of r.5, cl.(d), the court is concerned to
+ascertain whether the allegations made in the petition show a cause
+of action. The court has not to see whether the claim made by the
+petitioner is likely to succeed; it has merely to satisfy itself that the
+allegations would entitle the petitioner to the relief he claims. If
+accepting those allegations as true no case is made out for granting
+relief no cause of action would be shown & the petition must be
+rejected. But in ascertaining whether the petition shows a cause of
+action the court does not enter upon a trial of the issues affecting
+the merits of the claim made by the petitioner. It cannot take into
+consideration the defences which the defendant may raise upon the
+merits; nor is the court competent to make an elaborate enquiry
+into doubtful or complicated questions of law or fact. If the
+allegations in the petition, prima facie, show a cause of action,
+whether the allegations are true in fact, or whether the petitioner
+will succeed in the claims made by him. By the Statute, the
+jurisdiction of the Court is restricted to ascertaining whether on the
+allegations a cause of action is shown: the jurisdiction does not
+extend to trial of issues which must fairly be left for decision at the
+hearing of the suit.”
+
+5.
+
+To the same effect is the decision of the Supreme Court in D.
+
+Ramachandran v. R.N. Janakiraman & Ors. (1999) 3 SCC 267 where the
+Court held that in a preliminary objection based on Order VII Rule 11 of the
+CPC, the averments made in the petition have to be assumed to be true. The
+Court has then to see whether the said averments disclose a cause of action or
+triable issue.
+6.
+
+In Liverpool & London S.P. & I. Assn. Ltd. v. M.V. Sea Success I (2004)
+
+9 SCC 512, the Court reviewed the case law on the subject and declared that
+in ascertaining whether the plaint shows a cause of action, a Court is not
+required to make an elaborate enquiry into the doubtful or complicated
+questions of law or fact. The Court observed:
+FAO(OS) 367/2007
+
+Pg. 3 of 10
+
+“146. It may be true that Order 7 Rule 11(a) although authorises
+the court to reject a plaint on failure on the part of the plaintiff to
+disclose a cause of action but the same would not mean that the
+averments made therein or a document upon which reliance has
+been placed although discloses a cause of action, the plaint would
+be rejected on the ground that such averments are not sufficient to
+prove the facts stated therein for the purpose of obtaining reliefs
+claimed in the suit. The approach adopted by the High Court, in
+this behalf, in our opinion, is not correct.
+XXXXX
+XXXXX
+XXXXX
+151. In ascertaining whether the plaint shows a cause of action, the
+court is not required to make an elaborate enquiry into doubtful or
+complicated questions of law or fact. By the statute the jurisdiction
+of the court is restricted....”
+152. So long as the claim discloses some cause of action or raises
+some questions fit to be decided by a judge, the mere fact that the
+case is weak and not likely to succeed is no ground for striking it
+out. The purported failure of the pleadings to disclose a cause of
+action is distinct from the absence of full particulars.”
+
+7.
+
+There is in the light of the above authoritative pronouncements, no
+
+gainsaying that in an application seeking rejection of the plaint under Order
+VII Rule 11 of the CPC, the Court examines the matter only on a prima facie
+basis. It does not embark upon a detailed examination of the merits of the
+case set up by the plaintiff or the defendant. It assumes the averments in the
+plaint to be true and then examines whether the relief prayed for can still be
+declined to the plaintiff. It is only when the answer to that question is in the
+affirmative on an ex-facie basis that the Court may consider the plaint to be
+disclosing any cause of action and not otherwise. Complicated issues of fact
+and law are the strength or weakness of the cases of the parties are matters
+that the Court would not go into at the stage of examining a preliminary
+objection or a prayer for rejection of the plaint under Order VII Rule 11 of the
+CPC.
+8.
+
+Let us now examine the present case in the above background. The
+
+FAO(OS) 367/2007
+
+Pg. 4 of 10
+
+plaintiff's case, as set out in the plaint, is that it is engaged in the
+manufacture of various kinds of soaps, detergents, cleaning preparations,
+beverages etc. and has diversified in various other fields and areas of
+technology such as the field of water purification system and appliances. It
+claims to have built up a dedicated research team of R&D in the area of water
+purification system and has developed several technologies relating to such
+systems.
+
+It claims to have developed and invented a gravity fed water
+
+purification system after extensive study and research and development
+involving substantial investment. This system is, according to the plaintiff,
+an ideal solution to pure drinking water problems as the same delivers
+filtered drinking water with a high degree of microbiological purity. In para
+4, the plaintiff claims to have filed an application for a patent in India in
+June, 2002 which was notified for opposition purposes in May, 2005. Since no
+opposition was entered by any third party, the patent office proceeded to
+grant a patent for the said invention under Patent No. 198316 which
+continues to be subsisting. Copies of the patent specification and the grant
+certificate have also been enclosed with the plaint.
+9.
+
+In para 5 of the plaint, the plaintiff refers to an international
+
+application made under No. PCT/EP03/05468 published on 31st December,
+2003. In the said application, the European Patent Office was elected as the
+Searching Office. The plaintiff's case is that the search report issued by the
+European Patent Office dated 29th August, 2003 and the International
+Preliminary Examination Report dated 16th September, 2004 did not indicate
+any prior art that would affect novelty or inventive steps which are the
+crucial ingredients for the grant of a patent. The plaintiff also claims to have
+made applications for the same invention in Australia, Canada and Brazil
+FAO(OS) 367/2007
+
+Pg. 5 of 10
+
+which are under process. The plaint sets out the claims of the plaintiff's
+patent and the unique features which it has in ensuring effective purification
+of water by killing the micro organism in the same. The plaintiff claims to
+have invested Rs.50 crores in the research, development, manufacture,
+marketing and other activities leading to the launch of its invented product.
+The commercial manufacture and marketing of the gravity fed water
+purifying system is sold under the brand name 'Pureit'. Copies of some of the
+invoices evidencing the sales between April, 2004 to October, 2005 have also
+been enclosed. The plaintiff also claims to have promoted by advertising the
+said product extensively in newspapers and by circulation of promotional
+material.
+
+The plaint then alleges infringement of the patent by the
+
+defendants who have around September, 2004 launched a new storage water
+purifier under the name “Forbes Aquasure”. The plaint draws a comparison
+of the components of the two products and alleges that the product of the
+defendant falls squarely within the claims of the plaintiff's patent No.
+198316.
+
+The plaintiff on that basis alleges infringement of its patent
+
+claiming exclusive right to prevent third parties from using, offering for sale,
+selling or importing for those purposes a patented product in India. Para 14
+of the plaint is in this regard relevant :
+14. In the light of the above facts, it is apparent that the
+Defendants product “Forbes Aquasure” directly infringes the
+substance of the Plaintiff's patent claims. As a patentee, the
+plaintiff has the exclusive right to prevent third parties, who
+without his consent, make, use, offer for sale, sell or import for
+those purposes that product in India. The Defendants have clearly
+and blatantly infringed the Plaintiff's patent no. 198316, by making,
+using, offering for sale and selling, for the purposes of water
+purification, the Plaintiff's patented product.”
+
+10.
+
+The plaintiff further alleges that the defendants have in a brochure
+
+issued by them claimed that they used a patented bio-stat carbon block. A
+FAO(OS) 367/2007
+
+Pg. 6 of 10
+
+search through patent gazettes and journals did not disclose to the plaintiff
+any such patented bio-stat carbon block. The plaintiff however appears to
+have traced a patent application filed in the name of Defendant No.3 in
+respect of an alleged invention entitled “A water purification cartridge and a
+gravity fed water filter involving the same”. The said application is said to
+have been made after the plaintiff's patent application was published, to
+which the plaintiff appears to have filed its pre-grant opposition.
+
+The
+
+plaintiff was then informed by the patent office in September, 2005 that a
+patent had already been granted in favour of the defendant under No. 195421
+dated March 29, 2004. The plaintiff then filed a post grant opposition which
+is pending.
+
+In para 22 of the plaint, the plaintiff claims that the patent
+
+granted in favour of the defendant stands revoked although the Patent Office
+appears to have extended in favour of the defendant time for filing a reply
+and evidence before the competent authority.
+
+The plaintiff in the above
+
+backdrop alleges that the acts of the defendant are blatantly malafide so as to
+entitle the plaintiff relief by way of injunction. Para 24 of the plaint reads :
+“24. The acts of the Defendants are blatantly mala fide. The
+Plaintiff states that the Plaintiff's said application No.
+539/MUM/2002 was published on or about December 31, 2003 and
+the entire application was laid open to the public and the
+Defendants have made their product and their patent virtually
+identical to the Plaintiff's patent. Further the Defendants have been
+involved in the business of making water filters, and obviously
+have knowledge of the Plaintiff's patent. The Defendants acts
+clearly amount to dishonest adoption of the Plaintiff's invention, as
+demonstrated by their patent claim as well as their product.”
+
+11.
+
+It is evident from the averments made in the plaint which shall have to
+
+be assumed to be correct that the plaintiff has pleaded the requisite facts as
+also alleged violation of its rights under the patent granted in its favour by
+the defendants. If the plaintiff company does have a patent in its favour
+
+FAO(OS) 367/2007
+
+Pg. 7 of 10
+
+which fact is admitted even by the defendant appellant before us, the
+question whether the defendant appellant is committing any infringement of
+the said patent would give rise to a triable issue, no matter the defendant
+appellant may in its defence claim the right to manufacture its water
+purifying apparatus by reference to the patent granted in its favour.
+Whether or not the two designs are similar and if so, whether the grant of a
+patent in favour of the defendant would entitle it to use the said design for
+manufacture and marketing of its product are serious questions of fact and
+law that would require adjudication by the Court trying the suit. The learned
+Single Judge has examined, at some length, the nature of the right which a
+patentee has in regard to its patent and come to the conclusion that the right
+of a patentee is an exclusionary right. The Court has in that regard placed
+reliance upon the following passage appearing in “Patents For Chemicals,
+Pharmaceuticals and Bio Technology” (IV Edition) by Phillip W. Grubb :
+“Exclusionary Right
+It is important to realise that the rights given by the patent do not
+include the right to practice the invention, but only to exclude
+others from doing so. The patentee's freedom to use his own
+invention may be limited by legislation or regulations having
+nothing to do with patents, or by the existence of other patents. For
+example, owning a patent for a new drug clearly does not give the
+right to market the drug without permission from the responsible
+health authorities, nor does it give the right to infringe an earlier
+existing patent. In the very common situation where A has a patent
+for a basic invention and B later obtains a patent for an
+improvement to this invention, then B is not free to use his
+invention without the permission of A, and A cannot use the
+improved version without coming to terms with B. A patent is not
+a seal of government approval, nor a permit to carry out the
+invention. We very often hear 'This patent allows Company X' to
+do something or other. It does not, it only allows them to stop
+someone else from doing it. The right to prevent others from
+carrying out the invention claimed in a patent may be enforced in
+the courts; if the patent is valid any infringed the court can order the
+infringer to stop his activities, as well as providing other remedies
+such as damages.”
+12.
+
+The Court has also examined whether action for infringement of patent
+
+FAO(OS) 367/2007
+
+Pg. 8 of 10
+
+can lie against another patentee and held that such an action is not
+forbidden. The Court has discussed the true scope of Section 107, 107A and
+108 of the Patents Act and come to the conclusion that there was a
+fundamental difference between Designs Act, 1911 and the Patents Act
+inasmuch as claims under a patent with an earlier priority date have specific
+protection against any claim for patent having a later priority date. The
+Court has on that interpretation repelled the contention urged on behalf of
+the appellant that no suit was maintainable against another patent and that
+the plaint in the instant case was liable to be rejected for want of disclosure of
+cause of action.
+13.
+
+We do not think that it is necessary for us in this appeal to examine
+
+those aspects at length. As held by the Supreme Court in Liverpool's case
+(supra), the Court while dealing with an application under Order VII Rule 11
+is not required to make an elaborate enquiry into debatable, doubtful or
+complicated questions of law or fact. What is the legal effect of the grant of
+patent in favour of the defendant and how far it can entitle the defendant to
+continue the manufacture and marking of its product and whether the said
+product is at all similar in design to the one patented in favour of the plaintiff
+respondent herein are all questions that would need to be addressed at the
+trial by the Court in the course of and at the conclusion of the trial. While no
+final opinion on those aspects need be expressed by us, the fact remains that
+the plaint discloses the cause of action and raises issues of fact and law of
+considerable importance that need to be adjudicated upon by the Court.
+Having said so, we may make it clear that the opinion expressed by the
+learned Single Judge on different aspects touching the merits of the cases set
+up by both the parties shall not be treated to be the expression of a final
+FAO(OS) 367/2007
+
+Pg. 9 of 10
+
+opinion on those aspects which the Court shall be free in the ultimate
+analysis to determine at the conclusion of the trial. Beyond that, it is neither
+necessary nor proper for us to say anything lest we re-judge the issues that
+arise for consideration in the suit or prejudice the case of one or the other
+party in the same.
+
+With the above observations, this appeal fails and is
+
+hereby dismissed with costs assessed at Rs.5,000/-
+
+T.S. THAKUR
+(JUDGE)
+
+VEENA BIRBAL
+(JUDGE)
+FEBRUARY 08, 2008
+pk.
+
+FAO(OS) 367/2007
+
+Pg. 10 of 10
+
+

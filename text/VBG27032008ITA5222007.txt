@@ -1,0 +1,250 @@
+*
+
+HIGH COURT OF DELHI : NEW DELHI
+ITA No.522/2007
+
+%
+
+Judgment reserved on: 18th March, 2008
+Judgment delivered on: 27th March, 2008
+Commissioner of Income Tax
+Delhi-XVII
+Mayur Bhawan
+Connaught Circus
+New Delhi
+Through:
+
+..... Petitioner.
+Mr. R.D. Jolly, Adv.
+
+Vs.
+Sara International Ltd.
+A-31, Hauz Khaz,
+Delhi
+Through:
+
+..... Respondent
+Mr. K. Sampath, Adv.
+
+Coram:
+HON'BLE MR. JUSTICE MADAN B. LOKUR
+HON'BLE MR. JUSTICE V.B. GUPTA
+1. Whether the Reporters of local papers may
+be allowed to see the judgment?
+
+Yes
+
+2. To be referred to Reporter or not?
+
+Yes
+
+3. Whether the judgment should be reported
+in the Digest?
+
+Yes
+
+ITA No.522/2007
+
+Page 1 of 8
+
+V.B.Gupta, J.
+The Revenue has filed this appeal under Section 260A of the
+Income Tax Act, 1961 (for short as „Act‟) against the impugned order
+dated 2nd December, 2005 passed by the Income Tax Appellate
+Tribunal, Delhi Bench „A‟ in ITA T.D.S. No.212/Del/2003 for the
+assessment year 2001-02 vide which the appeal filed by the Assessee
+was allowed.
+2.
+
+Brief facts of this case are that the Assessee filed TDS return
+
+on Form No.26-C and the same was selected for scrutiny by the
+Assessing Officer. During the course of the proceedings, it was seen
+as per the details and copies of Ledger Account that the Assessee
+had shown expenses of Rs.87,27,705/- as commission under the
+head “Salary Expenses”.
+
+Out of these expenses, a sum of
+
+Rs.62,60,705/- was paid to M/s. PEC Ltd, Rs.1,64,000/- to M/s.
+Bhura Export Ltd. and Rs.23,03,000/- to M/s. Ayusa International.
+The Assessee had submitted documents as far as M/s. Bhura Export
+Ltd. and M/s. Ayusa International were concerned but no agency
+ITA No.522/2007
+
+Page 2 of 8
+
+agreement with M/s. PEC Ltd. was filed. The Assessee explained
+that commission was paid to M/s. PEC Ltd. for export of wheat.
+The Assessing Officer asked the Assessee to furnish evidence in
+support of its explanation. The Assessee filed copy of agreement
+dated 10th February, 2001.
+
+After examining the agreement,
+
+Assessing Officer came to the conclusion that the payment made by
+the Assessee was covered within the meaning of fee for technical
+services and it was not a case of payment of commission and as such
+Assessee was liable to deduct tax at source under Section 194-J of the
+Act and since the Assessee has failed to make the deduction, it was
+Assessee in default within the meaning of Section 201(1) of the Act
+and also liable to pay interest.
+3.
+
+Against the order passed by the Assessing Officer, Assessee
+
+filed an appeal before the Commissioner of Income Tax (Appeal)
+(for short as „CIT[A]‟) and the CIT(A) vide its order dated 6th
+October, 2003 upheld the order of the Assessing Officer. Against the
+order of the CIT(A), the Assessee filed an appeal before the Tribunal
+and vide the impugned order the Tribunal accepted the appeal of
+ITA No.522/2007
+
+Page 3 of 8
+
+the Assessee and set aside the orders of the lower authorities. Now,
+the Revenue is before this Court.
+4.
+
+It has been contended by learned counsel for the Revenue that
+
+the relevant clauses of the agreement clearly show that there was no
+relationship of Principal and agent between the Assessee and M/s.
+PEC Ltd. Further, no commission was received by M/s. PEC Ltd.
+and the services rendered by it were professional and technical in
+nature.
+5.
+
+On the other hand, it has been contended by learned counsel
+
+for the Assessee that the Assessee had paid commission to M/s. PEC
+Ltd. which was exempt from TDS deduction and M/s. PEC Ltd. had
+transferred a simple contract of supplies to the Assessee against the
+payment and M/s. PEC Ltd. was not rendering any kind of
+professional/technical services.
+6.
+
+Relevant clauses of the agreement dated 10th January, 2001
+
+entered between M/s. PEC Limited and the Assessee has been
+reproduced by the Tribunal in the impugned order.
+
+ITA No.522/2007
+
+Page 4 of 8
+
+7.
+
+Sec. 194H of the Act defines the expression “commission”
+
+which includes any payment received or receivable, directly or
+indirectly, by a person acting on behalf of another person for
+services rendered (not being professional services) or for any
+services in the course of buying or selling of goods or in relation to
+any transaction relating to any asset, valuable article or thing.
+8.
+
+Section 194J of the Act defines the expression „professional
+
+services‟ which mean services rendered by a person in the course of
+carrying on legal, medical, engineering or architectural profession or
+the profession of accountancy or technical consultancy or interior
+decoration or advertising or such other profession as is notified by
+the Board for the purposes of Sec. 44AA of this section.
+
+The
+
+expression „fees for technical services‟ means any consideration
+(including any lump sum consideration) for the rendering of any
+managerial, technical or consultancy services (including the
+provision of services of technical or other personnel) but does not
+include consideration for any construction, assembly, mining or like
+
+ITA No.522/2007
+
+Page 5 of 8
+
+project undertaken by the recipient or consideration which would be
+income of the recipient chargeable under the head „salaries‟.
+9.
+
+A careful reading of the terms of the agreement leaves no
+
+doubt that the services rendered by M/s. PEC Ltd. does not include
+any managerial, technical and consultancy services during the
+course of procurement and supply of goods. Although nowhere it
+mentions that the Assessee is liable to pay commission to M/s.PEC
+but the Clause 6 of the agreement clearly shows that the payment
+made to M/s. PEC is commission. A perusal of clauses clarifies that
+during the financial year, the relationship between M/s. PEC and
+Assessee was that of Principal and Agent. Clause 6 provides that
+Foreign L/C shall be transferred in favour of SIL and M/s.PEC‟s
+service charge shall be US$ 1/- PMT Nett of Bill of lading quantity.
+It is clear from the said clause that M/s. PEC had transferred its
+wheat export L/Cs in favour of the assessee for execution of the
+wheat export and M/s. PEC charged commission for the export.
+Therefore, it can be said that M/s. PEC Ltd. transferred foreign
+buyers L/Cs in favour of the assessee against commission charges.
+ITA No.522/2007
+
+Page 6 of 8
+
+10.
+
+Further, perusal of the agreement dated 10.1.01 shows that
+
+M/s. PEC Ltd. had signed a contract with foreign buyer for supply
+of wheat and the assessee agreed to assist M/s. PEC in exporting
+wheat and the M/s. PEC transferred foreign buyers‟ L/C in favour
+of the Assessee against commission charges. As per clause 1 of
+agreement, M/s. PEC was to request to M/s. FCI for release of
+Cargo from the identified FCI godowns and the assessee was to
+make direct payment to FCI towards the purchase price of wheat
+and bear all other expenses relating to shipment of wheat and
+managed the entire export.
+11.
+
+As per clause 4 of agreement, the assessee agreed that the
+
+quantity of wheat delivered by FCI for the purpose of export against
+the export contract shall be exported in full to the foreign buyer and
+will not be sold in domestic market. All important works is being
+done by the Assessee and M/s. PEC had transferred a simple
+contract of supplies to the assessee against the payment of
+commission and M/s. PEC was not rendering any kind of
+
+ITA No.522/2007
+
+Page 7 of 8
+
+professional/technical services. Thus, the provision of section 194J
+of the Act is not applicable.
+12.
+
+So it is clear that the amount paid by assessee to M/s. PEC
+
+was not towards fee for professional or technical service. Therefore,
+the provisions of Sec. 194J of the Act are not applicable to the facts of
+the present case and the assessee is not liable to deduct tax at source
+on this amount under Sec. 201 / 201(A) of the Act.
+13.
+
+Under these circumstances, we do not find any infirmity in
+
+the impugned order passed by the Tribunal and thus in our opinion
+no substantial question of law arises for consideration.
+14.
+
+The appeal filed by the Revenue is hereby dismissed.
+
+V. B. GUPTA, J.
+
+MADAN B. LOKUR, J.
+March 27, 2008
+rs
+
+ITA No.522/2007
+
+Page 8 of 8
+
+

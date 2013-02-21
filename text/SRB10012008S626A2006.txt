@@ -1,0 +1,508 @@
+F-8
+*
+
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+CS(OS) 626A/1996
+
++
+
+Reserved on : January 4, 2008
+Decided on : January 10, 2008.
+M/S. VINDHYA TELELINKS LTD.
+..... Plaintiff
+Through Mr. Vishnu Mehra, Advocate
+versus
+MAHANAGAR TELEPHONE NIGAM LIMITED
+Through
+
+..... Defendant
+
+CORAM:
+HON'BLE MR. JUSTICE S. RAVINDRA BHAT
+1.
+
+Whether reports of local papers may
+be allowed to see the judgment?
+
+Yes.
+
+2.
+
+To be referred to the Reporter or not?
+
+Yes.
+
+3.
+
+Whether the judgment should be
+reported in the Digest?
+
+Yes.
+
+MR. JUSTICE S. RAVINDRA BHAT
+
+1.
+
+This is a proceeding questioning an arbitration award,
+
+under Section 30 of the Arbitration Act, 1940 (hereafter “the Act”).
+The case appeared in the list of Final matters, for regular hearing by
+the court. When it was taken up for hearing, none appeared on behalf
+of the objector, Mahanagar Telephone Nigam Ltd (hereafter called
+“MTNL”). The case was heard, and shown in the category of “part
+heard” matters on the next date of hearing, i.e 4-1-2008. On that day
+CS(OS) 626A/1996
+
+1 of 13
+
+too, there was no appearance on behalf of MTNL. Hearing of the suit
+was, therefore, completed; the matter was reserved for orders.
+2
+
+The claimant in arbitration, ie. Vindhya Telelinks Ltd
+
+(hereafter referred to as “the claimant”) raised disputes and claimed
+that the MTNL had unjustifiably withheld amounts payable to it, in
+terms of an agreement. The reasons for withholding those sums of
+money were that MTNL alleged that the claimant short supplied
+quantities of cables. As the agreement contained an arbitration
+clause, the claimant sought recourse to it; a sole arbitrator was
+appointed by the MTNL. In the statement of claim, a sum of
+Rs.6,20,000/- was sought towards damages; the claimant also sought
+for award of interest.
+3.
+
+In the arbitration proceedings, parties led extensive
+
+documentary evidence; they also relied on oral testimony of their
+witnesses. The arbitrator held that the claimant was entitled to the
+sum of Rs.13,80,000/- with interest @ 19% p.a.; worked out to
+Rs.4,40,000/- from 7-7-1993 to 9-1-1996.
+proceeding.
+
+The claimant had filed a
+
+Suit No.721-A/1996 for filing the award, and sought
+
+future interest, during pendency of theose proceedings. The said suit
+was disposed as infructuous as the award was lodged in Court.
+4.
+
+It is alleged by the MTNL that the award has to be set
+
+CS(OS) 626A/1996
+
+2 of 13
+
+aside, as it is an unreasoned one. It is alleged that according to the
+terms of the contract between the parties, MTNL had the right to
+reject the goods within a specified period after their supply. Reliance
+has been placed on clauses 15, 16 and 21 of the agreement. It is
+alleged that the materials on record disclose that there was short
+supply and the cables were received provisionally, without prejudice
+to the right of the objector MTNL to reject them for not complying
+with the agreed terms. The MTNL has placed reliance on two joint
+inspection reports to contend that the claimant did not dispute
+shortage in supply of cables. It is alleged, in the objections that
+according to a circular governing MTNL, issued on 11-101984, drums
+containing cables whose seals were undamaged were not required to
+be opened; at the time of supply, they could be opened later. If any
+defect or deficiency were found at that stage, the MTNL’s right to
+object to the supplier was retained and preserved.
+5.
+
+MTNL relies upon the endorsements issued by it, while
+
+receiving the goods, to say that the right to conduct a quality check at
+a later stage, was reserved. The advertence to quality had to be
+understood in the context; it included shortfall in quantities. It is
+alleged that clause 15 provided for issuance of “taking over”
+certificate
+
+(of
+
+the
+
+consignment).
+
+Ten
+
+percent
+
+of
+
+the
+
+balance
+
+consideration of the goods were payable only after that document was
+CS(OS) 626A/1996
+
+3 of 13
+
+issued; in this case, however, the claimant pressed the MTNL to issue
+it, even without actual verification. As this was done, the MTNL could
+not be made to suffer a disadvantage for short supply discovered
+later. The issue of various documents even leading to full payment did
+not absolve the claimant of its obligations to supply the goods
+according to the terms of contract. They violated these. In overlooking
+these aspects, and coming to contrary conclusions, the arbitrator misconducted himself, rendering the award liable to be set aside.
+Reliance is placed on clause 16.1 of the contract to say that it contains
+a warranty that the contractor (claimant) agreed to supply the goods
+free from all defects; it should be responsible for any defects in
+hardware or software which may develop later. This condition
+discloses that the obligations of the contractor did not cease with
+supply or the payment of all amounts.
+6.
+
+It is alleged that the findings by the arbitrator that actual
+
+lengths of each drum were measured and certified by the Quality
+Assurance unit is erroneous. The unit was not entitled to check the
+quantities supplied. According to MTNL the claimant’s witness did not
+dispute that inspection of the unwound cables was done by a unit, not
+empowered to do so. Therefore, the MTNL could not be prejudiced if
+upon actual inspection, at a later date, the quantities were found to be
+short; they constituted actionable deficiency in quality, entitling it to
+CS(OS) 626A/1996
+
+4 of 13
+
+recover the amounts from other amounts payable to the claimant. It is
+alleged that the property is deemed to have passed to the consignee
+only in terms of the contract; in this case, the title to the goods
+therefore passed only after inspection. It is alleged that this aspect
+was overlooked by the arbitrator; the award is therefore vitiated and
+liable to be set aside. The award of interest too has been attacked; the
+MTNL avers, in addition that the 10% amount could have been
+retained by it to ensure performance. It is also alleged that the
+arbitrator erred in not awarding the counter claim preferred by
+MTNL, towards the excess payments illegally recovered by the
+claimant, viz. Rs. 7,48,947/- (after adjusting the sum of Rs.13,80,000/from Rs.21,28,987/- claimed as payable by the claimant).
+7.
+
+The claimant has contested the objections of MTNL. It
+
+alleges that the award cannot be challenged as a non-speaking one,
+because it is based on evidence. The MTNL had nominated its
+arbitrator, who is an expert and a high ranking retired official. It is
+alleged that the findings of fact do not show any perversity or
+misconduct of the magnitude which would empower a court to
+interfere with the award. The claimant alleges that the MTNL
+obtained delivery of the goods at all material times and issued “taking
+over” certificates. In these circumstances it could not have disputed
+the quantities after four to six months. The claimant has also averred
+CS(OS) 626A/1996
+
+5 of 13
+
+that the award does not disclose any misconduct by the arbitrator
+requiring it to be set aside. The claimant also alleges that the receipt
+of goods was not subject to any further or future verification; its
+version is that after release of 90% of payment, the MTNL issued Bill
+Copy Payable Challan along with Goods Receipt Note (GRN) which
+constituted in form and substance the “take over certificate” under
+Clause 15. The 10% balance payment was premised on this event.
+8.
+
+The claimant contests that MTNL could have sought to
+
+recover
+
+amounts,
+
+including
+
+the
+
+10%
+
+balance,
+
+after
+
+releasing
+
+payments. It is alleged that the MTNL did not intimate about any
+shortage in quantities supplied; if indeed that were the position, the
+balance payment would have been withheld.
+9.
+
+During the hearing, Mr. Vishnu Mehra, learned counsel for the
+
+claimant relied on the award and the original records. These show
+that the arbitrator was unimpressed with the assertion of MTNL that
+the claimant had sought and was given excess unjustified payments.
+The arbitrator noticed that the counter claims for these amounts were
+made only after the reference was sought; at no point did the MTNL
+ever make a claim or raise dispute in this regard from the claimant.
+Counsel contended that there was no material to support the
+objection that the TOC (taking over certificate) was issued without
+reference to the exact quantities; the MTNL could not substantiate its
+CS(OS) 626A/1996
+
+6 of 13
+
+plea that such documents were issued to the claimant, at its asking.
+Counsel also urged that the internal circulars of MTNL could not have
+been binding on the contractor; they could have been referred to only
+if incorporated in the contract, or referred to in it. It was also urged
+that once the cables were supplied, as they admittedly were, the
+MTNL had the option of recording its objections or reservations at
+that time; if these deficiencies were not made good, it could withhold
+the balance amounts. However, at every stage, the goods were
+accepted and the relevant certificates issued. In these circumstances,
+after having taken custody of the contracted goods, disputes about
+shortfall in the quantities could not have been raised. The reliance on
+clause 16.1 it was contended, was in apposite as it referred only to
+quality; during the evidence, the witness for MTNL admitted that
+there was no condition dealing with quantities.
+10.
+
+The extent and scope of a court’s power interfere with an
+
+arbitration award, under the Act is well settled. From a long line of
+decisions, starting with Union of India –vs- A.L. Ralia Ram AIR 1963
+SC 1685 down to the recent decision in Food Corporation of
+
+India –vs- Chandu Construction 2007 (4) SCC 697, it has been
+consistently held that misconduct does not merely point to moral
+lapse or perversity in findings, but also to something unreasonable
+which would fall outside the jurisdiction of the arbitrator. It has also
+CS(OS) 626A/1996
+
+7 of 13
+
+been held that the standard to be applied is irrationality, caprice,
+arbitrariness or acting beyond the terms of the agreement, while
+arriving at a finding that the award is vitiated due to misconduct of
+the arbitrator (See Bhagwati Oxygen Ltd. –vs- Hindustan Copper Ltd.
+2005(6) SCC 462; Rajasthan State Mines and Minerals Ltd. v. Eastern
+
+Engineering Enterprises and Another, (1999) 9 SCC 283). Likewise, it
+has been held (U.P. State Electricity Board v. Searsole Chemcials Ltd.
+(2001) 3 SCC 397), that where the arbitrator had applied his mind to
+the pleadings, considered the evidence adduced before him and
+passed an award, the Court cannot interfere by reappraising the
+matter as if it were an appeal.
+Another test indicated by the Supreme Court - Chandu
+
+11.
+
+Construction(supra) and Bharat Coking Coal Ltd. v. M/s. Annapurna
+Construction, (2003) 8 SCC 154,) was that where the arbitrator
+travels beyond the contract he acts in excess of jurisdiction in which
+case, the award passed by him becomes vulnerable and can be
+questioned in an appropriate Court.
+12.
+order
+
+The undisputed facts here are that the MTNL placed an
+on
+
+the
+
+claimant
+
+for
+
+supply
+
+of
+
+Armoured
+
+Jelly
+
+Filled
+
+Underground cables, on 20-12-1990. Clause 11.1 stipulated that 90%
+of the payment had to be made after the bills were passed and duly
+certified by the Assistant General Manager, Materials Management,
+CS(OS) 626A/1996
+
+8 of 13
+
+and on production of agreed documents. Clause 15 prescribed for
+what was known as the “taking over certificate” to be issued by
+MTNL, after receipt of the cable at its stores. Clause 16.1 stipulated a
+warranty that the goods were of the assured quality; Clause 16.2
+obliged the contractor to replace any item found to be deficient in any
+manner. The supplies were made to the stores of the MTNL on various
+dates, between April and June, 1991. The MTNL received the goods;
+later the taking over certificate was issued. The entire 100% payment
+was also released. In October, 1991, letters were written to the
+claimant by MTNL, alleging that the cables supplies were of lower
+quantities. Joint inspection of representatives of the parties were
+undertaken in November 1991 at the premises of the MTNL. At that
+stage, it was recorded that the outer seals of the drums in which the
+cables had been supplied, were broken. The MTNL alleged shortage
+of 1283 meters of cables; the claimant denied any liability, alleging
+that the agreed quantity had been supplied, and the alleged
+deficiencies had occurred in the premises of MTNL. The latter sought
+to recover the amounts in other contracts, by withholding payments.
+Parties went to arbitration, on these allegations.
+13.
+
+This Court has carefully examined the award, as well as
+
+the original record of arbitration, which is a part of the record of this
+case. The award, so far as it directs payment to the claimant, is a
+CS(OS) 626A/1996
+
+9 of 13
+
+non-speaking one.
+
+As held by the Supreme Court in Raipur
+
+Development Authority –vs- Chokhamal Contractors, AIR 1989 SC
+721, it is not obligatory for an arbitrator to give reasons, unless the
+arbitration clause spells out such a duty. In Engineers Syndicate v.
+
+State of Bihar,(2007) 3 SCC 99, speaking about the ruling in Raipur
+Development, the Supreme Court held as follows:
+“This Court, in the above judgment has
+categorically held that it was not open to
+the High Court to speculate where no
+reasons are given by the arbitrator, as to
+what impelled the arbitrator to arrive at
+his conclusion. The Court declined to
+recognise the power of the Court to
+attempt to probe the mental process by
+which the arbitrator had reached his
+conclusion where it was not disclosed by
+the terms of his award. It is also further
+observed in the said judgment that the
+Court in dealing with an application to
+set aside an award has not to consider
+whether the view of the arbitrator on
+the evidence is justified and that the
+arbitrator’s adjudication is generally
+considered binding between the parties,
+for he is a tribunal selected by the
+parties and the power of the Court to set
+aside the award is restricted to cases set
+out in Section 30.”
+14.
+
+In the above back ground, it would be necessary to see
+
+whether the award is in any way unreasonable, or contrary to
+provisions of law, as far as it allows the claim of the contractor. The
+materials on record, which include the documents filed by the parties,
+suggest that all payments had been made to the claimant, including
+CS(OS) 626A/1996
+
+10 of 13
+
+the balance payments, after the issuance of the certificate under
+clause 15. The MTNL, after these events, started contesting that the
+agreed quantities had not been supplied and that there were
+shortages. These events led to a reference to arbitration.
+15.
+
+A textual examination of the award and the materials, so
+
+far as it relates to the grant of the claim, does not disclose any error
+or perversity which measures the standard of legal misconduct.
+16.
+
+As far as the reasoning of the award, declining the
+
+counter-claim of MTNL is concerned, it would be apparent that till
+invocation of the arbitration clause, no such demand for payment was
+made. The arbitrator examined the materials, and reasoned that after
+having accepted the goods unreservedly, the MTNL could not, in
+terms of the contract, have disputed the quantities.
+17.
+
+The exception taken to the award, so far as it is based on
+
+the terms of the contract, an unfounded. Facially, clause 16.1 deals
+with quantity. The examination of MTNL’s witness too brings home
+the point that no reservation with regard to accepted quantities was
+contemplated, (in favour the MTNL) in the document. Similarly the
+objection that the taking over certificate was issued due to pressure of
+the claimant, (which led to release of all payments) is not based on
+contemporary documents, forming part of the record, or brought out
+
+CS(OS) 626A/1996
+
+11 of 13
+
+during examination of witnesses. Therefore the argument about
+payment being a result of coercion (and consequently the MTNL being
+free to raise the issue of shortage and excess payment to the
+claimant) is without basis.
+18.
+
+MTNL has adverted to joint inspection reports, which
+
+were produced in arbitration, to say that there were admitted
+shortages. This is sought to be made a ground to allege legal
+misconduct, by the arbitrator. The court is of opinion that this plea to
+is unmerited.
+
+No single factor can be seen in isolation of other
+
+relevant materials.
+
+The claimants letters and pleadings deny such
+
+shortages and show its disclaimer of liability, on the ground that the
+goods were in the custody of MTNL for sometime, after the allegation
+of shortage was made.
+19.
+
+On an application of the established tests to determine
+
+what constitutes “misconduct” under Section 30 to the facts of this
+case, as apparent from the award and record of arbitration
+proceedings, this court funds no infirmity in the award, declining the
+MTNL’s counter-claim.
+20.
+
+That leaves the court to determine the claim for interest.
+
+The arbitrator awarded 19% interest, pendente lite and quantified it.
+The court discerns no legal infirmity in this having regard to the law
+
+CS(OS) 626A/1996
+
+12 of 13
+
+on the aspect, and the rate of interest prevalent at the time. Interest
+@ 18% p.a. has been claimed till realization. In view of the
+intervening events, when the interest rates have declined, there is no
+justification for granting this part of the claim, under Section 17.
+21.
+
+In view of the above reasoning, Suit No. 626-A/1996 is
+
+dismissed as being without merit. The award of arbitrator is made
+rule of court, with direction that the MTNL is liable to pay interest @
+10% p.a. pendent lite interest, for the duration of proceedings in this
+Court, and future interest, till realization, to the claimant at the same
+rate. This direction is necessitated to secure ends of justice because
+the claimant had sought for post award interest, while asking for the
+filing of award.
+22.
+
+A decree shall be drawn in the above terms.
+
+Costs,
+
+quantified at Rs.25,000/- are payable to the claimant.
+
+S. RAVINDRA BHAT,J
+(JUDGE)
+JANUARY
+
+10, 2008
+
+CS(OS) 626A/1996
+
+13 of 13
+
+

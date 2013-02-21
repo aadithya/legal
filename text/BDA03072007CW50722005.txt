@@ -1,0 +1,761 @@
+THE HIGH COURT OF DELHI AT NEW DELHI
+%
+
+Judgment delivered on: 03.07.2007
+
++
+
+WP(C) No.5072-73/2005
+
+SH KISHAN LAL & ORS
+
+...Petitioners
+- versus -
+
+GOVT OF NCT OF DELHI & ORS
+
+...Respondents
+
+Advocates who appeared in this case:
+For the Petitioners
+: Ms Aruna Mehta, Mr Sanjeev Mehta, Ms Jagriti Mishra.
+For the Respondent Nos.1&3. : Mr V.K. Tandon.
+For the Respondent/MCD
+: Mr Anoop Bagai.
+For the Respondent No.4
+: Mr P.N. Lekhi, Sr Advocte with Mr Anurag Dubey,
+Mr Meenesh Dubey.
+
+CORAM:HON'BLE MR JUSTICE BADAR DURREZ AHMED
+1.
+2.
+
+Whether Reporters of local papers may be allowed
+to see the judgment?
+To be referred to the Reporter or not?
+
+Yes
+Yes
+
+3.
+
+Whether the judgment should be reported in Digest?
+
+Yes
+
+BADAR DURREZ AHMED, J
+1.
+
+The petitioners Shri Krishan Lal and Smt. Mithlesh have filed the
+
+present writ petition in respect of their deceased son, Puran, aged 7, against the
+respondents, Government of National Capital Territory of Delhi and the
+Municipal Corporation of Delhi (hereinafter “the Corporation”), whose
+negligence, they claim, caused their son's death. The impleaded respondent,
+Sulabh International Social Service Organization (hereinafter “Sulabh”), is a
+
+WP(C)5072-73/2005
+
+Page No.1 of 20
+
+private organization that had an agreement with the Corporation to manage and
+oversee the toilet complexes on the Corporation's property. The petitioners
+pray for compensation of Rs.5 lakhs for the death of their son.
+2.
+
+On 09.01.2005, Puran was playing with several other children
+
+outside his home in Sultanpuri. He went to use the free lavatory, located
+between F-7 Sultanpuri Block and West Friends Enclave, which is owned by
+the Corporation. He never returned, leading his parents to file a missing persons
+report with the Sultanpuri Police Station the following day. On 12.1.2005,
+Puran's body was found by local residents floating in an open manhole near the
+lavatory.
+
+The Police Station of Sultanpuri subsequently conducted a post
+
+mortem, which indicated that Puran had ante mortem injuries, specifically, a
+lacerated wound on his chin.
+
+After the viscera examination, the doctor's
+
+conclusion was that the cause of death was “asphyxia as a result of drowning”.
+3.
+
+The petitioners contend that the five sewerage manholes in the
+
+vicinity in which Puran had gone to use the lavatory were not covered with lids
+and that Puran slipped and fell into the open sewerage tank, resulting in his
+untimely death. Thus, the petitioners submit that Puran's death occurred as a
+result of the dereliction of duty on the part of the Respondents. On the other
+hand, the impleaded respondent, Sulabh, submits that its caretaker responsible
+for overseeing the toilet complex situated at F-7 Sultanpuri stated on record that
+the septic tank was cleaned one month before and that all manholes were
+properly covered.
+WP(C)5072-73/2005
+
+Sulabh further submits that there was no allegation or
+Page No.2 of 20
+
+complaint by any person or authority that the cover of any manhole was found
+missing. In addition, Sulabh asserts that the volunteers who were at the said
+site on the date of the incident stated that the covers of the manholes were
+checked and were properly covered. Sulabh submits that it has a five tier
+system for the supervision of the public service complexes it oversees, and that
+its volunteers take extra care to ensure that the manholes are always covered
+and that broken or stolen lids are immediately replaced. Therefore, Sulabh
+contends that it was not negligent in causing Puran's death and that it met its
+duty of care.
+4.
+
+Instead, Sulabh suggests that Puran was likely kidnapped, and that
+
+the kidnapper may have killed the boy and then thrown him into the manhole,
+or killed the boy by throwing him into the manhole. Sulabh submits that this
+version of the incident is supported by the evidence of ante mortem injuries on
+the deceased's body. Sulabh suggests that it is even possible that Puran may
+have playfully removed the lid himself and then slipped or lost his balance,
+thereby falling into the manhole.
+The following four issues arise for consideration :
+1.
+
+Whether a private body such a Sulabh is amenable to
+writ jurisdiction under Article 226 of the
+Constitution ?
+
+2.
+
+Whether the doctrine of res ipsa loquitur is applicable
+in the present case ?
+
+3.
+
+WP(C)5072-73/2005
+
+Whether any contributory negligence can be imputed to
+Puran, who was a 7 year old boy at the time of his death ?
+
+Page No.3 of 20
+
+4.
+
+In case, the petitioners are entitled to compensation, on
+what basis should compensation be awarded to them and
+whose liability would it be ?
+
+ISSUE ONE
+5.
+
+The first issue that must be addressed at the outset is whether a
+
+private body, here Sulabh, is amenable to the writ jurisdiction under Article 226
+of the Constitution. In Rahul Mehra & Anr v Union of India & Ors. : 114
+(2004) DLT 323, a Division Bench of this Court held that “amenability” is not
+the correct litmus test for determining the maintainability of a writ petition
+under Article 226. Rather, one must examine the “function” of the organization
+at issue : If it carries out a public function, then exercise of writ jurisdiction is
+appropriate, as under:
+“If a public duty or public function is involved, any body,
+public or private, qua that duty or function, and limited to that,
+would be subject to judicial scrutiny under the extraordinary
+writ jurisdiction of article 226.”
+6.
+
+In Rahul Mehra (supra), the Board of Control For Cricket in India
+
+(BCCI), although a private organization, was found to perform several public
+functions apart from its wholly private functions. This court held that the BCCI
+was amenable to writ jurisdiction under Article 226 only in regard to its public
+functions, but not its private functions such as private contracts, internal rules,
+etc. and other matters not concerning the public.
+7.
+
+In the present petition, the nature of the relationship between the
+
+Corporation and Sulabh is as follows.
+
+The Corporation entered into an
+
+agreement with Sulabh, entitled “Agreement For Handing Over of Operation
+
+WP(C)5072-73/2005
+
+Page No.4 of 20
+
+and Maintenance of Complexes to Sulabh International” (hereinafter “the
+Agreement”), somewhere in the year of 1989 or 1990, whereby the entire
+management of the Corporations' toilet complexes, including the said complex
+in F-7 Sultanpuri, was handed over to Sulabh for thirty years, as under :
+“That the second party [i.e., Sulabh] shall operate and maintain
+the complexes on pay & use basis and shall clean regularly the
+toilets, bathrooms & urinals of the complexes and ensure
+continuous serviceability.
+xxxx
+
+xxxx
+
+xxxxx
+
+That the title of interest, ownership and rights with regard to
+toilet complexes shall rest with the first party [i.e., the
+Corporation] except that these will be operated and maintained
+by the second party as agreed to in this agreement.
+xxxx
+
+xxxx
+
+xxxx
+
+That any neglect of lapse on the part of the second party to
+clean & maintain the said toilet complexes shall entitle the
+first party to terminate the agreement after giving reasonable
+opportunity to the second party.
+xxxx
+
+xxxx
+
+xxxx
+
+That the M.C.D. officers will be allowed to inspect the
+complexes at any time to check the sanitation and other defects
+in the complexes.”
+8.
+
+As a subcontractor of the Corporation, Sulabh is solely responsible
+
+for maintaining the public lavatory complexes owned by the Corporation. This
+is obviously a public function. Therefore, as to this particular public function
+which Sulabh is performing, it is amenable to the writ jurisdiction under Article
+226.
+
+WP(C)5072-73/2005
+
+Page No.5 of 20
+
+ISSUE TWO
+9.
+
+The petitioners request the court to apply the doctrine of res ipsa
+
+loquitur in the present petition. However, learned counsel for the respondents
+submit that res ipsa loquitur does not apply in the present case as the facts are
+not such that they point to only one explanation of Puran's death, namely that
+his death was caused by the respondents' negligence. On behalf of Sulabh, it
+was submitted that where the death of the petitioners' son might have been
+caused by kidnappers, the petitioners can have no claim for compensation
+against Sulabh because a presumption of negligence cannot be raised simply
+because Puran's body was found on the said premises.
+10.
+
+Res ipsa loquitur
+
+is a Latin phrase which is defined in Black's
+
+Law Dictionary in the following words : “The thing speaks for itself.” The
+doctrine of res ipsa loquitur is described in detail in a decision of this Court in
+Klaus Mittelbachert v East India Hotels Ltd : 65 (1997) DLT 428, which reads
+as under:“Under the doctrine of res ipsa loquitur a plaintiff establishes
+a prima facie case of negligence where (1) it is not possible
+for him to prove precisely what was the relevant act or
+omission which set in train the events leading to the accident,
+and (2) on the evidence as it stands at the relevant time it is
+more likely than not that the effective cause of the accident
+was some act or omission of the defendant or of someone for
+whom the defendant is responsible, which act or omission
+constitutes a failure to take proper care for the plaintiff's
+safety. There must be reasonable evidence of negligence.
+However, where the thing which causes the accident is shown
+to be under the management of the defendant or his
+employees, and the accident is such as in the ordinary course
+WP(C)5072-73/2005
+
+Page No.6 of 20
+
+of things does not happen if those who have the management
+use proper care, it affords reasonable evidence, in the absence
+of explanation by the defendant, that the accident arose from
+want of care. Three conditions must be satisfied to attract
+applicability of res ipsa loquitur : (i) the accident must be of a
+kind which does not ordinarily occur in the absence of
+someone's negligence; (ii) it must be caused by an agency or
+instrumentality within the exclusive control of the defendant;
+(iii) it must not have been due to any voluntary action or
+contribution on the part of the plaintiff. (See Ratanlal &
+Dhirajlal on Law of Torts , edited by Justice G.P. Singh,
+22nd edition 1992, pp 499-501 and the Law of Negligence by
+Dr Chakraborti, 1996 edition, pp 191-192.)”
+11.
+
+Let us now apply the above conditions to the present petition. First,
+
+is the accident of a kind which does not ordinarily occur in the absence of
+someone's negligence? If a 7 year old boy is found dead in an open manhole, in
+the absence of a crime, the obvious and ordinary reaction is that he fell through
+the open manhole. From this, the ordinary conclusion is that the manhole was
+left open negligently or that the negligence extended to the extent that the child
+was permitted, again through negligence, to remove the manhole cover and in
+the process or thereafter to fall through the manhole into the sewerage tank.
+Thus, it has to be concluded that the accident was of a kind which does not
+ordinarily occur in the absence of someone's negligence.
+12.
+
+Second, was the accident caused by an agent or instrumentality
+
+within the exclusive control of the respondents?
+
+As discussed above, the
+
+Agreement stipulated that Sulabh was to have exclusive control over the
+maintenance and operation of the toilet complexes owned by the Corporation,
+which includes the manholes at issue.
+WP(C)5072-73/2005
+
+Page No.7 of 20
+
+13.
+
+Third, was the accident caused in part by any voluntary action or
+
+contribution by the deceased? This question is dealt with in some detail under
+issue three. At this juncture, it is sufficient to point that the deceased Puran
+cannot be attributed with any contributory negligence nor is there any material
+which points in that direction. Therefore, it would be reasonable to conclude
+that Puran's death was caused by the negligence of the respondents in failing to
+ensure that the manhole lids were covered.
+14.
+
+Once the petitioners have established a reasonable case under the
+
+maxim of res ipsa loquitur, the burden shifts to the respondents to rebut the
+evidence of negligence. In Municipal Corporation of Delhi v Subhagwanti &
+Ors : AIR 1966 SC 1750, the Supreme Court described the shifting of the
+burden, relying on Halsbury's Laws of English, 2nd Ed., Vol. 23, as under:“An exception to the general rule that the burden of proof
+of the alleged negligence is in the first instance on the
+plaintiff occurs wherever the facts already established are
+such that the proper and natural inference immediately
+arising from them is that the injury complained of was
+caused by the defendant's negligence, or where the event
+charged as negligence `tells its own story' of negligence on
+the part of the defendant, the story so told being clear and
+unambiguous. To these cases the maxim res ipsa loquitur
+applies. Where the doctrine applies, a presumption of fault
+is raised against the defendant, which if he is to succeed in
+his defence, must be overcome by contrary evidence, the
+burden on the defendant being to show how the act
+complained of could reasonably happen without negligence
+on his part.”
+15.
+
+In the present petition, learned counsel for the respondents have
+
+failed to demonstrate how Puran's death could have reasonably happened
+WP(C)5072-73/2005
+
+Page No.8 of 20
+
+without negligence on their part. The opinion of the doctor was that the cause
+of death was “Asphyxia” as a result of drowning,” which supports the
+petitioners' contention that Puran fell into an open manhole. The respondents'
+counter submission that he might have been kidnapped and that the kidnapper
+killed him by throwing him into the manhole is purely in the realm of
+conjecture. In any event, such a suggestion is clearly illogical - why would
+anyone kidnap a child simply to throw him into a manhole?
+
+Generally
+
+speaking, kidnappers take their victims away from the vicinity in which they
+are found, and either hold them for ransom or sexually or physically abuse them
+prior to killing them. The post mortem report indicates no evidence on the
+body of the deceased of this nature.
+
+The injury on Puran's chin is quite
+
+consistent with the probability that it resulted from the fall into the manhole
+itself rather than from an improbable attack by a motiveless kidnapper.
+Sulabh's claim that the petitioner No.1 suspected that his son had been
+kidnapped is of no consequence as at time the petitioner No.1 only knew that
+his son had disappeared. Once the body of Puran was found, all speculation
+was put to rest.
+16.
+
+Furthermore, Puran's body was discovered by local residents in an
+
+open manhole in the vicinity of the lavatory he had visited. If the manholes
+were covered on the day of the accident, why was Puran found in an open
+manhole?
+
+The respondents have provided no explanation as to why the
+
+manhole, assuming it was covered on the day of Puran's death, was found
+WP(C)5072-73/2005
+
+Page No.9 of 20
+
+uncovered three days later. Accordingly, the respondents have failed to meet
+their burden of proof is showing how Puran's death could have reasonably
+occurred sans their negligence.
+17.
+
+It is worth nothing that the facts in the present petition are similar
+
+to those in Darshan & Others (Smt) v Union of India & Ors.: 79(1999) DLT
+432. There, too the family of the deceased brought an action against the Delhi
+Government after the deceased fell into an open manhole and perished. As in
+the present petition, the respondents there submitted that the manholes were
+fully covered and that there was no chance of such an accident. On the other
+hand, the petitioners produced a copy of the post mortem report stating the
+cause of death as by drowning, just as in the case of Puran. Although no
+injuries were found on the body in that case, whereas Puran was shown to have
+ante mortem injuries, muddy water was found in the liver of the deceased.
+Similarly, swelling and other conditions resulting from drowning were found in
+Puran's internal organs. The Supreme Court found the respondents liable for
+the deceased's death due to negligence based on the theory of res ipsa loquitur.
+18.
+
+The Delhi High Court has made clear in Sushila Devi & Ors v
+
+Municipal Corporation of Delhi : ILR 1985 Delhi 746, that the purpose of
+utilizing res ipsa loquitur is to enable justice where the cause of the accident is
+unknown. In Sushila Devi (supra), the petitioner filed the writ petition on
+behalf of her deceased husband, who was killed when a branch from a decaying
+tree fell on him while he was driving on his motorcycle. The court found that
+WP(C)5072-73/2005
+
+Page No.10 of 20
+
+the Corporation was responsible for ensuring that trees abutting the roads are
+maintained in safe conditions, and that by failing to do so, the Corporation was
+negligent. The court applied the maxim of res ipsa loquitur, as under:
+“[W]e think that it was the duty of the Corporation to give an
+adequate explanation of the cause of the accident. This they
+have failed to do. The maxim is no more than a rule of
+evidence. It is based on common sense and its purpose is to
+enable justice to be done when the facts bearing on causation
+and on the care exercised by the defendant are at the outset
+unknown to the plaintiff and are or ought to be within the
+knowledge of the defendant.”
+19.
+
+In the present petition, it is difficult to determine the exact
+
+sequence of events that led to little Puran's death, as well as the extent of care
+the respondents had exercised in ensuring that the manholes were properly
+covered. This rationale, as per Sushila Devi (supra), is adequate in and of
+itself to allow this court to infer that the respondents were negligence.
+ISSUE THREE
+20
+
+This issue concerns the question of imputing contributory
+
+negligence on the part of Puran by the respondents and, in particular, Sulabh
+suggesting that Puran may have playfully removed the lid himself and then
+slipped or lost his balance, thereby falling into the manhole. In order to
+establish the defence of contributory negligence, the defendant must prove,
+first, that the plaintiff failed to take “ordinary care for himself,” or in other
+words, such care as a reasonable man would take for his own safety, and
+secondly, that his failure to take care was a contributory cause of the accident”
+
+WP(C)5072-73/2005
+
+Page No.11 of 20
+
+(see : Lewis v Denye : [1939] 1 KB 540 at 554). The difficulty in the present
+case arises because the degree of care that is required of a reasonable “man” is
+entirely different to the degree of care that can be expected from a minor who is
+only 7 years of age. The question of contributory negligence of children is
+entirely different to contributory negligence on the part of the adults. In Lynch
+v Nurdin (1841) 1 Q.B. 29, Lord Denman C.J. observed :“Ordinarily care must mean that degree of care which may
+reasonably be expected from a person in the plaintiff's
+situation; and this would evidently be very small indeed in
+so young a child.”
+21.
+
+As pointed out in Charlesworth & Percy on Negligence, Eleventh
+
+Edition, this statement has traditionally been regarded as a classic statement of
+the law relating to the contributory negligence of children. In the said case of
+Lynch v Nurdin the defendant had negligently left his horse and cart
+unattended in the street. The plaintiff who was a 7 year old climbed on to the
+back of the cart to play. Another child led the horse on and the plaintiff was
+thrown down. The plaintiff suffered injuries. The contention of the defendant
+that the plaintiff was guilty of contributory negligence and that he could have
+prevented the accident by the exercise of ordinary care was rejected by the
+court in the words mentioned above. There are many instances of cases under
+the English law where the defence of contributory negligence has been negated
+in so far as small children are concerned. In India also courts have recognised
+that generally speaking children cannot be imputed with contributory
+WP(C)5072-73/2005
+
+Page No.12 of 20
+
+negligence. For instance, in Sundara Shetty v K Sanjiva Rao : AIR 1982
+Karnataka 84, a Division Bench of Katnataka High Court held that :
+“28.
+
+22.
+
+The facts of the present case demanded greater care on the
+part of the driver of the car because children of tender years
+cannot even be imputed with contributory negligence. They
+have not attained that age of discretion and what generally
+the adults can understand as rash or negligent acts cannot
+even be imputed to them as they are not in a position to
+understand the consequences of their acts. Many dangers
+which are open and obvious to the adults may be concealed
+and secret traps for the children.”
+Similarly in Pandian Roadways Corporation, Madurai v
+
+Karunanithi and Another : AIR 1982 Madras 104, the Madras High Court,
+negativing the defence of contributory negligence, held that a boy of 6 could
+not be guilty of any negligence as he has not attained the age of discretion to
+realise the consequences of his acts.
+23.
+
+Although as a rule contributory negligence cannot be negated
+
+whenever children are involved, it has definitely to be tempered with the
+condition that the degree of care to be expected from a child is entirely different
+to the degree of care that could be expected of a reasonable adult. So, there is
+some element of proportionality based on the age of the victim in arriving at
+the expected degree of care.
+24.
+
+Considering the present case from this stand point, I am unable to
+
+agree with the defence raised by the learned counsel for Sulabh of contributory
+negligence by stating that Puran may have playfully removed the lid himself
+and then slipped or lost his balance, thereby falling into the manhole. While an
+WP(C)5072-73/2005
+
+Page No.13 of 20
+
+adult can be expected to have exercised due care and caution by not risking his
+life in removing the lid “playfully” and losing control, the same degree of care
+and caution cannot be expected from a child who is merely 7 years old.
+25.
+
+This discussion on contributory negligence is also based on the
+
+conjecture on the part of the respondents that Puran may have playfully
+removed the lid himself. There is nothing on record to suggest that Puran did
+any such thing. There is, therefore, factually as well as legally no question of
+raising the defence of contributory negligence.
+
+ISSUE FOUR
+26.
+
+The next issue is on what basis should compensation be awarded
+
+to Puran's parents? At the outset, it should be clear that compensation is
+available where there is a tortious dereliction of public duty on the part of the
+State involving the infringment of a fundamental right under Article 21 of the
+Constitution. See, e.g. , All India lawyers Union v Union of India & Others :
+91 (2001) DLT 469; Darshan (supra); M.S. Grewal v Deep Chand Sood &
+Ors : 2001 ACJ 1719.
+27.
+
+In Smt. Kamla Devi v Government of NCT of Delhi & Anr : 114
+
+(2004) DLT 57, I had occasion to address the issue of how compensation
+should be awarded. I found that there are two types of compensation :“(a) `standard compensation' or the so-called `conventional
+amount' (or sum) for non -pecuniary losses such as
+
+WP(C)5072-73/2005
+
+Page No.14 of 20
+
+loss of consortium, loss of parent, pain and suffering
+and loss of amenities; and
+(b)
+28.
+
+Compensation for pecuniary loss of dependency.”
+
+The “standard compensation” must be revised from time to time to
+
+counter inflation. In Kamla Devi (supra), I found this conventional sum for
+non-pecuniary loss to be Rs.97,700 for 1996, the year in which the key events
+of that case occurred. It was also held that compensation for pecuniary loss of
+dependency should be calculated as under:“Compensation for pecuniary loss of dependency is to be
+computed on the basis of loss of earnings for which the
+multiplier method is to be employed. The table given in
+Schedule II of the MV Act, 1988 cannot be relied upon,
+however, the appropriate multiplier can be taken there
+from. The multiplicand is the yearly income of the
+deceased less the amount he would have spent upon
+himself. This is calculated by dividing the family into
+units – 2 for each adult member and 1 for each minor.
+The yearly income is then to be divided by the total
+number of units to get the value of each unit. The
+annual dependency loss is then calculated by multiplying
+the value of each unit by the number of units excluding
+the two units for the deceased adult member. This
+becomes the multiplicand and is multiplied by the
+appropriate multiplier to arrive at the figure for
+compensation of pecuniary loss of dependency.”
+
+29.
+
+Of course, simple interest should accrue on the basis of the current
+
+inflation rate, as provided by the Government of India, for the period
+commencing from the date of death of the deceased until the date of payment
+by the State. Although, Kamla Devi (supra) involves awarding compensation
+WP(C)5072-73/2005
+
+Page No.15 of 20
+
+to a crime victim's family, whereas the present petition deals only with the tort
+of negligence, the above-stated multiplier method is very well-established and
+has been applied to many civil cases [See for example, M.S. Grewal (supra)].
+30.
+
+In order to calculate the standard compensation which the
+
+petitioners are entitled to receive, the starting point of Rs.97,000 in 1996 (or
+Rs.50,000/- in 1989) should be used, as per Kamla Devi (supra). This amount
+must be adjusted for January, 2005, which is when Puran's death occurred,
+based on the Consumer Price Index for Industrial Workers (CPI-IW), published
+by the Labour Bureau, Government of India. With the base year 1982 (=100),
+the average CPI (IW) for the year 1989 was 171 and for January, 2005 was
+526. Hence, the inflation-corrected value of Rs.50,000/- in 1989 works out to
+Rs.1,53,801.16 (or Rs.1,53,801/-) in January, 2005.1
+
+So, in this case the
+
+standard compensation would be Rs.1,53,801/-.
+31.
+
+Calculating the compensation for pecuniary loss of dependency is
+
+somewhat more complicated.
+
+Whereas Kamla Devi (supra)
+
+involved an
+
+earning adult whose death had an immediate financial impact on his family, the
+present petition involves the death of a small child who was not contributing to
+the household income and who would have been unable to do so for many
+more years. A somewhat different approach would be needed.
+32.
+
+In Smt Kumari v State of Tamil Nadu & Others : 1992 ACJ 283,
+
+the six-year old son of the appellant died as a result of falling in an open
+1 50,000 x 526 / 171
+WP(C)5072-73/2005
+
+Page No.16 of 20
+
+manhole. The appellant filed a petition under Article 226 of the Constitution
+seeking a writ of mandamus directing the respondents to pay Rs.50,000/- as
+compensation. The Madras High Court dismissed the writ petition on the
+ground that in a writ petition it was not possible to determine which respondent
+was negligent in leaving the sewerage tank uncovered. The Supreme Court set
+aside the judgment of the High Court and awarded the appellant the sum of
+Rs.50,000 with interest at 12% per annum from the date of the accident until
+the date of payment. The Supreme Court further held that the State of Tamil
+Nadu may take appropriate proceedings to claim the said amount from any of
+the respondents who might have been responsible for leaving the manhole
+uncovered. Thus, one method of calculating the compensation of pecuniary
+loss of dependency is to bring the above compensation given in Kumari
+(supra) up to date based on India's inflation rate between 1992, when the case
+was decided, and 2005, when Puran died, and to subtract from it what the
+standard compensation would have been in 1992.
+33.
+
+However, the approach in M.S. Grewal (supra) appears to be the
+
+better and more rational approach. In M.S. Grewal (supra) fourteen children
+drowned in a river during a school picnic as a result of the school's negligence.
+The Supreme Court awarded Rs.5 lakhs to each family, partly on the basis that
+the school was one of the most affluent in the country and the deceased
+children's earning potential was significant.
+
+Therefore, the method of
+
+calculating the compensation for pecuniary loss of dependency entails the
+WP(C)5072-73/2005
+
+Page No.17 of 20
+
+examination of Puran's potential earning capacity had he lived to adulthood .
+The petitioner No.1, Puran's father, was working in a market as a Security
+Guard and was earning approximately Rs 4,000/- per month. The late Puran,
+who was in the 3rd Standard, when he passed away, was an excellent student.
+In the previous academic year, he was ranked First in his class. Therefore, we
+can safely assume that Puran as an adult would have earned at least as much as
+his father, if not more. So, as evidenced by his academic skills, Puran's father's
+salary can be used as a starting base for calculating the compensation for
+pecuniary loss of dependency. The multiplicand would be the expected annual
+income less what he required for himself. Since, this expected income would
+only arise when Puran grew up to be an adult, it would be safe to assume that
+his personal expenditure would be higher. True, he would be contributing to
+the household, but his contribution in my view would definitely not exceed half
+of his income.
+
+It must be remembered that here we are concerned with
+
+compensation for pecuniary loss of dependency of Puran's parents. For some
+stretch of time Puran's father would be earning and his dependency would not
+be much. Furthermore, Puran would have married and would have had to
+support his wife and children. So, the assumption that, in the maximum,
+Puran's parents would have lost only half of Puran's expected annual income,
+would not be an unreasonable one. Thus, the multiplicand would work out to
+Rs.24,000/- (4000 x 12 x ½). The multiplicand and is to be multiplied by the
+multiplier of 15 as derived from the Second Schedule to the Motor Vehicles
+WP(C)5072-73/2005
+
+Page No.18 of 20
+
+Act, 1988 in respect of victim in the age group of upto 15 years. Therefore,
+Puran's parents would be entitled to a sum of Rs.3,60,000/- (24000x15) for
+compensation for pecuniary loss of dependency.
+34.
+
+Accordingly, the petitioners are entitled to a total compensation of
+
+Rs.5,13,801/-.
+
+The standard compensation or conventional sum being
+
+Rs.1,53,801/- and the compensation for pecuniary loss of dependency being an
+amount of Rs.3,60,000/- as computed above.
+35.
+
+The only remaining question is which of the respondents is
+
+responsible for paying the above compensation to petitioners in the first
+instance? Whereas in Kumari (supra), there was a dispute as to which of the
+respondents was responsible for maintaining the safety of the sewerage tank at
+issue, in the present petition it is abundantly clear from the terms of the
+Agreement that Sulabh is solely responsible for the maintenance and
+supervision of the toilet complex in Block F-7, owned by the Corporation, as
+concluded above. Accordingly, Sulabh is directed to pay the entire sum of
+Rs.5,13,801/- (with simple interest @ 6% per annum w.e.f. 19.3.2005 i.e., the
+date of this petition till payment) to the petitioners. This, of course, does not
+foreclose any claim that Sulabh may have against the Corporation in view of
+their relationship under contract in respect of the payment they are required to
+make by virtue of this judgment. Sulabh and the Corporation may have their
+inter se rights and liabilities sorted out elsewhere in accordance with law. But,
+with that the petitioners have no concern.
+WP(C)5072-73/2005
+
+Page No.19 of 20
+
+36.
+
+With the aforesaid directions the writ petition is allowed. There
+
+shall be no order as to costs.
+BADAR DURREZ AHMED
+(JUDGE)
+July 03, 2007
+ΜΗ/Μ
+
+WP(C)5072-73/2005
+
+Page No.20 of 20
+
+

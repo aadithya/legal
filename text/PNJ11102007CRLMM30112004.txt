@@ -1,0 +1,506 @@
+IN THE HIGH COURT OF DELHI
+Crl.M.C. No.3011/2004
+#
+!
+
+M/s.Collage Culture & Ors.
+through: Mr.Atul Jain, Adv.
+
+... Petitioners
+
+VERSUS
+$
+^
+
+Apparel Export Promotion Council & Anr. ... Respondent
+through : Mr.Kuljeet Rawal, Adv.
+
+%
+
+DATE OF DECISION: 11.10.2007
+CORAM:
+
+*
+
+Hon'ble Mr.Justice Pradeep Nandrajog
+
+1.
+
+Whether reporters of local papers may be allowed
+to see the judgment? Y
+
+2.
+
+To be referred to the Reporter or not? Y
+
+3.
+
+Whether judgment should be reported in Digest? Y
+
+:
+1.
+
+PRADEEP NANDRAJOG, J.
+Petitioners pray that
+
+the order dated
+
+21.1.2004
+
+summoning the petitioners to face trial for the alleged offence
+under Section 138 of the Negotiable Instruments Act 1881 be
+quashed.
+2.
+
+It is urged that no actionable cause exists in favour of
+
+the complainant to make out the offence under Section 138 of the
+Negotiable Instruments Act 1881. It is urged that the sine qua
+non for the applicability of Section 138 of the Negotiable
+
+page 1 of 10
+
+Instruments Act 1881 is the issuance of cheque for a debt which is
+due towards discharge of a liability.
+
+It is urged that a cheque
+
+given as a collateral security or as a security for payment of an
+amount which may become payable at a future date upon the
+happening or the non-happening of an event i.e. towards a
+contingency cannot be the foundation of an action under Section
+138 of the Negotiable Instruments Act 1881.
+3.
+
+Admittedly, the complaint which was filed under
+
+Section 138 of the Negotiable Instruments Act 1881 pertained to
+cheques issued by the petitioners on 1.6.2003.
+4.
+
+The cheques in question were in replacement of earlier
+
+cheques issued on 1.6.2002 and had to be replaced on account of
+the fact that the 6 months' validity period of the cheques had
+expired.
+5.
+
+A little elaboration is required as to under what
+
+circumstances the cheques were issued.
+6.
+
+First petitioner is in the business of export of garments.
+
+The export of garments was regulated by Apparel Export
+Promotion Council. It used to allot quotas to intending exporters
+for exporting garments. The quota was valid for an year.
+7.
+
+As per the policy, if a firm could not exhaust the
+page 2 of 10
+
+quota within the stipulated time, a penalty used to be imposed.
+8.
+
+For the year 2003-04, the policy stipulated that the
+
+earnest money would have to be deposited in the form of an
+security when quota was allotted. The security was liable to be
+forfeited if goods were not exported.
+
+In case of partial export,
+
+proportionate
+
+with
+
+penalty
+
+was
+
+levied
+
+reference
+
+to
+
+the
+
+unexhausted quota.
+9.
+
+Clause 8 of the policy stipulated as under:“8.
+
+10.
+
+EARNEST MONEY DEPOSITS (EMD)
+
+Amount of Earnest Money Deposits, can be given in
+the form of Bank Guarantee, FDR (unilaterally
+encashable by AEPC), or Demand Draft.
+Legal
+Undertaking (LUT) subject to the provision of para
+“E” below and Post Dated Cheques (PDC) subject to
+the provisions of para “F” below would also be
+accepted for extension of entitlements in systems
+other than FCFS. The release/forfeiture of EMD
+based on performance will be as per the following
+procedures in different systems of allotment.”
+As per the policy, it was permissible to seek
+
+revalidation of the unutilized quota for the ensuing year and for
+which, pertaining to the unutilized quota, the earnest money
+deposit had to be revalidated.
+11.
+
+Realizing that first petitioner would not be in a position
+
+to utilize its quota for the year 2001, on 15.10.2001 it sought
+extension of time to utilize the quota for the year 2001
+page 3 of 10
+
+i.e. sought extension of time to comply with the policy.
+
+Along
+
+therewith post dated cheques dated 1.6.2002 were issued in
+favour of the complainant as earnest money deposits.
+12.
+
+It may be noted that as per the clause 8 of the policy,
+
+earnest money could be deposited by post dated cheques.
+13.
+
+First petitioner could not fulfill its obligations to utilize
+
+the unexpired quota by the extended period and on 23.4.2002 the
+complainant issued a show-cause notice as to why the earnest
+money be not forfeited and cheques encashed.
+
+Letter dated
+
+23.4.2002 reads as under:“TO
+COLLAGE CULTURE
+56-58 COMMUNITY CENTRE,
+EAST OF KAILASH,
+NEW DELHI-110 065.
+SUB : SHOW CAUSE NOTICE
+DEAR SIRS,
+AS PER YOUR REQUEST, AEPC HAS GRANTED
+REVALIDATION
+OF
+VARIOUS
+ENTITLEMENT
+CERTIFICATES DURING THE YEAR 2001.
+THE
+DETAILS OF EMD PROVIDED HEREWITH
+S.NO.
+AMOUNT
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+CHEQUE NO.
+210469
+210472
+210473
+210474
+210475
+210476
+210477
+
+DATE
+01-JUNE-2002
+01-JUNE-2002
+01-JUNE-2002
+01-JUNE-2002
+01-JUNE-2002
+01-JUNE-2002
+01-JUNE-2002
+
+PDC
+29200.00
+277980.00
+540000.00
+417980.00
+400000.00
+517980.00
+186060.00
+
+page 4 of 10
+
+IT IS OBSERVED THAT YOU HAVE NOT COMPLIED
+WITH THE TERMS AND CONDITIONS OF THE
+ALLOTMENT AS PER THE ALLOTMENT POLICY, IN
+RESPECT OF THE ENTITLEMENT CERTIFICATES AS
+PER DETAILS GIVEN IN THE ENCLOSED SHEET.
+AS PER CONDITIONS OF REVALIDATION, YOUR EMD
+IS LIABLE TO BE FORFEITED FOR AN AMOUNT OF
+RS.2369200.00 (RUPEES TWENTY THREE LAC SIXTY
+NINE THOUSAND TWO HUNDRED ONLY).
+YOU ARE HEREBY CALLED UPON TO SHOW CAUSE
+AS TO WHY YOUR EMD SHOULD NOT BE FORFEITED
+FOR THE AMOUNT AS INDICATED ABOVE FOR THE
+REASONS MENTIONED IN THE ENCLOSED SHEET.
+YOUR REPLY SHOULD REACH THE UNDER SIGNED
+WITHIN A PERIOD OF 15 DAYS FROM THE DATE OF
+THIS SHOW CAUSE NOTICE, FAILING WHICH IT WILL
+BE PRESUMED THAT YOU HAVE NOTHING TO
+REPRESENT AGAINT THE DECISION INDICATED
+ABOVE IN CASE OF YOUR WISH TO AVAIL THE
+BENEFIT ON OVERALL PERFORMANCE BASIS.
+PLEASE ENSURE THAT YOUR REPLY TO THIS NOTICE
+IS SUPPORTED BY A DETAILED STATEMENT AS PER
+ANNEXURE-XIII OF POLICY BOOKLET.
+AN
+OPPORTUNITY FOR PERSONAL HEARING IS ALSO
+GIVEN TO YOU AT 4.00 PM ON 9.5.2002 WITH SHRI
+J.K.ARORA, ADDL. DIRECTOR, AEPC, NEHRU PLACE.
+YOU ARE REQUESTED TO ATTEND THE PERSONAL
+HEARING WITH ALL DOCUMENTARY EVIDENCES
+SUPPORTING YOUR CONTENTION. KINDLY NOTE
+THAT IF YOU FAIL TO ATTEND THE PERSONAL
+HEARING OR REPLY TO THIS NOTICE, A FINAL
+DECISION ON THIS MATTER WILL BE TAKEN
+WITHOUT FURTHER REFERENCE TO YOU.
+THANKING YOU
+YOURS FAITHFULLY
+MAHESH JHA
+JOINT DIRECTOR”
+page 5 of 10
+
+14.
+
+First petitioner filed a reply.
+
+Finding the reply
+
+unsatisfactory, on 3.7.2002, the complainant, Apparel Export
+Promotion Council forfeited the earnest money deposit i.e. the
+amounts covered by the cheques.
+15.
+
+First petitioner filed an appeal before the Textile
+
+Commissioner
+
+challenging
+
+the
+
+order
+
+dated
+
+3.7.2002.
+
+On
+
+29.8.2002 the Textile Commissioner stayed the operation of the
+order dated 3.7.2002.
+16.
+
+During the pendency of the appeal, the post dated
+
+cheques issued by the first petitioner on 1.6.2002 expired.
+
+On
+
+30.11.2002, under directions of the Appellate Authority, first
+petitioner replaced the cheques towards earnest money deposit
+by issuing post dated cheques dated 1.6.2003. The appeal was
+pending when the complainant presented the cheques for
+encashment. The cheques were dishonoured somewhere in the
+3rd week of November 2003 resulting in the complaint being filed.
+17.
+
+On 21.1.2004, learned Metropolitan Magistrate, taking
+
+cognizance of the complaint summoned the petitioners to face
+trial.
+18.
+
+It may be noted that in the meanwhile appeal filed by
+
+the petitioner before the Textile Commissioner against the order
+page 6 of 10
+
+dated 3.7.2002 was dismissed.
+19.
+
+It is not in dispute that the cheques which have formed
+
+the subject matter of the complaint were post dated cheques. It is
+also not in dispute that the cheques were towards replacement of
+the cheques issued on 1.6.2002 which cheques were also post
+dated cheques. It is also not in dispute that the cheques were
+issued as earnest money deposit. It is also not in dispute that the
+earnest money was liable to be forfeited only if the first petitioner
+failed to exhaust the quota issued by the complainant for export
+of garments.
+20.
+
+A
+
+post
+
+dated
+
+cheque
+
+may
+
+be
+
+issued
+
+under
+
+2
+
+circumstances. Under circumstance one, it may be issued for a
+debt
+
+in
+
+presenti
+
+but
+
+payable
+
+in
+
+future.
+
+Under
+
+second
+
+circumstance it may be issued for a debt which may become
+payable in future upon the occurrence of a contingent event.
+21.
+
+The difference in the two kinds of post-dated cheques
+
+would be that the cheque issued under first circumstance would
+be for a debt due, only payment being postponed.
+
+The latter
+
+cheque would be by way of a security.
+22.
+
+The word 'due' means 'outstanding at the relevant
+
+date'. The debt has to be in existence as a crystallized demand
+akin to a liquidated damages and not a demand which may or
+
+page 7 of 10
+
+may not come into existence; coming into existence being
+contingent upon the happening of an event.
+23.
+
+Section 138 of the Negotiable Instruments Act 1881
+
+reads as under:“138.
+Dishonour
+of
+cheque
+for
+insufficiency, etc., of funds in the account.–
+Where any cheque drawn by a person on an
+account maintained by him with a banker for
+payment of any amount of money to another person
+from out of that account for the discharge, in whole
+or in part, of any debt or other liability, is returned
+by the bank unpaid, either because of the amount
+of money standing returned by the bank unpaid,
+either because of the amount of money standing
+returned by the bank unpaid, either because of the
+amount of money standing returned by the bank
+unpaid, either because of the amount of money
+standing to the credit of that account is insufficient
+to honour the cheque or that it exceeds the amount
+arranged to be paid from that account by an
+agreement made with that bank, such person shall
+be deemed to have committed an offence and shall,
+without prejudice to any other provision of this Act,
+be punished with imprisonment for a term which
+may be extended to two years, or with fine which
+may extend to twice the amount of the cheque, or
+with both:
+Provided that nothing contained in this section
+shall apply unless–
+(a) the cheque has been presented to the
+bank within a period of six months from the
+date on which it is drawn or within the period
+of its validity, whichever is earlier;
+(b) the payee or the holder in due course of
+the cheque, as the case may be, makes a
+
+page 8 of 10
+
+demand for the payment of the said amount
+of money by giving a notice in writing, to the
+drawer of the cheque, within thirty days of the
+receipt of information by him from the bank
+regarding the return of the cheque as unpaid;
+and
+(c) the drawer of such cheque fails to make
+the payment of the said amount of money to
+the payee or, as the case may be, to the
+holder in due course of the cheque, within
+fifteen days of the receipt of the said notice.
+
+24.
+
+Explanation.– For the purposes of this section, “debt
+or other liability” means a legally enforceable debt
+or other liability.”
+It would be relevant to note that the statute does not
+
+refer to the debt being payable, meaning thereby, a post dated
+cheque for a debt due but payment postponed at a future date
+would attract Section 138 of the Negotiable Instruments Act 1881.
+But the cheque issued not for an existing due, but issued by way
+of a security, would not attract Section 138 of the Negotiable
+Instruments Act 1881, for it has not been issued for a debt which
+has come into in existence.
+25.
+
+Looking to the precedent, I find that in the decision
+
+reported as 2006 (6) SCC 39 M.S.Narayana Menon @Mani vs.
+State of Kerala & Anr., it was observed as under:“52.
+........................... If the defence is
+acceptable as probable the cheque therefor cannot
+be held to have been issued in discharge
+page 9 of 10
+
+of the debt as, for example, if a cheque is issued for
+security or for any other purpose the same would
+not come within the purview of Section 138 of the
+Act.
+26.
+
+Under the circumstances, the petition must succeed.
+
+27.
+
+The summoning order dated 21.1.2004 is quashed.
+
+October 11, 2007
+dk
+
+(PRADEEP NANDRAJOG)
+JUDGE
+
+
